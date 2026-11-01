@@ -1,0 +1,4641 @@
+{
+  "%1$@ MB": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ MB"
+  },
+  "%1$@ Trash location(s) could not be read. macOS may require Full Disk Access for Trash. Items listed here remain available to manage.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Místo (s) se nelze přečíst. macOS může vyžadovat Full Disk Access pro Trash. položky uvedené zde zůstávají k dispozici pro správu."
+  },
+  "%1$@ destination name(s) already exist": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Jméno cíle(y) již existuje"
+  },
+  "%1$@ entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ vstupy"
+  },
+  "%1$@ folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ folders"
+  },
+  "%1$@ folders · %2$@ files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Závěry · %2$@ soubory"
+  },
+  "%1$@ folders · saves to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Záchranáři - zachraňují %2$@"
+  },
+  "%1$@ free of %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Svobodný z %2$@"
+  },
+  "%1$@ inaccessible": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ nedostupné"
+  },
+  "%1$@ is assigned more than once.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Je přidělen více než jednou."
+  },
+  "%1$@ is reserved by macOS or the application window.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ je rezervována macOS nebo okno aplikace."
+  },
+  "%1$@ is reserved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Je rezervována"
+  },
+  "%1$@ item(s) ready to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Článek (s) připraven k %2$@"
+  },
+  "%1$@ selected items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ vybrané položky"
+  },
+  "%1$@. Sync completion is managed by the provider and is not reported through public file metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@Sync dokončení je spravován poskytovatelem a není hlášena prostřednictvím veřejných metadata souborů."
+  },
+  "A different key is already trusted for this host. Review the changed key with the server administrator before replacing it.": {
+    "origin": "M2M100-418M-local",
+    "text": "Další klíč je již pro tento hostitel důvěřován. Přezkoumá změněný klíč s správcem serveru před tím, než ho nahradí."
+  },
+  "A familiar place for everything.": {
+    "origin": "M2M100-418M-local",
+    "text": "Známé místo pro všechno."
+  },
+  "A file operation is still running": {
+    "origin": "M2M100-418M-local",
+    "text": "Operace souborů stále probíhá"
+  },
+  "A folder cannot be copied or moved inside itself.": {
+    "origin": "M2M100-418M-local",
+    "text": "Soubor nelze kopírovat ani pohybovat uvnitř."
+  },
+  "A shortcut cannot target itself.": {
+    "origin": "M2M100-418M-local",
+    "text": "Krátká místa se sama o sobě nedokáže zaměřit."
+  },
+  "ACL updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ACL Aktualizováno"
+  },
+  "About": {
+    "origin": "Files:About",
+    "text": "O aplikaci"
+  },
+  "About MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "O aplikaci MacFiles"
+  },
+  "Accent color (hex)": {
+    "origin": "M2M100-418M-local",
+    "text": "Akcentní barva (hex)"
+  },
+  "Access control list — native macOS syntax": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Seznam kontrol přístupu - native macOS syntax"
+  },
+  "Access token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "přístupový token"
+  },
+  "Accounts, authentication and sync preferences are managed by each provider’s native app. Removing a saved folder here does not unlink its account or delete files.": {
+    "origin": "M2M100-418M-local",
+    "text": "Účty, ověření a preference synchronizace jsou spravovány domácí aplikací každého poskytovatele. odstranění uloženého složky zde neodpovídá jeho účtu nebo odstraňuje soubory."
+  },
+  "Action unavailable": {
+    "origin": "M2M100-418M-local",
+    "text": "Akce nedostupná"
+  },
+  "Actions": {
+    "origin": "Files:Actions",
+    "text": "Akce"
+  },
+  "Adaptive": {
+    "origin": "Files:Adaptive",
+    "text": "Adaptivní rozvržení"
+  },
+  "Adaptive layout": {
+    "origin": "Files:Adaptive",
+    "text": "Adaptivní rozvržení"
+  },
+  "Add": {
+    "origin": "Files:Add",
+    "text": "Přidat"
+  },
+  "Add cloud folder…": {
+    "origin": "M2M100-418M-local",
+    "text": "Přidejte cloudové složky"
+  },
+  "Add current selection": {
+    "origin": "M2M100-418M-local",
+    "text": "Přidejte aktuální výběr"
+  },
+  "Add files…": {
+    "origin": "M2M100-418M-local",
+    "text": "Přidat soubory..."
+  },
+  "Add folder…": {
+    "origin": "M2M100-418M-local",
+    "text": "Přidejte složku..."
+  },
+  "Add images…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Přidejte obrázky..."
+  },
+  "Add prefix": {
+    "origin": "M2M100-418M-local",
+    "text": "Přidejte prefiks"
+  },
+  "Add saved tag": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Přidat zachráněný tag"
+  },
+  "Add selection to shelf": {
+    "origin": "M2M100-418M-local",
+    "text": "Přidat výběr do shelf"
+  },
+  "Add startup folders…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Přidejte Startup mapy..."
+  },
+  "Add suffix": {
+    "origin": "M2M100-418M-local",
+    "text": "Přidat suffix"
+  },
+  "Add to library": {
+    "origin": "M2M100-418M-local",
+    "text": "Přidejte do knihovny"
+  },
+  "Add to shelf": {
+    "origin": "Files:AddToShelf",
+    "text": "Odložit na panel"
+  },
+  "Advanced": {
+    "origin": "Files:Advanced",
+    "text": "Pokročilé"
+  },
+  "Advanced search": {
+    "origin": "M2M100-418M-local",
+    "text": "Pokročilé vyhledávání"
+  },
+  "Advanced search…": {
+    "origin": "M2M100-418M-local",
+    "text": "Pokročilé vyhledávání..."
+  },
+  "Album": {
+    "origin": "M2M100-418M-local",
+    "text": "Album"
+  },
+  "Allocated size": {
+    "origin": "M2M100-418M-local",
+    "text": "Přidělená velikost"
+  },
+  "Already assigned to %1$@. Remove that assignment first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "již přiděleno %1$@Nejprve odstraněte tuto funkci."
+  },
+  "Always show operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vždy ukázat operace"
+  },
+  "Always visible": {
+    "origin": "M2M100-418M-local",
+    "text": "Vždy viditelné"
+  },
+  "Always-visible items are combined with the current selection context. Cloud items add their own controls.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vždy viditelné položky jsou kombinovány s aktuálním výběrovým kontextem. cloudové položky přidávají vlastní kontroly."
+  },
+  "Ambiguous archive listing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ambiguální archivní seznam."
+  },
+  "Ambiguous media metadata containers.": {
+    "origin": "M2M100-418M-local",
+    "text": "Obrovské mediální metadata kontejnery."
+  },
+  "Any": {
+    "origin": "M2M100-418M-local",
+    "text": "jakýkoliv"
+  },
+  "App language (restart to apply)": {
+    "origin": "M2M100-418M-local",
+    "text": "Jazyk aplikace (přestaňte používat)"
+  },
+  "Appearance": {
+    "origin": "Files:Appearance",
+    "text": "Vzhled"
+  },
+  "Application": {
+    "origin": "Files:Application",
+    "text": "Aplikace"
+  },
+  "Application unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Aplikace nedostupná"
+  },
+  "Applies owner, group, and other permissions to the selected items only.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vlastník, skupina a další povolení se vztahují pouze na vybrané položky."
+  },
+  "Apply": {
+    "origin": "M2M100-418M-local",
+    "text": "aplikovat"
+  },
+  "Apply ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "aplikovat ACL…"
+  },
+  "Apply UID %1$@ and GID %2$@ to this item only.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "aplikovat UID %1$@ a GID %2$@ A to pouze v tomto bodě."
+  },
+  "Apply attributes": {
+    "origin": "M2M100-418M-local",
+    "text": "Použijte atributy"
+  },
+  "Apply file permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Využijte povolení souborů"
+  },
+  "Apply owner/group…": {
+    "origin": "M2M100-418M-local",
+    "text": "Vlastník / skupina ..."
+  },
+  "Approve MacFiles in Login Items in System Settings.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "schválení MacFiles v Login položky v nastavení systému."
+  },
+  "Archive": {
+    "origin": "M2M100-418M-local",
+    "text": "Archivy"
+  },
+  "Archive attempts to write through a link or file: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archivy se snaží psát prostřednictvím odkazu nebo souboru: %1$@"
+  },
+  "Archive contains an unsafe path: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archiv obsahuje nejistou cestu: %1$@"
+  },
+  "Archive contains an unsafe symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Archiv obsahuje nejistý symbolický odkaz."
+  },
+  "Archive editing cannot traverse symbolic links.": {
+    "origin": "M2M100-418M-local",
+    "text": "Archivní úprava nemůže překročit symbolické odkazy."
+  },
+  "Archive link escapes its destination.": {
+    "origin": "M2M100-418M-local",
+    "text": "Archivní link uniká do cíle."
+  },
+  "Archive link target is too long.": {
+    "origin": "M2M100-418M-local",
+    "text": "Cílem archivace je příliš dlouhý."
+  },
+  "Archive operation failed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Archivní operace selhala."
+  },
+  "Archive password (if needed)": {
+    "origin": "M2M100-418M-local",
+    "text": "Archivní heslo (pokud je to nutné)"
+  },
+  "Archive password (leave blank if unencrypted)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archivní heslo (zanechá-li nešifrované, zanechá-li bílé)"
+  },
+  "Archive passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archivní hesla nesmějí obsahovat přerušení linie nebo NUL a charakterů ."
+  },
+  "Archive path escapes the destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archivní cesta uniká cílovému cíli: %1$@"
+  },
+  "Archive root": {
+    "origin": "M2M100-418M-local",
+    "text": "Archiv pro root"
+  },
+  "Archive symbolic link escapes the destination.": {
+    "origin": "M2M100-418M-local",
+    "text": "Symbolický odkaz archivu únik od cíle."
+  },
+  "Arrange panes side by side": {
+    "origin": "M2M100-418M-local",
+    "text": "Uložte panely stranou po straně"
+  },
+  "Arrange panes top and bottom": {
+    "origin": "M2M100-418M-local",
+    "text": "Uložte panely nahoře a dolů"
+  },
+  "Artist": {
+    "origin": "Files:Artist",
+    "text": "Interpret"
+  },
+  "Artist / author": {
+    "origin": "M2M100-418M-local",
+    "text": "Umělec / Autor"
+  },
+  "Ascending": {
+    "origin": "Files:Ascending",
+    "text": "Vzestupně"
+  },
+  "Attribute name": {
+    "origin": "M2M100-418M-local",
+    "text": "Jméno Attribute"
+  },
+  "Attributes": {
+    "origin": "Files:Attributes",
+    "text": "Atributy"
+  },
+  "Attributes updated.": {
+    "origin": "M2M100-418M-local",
+    "text": "Aktualizované atributy"
+  },
+  "Auto-fit columns": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Auto-vhodné sloupce"
+  },
+  "AutoFitColumns": {
+    "origin": "Files:AutoFitColumns",
+    "text": "Auto-fit columns"
+  },
+  "Available locally": {
+    "origin": "M2M100-418M-local",
+    "text": "k dispozici lokálně"
+  },
+  "Back": {
+    "origin": "Files:Back",
+    "text": "Zpět"
+  },
+  "Back · ⌘[": {
+    "origin": "Files:Back",
+    "text": "Zpět · ⌘["
+  },
+  "Backdrop material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Materiál Backdrop"
+  },
+  "Backdrop materials use macOS visual effects. Standard system controls and monospaced content retain their system fonts.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Použití materiálů v pozadí macOS Standardní systémové kontroly a monospaced obsah zachovávají své systémové písma."
+  },
+  "Background": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "pozadí"
+  },
+  "Background color (blank = system)": {
+    "origin": "M2M100-418M-local",
+    "text": "Barva pozadí (bílá = systém)"
+  },
+  "Background image": {
+    "origin": "Files:BackgroundImage",
+    "text": "Obrázek pozadí"
+  },
+  "Background image and status": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pozadí image a status"
+  },
+  "Background image opacity": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Opacita obrazu pozadí"
+  },
+  "Background mode keeps the menu bar icon available so you can reopen MacFiles or quit it.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "V režimu pozadí je ikona menu k dispozici, takže můžete znovu otevřít MacFiles Nebo ji přestat."
+  },
+  "Background preset": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Předpověď pozadí"
+  },
+  "Base": {
+    "origin": "M2M100-418M-local",
+    "text": "Základní"
+  },
+  "Base64": {
+    "origin": "M2M100-418M-local",
+    "text": "Základní 64"
+  },
+  "Based on the Files Community explorer’s shell, MVVM, command, and storage architecture. Built with Swift, AppKit, and SwiftUI.": {
+    "origin": "M2M100-418M-local",
+    "text": "Na základě archivace souborů Community Explorer, MVVM, příkaz a architektury ukládání. Vybudován s Swift, AppKit a SwiftUI."
+  },
+  "Binary": {
+    "origin": "Files:Binary",
+    "text": "Binární"
+  },
+  "Blue": {
+    "origin": "Files:Blue",
+    "text": "Modrá"
+  },
+  "Bottom": {
+    "origin": "Files:Bottom",
+    "text": "Dolů"
+  },
+  "Browse all tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse všechny tagy"
+  },
+  "Browse archive": {
+    "origin": "M2M100-418M-local",
+    "text": "Browse archiv"
+  },
+  "Browse archive…": {
+    "origin": "M2M100-418M-local",
+    "text": "Browse archivní..."
+  },
+  "Browse tagged items…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse označené položky..."
+  },
+  "Browsing": {
+    "origin": "M2M100-418M-local",
+    "text": "Browsing"
+  },
+  "Browsing interactions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browsing interakce"
+  },
+  "Bulk rename": {
+    "origin": "Files:BulkRename",
+    "text": "Hromadně přejmenovat"
+  },
+  "Bulk rename requires items from one folder.": {
+    "origin": "M2M100-418M-local",
+    "text": "Bulk rename vyžaduje položky z jedné složky."
+  },
+  "Bulk rename…": {
+    "origin": "Files:BulkRename",
+    "text": "Hromadně přejmenovat"
+  },
+  "Bytes": {
+    "origin": "Files:Bytes",
+    "text": "Byty"
+  },
+  "Cache thumbnails": {
+    "origin": "Files:CacheThumbnails",
+    "text": "Mezipaměť náhledů"
+  },
+  "Calculate combined size": {
+    "origin": "M2M100-418M-local",
+    "text": "Výpočet kombinované velikosti"
+  },
+  "Calculate folder size": {
+    "origin": "M2M100-418M-local",
+    "text": "Výpočet velikosti složky"
+  },
+  "Calculate folder sizes": {
+    "origin": "Files:CalculateFolderSizes",
+    "text": "Vypočítat velikost složky"
+  },
+  "Calculate hashes…": {
+    "origin": "M2M100-418M-local",
+    "text": "Výpočet hashů..."
+  },
+  "Calculate total size": {
+    "origin": "M2M100-418M-local",
+    "text": "Výpočet celkové velikosti"
+  },
+  "Calculating hashes…": {
+    "origin": "M2M100-418M-local",
+    "text": "Výpočet hashů..."
+  },
+  "Camouflage": {
+    "origin": "Files:Camouflage",
+    "text": "Kamufláž"
+  },
+  "Cancel": {
+    "origin": "Files:Cancel",
+    "text": "Zrušit"
+  },
+  "Cancel calculation": {
+    "origin": "M2M100-418M-local",
+    "text": "Zrušení výpočtu"
+  },
+  "Cancel operation": {
+    "origin": "M2M100-418M-local",
+    "text": "Zrušení operace"
+  },
+  "Cancel queued operation": {
+    "origin": "M2M100-418M-local",
+    "text": "Zrušení operace"
+  },
+  "Cancelled": {
+    "origin": "M2M100-418M-local",
+    "text": "Zrušený"
+  },
+  "Cancelled before starting.": {
+    "origin": "M2M100-418M-local",
+    "text": "Zrušen před začátkem."
+  },
+  "Cancelled before starting. No files were changed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Zrušen před zahájením. žádné soubory nebyly změněny."
+  },
+  "Cancelling the current operation…": {
+    "origin": "M2M100-418M-local",
+    "text": "Zrušit aktuální provoz..."
+  },
+  "Cannot allocate archive entry.": {
+    "origin": "M2M100-418M-local",
+    "text": "Není možné přidělovat archivní vstup."
+  },
+  "Cannot allocate archive reader.": {
+    "origin": "M2M100-418M-local",
+    "text": "Není možné přidělovat archivní čtenář."
+  },
+  "Cannot allocate archive writer.": {
+    "origin": "M2M100-418M-local",
+    "text": "Není možné přidělovat archivní spisovatele."
+  },
+  "Cannot archive special device: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Není možné archivovat speciální zařízení: %1$@"
+  },
+  "Cannot create archive entry: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Není možné vytvořit archivní vstup: %1$@"
+  },
+  "Cannot create subprocess output file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Není možné vytvořit subprocesní výstupní soubor."
+  },
+  "Cannot decode image.": {
+    "origin": "M2M100-418M-local",
+    "text": "Nemůžete dekódovat obrázek."
+  },
+  "Cannot prepare SSH authentication.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nemůžete se připravit SSH a autentifikace ."
+  },
+  "Cannot prepare command input.": {
+    "origin": "M2M100-418M-local",
+    "text": "Nemůžete připravit příkazový vstup."
+  },
+  "Cannot read %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nelze číst %1$@"
+  },
+  "Cannot read image metadata.": {
+    "origin": "M2M100-418M-local",
+    "text": "Není možné přečíst metadata obrazu."
+  },
+  "Cannot remove the archive root.": {
+    "origin": "M2M100-418M-local",
+    "text": "Nemůžete odstranit archivní kořen."
+  },
+  "Cannot rename the archive root.": {
+    "origin": "M2M100-418M-local",
+    "text": "Není možné přejmenovat archivní kořeny."
+  },
+  "Cannot restore archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Nemůžete obnovit archivní hard link."
+  },
+  "Cannot rotate image.": {
+    "origin": "M2M100-418M-local",
+    "text": "Nemůžete otáčet obrázek."
+  },
+  "Center": {
+    "origin": "Files:Center",
+    "text": "Střed"
+  },
+  "Change file extension?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Změna rozšíření souboru?"
+  },
+  "Change ownership?": {
+    "origin": "M2M100-418M-local",
+    "text": "Změna vlastnictví ?"
+  },
+  "Change provider app…": {
+    "origin": "M2M100-418M-local",
+    "text": "Změna dodavatele aplikace..."
+  },
+  "Change the shortcut target?": {
+    "origin": "M2M100-418M-local",
+    "text": "Změníte krátkodobý cíl?"
+  },
+  "Changes": {
+    "origin": "M2M100-418M-local",
+    "text": "Změny"
+  },
+  "Changing the extension may prevent the file from opening in its usual application.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Změna rozšíření může zabránit otevření souboru v jeho obvyklé aplikaci."
+  },
+  "Choose IDE…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vyberte zde..."
+  },
+  "Choose a destination to restore": {
+    "origin": "M2M100-418M-local",
+    "text": "Vyberte si místo k obnovení"
+  },
+  "Choose a file to calculate hashes.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vyberte soubor pro výpočet hashů."
+  },
+  "Choose a new destination and a repository URL.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vyberte si novou destinaci a adresy URL."
+  },
+  "Choose a regular cloud file to download.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vyberte si pravidelný cloudový soubor ke stažení."
+  },
+  "Choose a single file or folder to customize its icon.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vyberte si jeden soubor nebo složku, abyste jeho ikonu přizpůsobili."
+  },
+  "Choose a supported single-frame image (JPEG, PNG, TIFF or HEIC).": {
+    "origin": "M2M100-418M-local",
+    "text": "Vyberte si podporovaný obraz s jedním rámem (JPEG, PNG, TIFF nebo HEIC)."
+  },
+  "Choose a template file": {
+    "origin": "M2M100-418M-local",
+    "text": "Vyberte si šablónu souboru"
+  },
+  "Choose custom icon…": {
+    "origin": "M2M100-418M-local",
+    "text": "Vyberte si ikonku..."
+  },
+  "Choose folder…": {
+    "origin": "M2M100-418M-local",
+    "text": "Vyberte složku..."
+  },
+  "Choose one item to edit ownership or ACLs.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vyberte jeden položka pro úpravu vlastnictví nebo ACL."
+  },
+  "Choose one item to view extended attributes.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vyberte položku pro zobrazení rozšířených atributů."
+  },
+  "Choose provider app…": {
+    "origin": "M2M100-418M-local",
+    "text": "Vyberte si aplikace Provozovatele..."
+  },
+  "Clear": {
+    "origin": "M2M100-418M-local",
+    "text": "jasné"
+  },
+  "Clear finished": {
+    "origin": "M2M100-418M-local",
+    "text": "jasně dokončen"
+  },
+  "Clear selection": {
+    "origin": "Files:ClearSelection",
+    "text": "Zrušit výběr"
+  },
+  "Clear thumbnail cache": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Čistá miniaturní cache"
+  },
+  "Clone": {
+    "origin": "Files:Clone",
+    "text": "Klonovat"
+  },
+  "Clone repository": {
+    "origin": "M2M100-418M-local",
+    "text": "Klonové záložky"
+  },
+  "Clone…": {
+    "origin": "Files:Clone",
+    "text": "Klonovat"
+  },
+  "Close": {
+    "origin": "Files:Close",
+    "text": "Zavřít"
+  },
+  "Close details": {
+    "origin": "M2M100-418M-local",
+    "text": "Blízké detaily"
+  },
+  "Close other tabs": {
+    "origin": "Files:CloseOtherTabs",
+    "text": "Zavřít ostatní karty"
+  },
+  "Close tab": {
+    "origin": "Files:CloseTab",
+    "text": "Zavřít kartu"
+  },
+  "Close tabs to the left": {
+    "origin": "Files:CloseTabsToTheLeft",
+    "text": "Zavřít karty vlevo"
+  },
+  "Close tabs to the right": {
+    "origin": "Files:CloseTabsToTheRight",
+    "text": "Zavřít karty vpravo"
+  },
+  "Close window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "blízko okna"
+  },
+  "Cloud": {
+    "origin": "M2M100-418M-local",
+    "text": "Obloha"
+  },
+  "Cloud accounts": {
+    "origin": "M2M100-418M-local",
+    "text": "Cloud účty"
+  },
+  "Cloud accounts and folders": {
+    "origin": "M2M100-418M-local",
+    "text": "Cloud účty a složky"
+  },
+  "Cloud availability and synchronization": {
+    "origin": "M2M100-418M-local",
+    "text": "Cloud dostupnost a synchronizace"
+  },
+  "Cloud folder name": {
+    "origin": "M2M100-418M-local",
+    "text": "Název cloud folder"
+  },
+  "Cloud items": {
+    "origin": "M2M100-418M-local",
+    "text": "Cloudové položky"
+  },
+  "Cloud provider": {
+    "origin": "M2M100-418M-local",
+    "text": "cloudový poskytovatel"
+  },
+  "Cloud providers installed on this Mac appear in the sidebar through their native File Provider folders.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud poskytovatelé nainstalované na tomto Macu se objevují v boční bar přes jejich rodné File Provider a složky."
+  },
+  "Cloud status": {
+    "origin": "M2M100-418M-local",
+    "text": "Cloudový status"
+  },
+  "Cloud status…": {
+    "origin": "M2M100-418M-local",
+    "text": "Oblakový stav..."
+  },
+  "Cloud storage": {
+    "origin": "M2M100-418M-local",
+    "text": "Cloudová skladování"
+  },
+  "Collapse folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Úpadek složky"
+  },
+  "Collapsed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Zkrachováno"
+  },
+  "Collect file references from different folders, then copy or move them together.": {
+    "origin": "M2M100-418M-local",
+    "text": "Sbírejte soubory odkazů z různých složek, pak je kopírujte nebo přemístěte dohromady."
+  },
+  "Columns": {
+    "origin": "Files:Columns",
+    "text": "Sloupce"
+  },
+  "Columns layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Složení sloupců"
+  },
+  "Command": {
+    "origin": "M2M100-418M-local",
+    "text": "Příkaz"
+  },
+  "Command output exceeded 16 MiB; no truncated result was accepted.": {
+    "origin": "M2M100-418M-local",
+    "text": "Výstup příkazu překročil 16 MIB; žádný truncovaný výsledek nebyl přijat."
+  },
+  "Command palette": {
+    "origin": "Files:CommandPalette",
+    "text": "Paleta příkazů"
+  },
+  "Command palette…": {
+    "origin": "Files:CommandPalette",
+    "text": "Paleta příkazů"
+  },
+  "Commit created": {
+    "origin": "M2M100-418M-local",
+    "text": "Komise vytvořená"
+  },
+  "Commit message": {
+    "origin": "Files:CommitMessage",
+    "text": "Zpráva commitu"
+  },
+  "Commit staged": {
+    "origin": "M2M100-418M-local",
+    "text": "Komise se chystá"
+  },
+  "Compact file rows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kompaktní soubory řádků"
+  },
+  "Compare these SHA-256 fingerprints with your server administrator before trusting %1$@:%2$@.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Porovnejte tyto SHA-256 Odtisk prstů s správcem serveru před důvěrou %1$@:%2$@.\n\n"
+  },
+  "Compatibility": {
+    "origin": "Files:Compatibility",
+    "text": "Kompatibilita"
+  },
+  "Completed": {
+    "origin": "M2M100-418M-local",
+    "text": "Dokončené"
+  },
+  "Completed with errors": {
+    "origin": "M2M100-418M-local",
+    "text": "Plněné chybami"
+  },
+  "Compress": {
+    "origin": "Files:Compress",
+    "text": "Komprimovat"
+  },
+  "CompressIntoSevenZip": {
+    "origin": "Files:CompressIntoSevenZip",
+    "text": "Create 7z archive"
+  },
+  "CompressIntoZip": {
+    "origin": "Files:CompressIntoZip",
+    "text": "Create zip archive"
+  },
+  "Compressed movie headers require remuxing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Komprimované filmové hlavice vyžadují remuxování."
+  },
+  "Compressing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kompresní"
+  },
+  "Compress…": {
+    "origin": "Files:Compress",
+    "text": "Komprimovat"
+  },
+  "Confirm moving files to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Potvrzení přenosu souborů do Trash"
+  },
+  "Confirmations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Potvrzení"
+  },
+  "Conflicts": {
+    "origin": "M2M100-418M-local",
+    "text": "Konflikty"
+  },
+  "Connect": {
+    "origin": "M2M100-418M-local",
+    "text": "připojení"
+  },
+  "Connect to server": {
+    "origin": "M2M100-418M-local",
+    "text": "Připojení k serveru"
+  },
+  "Connect to server…": {
+    "origin": "M2M100-418M-local",
+    "text": "Připojte se k serveru..."
+  },
+  "Connect to the server first.": {
+    "origin": "M2M100-418M-local",
+    "text": "Nejprve se připojte k serveru."
+  },
+  "Connected folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Připojené složky"
+  },
+  "Connected to this Mac": {
+    "origin": "M2M100-418M-local",
+    "text": "Připojení k tomuto Macu"
+  },
+  "Contains UTF-8 text": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Obsah UTF-8 Texty"
+  },
+  "Content search includes text, PDF, Office and OpenDocument files. Unsupported, locked and online-only files are counted as skipped.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vyhledávání obsahu zahrnuje textové, PDF, Office a OpenDocument soubory. Nepodporované, zablokované a online soubory se počítají jako přeplněné."
+  },
+  "Content type": {
+    "origin": "M2M100-418M-local",
+    "text": "Typ obsahu"
+  },
+  "Contents": {
+    "origin": "M2M100-418M-local",
+    "text": "Obsah"
+  },
+  "Context": {
+    "origin": "M2M100-418M-local",
+    "text": "Kontext"
+  },
+  "Context menu": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kontextové menu"
+  },
+  "Copy": {
+    "origin": "Files:Copy",
+    "text": "Kopírovat"
+  },
+  "Copy app version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kopírování aplikace"
+  },
+  "Copy hashes": {
+    "origin": "M2M100-418M-local",
+    "text": "Kopírování hashů"
+  },
+  "Copy here": {
+    "origin": "M2M100-418M-local",
+    "text": "Kopírujte zde"
+  },
+  "Copy macOS version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kopírovat macOS Verze"
+  },
+  "Copy path": {
+    "origin": "Files:CopyPath",
+    "text": "Zkopírovat cestu"
+  },
+  "Copy report": {
+    "origin": "M2M100-418M-local",
+    "text": "Kopie zprávy"
+  },
+  "Copy selected": {
+    "origin": "M2M100-418M-local",
+    "text": "Kopírování vybraných"
+  },
+  "CopyItemPathWithQuotes": {
+    "origin": "Files:CopyItemPathWithQuotes",
+    "text": "Kopírovat vybranou cestu k položce s uvozovkami"
+  },
+  "CopyPathDescription": {
+    "origin": "Files:CopyPathDescription",
+    "text": "Kopírovat cestu aktuální složky"
+  },
+  "CopyPathWithQuotes": {
+    "origin": "Files:CopyPathWithQuotes",
+    "text": "Kopírovat cestu s uvozovkami"
+  },
+  "Copying": {
+    "origin": "M2M100-418M-local",
+    "text": "Kopírování"
+  },
+  "Copying archive entries": {
+    "origin": "M2M100-418M-local",
+    "text": "Kopírování archivních záznamů"
+  },
+  "Copying files": {
+    "origin": "M2M100-418M-local",
+    "text": "Kopírování souborů"
+  },
+  "Copyright": {
+    "origin": "Files:PropertyCopyright",
+    "text": "Autorská práva"
+  },
+  "Could not find an available filename.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nemohla jsem najít dostupné jméno."
+  },
+  "Could not prepare archive contents.": {
+    "origin": "M2M100-418M-local",
+    "text": "Nemohla připravit archivní obsah."
+  },
+  "Could not remove GitHub credentials from Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nemohlo by se odstranit GitHub pověření z Keychain."
+  },
+  "Could not save GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nemohlo by se uložit GitHub pověření v Keychain."
+  },
+  "Could not save the edited image; the original was kept.": {
+    "origin": "M2M100-418M-local",
+    "text": "Nemohl jsem zachránit editovaný obrázek; původní byl zachován."
+  },
+  "Could not save the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nemohl jsem si heslo uložit Keychain (%1$@)."
+  },
+  "Could not update GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nemohla jsem aktualizovat GitHub credentiály v Keychain."
+  },
+  "Could not update the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nemohla jsem aktualizovat heslo Keychain (%1$@)."
+  },
+  "Couldn’t change the folder viewer": {
+    "origin": "M2M100-418M-local",
+    "text": "Nemohla jsem změnit prohlížeč složky"
+  },
+  "Couldn’t eject volume": {
+    "origin": "M2M100-418M-local",
+    "text": "Nemohlo by se vyskytnout objem"
+  },
+  "Couldn’t open files": {
+    "origin": "M2M100-418M-local",
+    "text": "Nemohla otevřít soubory"
+  },
+  "Couldn’t open folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Nemohla jsem otevřít složku"
+  },
+  "Couldn’t open this file": {
+    "origin": "M2M100-418M-local",
+    "text": "Nemohla jsem tento soubor otevřít"
+  },
+  "Couldn’t open this location": {
+    "origin": "M2M100-418M-local",
+    "text": "Nemohla by se otevřít tato lokalita"
+  },
+  "Couldn’t resolve alias": {
+    "origin": "M2M100-418M-local",
+    "text": "Nemohlo by se vypořádat s alias"
+  },
+  "Couldn’t restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nemohlo by se restartovat MacFiles"
+  },
+  "Create": {
+    "origin": "Files:Create",
+    "text": "Vytvořit"
+  },
+  "Create a GitHub token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vytvořte si token GitHub"
+  },
+  "Create alias": {
+    "origin": "M2M100-418M-local",
+    "text": "Vytvořte alias"
+  },
+  "Create archive": {
+    "origin": "Files:CreateArchive",
+    "text": "Vytvořit archiv"
+  },
+  "Create library…": {
+    "origin": "Files:FolderWidgetCreateNewLibraryDialogTitleText",
+    "text": "Vytvořit Knihovnu"
+  },
+  "Create shortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "Vytvořit zástupce"
+  },
+  "Create zip archive": {
+    "origin": "Files:CompressIntoZip",
+    "text": "Create zip archive"
+  },
+  "CreateFolderWithSelection": {
+    "origin": "Files:CreateFolderWithSelection",
+    "text": "Vytvořit složku s výběrem"
+  },
+  "CreateShortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "Vytvořit zástupce"
+  },
+  "CreateShortcutFromDialogDescription": {
+    "origin": "Files:CreateShortcutFromDialogDescription",
+    "text": "Vytvořit nového zástupce pro libovolnou položku"
+  },
+  "Created": {
+    "origin": "Files:PropertiesCreated.Text",
+    "text": "Vytvořeno:"
+  },
+  "Creating alias": {
+    "origin": "M2M100-418M-local",
+    "text": "Vytvoření alias"
+  },
+  "Creating from template": {
+    "origin": "M2M100-418M-local",
+    "text": "Vytvoření z templátu"
+  },
+  "Custom": {
+    "origin": "Files:Custom",
+    "text": "Vlastní"
+  },
+  "Custom icon applied.": {
+    "origin": "M2M100-418M-local",
+    "text": "Přizpůsobená ikona je použita."
+  },
+  "Custom tag color (hex, optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vlastní barva značky (hex, volitelná)"
+  },
+  "Custom theme": {
+    "origin": "M2M100-418M-local",
+    "text": "Custom témata"
+  },
+  "Customization": {
+    "origin": "Files:Customization",
+    "text": "Přizpůsobení"
+  },
+  "Customize toolbar": {
+    "origin": "M2M100-418M-local",
+    "text": "Customizace nástrojů"
+  },
+  "Customize toolbar…": {
+    "origin": "M2M100-418M-local",
+    "text": "Přizpůsobení nástrojů..."
+  },
+  "Cut": {
+    "origin": "Files:Cut",
+    "text": "Vyjmout"
+  },
+  "Dark": {
+    "origin": "Files:DarkTheme",
+    "text": "Tmavý"
+  },
+  "Date created": {
+    "origin": "Files:DateCreated",
+    "text": "Vytvořeno"
+  },
+  "Date deleted": {
+    "origin": "Files:DateDeleted",
+    "text": "Datum smazání"
+  },
+  "Date format": {
+    "origin": "Files:DateFormat",
+    "text": "Časový formát"
+  },
+  "Date modified": {
+    "origin": "Files:DateModifiedLowerCase",
+    "text": "Datum změny"
+  },
+  "Day": {
+    "origin": "Files:Day",
+    "text": "Den"
+  },
+  "Decimal": {
+    "origin": "Files:Decimal",
+    "text": "Desetinný"
+  },
+  "Decrease size": {
+    "origin": "Files:DecreaseSize",
+    "text": "Zmenšit velikost"
+  },
+  "Default": {
+    "origin": "Files:Default",
+    "text": "Výchozí"
+  },
+  "Default folder layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Default složky layout"
+  },
+  "Default grouping": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Defaultní skupinování"
+  },
+  "Default save location": {
+    "origin": "M2M100-418M-local",
+    "text": "Default ušetřete umístění"
+  },
+  "Default sorting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Defaultní sortizační"
+  },
+  "Delete": {
+    "origin": "Files:Delete",
+    "text": "Smazat"
+  },
+  "Delete permanently": {
+    "origin": "Files:DeletePermanently",
+    "text": "Trvale odstranit"
+  },
+  "Delete saved tag and remove it from indexed files?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Odstranit uloženou značku a odstranit ji z indexovaných souborů?"
+  },
+  "Delete selected permanently…": {
+    "origin": "M2M100-418M-local",
+    "text": "Vymazat vybrané trvale ..."
+  },
+  "Deleting permanently": {
+    "origin": "M2M100-418M-local",
+    "text": "Trvalé odstranění"
+  },
+  "Description": {
+    "origin": "M2M100-418M-local",
+    "text": "Popis"
+  },
+  "Desktop": {
+    "origin": "Files:Desktop",
+    "text": "Plocha"
+  },
+  "Destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Destinace : %1$@"
+  },
+  "Detached HEAD": {
+    "origin": "M2M100-418M-local",
+    "text": "Odklíčená hlava"
+  },
+  "Details": {
+    "origin": "Files:Details",
+    "text": "Podrobnosti"
+  },
+  "Details layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Detailní layout"
+  },
+  "Details pane": {
+    "origin": "M2M100-418M-local",
+    "text": "Podrobnosti pane"
+  },
+  "Developer tools": {
+    "origin": "Files:DevTools",
+    "text": "Nástroje pro vývojáře"
+  },
+  "Development": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "rozvoj"
+  },
+  "Diagnostics": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Diagnostika"
+  },
+  "Diagnostics opened": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Diagnostika otevřená"
+  },
+  "Disconnect": {
+    "origin": "M2M100-418M-local",
+    "text": "Rozpojení"
+  },
+  "Documents": {
+    "origin": "Files:Documents",
+    "text": "Dokumenty"
+  },
+  "Done": {
+    "origin": "Files:Close",
+    "text": "Zavřít"
+  },
+  "Double-click empty space to go up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dvojnásobné kliknutí prázdný prostor, abyste se dostali"
+  },
+  "Download": {
+    "origin": "M2M100-418M-local",
+    "text": "Stáhnout"
+  },
+  "Download files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Stáhnout soubory..."
+  },
+  "Download here": {
+    "origin": "M2M100-418M-local",
+    "text": "Stáhnout zde"
+  },
+  "Download requested. iCloud may complete it asynchronously.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Stáhnout požadované. iCloud Můžete ji dokončit asynchronně."
+  },
+  "Downloaded": {
+    "origin": "M2M100-418M-local",
+    "text": "Stáhnout"
+  },
+  "Downloading": {
+    "origin": "M2M100-418M-local",
+    "text": "Stáhnout"
+  },
+  "Downloads": {
+    "origin": "Files:Downloads",
+    "text": "Stažené soubory"
+  },
+  "Drives": {
+    "origin": "Files:Drives",
+    "text": "Zařízení a jednotky"
+  },
+  "Dual pane": {
+    "origin": "M2M100-418M-local",
+    "text": "Dvojí pan"
+  },
+  "Duplicate": {
+    "origin": "M2M100-418M-local",
+    "text": "Duplikace"
+  },
+  "Duplicate archive paths cannot be extracted safely.": {
+    "origin": "M2M100-418M-local",
+    "text": "Duplikované archivní cesty nelze bezpečně extrahovat."
+  },
+  "Duplicate tab": {
+    "origin": "Files:DuplicateTab",
+    "text": "Duplikovat kartu"
+  },
+  "Edit": {
+    "origin": "Files:Edit",
+    "text": "Upravit"
+  },
+  "Edit POSIX permissions for selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Upravit POSIX Povolení k výběru"
+  },
+  "Edit address · ⌘L": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Editovat adresu ⌘L"
+  },
+  "Edit archive": {
+    "origin": "M2M100-418M-local",
+    "text": "Edit archiv"
+  },
+  "Edit in TextEdit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Editovat v text"
+  },
+  "Edit media metadata": {
+    "origin": "M2M100-418M-local",
+    "text": "Editovat metadata médií"
+  },
+  "Edit media metadata…": {
+    "origin": "M2M100-418M-local",
+    "text": "Editovat metadata médií."
+  },
+  "Edit or import the settings document, then Apply to validate and save. Language changes require a restart.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Editovat nebo importovat doklad nastavení, pak aplikovat k ověření a uložit. jazykové změny vyžadují restart."
+  },
+  "Edit permissions on the link's target instead.": {
+    "origin": "M2M100-418M-local",
+    "text": "Namísto toho upravte povolení na cílovém odkazu."
+  },
+  "Edit settings file…": {
+    "origin": "Files:EditSettingsFile",
+    "text": "Upravit soubor nastavení"
+  },
+  "Edit tags": {
+    "origin": "Files:EditTags",
+    "text": "Upravit štítky"
+  },
+  "Edit tags…": {
+    "origin": "Files:EditTags",
+    "text": "Upravit štítky"
+  },
+  "Edit the archive target instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Editovat cílový archiv místo symbolického odkazu."
+  },
+  "Edit the target's attributes instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Editovat atributy cíle namísto symbolického odkazu."
+  },
+  "Edits apply to this item only. Ownership changes require existing system permission; MacFiles does not elevate itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Změny vlastnictví vyžadují stávající systémové povolení; MacFiles Nenechá se zvýšit."
+  },
+  "Eject": {
+    "origin": "Files:Eject",
+    "text": "Odpojit"
+  },
+  "Empty": {
+    "origin": "M2M100-418M-local",
+    "text": "prázdné"
+  },
+  "Empty accessible Trash…": {
+    "origin": "M2M100-418M-local",
+    "text": "Prázdný přístupný trash..."
+  },
+  "Empty archive entry.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vstup do prázdného archivu."
+  },
+  "Encoding": {
+    "origin": "Files:Encoding",
+    "text": "Kódování"
+  },
+  "Encrypted": {
+    "origin": "M2M100-418M-local",
+    "text": "Šifrované"
+  },
+  "Enter a GitHub username and a valid access token.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Zadejte uživatelské jméno GitHub a platný přístupový token."
+  },
+  "Enter a commit message.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vložte si závaznou zprávu."
+  },
+  "Enter a name without a slash or colon. The name cannot be empty, ‘.’, or ‘..’.": {
+    "origin": "M2M100-418M-local",
+    "text": "Zadejte jméno bez slash nebo kolonu.Jméno nemůže být prázdné, ‚.‘ nebo ‚..‘."
+  },
+  "Enter a size from 1 to 1,048,576 MiB.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vložte velikost od 1 do 1,048,576 MiB."
+  },
+  "Enter a valid host, username, and port.": {
+    "origin": "M2M100-418M-local",
+    "text": "Zadejte platný host, uživatelské jméno a port."
+  },
+  "Enter an SMB, AFP, or WebDAV address.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vstupte do SMB, AFPnebo WebDAV Adresa"
+  },
+  "Enter an attribute name of 1–127 UTF-8 bytes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Zadejte název atributu 1–127 UTF-8 Byty"
+  },
+  "Enter compact overlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "Vstoupit do kompaktního překrytí"
+  },
+  "Enter numeric user and group IDs.": {
+    "origin": "M2M100-418M-local",
+    "text": "Zadejte číselné uživatelské a skupinové ID."
+  },
+  "Enter password:": {
+    "origin": "M2M100-418M-local",
+    "text": "Vložte heslo:"
+  },
+  "Enter permissions from 000 to 777.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vložte povolení od 000 do 777."
+  },
+  "Enter the archive password before editing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vložte heslo archivu před úpravou."
+  },
+  "Enter three octal digits, for example 644 or 755.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vložte tři octové čísla, například 644 nebo 755."
+  },
+  "Enter whole numbers for byte limits.": {
+    "origin": "M2M100-418M-local",
+    "text": "Zadejte celé čísla pro byty."
+  },
+  "EnterCompactOverlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "Vstoupit do kompaktního překrytí"
+  },
+  "Executable": {
+    "origin": "M2M100-418M-local",
+    "text": "Prováděcí"
+  },
+  "Executable format": {
+    "origin": "M2M100-418M-local",
+    "text": "Prováděcí formát"
+  },
+  "Exit compact overlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "Opustit kompaktní překrytí"
+  },
+  "ExitCompactOverlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "Opustit kompaktní překrytí"
+  },
+  "Expand folder": {
+    "origin": "M2M100-418M-local",
+    "text": "rozšíření folderu"
+  },
+  "Expanded": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rozšířeno"
+  },
+  "Export ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vývoz ACL…"
+  },
+  "Export bytes…": {
+    "origin": "M2M100-418M-local",
+    "text": "Vývozní byty..."
+  },
+  "Export theme…": {
+    "origin": "M2M100-418M-local",
+    "text": "Téma vývozu..."
+  },
+  "Export…": {
+    "origin": "M2M100-418M-local",
+    "text": "Vývoz..."
+  },
+  "Extended attributes": {
+    "origin": "M2M100-418M-local",
+    "text": "Rozšířené atributy"
+  },
+  "Extended attributes…": {
+    "origin": "M2M100-418M-local",
+    "text": "Rozšířené atributy..."
+  },
+  "Extensions are preserved. Conflicts stop the batch before any names change.": {
+    "origin": "M2M100-418M-local",
+    "text": "Rozšíření je zachována. Konflikty zastavit sázku před jakékoli změny jmen."
+  },
+  "Extensions: txt, swift, pdf": {
+    "origin": "M2M100-418M-local",
+    "text": "Rozšíření: txt, swift, pdf"
+  },
+  "Extra large icons": {
+    "origin": "M2M100-418M-local",
+    "text": "Velké ikony"
+  },
+  "Extract": {
+    "origin": "Files:Extract",
+    "text": "Rozbalit"
+  },
+  "Extract all…": {
+    "origin": "M2M100-418M-local",
+    "text": "Vybírejte všechny..."
+  },
+  "Extract here": {
+    "origin": "Files:ExtractHere",
+    "text": "Rozbalit zde"
+  },
+  "Extract here (Smart)": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "Extrahovat zde (Chytře)"
+  },
+  "Extract selected…": {
+    "origin": "M2M100-418M-local",
+    "text": "Výběr vybraných..."
+  },
+  "Extract to child folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Extrakt do dětské složky"
+  },
+  "Extract to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Extrakt k..."
+  },
+  "ExtractHere": {
+    "origin": "Files:ExtractHere",
+    "text": "Rozbalit zde"
+  },
+  "ExtractHereSmart": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "Extrahovat zde (Chytře)"
+  },
+  "Extracted entry size does not match its header.": {
+    "origin": "M2M100-418M-local",
+    "text": "Velikost vytištěného vstupu neodpovídá jeho hlavě."
+  },
+  "Extracting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "extrakce"
+  },
+  "Extracts into a new folder; existing files are kept.": {
+    "origin": "M2M100-418M-local",
+    "text": "Extrakty do nové složky; stávající soubory jsou uchovávány."
+  },
+  "FTP over TLS": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "FTP přes TLS"
+  },
+  "Failed": {
+    "origin": "M2M100-418M-local",
+    "text": "selhání"
+  },
+  "Fetch": {
+    "origin": "Files:GitFetch",
+    "text": "Stáhnout"
+  },
+  "File": {
+    "origin": "Files:File",
+    "text": "Soubor"
+  },
+  "File actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Akce souborů"
+  },
+  "File hashes": {
+    "origin": "M2M100-418M-local",
+    "text": "Soubory hashes"
+  },
+  "File information": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Informace o souboru"
+  },
+  "File operations": {
+    "origin": "M2M100-418M-local",
+    "text": "Operace souborů"
+  },
+  "File operations in this window": {
+    "origin": "M2M100-418M-local",
+    "text": "Soubory v tomto okně"
+  },
+  "File shelf": {
+    "origin": "M2M100-418M-local",
+    "text": "Soubor shelf"
+  },
+  "File shelf…": {
+    "origin": "M2M100-418M-local",
+    "text": "File shelfová..."
+  },
+  "File size": {
+    "origin": "M2M100-418M-local",
+    "text": "Velikost souboru"
+  },
+  "Files": {
+    "origin": "Files:SecurityAdvancedFlagsFilesLabel",
+    "text": "soubory"
+  },
+  "Files size": {
+    "origin": "M2M100-418M-local",
+    "text": "Velikost souborů"
+  },
+  "Files you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Soubory, které otevřete, se zde objeví."
+  },
+  "Fill": {
+    "origin": "Files:Fill",
+    "text": "Roztáhnout"
+  },
+  "Filter entries": {
+    "origin": "M2M100-418M-local",
+    "text": "Filterové vstupy"
+  },
+  "Find": {
+    "origin": "M2M100-418M-local",
+    "text": "Najít"
+  },
+  "Find and replace": {
+    "origin": "M2M100-418M-local",
+    "text": "Najít a nahradit"
+  },
+  "Finder Get Info unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder Informace nedostupné"
+  },
+  "Finder Get Info…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder Získejte informace..."
+  },
+  "Finder's desktop and other apps' Open/Save dialogs remain managed by macOS.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder dialogy na stole a v jiných aplikacích Open/Save zůstávají spravovány macOS."
+  },
+  "First letter": {
+    "origin": "M2M100-418M-local",
+    "text": "První dopis"
+  },
+  "Fit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Fit"
+  },
+  "Flatten": {
+    "origin": "Files:Flatten",
+    "text": "Sjednocení"
+  },
+  "Flatten folder": {
+    "origin": "Files:FlattenFolder",
+    "text": "Sjednotit složku"
+  },
+  "Flatten folder…": {
+    "origin": "Files:FlattenFolder",
+    "text": "Sjednotit složku"
+  },
+  "Flatten ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "„Flat“%1$@’?"
+  },
+  "Flattening folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Flattening složky"
+  },
+  "Focus other pane": {
+    "origin": "Files:FocusOtherPane",
+    "text": "Přepnout se na jiný panel"
+  },
+  "Folder": {
+    "origin": "Files:Folder",
+    "text": "Složka"
+  },
+  "Folder contents": {
+    "origin": "M2M100-418M-local",
+    "text": "Folder obsah"
+  },
+  "Folder contents are not included in this total.": {
+    "origin": "M2M100-418M-local",
+    "text": "Obsah souboru není zahrnut do tohoto celku."
+  },
+  "Folder layout saved.": {
+    "origin": "M2M100-418M-local",
+    "text": "Záchranná schránka byla zachráněna."
+  },
+  "Folder path": {
+    "origin": "Files:FolderPath",
+    "text": "Cesta ke složce"
+  },
+  "Folder presentation": {
+    "origin": "M2M100-418M-local",
+    "text": "Folder prezentace"
+  },
+  "Folder sizes are calculated in the background after Refresh. Large or network folders may take longer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Velikosti složek jsou vypočteny v pozadí po refresh. velké nebo síťové složky mohou trvat déle."
+  },
+  "Folder unavailable": {
+    "origin": "M2M100-418M-local",
+    "text": "Folder nedostupný"
+  },
+  "Folders": {
+    "origin": "M2M100-418M-local",
+    "text": "složky"
+  },
+  "Folders you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "text": "Soubory, které otevřete, se zde objeví."
+  },
+  "Font": {
+    "origin": "Files:Font",
+    "text": "Písmo"
+  },
+  "Font and material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Font a materiál"
+  },
+  "Forget saved": {
+    "origin": "M2M100-418M-local",
+    "text": "Zapomenutí zachráněno"
+  },
+  "Format": {
+    "origin": "Files:FormatDriveText",
+    "text": "Formát"
+  },
+  "Format drive in Disk Utility…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Formát disků v disku Utility."
+  },
+  "Forward": {
+    "origin": "Files:Forward",
+    "text": "Vpřed"
+  },
+  "Forward · ⌘]": {
+    "origin": "Files:Forward",
+    "text": "Vpřed · ⌘]"
+  },
+  "Fragmented media metadata cannot be edited without remuxing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Fragmentované metadata médií nelze upravovat bez remuxování."
+  },
+  "Gallery": {
+    "origin": "M2M100-418M-local",
+    "text": "Galerie"
+  },
+  "Gallery layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Galerie Layout"
+  },
+  "General": {
+    "origin": "Files:General",
+    "text": "Obecné"
+  },
+  "Git operation in %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git Operace v %1$@"
+  },
+  "Git repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git repository"
+  },
+  "Git repository…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git Rezervní..."
+  },
+  "GitHub account": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "účet GitHub"
+  },
+  "GitHub username": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "uživatelské jméno GitHub"
+  },
+  "Go to path": {
+    "origin": "M2M100-418M-local",
+    "text": "Jděte na cestu"
+  },
+  "Go to path…": {
+    "origin": "M2M100-418M-local",
+    "text": "Jděte na cestu..."
+  },
+  "Gray": {
+    "origin": "Files:Gray",
+    "text": "Šedá"
+  },
+  "Green": {
+    "origin": "Files:Green",
+    "text": "Zelená"
+  },
+  "Group": {
+    "origin": "M2M100-418M-local",
+    "text": "Skupina"
+  },
+  "Group GID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Skupina GID"
+  },
+  "Group ascending": {
+    "origin": "Files:GroupAscendingDescription",
+    "text": "Seřadit skupiny vzestupně"
+  },
+  "Group by": {
+    "origin": "Files:GroupBy",
+    "text": "Seskupit podle"
+  },
+  "Group by date unit": {
+    "origin": "Files:GroupByDateUnit",
+    "text": "Seskupit dle jednotky data"
+  },
+  "HTTPS Git operations can use a GitHub access token stored in your macOS Keychain. Choose the repositories and permissions when creating the token. Existing Git authentication remains in use when no MacFiles account is saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "HTTPS Git operace mohou používat token přístupu GitHub uložený ve vašem macOS Keychain.Vybírejte záložky a povolení při vytváření tokenu. Git Využívá se autentifikace, pokud není MacFiles Účet je zachráněn."
+  },
+  "Hard Link": {
+    "origin": "M2M100-418M-local",
+    "text": "tvrdý link"
+  },
+  "Hashes": {
+    "origin": "Files:Hashes",
+    "text": "Haše"
+  },
+  "Hashes are available for a single file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Hashy jsou k dispozici pro jeden soubor."
+  },
+  "Header": {
+    "origin": "M2M100-418M-local",
+    "text": "hlavička"
+  },
+  "Help": {
+    "origin": "Files:Help",
+    "text": "Nápověda"
+  },
+  "Hidden": {
+    "origin": "Files:Hidden",
+    "text": "Skrytý"
+  },
+  "Hidden files": {
+    "origin": "M2M100-418M-local",
+    "text": "skryté soubory"
+  },
+  "History": {
+    "origin": "M2M100-418M-local",
+    "text": "Historie"
+  },
+  "Home": {
+    "origin": "M2M100-418M-local",
+    "text": "Domů"
+  },
+  "Horizontal alignment": {
+    "origin": "Files:HorizontalAlignment",
+    "text": "Horizontální zarovnání"
+  },
+  "IDE opened.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "IDE je otevřeno."
+  },
+  "Icon": {
+    "origin": "M2M100-418M-local",
+    "text": "ikona"
+  },
+  "Icons": {
+    "origin": "M2M100-418M-local",
+    "text": "Ikony"
+  },
+  "Icons layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Ikony layout"
+  },
+  "Image alignment": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "srovnání obrazu"
+  },
+  "Image fit": {
+    "origin": "Files:ImageFit",
+    "text": "Velikost"
+  },
+  "Import theme…": {
+    "origin": "M2M100-418M-local",
+    "text": "Téma dovozu..."
+  },
+  "Imported. Apply to save.": {
+    "origin": "M2M100-418M-local",
+    "text": "Využijte a ušetřete."
+  },
+  "Import…": {
+    "origin": "M2M100-418M-local",
+    "text": "Dovoz..."
+  },
+  "Incomplete archive listing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Neúplný archivní seznam."
+  },
+  "Increase size": {
+    "origin": "Files:IncreaseSize",
+    "text": "Zvětšení velikosti"
+  },
+  "Indexed document, image, audio, video and filesystem metadata supplied by Spotlight. Tags can be edited with the Tags tool.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Indexované dokumenty, obrázky, audio, video a metadata souborového systému poskytnuté SpotlightTagy lze upravovat pomocí nástroje Tagy."
+  },
+  "Indexed files updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Indexované soubory jsou aktualizovány."
+  },
+  "Initialize": {
+    "origin": "M2M100-418M-local",
+    "text": "Iniciativní"
+  },
+  "Initialize repository here": {
+    "origin": "M2M100-418M-local",
+    "text": "Úvodní stránka Rezervace ZDE"
+  },
+  "Install certificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "Nainstalovat certifikát"
+  },
+  "Install font": {
+    "origin": "Files:InstallFont",
+    "text": "Nainstalovat písmo"
+  },
+  "InstallCertificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "Nainstalovat certifikát"
+  },
+  "InstallFont": {
+    "origin": "Files:InstallFont",
+    "text": "Nainstalovat písmo"
+  },
+  "Interval in seconds": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Interval v sekundách"
+  },
+  "Invalid Base64 data.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vlastní údaje Base64."
+  },
+  "Invalid SSH host or port.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "invalidní SSH Host nebo přístav."
+  },
+  "Invalid archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalidní archivní hard link."
+  },
+  "Invalid archive link target.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalidní archivní link cíle."
+  },
+  "Invalid extended media atom.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalidní rozšířený mediální atom."
+  },
+  "Invalid hard link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalidní tvrdé spojení."
+  },
+  "Invalid key for %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalidní klíč pro %1$@."
+  },
+  "Invalid macOS ACL text. Preserve the !#acl 1 header and use valid entries.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "invalidní macOS ACL Zadržte název !#acl 1 a použijte platné vstupy."
+  },
+  "Invalid media atom header.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalidní mediální atomový titulek."
+  },
+  "Invalid media atom size.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalidní mediální atomová velikost."
+  },
+  "Invalid media atom.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalidní mediální atom."
+  },
+  "Invalid media file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalidní mediální soubor."
+  },
+  "Invalid name": {
+    "origin": "Files:InvalidTagNameWarning",
+    "text": "Neplatné jméno"
+  },
+  "Invalid remote URL.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalidní vzdálené URL."
+  },
+  "Invalid settings document.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalidní doklad o nastavení."
+  },
+  "Invalid tag metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalidní meta data."
+  },
+  "Invalid tag name or color.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalidní název nebo barva."
+  },
+  "Invalid theme colors or appearance.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalidní tematické barvy nebo vzhled."
+  },
+  "Invalid volume size": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalidní velikost"
+  },
+  "Invert selection": {
+    "origin": "Files:InvertSelection",
+    "text": "Invertovat výběr"
+  },
+  "Item properties": {
+    "origin": "M2M100-418M-local",
+    "text": "Část vlastností"
+  },
+  "Items move into .MacFiles-Recovery on this server, including folder contents. Use Undo remote to restore them during this session.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Předměty se pohybují do .MacFiles-Recovery na tomto serveru, včetně obsahu složky. Použijte Undo Remote, abyste je obnovili během této relace."
+  },
+  "Keep MacFiles open": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Držte MacFiles Otevřít"
+  },
+  "Keep both": {
+    "origin": "M2M100-418M-local",
+    "text": "Udržujte oba"
+  },
+  "Keep both creates numbered names. Replace moves previous versions to Trash and supports Undo. Folders are replaced as a whole.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Udržujte obě vytváří číselné jména. nahrazení přemístí předchozí verze na Trash a podporuje Undo."
+  },
+  "Keep running after closing windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pokračujte v provozu po zavření oken"
+  },
+  "Keep window on top": {
+    "origin": "M2M100-418M-local",
+    "text": "Udržujte okno na vrcholu"
+  },
+  "Keyboard shortcuts": {
+    "origin": "M2M100-418M-local",
+    "text": "Klávesová zkratka"
+  },
+  "Keyboard shortcuts…": {
+    "origin": "M2M100-418M-local",
+    "text": "Klávesové zkratky..."
+  },
+  "Keywords (comma separated)": {
+    "origin": "M2M100-418M-local",
+    "text": "Klíčová slova (jak oddělená)"
+  },
+  "Kind": {
+    "origin": "Files:Type",
+    "text": "Typ"
+  },
+  "Label": {
+    "origin": "M2M100-418M-local",
+    "text": "Značka"
+  },
+  "Language": {
+    "origin": "Files:PropertyLanguage",
+    "text": "Jazyk"
+  },
+  "Large icons": {
+    "origin": "M2M100-418M-local",
+    "text": "Velké ikony"
+  },
+  "Launch at login": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Stáhněte si login"
+  },
+  "Layout": {
+    "origin": "Files:Layout",
+    "text": "Rozvržení"
+  },
+  "Left": {
+    "origin": "Files:Left",
+    "text": "Vlevo"
+  },
+  "Let the current operation finish before quitting.": {
+    "origin": "M2M100-418M-local",
+    "text": "Nechte aktuální operaci dokončit před odchodem."
+  },
+  "Libraries": {
+    "origin": "Files:SidebarLibraries",
+    "text": "Knihovny"
+  },
+  "Library": {
+    "origin": "Files:Library",
+    "text": "Knihovna"
+  },
+  "Library name": {
+    "origin": "M2M100-418M-local",
+    "text": "Název knihovny"
+  },
+  "Library properties…": {
+    "origin": "M2M100-418M-local",
+    "text": "Knihovní vlastnosti..."
+  },
+  "Library/Application Support/MacFiles/known_hosts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Knihovna / Podpora aplikacíMacFilesZnámý host"
+  },
+  "Library/Mobile Documents": {
+    "origin": "M2M100-418M-local",
+    "text": "Knihovna / Mobilní dokumenty"
+  },
+  "Library/Mobile Documents/com~apple~CloudDocs": {
+    "origin": "M2M100-418M-local",
+    "text": "Knihovna/Mobile Documents/com~apple~CloudDocs"
+  },
+  "Light": {
+    "origin": "Files:LightTheme",
+    "text": "Světlý"
+  },
+  "Link target": {
+    "origin": "M2M100-418M-local",
+    "text": "Link cíle"
+  },
+  "List": {
+    "origin": "Files:List",
+    "text": "Seznam"
+  },
+  "List folders before files": {
+    "origin": "M2M100-418M-local",
+    "text": "Seznam složek před soubory"
+  },
+  "Loading…": {
+    "origin": "Files:Loading",
+    "text": "Načítání..."
+  },
+  "Local": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "místní"
+  },
+  "Local download removal requested.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vyžádané lokální stahování."
+  },
+  "Local file": {
+    "origin": "M2M100-418M-local",
+    "text": "Lokální soubory"
+  },
+  "Location": {
+    "origin": "Files:Location",
+    "text": "Umístění:"
+  },
+  "Lock screen and wallpaper settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Závěsný displej a nastavení tapety..."
+  },
+  "Locked": {
+    "origin": "M2M100-418M-local",
+    "text": "Zakryté"
+  },
+  "Macintosh HD": {
+    "origin": "M2M100-418M-local",
+    "text": "Macintosh HD"
+  },
+  "Make alias": {
+    "origin": "M2M100-418M-local",
+    "text": "Vytvořte alias"
+  },
+  "Make alias…": {
+    "origin": "M2M100-418M-local",
+    "text": "Připravte si alias..."
+  },
+  "Manage account in provider app": {
+    "origin": "M2M100-418M-local",
+    "text": "Řízení účtu v aplikaci poskytovatele"
+  },
+  "Manage cloud accounts…": {
+    "origin": "M2M100-418M-local",
+    "text": "Řízení cloudových účtů."
+  },
+  "Manage tags": {
+    "origin": "Files:ManageTags",
+    "text": "Správa štítků"
+  },
+  "Maximum bytes": {
+    "origin": "M2M100-418M-local",
+    "text": "Maximální byty"
+  },
+  "Media export did not complete.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vývoz médií se nedokončil."
+  },
+  "Media metadata is too large.": {
+    "origin": "M2M100-418M-local",
+    "text": "Metadata médií jsou příliš velké."
+  },
+  "Medium icons": {
+    "origin": "M2M100-418M-local",
+    "text": "Střední ikony"
+  },
+  "Minimize": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Minimalizovat"
+  },
+  "Minimum bytes": {
+    "origin": "M2M100-418M-local",
+    "text": "Minimální byty"
+  },
+  "Minimum size exceeds maximum size.": {
+    "origin": "M2M100-418M-local",
+    "text": "Minimální velikost přesahuje maximální velikost."
+  },
+  "Mode": {
+    "origin": "M2M100-418M-local",
+    "text": "Módní"
+  },
+  "Modified": {
+    "origin": "Files:Modified",
+    "text": "Změněno"
+  },
+  "Modified after": {
+    "origin": "M2M100-418M-local",
+    "text": "Změny po"
+  },
+  "Month": {
+    "origin": "Files:Month",
+    "text": "Měsíc"
+  },
+  "More actions": {
+    "origin": "M2M100-418M-local",
+    "text": "Více akcí"
+  },
+  "Mount share…": {
+    "origin": "M2M100-418M-local",
+    "text": "Hory se podílí..."
+  },
+  "Mounted network locations appear here. Connect to a server to browse another location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Připojte se k serveru, abyste prohlíželi jinou polohu."
+  },
+  "Move %1$@ remote items to recovery?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "pohyb %1$@ Vzdálené předměty k zotavení?"
+  },
+  "Move %1$@ to Trash?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "pohyb %1$@ A co trash?"
+  },
+  "Move here": {
+    "origin": "Files:PinToSidebarByDraggingCaptionText",
+    "text": "Přesunout sem"
+  },
+  "Move nested files to this folder. Existing names and symbolic links are left in place. Empty subfolders go to Trash. You can undo this operation.": {
+    "origin": "M2M100-418M-local",
+    "text": "Přemístěte nahrané soubory do této složky. Existující jména a symbolické odkazy jsou ponechány na místě. Prázdné podstránky jdou na Trash. Můžete tuto operaci odinstalovat."
+  },
+  "Move to Trash": {
+    "origin": "M2M100-418M-local",
+    "text": "Přejít na trash"
+  },
+  "Move to Trash…": {
+    "origin": "M2M100-418M-local",
+    "text": "Přejděte na trash..."
+  },
+  "Move to recovery": {
+    "origin": "M2M100-418M-local",
+    "text": "Přejít k zotavení"
+  },
+  "Move to recovery folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Přejděte na obnovu složky..."
+  },
+  "Movies": {
+    "origin": "M2M100-418M-local",
+    "text": "Filmy"
+  },
+  "Moving": {
+    "origin": "M2M100-418M-local",
+    "text": "pohybovat"
+  },
+  "Moving files": {
+    "origin": "M2M100-418M-local",
+    "text": "Pohybující soubory"
+  },
+  "Moving to Trash": {
+    "origin": "M2M100-418M-local",
+    "text": "Přejít na trash"
+  },
+  "Multiple items": {
+    "origin": "M2M100-418M-local",
+    "text": "Množství položek"
+  },
+  "Music": {
+    "origin": "Files:Music",
+    "text": "Hudba"
+  },
+  "My MacFiles theme": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Můj MacFiles Motiv"
+  },
+  "My library": {
+    "origin": "M2M100-418M-local",
+    "text": "Moje knihovna"
+  },
+  "My search": {
+    "origin": "M2M100-418M-local",
+    "text": "Moje vyhledávání"
+  },
+  "Name": {
+    "origin": "Files:NameWithColon",
+    "text": "Název:"
+  },
+  "Native macOS extended attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nativní macOS Rozšířené atributy"
+  },
+  "Natural language search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Přirozený jazyk vyhledávání"
+  },
+  "Navigate": {
+    "origin": "M2M100-418M-local",
+    "text": "Navigace"
+  },
+  "Network": {
+    "origin": "Files:Network",
+    "text": "Síť"
+  },
+  "New": {
+    "origin": "Files:BaseLayoutContextFlyoutNew.Label",
+    "text": "Nový"
+  },
+  "New archive file": {
+    "origin": "M2M100-418M-local",
+    "text": "Nový archivní soubor"
+  },
+  "New archive folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Nová archivní složka"
+  },
+  "New branch": {
+    "origin": "Files:NewBranch",
+    "text": "Nová větev"
+  },
+  "New file from template": {
+    "origin": "M2M100-418M-local",
+    "text": "Nový soubor z templátu"
+  },
+  "New folder": {
+    "origin": "Files:NewFolder",
+    "text": "Nová složka"
+  },
+  "New folder…": {
+    "origin": "Files:NewFolder",
+    "text": "Nová složka"
+  },
+  "New from template": {
+    "origin": "M2M100-418M-local",
+    "text": "Nový z templátu"
+  },
+  "New from template…": {
+    "origin": "M2M100-418M-local",
+    "text": "Nová z chrámu..."
+  },
+  "New name": {
+    "origin": "M2M100-418M-local",
+    "text": "Nové jméno"
+  },
+  "New remote file": {
+    "origin": "M2M100-418M-local",
+    "text": "Nové vzdálené soubory"
+  },
+  "New remote folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Nové dálkové složky"
+  },
+  "New tab": {
+    "origin": "Files:NewTab",
+    "text": "Nová karta"
+  },
+  "New tab · ⌘T": {
+    "origin": "Files:NewTab",
+    "text": "Nová karta · ⌘T"
+  },
+  "New text file": {
+    "origin": "M2M100-418M-local",
+    "text": "Nový textový soubor"
+  },
+  "New text file…": {
+    "origin": "M2M100-418M-local",
+    "text": "Nový textový soubor..."
+  },
+  "New window": {
+    "origin": "Files:NewWindow",
+    "text": "Nové okno"
+  },
+  "Next layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Další layout"
+  },
+  "Next tab": {
+    "origin": "Files:NextTab",
+    "text": "Další karta"
+  },
+  "No": {
+    "origin": "Files:No",
+    "text": "Ne"
+  },
+  "No IDE selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Žádný IDE vybraný"
+  },
+  "No application could open ‘%1$@’.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Žádná žádost se nedá otevřít.“%1$@’."
+  },
+  "No archive entry was extracted.": {
+    "origin": "M2M100-418M-local",
+    "text": "Žádné archivní vstupy nebyly vytištěny."
+  },
+  "No archive is open.": {
+    "origin": "M2M100-418M-local",
+    "text": "Žádný archiv není otevřen."
+  },
+  "No archive was produced.": {
+    "origin": "M2M100-418M-local",
+    "text": "Žádný archiv nebyl vytvořen."
+  },
+  "No commits yet": {
+    "origin": "M2M100-418M-local",
+    "text": "Zatím žádné závazky"
+  },
+  "No files were extracted.": {
+    "origin": "M2M100-418M-local",
+    "text": "Žádné soubory nebyly extrahovány."
+  },
+  "No matching items": {
+    "origin": "M2M100-418M-local",
+    "text": "Žádné součásti objektů"
+  },
+  "No movie header was found.": {
+    "origin": "M2M100-418M-local",
+    "text": "Filmový název nebyl nalezen."
+  },
+  "No operations recorded.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Žádné operace nebyly zaznamenány."
+  },
+  "No readable macOS code signature.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Není čitelné macOS Kód podepsaný .\n\n"
+  },
+  "No selection": {
+    "origin": "M2M100-418M-local",
+    "text": "Žádný výběr"
+  },
+  "No settings match your search.": {
+    "origin": "Files:NoSearchResults",
+    "text": "Žádné nastavení neodpovídá vašemu hledání."
+  },
+  "No tracked diff. New files appear after staging.": {
+    "origin": "M2M100-418M-local",
+    "text": "Nová soubory se objevují po stažení."
+  },
+  "None": {
+    "origin": "Files:CompressionLevelNone",
+    "text": "Žádná"
+  },
+  "Not enough free space to finish extraction.": {
+    "origin": "M2M100-418M-local",
+    "text": "Není dostatek volného prostoru k dokončení extrakce."
+  },
+  "Not managed by a detected cloud provider": {
+    "origin": "M2M100-418M-local",
+    "text": "Není spravováno detekovaným poskytovatelem cloudových služeb"
+  },
+  "Not used": {
+    "origin": "M2M100-418M-local",
+    "text": "Nepoužívaný"
+  },
+  "Numbered names": {
+    "origin": "M2M100-418M-local",
+    "text": "Číslo jmen"
+  },
+  "OK": {
+    "origin": "M2M100-418M-local",
+    "text": "OK"
+  },
+  "Older": {
+    "origin": "M2M100-418M-local",
+    "text": "starší"
+  },
+  "Online only": {
+    "origin": "M2M100-418M-local",
+    "text": "Online pouze"
+  },
+  "Only an uploaded iCloud file without conflicts can have its local download removed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Jen jeden nahraný iCloud Soubor bez konfliktů může mít své lokální stahování odstraněno."
+  },
+  "Only images can be rotated.": {
+    "origin": "M2M100-418M-local",
+    "text": "Pouze obrazy lze otáčet."
+  },
+  "Open": {
+    "origin": "Files:Open",
+    "text": "Otevřít"
+  },
+  "Open / Preview": {
+    "origin": "M2M100-418M-local",
+    "text": "Předpověď / Preview"
+  },
+  "Open Login Items settings": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Otevřete nastavení položek Login"
+  },
+  "Open MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Otevřít MacFiles"
+  },
+  "Open System Settings for iCloud": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Otevřené nastavení systému pro iCloud"
+  },
+  "Open a repository, initialize this folder, or clone a repository.": {
+    "origin": "M2M100-418M-local",
+    "text": "Otevřete záložku, začněte tuto složku nebo klonujte záložku."
+  },
+  "Open all folders in tabs": {
+    "origin": "M2M100-418M-local",
+    "text": "Otevřete všechny složky v tabulkách"
+  },
+  "Open containing folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Otevřená složka obsahující"
+  },
+  "Open external folders in new windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Otevřete externí složky v nových oknech"
+  },
+  "Open file location": {
+    "origin": "Files:OpenFileLocation",
+    "text": "Otevřít umístění souboru"
+  },
+  "Open folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Otevřená složka"
+  },
+  "Open folders in new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Otevřete složky v nových tabulkách"
+  },
+  "Open folder…": {
+    "origin": "M2M100-418M-local",
+    "text": "Otevřená složka..."
+  },
+  "Open in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Otevřeno v IDE"
+  },
+  "Open in IDE uses the selected application. Open repository in IDE resolves the Git repository root first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open in IDE používá vybranou aplikaci. Open repository in IDE řeší Git První záložní kořeny."
+  },
+  "Open in Terminal": {
+    "origin": "M2M100-418M-local",
+    "text": "Otevřeno v terminálu"
+  },
+  "Open in new tab": {
+    "origin": "Files:OpenInNewTab",
+    "text": "Otevřít na nové kartě"
+  },
+  "Open in new window": {
+    "origin": "Files:OpenInNewWindow",
+    "text": "Otevřít v novém okně"
+  },
+  "Open in other pane": {
+    "origin": "M2M100-418M-local",
+    "text": "Otevřeno v jiném panelu"
+  },
+  "Open log file": {
+    "origin": "Files:OpenLogFile",
+    "text": "Open log file"
+  },
+  "Open new tabs with dual panes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Otevřete nové karty s dvojitými panely"
+  },
+  "Open repository in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Otevřená záložka v IDE"
+  },
+  "Open selection": {
+    "origin": "M2M100-418M-local",
+    "text": "Otevřený výběr"
+  },
+  "Open target folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Otevřená cílová složka"
+  },
+  "Open with": {
+    "origin": "Files:OpenWith",
+    "text": "Otevřít v"
+  },
+  "Open with application": {
+    "origin": "M2M100-418M-local",
+    "text": "Otevřeno s aplikací"
+  },
+  "Open with application…": {
+    "origin": "M2M100-418M-local",
+    "text": "Otevřeno s aplikací..."
+  },
+  "Open with…": {
+    "origin": "Files:OpenWith",
+    "text": "Otevřít v"
+  },
+  "Open-ended media atoms require remuxing before editing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Otevřené mediální atomy vyžadují remuxování před úpravou."
+  },
+  "OpenAllTaggedItems": {
+    "origin": "Files:OpenAllTaggedItems",
+    "text": "Otevřít vše"
+  },
+  "OpenLogFile": {
+    "origin": "Files:OpenLogFile",
+    "text": "Open log file"
+  },
+  "Operation completed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Operace byla dokončena."
+  },
+  "Operation failed": {
+    "origin": "M2M100-418M-local",
+    "text": "Operace selhala"
+  },
+  "Operations": {
+    "origin": "M2M100-418M-local",
+    "text": "Operace"
+  },
+  "Operations (%1$@ queued)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Výsledky operace (%1$@ Věřící)"
+  },
+  "Operations…": {
+    "origin": "M2M100-418M-local",
+    "text": "Operace..."
+  },
+  "Orange": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "oranžová"
+  },
+  "Original location": {
+    "origin": "M2M100-418M-local",
+    "text": "Původní umístění"
+  },
+  "Original locations are remembered for items deleted by MacFiles, including across launches.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Původní místa jsou zapamatovány pro položky, které byly odstraněny MacFilesA to i v průběhu startů."
+  },
+  "Original name": {
+    "origin": "M2M100-418M-local",
+    "text": "Originální název"
+  },
+  "Overcast": {
+    "origin": "Files:Overcast",
+    "text": "Světle šedá"
+  },
+  "Owner": {
+    "origin": "Files:PropertyFileOwner",
+    "text": "Vlastník"
+  },
+  "Owner UID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vlastník UID"
+  },
+  "Ownership updated.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vlastnictví je aktualizováno."
+  },
+  "POSIX permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "POSIX Oprávnění"
+  },
+  "Password": {
+    "origin": "Files:Password",
+    "text": "Heslo"
+  },
+  "Password (optional, AES-256)": {
+    "origin": "M2M100-418M-local",
+    "text": "heslo (volitelné, AES-256)"
+  },
+  "Password / key passphrase (optional)": {
+    "origin": "M2M100-418M-local",
+    "text": "heslo / klíčová pasová fráze (volitelná)"
+  },
+  "Password protection is supported for ZIP archives.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ochrana hesla je podporována pro ZIP a archivů ."
+  },
+  "Paste": {
+    "origin": "Files:Paste",
+    "text": "Vložit"
+  },
+  "Paste and drop transfers queue behind the current operation. Completed changes remain available through Undo. Copy cancellation stops the staged transfer before publishing it. Undo history is restored across launches.": {
+    "origin": "M2M100-418M-local",
+    "text": "Paste a drop transferů kousek za aktuální operace. dokončené změny zůstávají k dispozici prostřednictvím Undo. Kopírování zrušení zastaví etapový transfer před publikováním. Historie Undo je obnovena v průběhu spuštění."
+  },
+  "Paste files": {
+    "origin": "M2M100-418M-local",
+    "text": "Paste soubory"
+  },
+  "Paste shortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "Vložit zástupce"
+  },
+  "Paste the files into a permanent folder before creating aliases to them.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Připojte soubory do trvalého složky předtím, než k nim vytvoříte aliasy."
+  },
+  "PasteItemToSelectionDescription": {
+    "origin": "Files:PasteItemToSelectionDescription",
+    "text": "Vložit položky do vybrané složky"
+  },
+  "PasteShortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "Vložit zástupce"
+  },
+  "Path": {
+    "origin": "Files:ExtractToPath",
+    "text": "Cesta"
+  },
+  "Pattern": {
+    "origin": "M2M100-418M-local",
+    "text": "vzorek"
+  },
+  "Permanently delete %1$@ items?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "trvale vymazat %1$@ Předměty ?"
+  },
+  "Permissions": {
+    "origin": "Files:Permissions",
+    "text": "Oprávnění"
+  },
+  "Permissions are enforced by the server. FTP servers must support SITE CHMOD; SFTP uses SSH permissions.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Povolení je prováděno serverem. FTP servery musí podporovat CHMOD; SFTP Použití SSH Oprávnění"
+  },
+  "Permissions are stored in the archive. Changes rebuild it and support Undo.": {
+    "origin": "M2M100-418M-local",
+    "text": "Povolení jsou uloženy v archivu. Změny obnoví a podporuje Undo."
+  },
+  "Permissions updated.": {
+    "origin": "M2M100-418M-local",
+    "text": "Povolení je aktualizováno."
+  },
+  "Permissions…": {
+    "origin": "Files:Permissions",
+    "text": "Oprávnění"
+  },
+  "Pick up where you left off": {
+    "origin": "M2M100-418M-local",
+    "text": "Vyberte, kde jste opustili"
+  },
+  "Pictures": {
+    "origin": "Files:Pictures",
+    "text": "Obrázky"
+  },
+  "Pin this folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Pin tento soubor"
+  },
+  "Pin to sidebar": {
+    "origin": "Files:PinFolderToSidebar",
+    "text": "Připnout na postranní panel"
+  },
+  "Pinned": {
+    "origin": "Files:Pinned",
+    "text": "Připnuto"
+  },
+  "Pinned folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Pinné složky"
+  },
+  "Play All": {
+    "origin": "Files:PlayAll",
+    "text": "Play All"
+  },
+  "PlayAll": {
+    "origin": "Files:PlayAll",
+    "text": "Play All"
+  },
+  "Port": {
+    "origin": "M2M100-418M-local",
+    "text": "Přístav"
+  },
+  "Preparing copy": {
+    "origin": "M2M100-418M-local",
+    "text": "Příprava kopie"
+  },
+  "Preparing move": {
+    "origin": "M2M100-418M-local",
+    "text": "Příprava pohybu"
+  },
+  "Presentation is saved with this virtual location.": {
+    "origin": "M2M100-418M-local",
+    "text": "Představení je uloženo s touto virtuální lokalitou."
+  },
+  "Press the shortcut…": {
+    "origin": "M2M100-418M-local",
+    "text": "Stiskněte krátký..."
+  },
+  "Preview": {
+    "origin": "Files:Preview",
+    "text": "Náhled"
+  },
+  "Previous layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Předchozí layout"
+  },
+  "Previous tab": {
+    "origin": "Files:PreviousTab",
+    "text": "Předchozí karta"
+  },
+  "Properties": {
+    "origin": "Files:OpenProperties",
+    "text": "Vlastnosti"
+  },
+  "Properties…": {
+    "origin": "Files:OpenProperties",
+    "text": "Vlastnosti"
+  },
+  "Property": {
+    "origin": "M2M100-418M-local",
+    "text": "nemovitosti"
+  },
+  "Protocol": {
+    "origin": "M2M100-418M-local",
+    "text": "Protokol"
+  },
+  "Provider controls in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Poskytovatel kontroluje Finder"
+  },
+  "Pull": {
+    "origin": "Files:GitPull",
+    "text": "Stáhnout"
+  },
+  "Purple": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Purpurová"
+  },
+  "Push": {
+    "origin": "Files:Push",
+    "text": "Odeslat"
+  },
+  "Queued": {
+    "origin": "M2M100-418M-local",
+    "text": "Kvůli"
+  },
+  "Quick access": {
+    "origin": "Files:QuickAccess",
+    "text": "Rychlý přístup"
+  },
+  "Quit MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Odejít MacFiles"
+  },
+  "Readable": {
+    "origin": "M2M100-418M-local",
+    "text": "Číst"
+  },
+  "Recent files": {
+    "origin": "Files:RecentFiles",
+    "text": "Nedávné soubory"
+  },
+  "Recent folders": {
+    "origin": "M2M100-418M-local",
+    "text": "Nedávné složky"
+  },
+  "Reconnect to the same server and account, then retry Undo. The remote recovery data remains in .MacFiles-Recovery.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Připojte se k tomuto serveru a účtu, poté odstraňte Undo. .MacFiles-Recovery."
+  },
+  "Record shortcut": {
+    "origin": "M2M100-418M-local",
+    "text": "Rekordní zkratka"
+  },
+  "Red": {
+    "origin": "Files:Red",
+    "text": "Červená"
+  },
+  "Redo": {
+    "origin": "Files:Redo",
+    "text": "Zopakovat"
+  },
+  "Redo file operation": {
+    "origin": "M2M100-418M-local",
+    "text": "Redo operační soubory"
+  },
+  "Redoing": {
+    "origin": "M2M100-418M-local",
+    "text": "Redukce"
+  },
+  "Refresh": {
+    "origin": "Files:Refresh",
+    "text": "Obnovit"
+  },
+  "Refresh · ⌘R": {
+    "origin": "Files:Refresh",
+    "text": "Obnovit · ⌘R"
+  },
+  "Regular expression": {
+    "origin": "M2M100-418M-local",
+    "text": "Pravidelné vyjádření"
+  },
+  "Release notes": {
+    "origin": "Files:ReleaseNotes",
+    "text": "Poznámky k vydání"
+  },
+  "Reload": {
+    "origin": "M2M100-418M-local",
+    "text": "Přihláška"
+  },
+  "Remember password in Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pamatujte si heslo v Keychain"
+  },
+  "Remote operation on %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vzdálená operace na %1$@"
+  },
+  "Remote path": {
+    "origin": "M2M100-418M-local",
+    "text": "Vzdálená cesta"
+  },
+  "Remote paths cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vzdálené trasy nesmí obsahovat přerušení linie nebo NUL a charakterů ."
+  },
+  "Remotes": {
+    "origin": "Files:Remotes",
+    "text": "Vzdálené"
+  },
+  "Remove": {
+    "origin": "Files:Remove",
+    "text": "Odstranit"
+  },
+  "Remove attribute…": {
+    "origin": "M2M100-418M-local",
+    "text": "Odstranění atributu..."
+  },
+  "Remove background image": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Odstranit pozadí obrázek"
+  },
+  "Remove download": {
+    "origin": "M2M100-418M-local",
+    "text": "Odstranit download"
+  },
+  "Remove entries…": {
+    "origin": "M2M100-418M-local",
+    "text": "Odstranit vstupy..."
+  },
+  "Remove from archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Odstranění z archivu"
+  },
+  "Remove library": {
+    "origin": "M2M100-418M-local",
+    "text": "Odstranění knihovny"
+  },
+  "Remove local download…": {
+    "origin": "M2M100-418M-local",
+    "text": "Odstranit lokální download..."
+  },
+  "Remove references": {
+    "origin": "M2M100-418M-local",
+    "text": "Odstranění referencí"
+  },
+  "Remove saved credentials": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Odstranění zachráněných průkazů"
+  },
+  "Remove saved folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Odstranění uložených složek"
+  },
+  "Remove saved search": {
+    "origin": "M2M100-418M-local",
+    "text": "Odstranit zachráněné vyhledávání"
+  },
+  "Remove selected entries from the archive?": {
+    "origin": "M2M100-418M-local",
+    "text": "Odstranit vybrané příspěvky z archivu?"
+  },
+  "Remove tags": {
+    "origin": "Files:RemoveTags",
+    "text": "Remove tags"
+  },
+  "Remove the local download?": {
+    "origin": "M2M100-418M-local",
+    "text": "Odstranit lokální download?"
+  },
+  "Remove ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Odstranit »%1$@’?"
+  },
+  "RemoveTags": {
+    "origin": "Files:RemoveTags",
+    "text": "Remove tags"
+  },
+  "Removing tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Odstranění tagů"
+  },
+  "Rename": {
+    "origin": "Files:Rename",
+    "text": "Přejmenovat"
+  },
+  "Rename %1$@ items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "renomované %1$@ položky"
+  },
+  "Rename archive entry": {
+    "origin": "M2M100-418M-local",
+    "text": "Název archivní vstup"
+  },
+  "Rename entry…": {
+    "origin": "M2M100-418M-local",
+    "text": "Vstupní název..."
+  },
+  "Rename failed. Your item is preserved at %1$@. %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rename selhal. váš položka je zachována na %1$@. %2$@"
+  },
+  "Rename remote item": {
+    "origin": "M2M100-418M-local",
+    "text": "Název Remote item"
+  },
+  "Rename…": {
+    "origin": "Files:Rename",
+    "text": "Přejmenovat"
+  },
+  "Renaming": {
+    "origin": "M2M100-418M-local",
+    "text": "renomované"
+  },
+  "Renaming items": {
+    "origin": "M2M100-418M-local",
+    "text": "Renovace položek"
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Finder uses the macOS palette; custom colors and stable IDs are retained by MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Zrušení nebo odstranění uložených souborů aktualizací tag nalezených SpotlightNeindexované nebo nedostupné soubory mohou uchovávat starou značku. Finder Používá se macOS paleta; nastavené barvy a stabilní ID jsou zachovány MacFiles."
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Tag colors use the macOS palette.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Zrušení nebo odstranění uložených souborů aktualizací tag nalezených Spotlight. Unindexované nebo nedostupné soubory mohou uchovávat starou značku. macOS A paleta."
+  },
+  "Reopen closed tab": {
+    "origin": "M2M100-418M-local",
+    "text": "Znovu otevřít zavřené tabulky"
+  },
+  "Replace": {
+    "origin": "M2M100-418M-local",
+    "text": "Náhrada"
+  },
+  "Replace this item's ACL?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "nahradit tento položka ACL?"
+  },
+  "Replace with": {
+    "origin": "M2M100-418M-local",
+    "text": "nahradit s"
+  },
+  "Replace, keeping backup": {
+    "origin": "M2M100-418M-local",
+    "text": "Změna, zachování zálohování"
+  },
+  "Report an issue": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Zpráva o tématu"
+  },
+  "Repository": {
+    "origin": "M2M100-418M-local",
+    "text": "Repository"
+  },
+  "Repository URL": {
+    "origin": "Files:RepositoryURL",
+    "text": "URL repozitáře"
+  },
+  "Requesting cloud download": {
+    "origin": "M2M100-418M-local",
+    "text": "Přihláška na cloud download"
+  },
+  "Reset": {
+    "origin": "M2M100-418M-local",
+    "text": "Resetování"
+  },
+  "Reset all": {
+    "origin": "M2M100-418M-local",
+    "text": "Resetovat vše"
+  },
+  "Reset icon": {
+    "origin": "M2M100-418M-local",
+    "text": "Zpět na ikonu"
+  },
+  "Reset pinned folders": {
+    "origin": "M2M100-418M-local",
+    "text": "Recyklování upínaných složek"
+  },
+  "Restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Restartovat MacFiles"
+  },
+  "Restore all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Obnovit všechny"
+  },
+  "Restore command defaults": {
+    "origin": "M2M100-418M-local",
+    "text": "Obnovení příkazových defektů"
+  },
+  "Restore here": {
+    "origin": "M2M100-418M-local",
+    "text": "Obnovte zde"
+  },
+  "Restore original location": {
+    "origin": "M2M100-418M-local",
+    "text": "Obnovte původní polohu"
+  },
+  "Restore previous folder viewer": {
+    "origin": "M2M100-418M-local",
+    "text": "Obnovte předchozí prohlížeč složky"
+  },
+  "Restore tabs at launch": {
+    "origin": "M2M100-418M-local",
+    "text": "Obnovte záložky při spuštění"
+  },
+  "Restore to…": {
+    "origin": "M2M100-418M-local",
+    "text": "Obnovit na..."
+  },
+  "Restoring from Trash": {
+    "origin": "M2M100-418M-local",
+    "text": "Obnovení z Trash"
+  },
+  "Results come from the macOS Spotlight index. Unindexed folders are not included.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Výsledky pocházejí z macOS Spotlight index. neindexované složky nejsou zahrnuty."
+  },
+  "Results in this folder and subfolders": {
+    "origin": "M2M100-418M-local",
+    "text": "Výsledky v tomto složce a subfolders"
+  },
+  "Retargeting shortcut": {
+    "origin": "M2M100-418M-local",
+    "text": "Zpět na kratší"
+  },
+  "Retarget…": {
+    "origin": "M2M100-418M-local",
+    "text": "Zpoždění..."
+  },
+  "Reveal": {
+    "origin": "M2M100-418M-local",
+    "text": "odhalení"
+  },
+  "Reveal in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Objevte se v Finder"
+  },
+  "Reverse tab scroll direction": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Obrátit tab Sklíčení směr"
+  },
+  "Review server fingerprint…": {
+    "origin": "M2M100-418M-local",
+    "text": "Přihláška otisků prstů serveru..."
+  },
+  "Right": {
+    "origin": "Files:Right",
+    "text": "Vpravo"
+  },
+  "Rotate left": {
+    "origin": "Files:RotateLeft",
+    "text": "Otočit doleva"
+  },
+  "Rotate right": {
+    "origin": "Files:RotateRight",
+    "text": "Otočit doprava"
+  },
+  "Rotating left": {
+    "origin": "M2M100-418M-local",
+    "text": "Rotace vlevo"
+  },
+  "Rotating right": {
+    "origin": "M2M100-418M-local",
+    "text": "Rotace pravá"
+  },
+  "Running": {
+    "origin": "M2M100-418M-local",
+    "text": "běhání"
+  },
+  "SFTP (SSH keys)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SFTP (SSH Klíče )"
+  },
+  "SMB, AFP, or WebDAV share": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SMB, AFPnebo WebDAV Sdílet"
+  },
+  "SSH known-host verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH Známá hostitelská ověření"
+  },
+  "SSH passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH hesla nesmějí obsahovat přerušení linie nebo NUL a charakterů ."
+  },
+  "Save": {
+    "origin": "Files:Save",
+    "text": "Uložit"
+  },
+  "Save attribute": {
+    "origin": "M2M100-418M-local",
+    "text": "Záchrana atributu"
+  },
+  "Save folder layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Shromažďujte složku layout"
+  },
+  "Save metadata": {
+    "origin": "M2M100-418M-local",
+    "text": "Ušetřete metadata"
+  },
+  "Save search": {
+    "origin": "M2M100-418M-local",
+    "text": "Zachraňte vyhledávání"
+  },
+  "Save search…": {
+    "origin": "M2M100-418M-local",
+    "text": "Zachraňte vyhledávání..."
+  },
+  "Save to Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Zachraňte na Keychain"
+  },
+  "Saved connections": {
+    "origin": "M2M100-418M-local",
+    "text": "Zachráněné spojení"
+  },
+  "Saved searches": {
+    "origin": "M2M100-418M-local",
+    "text": "Zachráněné vyhledávání"
+  },
+  "Saved. The token will be used for GitHub HTTPS operations.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tento token bude použit pro GitHub HTTPS operace."
+  },
+  "Seafoam": {
+    "origin": "Files:Seafoam",
+    "text": "Mořská pěna"
+  },
+  "Search": {
+    "origin": "Files:Key.BrowserSearch",
+    "text": "Hledat"
+  },
+  "Search %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vyhledávání %1$@"
+  },
+  "Search %1$@ · Return searches subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vyhledávání %1$@ · Návrat hledá subfolders"
+  },
+  "Search available actions": {
+    "origin": "M2M100-418M-local",
+    "text": "Vyhledávání dostupných akcí"
+  },
+  "Search commands": {
+    "origin": "M2M100-418M-local",
+    "text": "Vyhledávací příkazy"
+  },
+  "Search folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Vyhledávací složka"
+  },
+  "Search settings": {
+    "origin": "Files:SearchSettings",
+    "text": "Vyhledat nastavení..."
+  },
+  "Search stopped.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vyhledávání bylo zastaveno."
+  },
+  "Search subfolders": {
+    "origin": "M2M100-418M-local",
+    "text": "Vyhledávání subfederů"
+  },
+  "Security": {
+    "origin": "Files:Security",
+    "text": "Bezpečnost"
+  },
+  "Select": {
+    "origin": "Files:NavToolbarSelectionOptions.Label",
+    "text": "Vybrat"
+  },
+  "Select a file to view its diff.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vyberte soubor, který zobrazí jeho diff."
+  },
+  "Select a macOS alias or symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vyberte A macOS Alias nebo symbolický odkaz."
+  },
+  "Select a regular media file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vyberte si pravidelný mediální soubor."
+  },
+  "Select all": {
+    "origin": "Files:SelectAll",
+    "text": "Vybrat vše"
+  },
+  "Select an archive": {
+    "origin": "M2M100-418M-local",
+    "text": "Vyberte si archiv"
+  },
+  "Select an item to see its details.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vyberte položku, abyste viděli její detaily."
+  },
+  "Select archive entries to remove.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vyberte archivní záznamy ke stažení."
+  },
+  "Select on hover": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vybrat na hover"
+  },
+  "Select previous folder when navigating up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vyberte předchozí složku při navigaci"
+  },
+  "Select uniquely named items to archive.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vyberte jedinečně jmenované položky do archivu."
+  },
+  "Selected items": {
+    "origin": "M2M100-418M-local",
+    "text": "vybrané položky"
+  },
+  "Selected items have duplicate names. Archive them separately.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vybrané položky mají duplicitní názvy. archivovat je odděleně."
+  },
+  "Selection checkboxes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Výběr kontrolních krabic"
+  },
+  "Separate file and folder counts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Oddělené soubory a složky počítají"
+  },
+  "Separator": {
+    "origin": "M2M100-418M-local",
+    "text": "oddělení"
+  },
+  "Server": {
+    "origin": "M2M100-418M-local",
+    "text": "servery"
+  },
+  "Set as app background": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "Nastavit jako pozadí aplikace"
+  },
+  "Set as wallpaper": {
+    "origin": "M2M100-418M-local",
+    "text": "Set jako tapeta"
+  },
+  "Set default": {
+    "origin": "M2M100-418M-local",
+    "text": "Set default"
+  },
+  "SetAsAppBackground": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "Nastavit jako pozadí aplikace"
+  },
+  "Settings": {
+    "origin": "Files:Settings",
+    "text": "Nastavení"
+  },
+  "Settings file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "nastavení souboru"
+  },
+  "Settings saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nastavení je zachráněno."
+  },
+  "Settings…": {
+    "origin": "Files:Settings",
+    "text": "Nastavení"
+  },
+  "Share": {
+    "origin": "Files:Share",
+    "text": "Sdílet"
+  },
+  "Share…": {
+    "origin": "Files:Share",
+    "text": "Sdílet"
+  },
+  "Shelf": {
+    "origin": "Files:Shelf",
+    "text": "Odkládací panel"
+  },
+  "Shortcut": {
+    "origin": "Files:Shortcut",
+    "text": "Zástupce"
+  },
+  "Shortcuts apply in the explorer. Text fields keep native editing behavior. Resolve duplicate assignments before applying.": {
+    "origin": "M2M100-418M-local",
+    "text": "Zkratky se aplikují v prohlížeči. textové pole zachovávají původní úpravné chování. Řešit duplicitní úkoly před aplikací."
+  },
+  "Show dotfiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Zobrazit dotfiles"
+  },
+  "Show hidden files": {
+    "origin": "M2M100-418M-local",
+    "text": "Zobrazit skryté soubory"
+  },
+  "Show in folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Zobrazit v mapě"
+  },
+  "Show log in folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Zobrazit log v složce"
+  },
+  "Show menu bar icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Zobrazit menu bar ikona"
+  },
+  "Show package contents": {
+    "origin": "M2M100-418M-local",
+    "text": "Zobrazit obsah balíčku"
+  },
+  "Show shelf button": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ukázat tlačítko Shelf"
+  },
+  "Show staged diff": {
+    "origin": "M2M100-418M-local",
+    "text": "Představení DIF"
+  },
+  "Show status bar": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Zobrazit status bar"
+  },
+  "Show tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Zobrazit tab akce"
+  },
+  "Show thumbnails": {
+    "origin": "Files:SettingsFilesAndFoldersShowThumbnails",
+    "text": "Zobrazit náhledy"
+  },
+  "ShowFileExtensions": {
+    "origin": "Files:ShowFileExtensions",
+    "text": "Přípony souborů"
+  },
+  "Sidebar": {
+    "origin": "Files:Sidebar",
+    "text": "Postranní panel"
+  },
+  "Signature": {
+    "origin": "M2M100-418M-local",
+    "text": "Podpis"
+  },
+  "Signature integrity verification failed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ověření integrity podepsaných podpisů selhala."
+  },
+  "Signature integrity verified. This does not constitute a notarization or malware assessment.": {
+    "origin": "M2M100-418M-local",
+    "text": "Podpis integrity ověřené. to neznamená notarializace nebo malware hodnocení."
+  },
+  "Signatures": {
+    "origin": "Files:Signatures",
+    "text": "Podpisy"
+  },
+  "Single file": {
+    "origin": "M2M100-418M-local",
+    "text": "Jednotlivé soubory"
+  },
+  "Single folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Jednotlivé složky"
+  },
+  "Single-click columns": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Jednorázové kliknutí"
+  },
+  "Single-click files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Single-klikové soubory"
+  },
+  "Single-click folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Jednorázové kliknutí"
+  },
+  "Size": {
+    "origin": "Files:SizeLabel",
+    "text": "Velikost:"
+  },
+  "Size units": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Velikost jednotek"
+  },
+  "Skip": {
+    "origin": "Files:Skip",
+    "text": "Přeskočit"
+  },
+  "Skip existing": {
+    "origin": "M2M100-418M-local",
+    "text": "Skok existující"
+  },
+  "Small icons": {
+    "origin": "M2M100-418M-local",
+    "text": "Malé ikony"
+  },
+  "Smooth scrolling": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Smooth scrolling"
+  },
+  "Solid": {
+    "origin": "Files:Solid",
+    "text": "Plná barva"
+  },
+  "Some files could not be updated. The saved tag was retained so you can retry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Některé soubory nemohou být aktualizovány. uložená značka byla zachována, takže můžete odstoupit."
+  },
+  "Some items could not be read.": {
+    "origin": "M2M100-418M-local",
+    "text": "Některé články se nelze přečíst."
+  },
+  "Some items couldn’t be completed": {
+    "origin": "M2M100-418M-local",
+    "text": "Některé položky nemohly být dokončeny"
+  },
+  "Some items have no recorded original location. Select them and use Restore to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Některé položky nemají zaznamenané původní umístění. Vyberte je a použijte Obnovit na..."
+  },
+  "Sort": {
+    "origin": "Files:Sort",
+    "text": "Seřadit"
+  },
+  "Sort by": {
+    "origin": "Files:SortBy",
+    "text": "Seřadit dle"
+  },
+  "SortFilesAndFoldersTogether": {
+    "origin": "Files:SortFilesAndFoldersTogether",
+    "text": "Řadit soubory a složky pohromadě"
+  },
+  "SortFilesFirst": {
+    "origin": "Files:SortFilesFirst",
+    "text": "Nejprve řadit soubory"
+  },
+  "SortFoldersFirst": {
+    "origin": "Files:SortFoldersFirst",
+    "text": "Nejprve řadit složky"
+  },
+  "Source code": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "zdrojový kód"
+  },
+  "Special device entries cannot be extracted: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Speciální vstupy zařízení nelze extrahovat: %1$@"
+  },
+  "Split archives use ZIP or 7z format.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rozdělení archivů ZIP nebo 7z Formát"
+  },
+  "Split into volumes (MiB, optional)": {
+    "origin": "M2M100-418M-local",
+    "text": "Rozdělení do objemů (MiB, volitelné)"
+  },
+  "Stage all": {
+    "origin": "M2M100-418M-local",
+    "text": "Stage vše"
+  },
+  "Stage selected": {
+    "origin": "M2M100-418M-local",
+    "text": "Vybraná fáze"
+  },
+  "Staged all changes": {
+    "origin": "M2M100-418M-local",
+    "text": "Zastavení všech změn"
+  },
+  "Staged selected files": {
+    "origin": "M2M100-418M-local",
+    "text": "Vybrány soubory"
+  },
+  "Start": {
+    "origin": "Files:Start",
+    "text": "Start"
+  },
+  "Start folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Začátek mapy"
+  },
+  "Startup": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startupy"
+  },
+  "Startup and tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup a tabs"
+  },
+  "Startup folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startupové mapy"
+  },
+  "Startup folders are used when session restoration is disabled. An empty list opens Home.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startupové složky se používají, když je obnovení session deaktivováno. prázdný seznam otevírá domov."
+  },
+  "Status": {
+    "origin": "Files:StatusWithColon",
+    "text": "Stav:"
+  },
+  "Stop": {
+    "origin": "M2M100-418M-local",
+    "text": "Zastavte"
+  },
+  "Stopped before the next item. Completed items were kept.": {
+    "origin": "M2M100-418M-local",
+    "text": "Zastavil se před další položkou. dokončené položky byly zachovány."
+  },
+  "Storage settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Uložení úložného..."
+  },
+  "Storm": {
+    "origin": "Files:Storm",
+    "text": "Bouře"
+  },
+  "Stretch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Stretch"
+  },
+  "Switch to new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Přepínání na nové tabule"
+  },
+  "Switched to %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Přepíná se na %1$@"
+  },
+  "Symbolic Link": {
+    "origin": "M2M100-418M-local",
+    "text": "Symbolický link"
+  },
+  "Symbolic link": {
+    "origin": "M2M100-418M-local",
+    "text": "Symbolické linky"
+  },
+  "Sync": {
+    "origin": "Files:GitSync",
+    "text": "Synchronizovat"
+  },
+  "Sync conflict": {
+    "origin": "M2M100-418M-local",
+    "text": "Synchronizace konfliktu"
+  },
+  "Sync error": {
+    "origin": "M2M100-418M-local",
+    "text": "Synchronizace chyb"
+  },
+  "Synced": {
+    "origin": "M2M100-418M-local",
+    "text": "synchronizace"
+  },
+  "Synchronize folder preferences": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Synchronizace preferencí složek"
+  },
+  "System": {
+    "origin": "Files:SystemTimeStyle",
+    "text": "Systém"
+  },
+  "TLS certificate verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "TLS Certifikát ověření"
+  },
+  "Tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tab akce"
+  },
+  "Tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tabu"
+  },
+  "Tag": {
+    "origin": "Files:Tag",
+    "text": "Štítek"
+  },
+  "Tag (blank = all tags)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag (blank = všechny značky)"
+  },
+  "Tag color": {
+    "origin": "Files:TagColor",
+    "text": "Barva štítku"
+  },
+  "Tag name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag jméno"
+  },
+  "Tag names must be unique.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Název musí být jedinečný."
+  },
+  "Tag update failed and original metadata could not be restored: ": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Aktualizace neúspěšné a původní metadata nemohou být obnoveny: "
+  },
+  "Tagged items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tagged položky"
+  },
+  "Tags": {
+    "origin": "Files:FileTags",
+    "text": "Štítky"
+  },
+  "Tags, separated by commas": {
+    "origin": "M2M100-418M-local",
+    "text": "Tagy, oddělené Commas"
+  },
+  "Target": {
+    "origin": "Files:PropertyItemTarget",
+    "text": "Cíl"
+  },
+  "Terminal": {
+    "origin": "M2M100-418M-local",
+    "text": "Terminál"
+  },
+  "Test IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Zkouška IDE"
+  },
+  "The ACL failed validation.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "a to ACL Neúspěšná validace."
+  },
+  "The command failed (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Následující příspěvekNásledující příspěvekNásledující příspěvek(%1$@)."
+  },
+  "The custom icon and saved layout belong to the selected item.": {
+    "origin": "M2M100-418M-local",
+    "text": "Přizpůsobená ikona a uložené rozložení patří k vybranému položce."
+  },
+  "The destination connection changed. Drop the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Změna cílového připojení. odstranit soubory znovu."
+  },
+  "The destination connection changed. Paste the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Změna cílového připojení. Připojte soubory znovu."
+  },
+  "The destination is not an accessible folder.": {
+    "origin": "M2M100-418M-local",
+    "text": "Cílem není přístupná složka."
+  },
+  "The icon could not be changed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ikonu nelze změnit."
+  },
+  "The icon could not be reset.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ikonu nelze znovu nastavit."
+  },
+  "The media container did not retain: ": {
+    "origin": "M2M100-418M-local",
+    "text": "Obsah médií nezachovává: "
+  },
+  "The media tracks cannot be preserved in this container.": {
+    "origin": "M2M100-418M-local",
+    "text": "V tomto kontejneru nelze uchovávat mediální stopy."
+  },
+  "The new shortcut target does not exist.": {
+    "origin": "M2M100-418M-local",
+    "text": "Nový cílový kurz neexistuje."
+  },
+  "The old shortcut is in Trash, but macOS did not return its location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Stará kapka je v Trashu, ale macOS Nevrátil se zpět na své místo."
+  },
+  "The original archive remains recoverable with Undo.": {
+    "origin": "M2M100-418M-local",
+    "text": "Původní archiv zůstává obnovitelný s Undo."
+  },
+  "The server did not return a valid host-key list.": {
+    "origin": "M2M100-418M-local",
+    "text": "Server nevrátil platný hostovací klíčový seznam."
+  },
+  "The server recovery path is occupied by a file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Cesta obnovy serveru je obsazena souborem."
+  },
+  "The server returned an unsafe or unsupported filename.": {
+    "origin": "M2M100-418M-local",
+    "text": "Server vrátil nejistý nebo nepodporovaný název souboru."
+  },
+  "The server returned an unsupported directory listing. No transfer was started.": {
+    "origin": "M2M100-418M-local",
+    "text": "Server vrátil nepodporovaný seznam adresáře. žádný převod nebyl zahájen."
+  },
+  "The shortcut will point to %1$@. The target file itself is not modified.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Zkratka bude ukazovat na %1$@Samotný cílový soubor není upraven."
+  },
+  "The slideshow changes desktop wallpaper while MacFiles is running. It resumes at launch when enabled. macOS controls the lock screen wallpaper separately.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Slideshow mění desktop tapetu při MacFiles je v provozu. obnovuje spuštění, když je aktivován. macOS Ovládá pozadí obrazovky odděleně."
+  },
+  "The system script could not be compiled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Systémový skript nelze sestavit."
+  },
+  "The system script could not be created.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Systémový skript nelze vytvořit."
+  },
+  "The transfer selection changed. Cut the items again.": {
+    "origin": "M2M100-418M-local",
+    "text": "Výběr převodu se změnil, položky se znovu zkrátí."
+  },
+  "The uploaded data did not match its source. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "text": "Přihlášené údaje nesplnily svůj zdroj. zdroj byl zachován."
+  },
+  "The uploaded iCloud copy remains available. macOS will download it again when needed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Přihlášené iCloud Kopie zůstává k dispozici. macOS Znovu ji stáhnu, když bude potřeba."
+  },
+  "Theme": {
+    "origin": "Files:SettingsAppearanceTheme",
+    "text": "Motiv"
+  },
+  "These items will be removed from Trash. This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "text": "Tyto položky budou z Trash odstraněny. to nemůže být vyloučeno."
+  },
+  "Third-party providers do not expose a common public sync-completion API. Available locally describes downloaded bytes, not upload completion. Download requests do not pin files permanently.": {
+    "origin": "M2M100-418M-local",
+    "text": "Poskytovatelé třetích stran nevykazují společný veřejný synchronizační API. Dostupné lokálně popisuje stažené bajty, nedodává dokončení."
+  },
+  "This FTP server cannot create symbolic links. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tohle FTP server nemůže vytvořit symbolické odkazy. zdroj byl zachován."
+  },
+  "This Mac": {
+    "origin": "M2M100-418M-local",
+    "text": "Tento Mac"
+  },
+  "This alias contains a target cycle.": {
+    "origin": "M2M100-418M-local",
+    "text": "Tento alias obsahuje cílový cyklus."
+  },
+  "This archive format is read-only. Extract it and create a ZIP or 7z archive to edit its contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tento archivní formát je čtený pouze. extrahujte ho a vytvořte ZIP nebo 7z archivovat a upravovat jeho obsah."
+  },
+  "This archive or server protocol does not expose macOS extended attributes. Extract or download the item to manage attributes on its local copy.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tento archiv nebo protokol serveru neobsahuje macOS extrahovat nebo stáhnout položku pro správu atributů na jeho místní kopii."
+  },
+  "This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "To se nedá vynechat."
+  },
+  "This changes the registered folder viewer. Finder still manages the desktop and macOS file dialogs. You can restore the previous viewer here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "To mění registrovaný prohlížeč složky. Finder Ovládá desktop a macOS Soubor dialogů. můžete obnovit předchozí prohlížeč zde."
+  },
+  "This changes which users can access the item. Export the existing ACL first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tyto změny, které uživatelé mohou přístup k položce. exportujte stávající ACL Nejprve pokud potřebujete zálohování."
+  },
+  "This folder is empty": {
+    "origin": "Files:EmptyFolder.Text",
+    "text": "Tato složka je prázdná."
+  },
+  "This location is not ready for transfers.": {
+    "origin": "M2M100-418M-local",
+    "text": "Toto místo není připraveno k převodu."
+  },
+  "This media format cannot be edited by the native exporter.": {
+    "origin": "M2M100-418M-local",
+    "text": "Tento mediální formát nemůže být upraven místním vývozcem."
+  },
+  "This metadata container uses indexed keys; edit it with its native media application.": {
+    "origin": "M2M100-418M-local",
+    "text": "Tento metadata kontejner používá indexované klíče; upravuje ji s jeho aplikací pro rodné médií."
+  },
+  "This operation cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "text": "Tato operace nelze vynechat."
+  },
+  "This removes the attribute from this file. Export its bytes first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "text": "To odstraní atribut z tohoto souboru. exportovat jeho bajty nejprve, pokud potřebujete zálohování."
+  },
+  "Thumbnail cache limit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tumbnail cache limity"
+  },
+  "Thumbnails": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thumbnailová"
+  },
+  "Thumbnails are cached in memory. The limit applies to decoded images.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "V paměti jsou zakódovány texty. limit se vztahuje na dekódované obrázky."
+  },
+  "Tiles": {
+    "origin": "M2M100-418M-local",
+    "text": "Tyly"
+  },
+  "Title": {
+    "origin": "Files:PropertyTitle",
+    "text": "Název"
+  },
+  "Today": {
+    "origin": "Files:Today",
+    "text": "Dnes"
+  },
+  "Toggle compact overlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "Přepnout kompaktní překrytí"
+  },
+  "Toggle details pane": {
+    "origin": "M2M100-418M-local",
+    "text": "Podrobné informace pane"
+  },
+  "Toggle dual pane": {
+    "origin": "M2M100-418M-local",
+    "text": "Dvojité panely"
+  },
+  "Toggle filter header": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "Přepnout filtrovací lištu"
+  },
+  "Toggle full screen": {
+    "origin": "M2M100-418M-local",
+    "text": "Srovnání plné obrazovky"
+  },
+  "Toggle selection": {
+    "origin": "Files:ToggleSelect",
+    "text": "Přepnout výběr"
+  },
+  "ToggleCompactOverlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "Přepnout kompaktní překrytí"
+  },
+  "ToggleFilterHeader": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "Přepnout filtrovací lištu"
+  },
+  "ToggleSelect": {
+    "origin": "Files:ToggleSelect",
+    "text": "Přepnout výběr"
+  },
+  "ToggleSidebar": {
+    "origin": "Files:ToggleSidebar",
+    "text": "Skrýt/Zobrazit postranní panel"
+  },
+  "ToggleToolbar": {
+    "origin": "Files:ToggleToolbar",
+    "text": "Přepnout panel nástrojů"
+  },
+  "Too many nested aliases.": {
+    "origin": "M2M100-418M-local",
+    "text": "Příliš mnoho ztracených aliancí."
+  },
+  "Tools": {
+    "origin": "M2M100-418M-local",
+    "text": "Nástroje"
+  },
+  "Top": {
+    "origin": "Files:Top",
+    "text": "Nahoru"
+  },
+  "Total size": {
+    "origin": "M2M100-418M-local",
+    "text": "Celková velikost"
+  },
+  "Transfer failed": {
+    "origin": "M2M100-418M-local",
+    "text": "Převod selhal"
+  },
+  "Trash": {
+    "origin": "Files:RecycleBin",
+    "text": "Koš"
+  },
+  "Trash on this Mac and connected volumes": {
+    "origin": "M2M100-418M-local",
+    "text": "Zkreslit na tomto Macu a připojených volbách"
+  },
+  "Trust": {
+    "origin": "M2M100-418M-local",
+    "text": "Důvěra"
+  },
+  "Trust this SSH server?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Věřte tomu SSH Na serveru ?"
+  },
+  "Trust verified fingerprints": {
+    "origin": "M2M100-418M-local",
+    "text": "Pověřené otisky prstů"
+  },
+  "Try again": {
+    "origin": "M2M100-418M-local",
+    "text": "Zkuste znovu"
+  },
+  "Under window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pod oknem"
+  },
+  "Undo": {
+    "origin": "Files:Undo",
+    "text": "Vrátit zpět"
+  },
+  "Undo file operation": {
+    "origin": "M2M100-418M-local",
+    "text": "Operace souborů"
+  },
+  "Undoing": {
+    "origin": "M2M100-418M-local",
+    "text": "Podívejte se"
+  },
+  "Unencrypted FTP": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "nekryptované FTP"
+  },
+  "Universal": {
+    "origin": "Files:Universal",
+    "text": "Univerzální"
+  },
+  "Unknown": {
+    "origin": "Files:Unknown",
+    "text": "Neznámý"
+  },
+  "Unknown shortcut command.": {
+    "origin": "M2M100-418M-local",
+    "text": "Neznámý krátký příkaz."
+  },
+  "Unpin": {
+    "origin": "M2M100-418M-local",
+    "text": "Unpinová"
+  },
+  "Unsafe archive link target.": {
+    "origin": "M2M100-418M-local",
+    "text": "Bezpečné archivní linkové cíle."
+  },
+  "Unstage": {
+    "origin": "M2M100-418M-local",
+    "text": "Nezaměstnanost"
+  },
+  "Unstaged selected files": {
+    "origin": "M2M100-418M-local",
+    "text": "Vymazané vybrané soubory"
+  },
+  "Unsupported Git action.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nepodporované Git A akce ."
+  },
+  "Unsupported archive entry name or listing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Nepodporované archivní název nebo seznam."
+  },
+  "Unsupported file type in transfer.": {
+    "origin": "M2M100-418M-local",
+    "text": "Nepodporovaný typ souboru v přenosu."
+  },
+  "Unsupported metadata container version.": {
+    "origin": "M2M100-418M-local",
+    "text": "Nepodporované metadata kontejner verze."
+  },
+  "Unsupported movie header.": {
+    "origin": "M2M100-418M-local",
+    "text": "Nepodporovaný filmový titulek."
+  },
+  "Untagged": {
+    "origin": "Files:Untagged",
+    "text": "Bez štítku"
+  },
+  "Up": {
+    "origin": "Files:Key.Up",
+    "text": "Nahoru"
+  },
+  "Up one level": {
+    "origin": "M2M100-418M-local",
+    "text": "Na jednu úroveň"
+  },
+  "Up one level · ⌘↑": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "na jednu úroveň; ⌘↑"
+  },
+  "Updates native macOS tags for all selected items. Leave empty to remove tags.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Aktualizace Native macOS Tagy pro všechny vybrané položky. nechat prázdné odstranit značky."
+  },
+  "Updating archive": {
+    "origin": "M2M100-418M-local",
+    "text": "Aktualizace archivu"
+  },
+  "Updating media metadata": {
+    "origin": "M2M100-418M-local",
+    "text": "Aktualizace mediálních metadata"
+  },
+  "Updating permissions": {
+    "origin": "M2M100-418M-local",
+    "text": "Aktualizace povolení"
+  },
+  "Upload": {
+    "origin": "M2M100-418M-local",
+    "text": "Upload"
+  },
+  "Upload failed. The original remains at %1$@; the pending upload is %2$@. %3$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Přehrávač neúspěšný. originál zůstává na %1$@A přitom nadcházející nahrávka %2$@. %3$@"
+  },
+  "Upload files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Přihlašování souborů..."
+  },
+  "Upload regular files or folders; symbolic links are not followed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Stáhnout pravidelné soubory nebo složky; symbolické odkazy nejsou následovány."
+  },
+  "Uploading": {
+    "origin": "M2M100-418M-local",
+    "text": "Stáhnout"
+  },
+  "Upstream Files issues": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Upstream soubory problémy"
+  },
+  "Use Copy and Paste or Download to transfer remote items.": {
+    "origin": "M2M100-418M-local",
+    "text": "Použijte kopírování a pastu nebo stahování k přenosu vzdálených položek."
+  },
+  "Use Copy or Extract to transfer archive contents.": {
+    "origin": "M2M100-418M-local",
+    "text": "Použijte kopírování nebo extrahování k přenosu obsahu archivu."
+  },
+  "Use MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Použití MacFiles"
+  },
+  "Use MacFiles for folder URLs?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Použití MacFiles Pro mapy URL?"
+  },
+  "Use MacFiles for folder URLs…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Použití MacFiles Pro mapy URL..."
+  },
+  "User": {
+    "origin": "M2M100-418M-local",
+    "text": "Uživatel"
+  },
+  "Username": {
+    "origin": "Files:CredentialDialogUserName.PlaceholderText",
+    "text": "Uživatelské jméno"
+  },
+  "Uses SSH keys or the password above. Host-key verification remains enabled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Použití SSH klíče nebo heslo výše. Host-key ověření zůstává povolené."
+  },
+  "Uses the on-device Apple Intelligence model when available. Otherwise searches the words you entered. No file content is sent to a server.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Používejte na zařízení model Apple Intelligence, když je k dispozici. jinak hledáte slova, které jste zadali. žádný obsah souboru není zaslán na server."
+  },
+  "Value": {
+    "origin": "M2M100-418M-local",
+    "text": "hodnota"
+  },
+  "Verified host keys saved for MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ověřené hostovací klíče jsou uloženy pro MacFiles."
+  },
+  "Vertical alignment": {
+    "origin": "Files:VerticalAlignment",
+    "text": "Vertikální zarovnání"
+  },
+  "Vertical split": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vertikální rozdělení"
+  },
+  "View": {
+    "origin": "M2M100-418M-local",
+    "text": "pohled"
+  },
+  "Volume": {
+    "origin": "M2M100-418M-local",
+    "text": "objem"
+  },
+  "Volume available": {
+    "origin": "M2M100-418M-local",
+    "text": "Dostupné množství"
+  },
+  "Volume capacity": {
+    "origin": "M2M100-418M-local",
+    "text": "objemová kapacita"
+  },
+  "Volume case sensitive": {
+    "origin": "M2M100-418M-local",
+    "text": "Objem citlivé případy"
+  },
+  "Volume read only": {
+    "origin": "M2M100-418M-local",
+    "text": "Volume číst pouze"
+  },
+  "Volumes must be at least 1 KiB.": {
+    "origin": "M2M100-418M-local",
+    "text": "Objem musí být alespoň 1 kB."
+  },
+  "Waiting to sync": {
+    "origin": "M2M100-418M-local",
+    "text": "Čekání na synchronizaci"
+  },
+  "Wallpaper could not be changed": {
+    "origin": "M2M100-418M-local",
+    "text": "Tapeta se nemůže změnit"
+  },
+  "Wallpaper slideshow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tapeta na slideshow"
+  },
+  "Wallpaper slideshow…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tapeta na slideshow..."
+  },
+  "Warn when changing file extensions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Upozornění při změně rozšíření souborů"
+  },
+  "When an item exists": {
+    "origin": "M2M100-418M-local",
+    "text": "Když existuje položka"
+  },
+  "When names conflict, choose Keep both, Replace, or Skip. Replaced versions and deleted items go to the macOS Trash. Undo and redo are retained across launches and shared by open windows.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "V případě, že jména konfliktují, vyberte možnost Zachovat obě, nahradit nebo přepnout. macOS Undo a redo jsou uchovávány přes starty a sdíleny otevřenými okny."
+  },
+  "Working…": {
+    "origin": "M2M100-418M-local",
+    "text": "Práce..."
+  },
+  "Writable": {
+    "origin": "M2M100-418M-local",
+    "text": "Písatelné"
+  },
+  "Writes embedded metadata. Image files may be re-encoded; the original remains recoverable with Undo. Audio and video edits preserve encoded tracks. Unsupported containers keep the original.": {
+    "origin": "M2M100-418M-local",
+    "text": "Píše vestavěné metadata. obrázkové soubory mohou být znovu šifrovány; originál zůstává obnovitelný s Undo. Audio a video edits zachovat šifrované stopy. Nepodporované kontejnery zachovat originál."
+  },
+  "Year": {
+    "origin": "Files:Year",
+    "text": "Rok"
+  },
+  "Yellow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Žlutá"
+  },
+  "Yes": {
+    "origin": "Files:Yes",
+    "text": "Ano"
+  },
+  "Yesterday": {
+    "origin": "Files:Yesterday",
+    "text": "Včera"
+  },
+  "You can restore these items with Undo or from the Trash.": {
+    "origin": "M2M100-418M-local",
+    "text": "Tyto položky můžete obnovit pomocí Undo nebo z Trash."
+  },
+  "Your files, your way.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vaše soubory, vaše cesta"
+  },
+  "Your pinned folders": {
+    "origin": "M2M100-418M-local",
+    "text": "Vaše vyčerpané složky"
+  },
+  "Zoom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Zoom"
+  },
+  "macOS aliases and symbolic links refer to a target path. Windows shortcut arguments and Run as administrator flags do not have alias equivalents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Aliasy a symbolické vazby odkazují na cílovou cestu. Windows Stručné argumenty a běh jako vlajky správce nemají alias ekvivalenty."
+  },
+  "macOS integration": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS integrace"
+  },
+  "macOS moved the previous version to Trash but did not return its location. The new version was not installed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS předchozí verzi přestěhoval na Trash, ale nevrátil své umístění."
+  },
+  "macOS returned %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Vraťte se %1$@."
+  },
+  "macOS uses Mach-O architectures and the application's minimum OS version. Windows compatibility modes, DPI overrides and administrator flags cannot be applied to a native Mac app.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Použití Mach-O Architektury a minimální verze aplikace OS. Windows Kompatibilní režimy, DPI přehrávače a vlajky správce nelze aplikovat na domácí aplikaci Mac."
+  }
+}

@@ -1,0 +1,4643 @@
+{
+  "%1$@ MB": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Mt"
+  },
+  "%1$@ Trash location(s) could not be read. macOS may require Full Disk Access for Trash. Items listed here remain available to manage.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Paikallinen sijainti(et) ei voi lukea. macOS voi vaatia Full Disk Accessia Trashille. tässä luetellut kohteet pysyvät käytettävissä hallintaan."
+  },
+  "%1$@ destination name(s) already exist": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Kohde nimi(et) on jo olemassa"
+  },
+  "%1$@ entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Sisäänkäynti"
+  },
+  "%1$@ folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ tiedostoja"
+  },
+  "%1$@ folders · %2$@ files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ tiedostot · %2$@ tiedostot"
+  },
+  "%1$@ folders · saves to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Tiedostot · säästää %2$@"
+  },
+  "%1$@ free of %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Vapaa on %2$@"
+  },
+  "%1$@ inaccessible": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Epäonnistuminen"
+  },
+  "%1$@ is assigned more than once.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Se on määrätty enemmän kuin kerran."
+  },
+  "%1$@ is reserved by macOS or the application window.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Se on varattu macOS tai sovelluksen ikkuna."
+  },
+  "%1$@ is reserved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Se on varattu."
+  },
+  "%1$@ item(s) ready to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ a) valmistautuminen valmiiksi %2$@"
+  },
+  "%1$@ selected items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Valitut kohteet"
+  },
+  "%1$@. Sync completion is managed by the provider and is not reported through public file metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@Sync-tulos hallinnoi toimittaja ja sitä ei raportoida julkisten tiedostojen metatietojen kautta."
+  },
+  "A different key is already trusted for this host. Review the changed key with the server administrator before replacing it.": {
+    "origin": "M2M100-418M-local",
+    "text": "Toinen avain on jo luotettu tähän hosttiin. Tarkista muutettu avain palvelimen ylläpitäjällä ennen sen korvaamista."
+  },
+  "A familiar place for everything.": {
+    "origin": "M2M100-418M-local",
+    "text": "Tunnettu paikka kaikkeen."
+  },
+  "A file operation is still running": {
+    "origin": "M2M100-418M-local",
+    "text": "Tiedoston toimintaa on edelleen käynnissä"
+  },
+  "A folder cannot be copied or moved inside itself.": {
+    "origin": "M2M100-418M-local",
+    "text": "Tiedostoa ei voi kopioida tai siirtää sisälle."
+  },
+  "A shortcut cannot target itself.": {
+    "origin": "M2M100-418M-local",
+    "text": "Lyhyt lyhyt ei voi kohdistaa itseään."
+  },
+  "ACL updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ACL Päivitetään"
+  },
+  "About": {
+    "origin": "Files:About",
+    "text": "Tietoja"
+  },
+  "About MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tietoja MacFiles"
+  },
+  "Accent color (hex)": {
+    "origin": "M2M100-418M-local",
+    "text": "Väri värit (hex)"
+  },
+  "Access control list — native macOS syntax": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pääsyvalvonnan luettelo - alkuperäinen macOS Syntaxiä"
+  },
+  "Access token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pääsy token"
+  },
+  "Accounts, authentication and sync preferences are managed by each provider’s native app. Removing a saved folder here does not unlink its account or delete files.": {
+    "origin": "M2M100-418M-local",
+    "text": "Tilit, todentaminen ja synkronointiasetukset hallinnoidaan kunkin palveluntarjoajan alkuperäisen sovelluksen kautta. tallennetun tiedoston poistaminen ei liitä tiliään tai poista tiedostoja."
+  },
+  "Action unavailable": {
+    "origin": "M2M100-418M-local",
+    "text": "Toiminta ei ole saatavilla"
+  },
+  "Actions": {
+    "origin": "Files:Actions",
+    "text": "Toiminnot"
+  },
+  "Adaptive": {
+    "origin": "Files:Adaptive",
+    "text": "Mukautuva asettelu"
+  },
+  "Adaptive layout": {
+    "origin": "Files:Adaptive",
+    "text": "Mukautuva asettelu"
+  },
+  "Add": {
+    "origin": "Files:Add",
+    "text": "Lisää"
+  },
+  "Add cloud folder…": {
+    "origin": "M2M100-418M-local",
+    "text": "Lisää pilvipalkka"
+  },
+  "Add current selection": {
+    "origin": "M2M100-418M-local",
+    "text": "Lisää nykyinen valinta"
+  },
+  "Add files…": {
+    "origin": "M2M100-418M-local",
+    "text": "Lisää tiedostoja..."
+  },
+  "Add folder…": {
+    "origin": "M2M100-418M-local",
+    "text": "Lisätään tiedostoa..."
+  },
+  "Add images…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lisää kuvia..."
+  },
+  "Add prefix": {
+    "origin": "M2M100-418M-local",
+    "text": "Lisää Prefix"
+  },
+  "Add saved tag": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lisää pelastettua merkkiä"
+  },
+  "Add selection to shelf": {
+    "origin": "M2M100-418M-local",
+    "text": "Lisää valinta shelfille"
+  },
+  "Add startup folders…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lisää Startup -levyjä"
+  },
+  "Add suffix": {
+    "origin": "M2M100-418M-local",
+    "text": "Lisää suffix"
+  },
+  "Add to library": {
+    "origin": "M2M100-418M-local",
+    "text": "Lisää kirjastoon"
+  },
+  "Add to shelf": {
+    "origin": "M2M100-418M-local",
+    "text": "Lisää Shelf"
+  },
+  "Advanced": {
+    "origin": "Files:Advanced",
+    "text": "Lisäasetukset"
+  },
+  "Advanced search": {
+    "origin": "M2M100-418M-local",
+    "text": "Edistyneet etsinnät"
+  },
+  "Advanced search…": {
+    "origin": "M2M100-418M-local",
+    "text": "Edistyneet hakut..."
+  },
+  "Album": {
+    "origin": "M2M100-418M-local",
+    "text": "Albumi"
+  },
+  "Allocated size": {
+    "origin": "M2M100-418M-local",
+    "text": "Määritelty koko"
+  },
+  "Already assigned to %1$@. Remove that assignment first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "jo määritelty %1$@Poista tämä tehtävä ensin."
+  },
+  "Always show operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Aina näytetään toimintaa"
+  },
+  "Always visible": {
+    "origin": "Files:AlwaysVisible",
+    "text": "Aina näkyvissä"
+  },
+  "Always-visible items are combined with the current selection context. Cloud items add their own controls.": {
+    "origin": "M2M100-418M-local",
+    "text": "Aina näkyvät kohteet yhdistyvät nykyiseen valintaympäristöön. pilvipisteiden omat ohjaukset lisätään."
+  },
+  "Ambiguous archive listing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kummallinen arkistotunnus luetteloon."
+  },
+  "Ambiguous media metadata containers.": {
+    "origin": "M2M100-418M-local",
+    "text": "Median metatietokoneet ovat monimutkaisia."
+  },
+  "Any": {
+    "origin": "M2M100-418M-local",
+    "text": "Jokainen"
+  },
+  "App language (restart to apply)": {
+    "origin": "M2M100-418M-local",
+    "text": "Sovelluskieli (käytetään uudelleen sovellukseen)"
+  },
+  "Appearance": {
+    "origin": "Files:Appearance",
+    "text": "Ulkoasu"
+  },
+  "Application": {
+    "origin": "Files:Application",
+    "text": "Sovellus"
+  },
+  "Application unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sovellus ei ole saatavilla"
+  },
+  "Applies owner, group, and other permissions to the selected items only.": {
+    "origin": "M2M100-418M-local",
+    "text": "Sovelletaan omistajaa, ryhmää ja muita lupia vain valittuihin kohteisiin."
+  },
+  "Apply": {
+    "origin": "M2M100-418M-local",
+    "text": "sovelletaan"
+  },
+  "Apply ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "sovelletaan ACL…"
+  },
+  "Apply UID %1$@ and GID %2$@ to this item only.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "sovelletaan UID %1$@ ja GID %2$@ Vain tähän kohtaan."
+  },
+  "Apply attributes": {
+    "origin": "M2M100-418M-local",
+    "text": "Käytä ominaisuuksia"
+  },
+  "Apply file permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Soveltaa tiedostojen lupia"
+  },
+  "Apply owner/group…": {
+    "origin": "M2M100-418M-local",
+    "text": "Hakemuksen omistaja/ryhmä"
+  },
+  "Approve MacFiles in Login Items in System Settings.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hyväksyntä MacFiles Login kohteet järjestelmän asetuksissa."
+  },
+  "Archive": {
+    "origin": "Files:Archive",
+    "text": "Arkisto"
+  },
+  "Archive attempts to write through a link or file: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arkisto yrittää kirjoittaa linkin tai tiedoston kautta: %1$@"
+  },
+  "Archive contains an unsafe path: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arkisto sisältää epävarman tien: %1$@"
+  },
+  "Archive contains an unsafe symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Arkisto sisältää epävarman symbolisen linkin."
+  },
+  "Archive editing cannot traverse symbolic links.": {
+    "origin": "M2M100-418M-local",
+    "text": "Arkiston muokkaus ei voi ylittää symbolisia linkkejä."
+  },
+  "Archive link escapes its destination.": {
+    "origin": "M2M100-418M-local",
+    "text": "Arkiston linkki pakenee kohteesta."
+  },
+  "Archive link target is too long.": {
+    "origin": "M2M100-418M-local",
+    "text": "Arkkitehtuurin linkit ovat liian pitkät."
+  },
+  "Archive operation failed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Arkiston toiminta epäonnistui."
+  },
+  "Archive password (if needed)": {
+    "origin": "M2M100-418M-local",
+    "text": "Arkiston salasanan (jos tarvitaan)"
+  },
+  "Archive password (leave blank if unencrypted)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arkiston salasana (joko ei ole salattu)"
+  },
+  "Archive passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arkiston salasanat eivät voi sisältää linja-aukoja tai NUL ja hahmoja."
+  },
+  "Archive path escapes the destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arkistotulokset lähtevät kohteeseen: %1$@"
+  },
+  "Archive root": {
+    "origin": "M2M100-418M-local",
+    "text": "Arkkitehti root"
+  },
+  "Archive symbolic link escapes the destination.": {
+    "origin": "M2M100-418M-local",
+    "text": "Arkiston symbolinen linkki pakenee kohteeseen."
+  },
+  "Arrange panes side by side": {
+    "origin": "M2M100-418M-local",
+    "text": "Järjestä paneelit sivulta sivulta"
+  },
+  "Arrange panes top and bottom": {
+    "origin": "M2M100-418M-local",
+    "text": "Järjestä paneelit ylä- ja alhaalla"
+  },
+  "Artist": {
+    "origin": "Files:Artist",
+    "text": "Esittäjä"
+  },
+  "Artist / author": {
+    "origin": "M2M100-418M-local",
+    "text": "Taiteilija / kirjailija"
+  },
+  "Ascending": {
+    "origin": "Files:Ascending",
+    "text": "Nouseva"
+  },
+  "Attribute name": {
+    "origin": "M2M100-418M-local",
+    "text": "Ominaisuus nimi"
+  },
+  "Attributes": {
+    "origin": "Files:Attributes",
+    "text": "Määritteet"
+  },
+  "Attributes updated.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ominaisuudet päivitetään."
+  },
+  "Auto-fit columns": {
+    "origin": "Files:AutoFitColumns",
+    "text": "Muuta sarakkeiden kokoa automaattisesti"
+  },
+  "AutoFitColumns": {
+    "origin": "Files:AutoFitColumns",
+    "text": "Muuta sarakkeiden kokoa automaattisesti"
+  },
+  "Available locally": {
+    "origin": "M2M100-418M-local",
+    "text": "Käytettävissä paikallisesti"
+  },
+  "Back": {
+    "origin": "Files:Back",
+    "text": "Takaisin (Alt+vasen nuoli)"
+  },
+  "Back · ⌘[": {
+    "origin": "Files:Back",
+    "text": "Takaisin (Alt+vasen nuoli) · ⌘["
+  },
+  "Backdrop material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Backdrop materiaali"
+  },
+  "Backdrop materials use macOS visual effects. Standard system controls and monospaced content retain their system fonts.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Takapohjan materiaalin käyttö macOS Vakiokäyttöiset järjestelmäohjaimet ja yksilöllinen sisältö säilyttävät järjestelmän kirjaimet."
+  },
+  "Background": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "taustat"
+  },
+  "Background color (blank = system)": {
+    "origin": "M2M100-418M-local",
+    "text": "Taustan väri (valkoinen = järjestelmä)"
+  },
+  "Background image": {
+    "origin": "Files:BackgroundImage",
+    "text": "Taustakuva"
+  },
+  "Background image and status": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Taustakuva ja tilanne"
+  },
+  "Background image opacity": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Taustakuva opacity"
+  },
+  "Background mode keeps the menu bar icon available so you can reopen MacFiles or quit it.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tausta-tila pitää valikon sarjan ikonin käytettävissä, jotta voit avata uudelleen MacFiles Tai lopeta se."
+  },
+  "Background preset": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Taustakehitys Preset"
+  },
+  "Base": {
+    "origin": "M2M100-418M-local",
+    "text": "pohjan"
+  },
+  "Base64": {
+    "origin": "M2M100-418M-local",
+    "text": "Perus64"
+  },
+  "Based on the Files Community explorer’s shell, MVVM, command, and storage architecture. Built with Swift, AppKit, and SwiftUI.": {
+    "origin": "M2M100-418M-local",
+    "text": "Perustuu tiedostojen yhteisön tutkija shell, MVVM, komento ja varastointi arkkitehtuuri. Rakennettu Swift, AppKit, ja SwiftUI."
+  },
+  "Binary": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Binaryä"
+  },
+  "Blue": {
+    "origin": "Files:Blue",
+    "text": "Sininen"
+  },
+  "Bottom": {
+    "origin": "Files:Bottom",
+    "text": "Alhaalla"
+  },
+  "Browse all tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Näytä kaikki tags"
+  },
+  "Browse archive": {
+    "origin": "M2M100-418M-local",
+    "text": "Browse arkisto"
+  },
+  "Browse archive…": {
+    "origin": "M2M100-418M-local",
+    "text": "Browse arkistot..."
+  },
+  "Browse tagged items…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse tagged kohteet..."
+  },
+  "Browsing": {
+    "origin": "M2M100-418M-local",
+    "text": "selaaminen"
+  },
+  "Browsing interactions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browsing vuorovaikutukset"
+  },
+  "Bulk rename": {
+    "origin": "Files:BulkRename",
+    "text": "Usean kohteen uudelleennimeäminen"
+  },
+  "Bulk rename requires items from one folder.": {
+    "origin": "M2M100-418M-local",
+    "text": "Bulk rename vaatii kohteita yhdestä kaapista."
+  },
+  "Bulk rename…": {
+    "origin": "Files:BulkRename",
+    "text": "Usean kohteen uudelleennimeäminen"
+  },
+  "Bytes": {
+    "origin": "Files:Bytes",
+    "text": "Tavua"
+  },
+  "Cache thumbnails": {
+    "origin": "Files:CacheThumbnails",
+    "text": "Tallenna pikkukuvat välimuistiin"
+  },
+  "Calculate combined size": {
+    "origin": "M2M100-418M-local",
+    "text": "Laske yhdistetty koko"
+  },
+  "Calculate folder size": {
+    "origin": "M2M100-418M-local",
+    "text": "Lasketaan tiedoston koko"
+  },
+  "Calculate folder sizes": {
+    "origin": "Files:CalculateFolderSizes",
+    "text": "Laske kansioiden koot"
+  },
+  "Calculate hashes…": {
+    "origin": "M2M100-418M-local",
+    "text": "Lasketaan hashit."
+  },
+  "Calculate total size": {
+    "origin": "M2M100-418M-local",
+    "text": "Lasketaan koko"
+  },
+  "Calculating hashes…": {
+    "origin": "M2M100-418M-local",
+    "text": "Laskevat hashit..."
+  },
+  "Camouflage": {
+    "origin": "Files:Camouflage",
+    "text": "Naamiointi"
+  },
+  "Cancel": {
+    "origin": "Files:Cancel",
+    "text": "Peruuta"
+  },
+  "Cancel calculation": {
+    "origin": "M2M100-418M-local",
+    "text": "Peruuta laskelmat"
+  },
+  "Cancel operation": {
+    "origin": "M2M100-418M-local",
+    "text": "Toiminnan peruuttaminen"
+  },
+  "Cancel queued operation": {
+    "origin": "M2M100-418M-local",
+    "text": "Peruutettu operaatio"
+  },
+  "Cancelled": {
+    "origin": "M2M100-418M-local",
+    "text": "peruutettu"
+  },
+  "Cancelled before starting.": {
+    "origin": "M2M100-418M-local",
+    "text": "Peruuta ennen aloittamista."
+  },
+  "Cancelled before starting. No files were changed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Peruuta ennen aloittamista. Ei tiedostoja muutettu."
+  },
+  "Cancelling the current operation…": {
+    "origin": "M2M100-418M-local",
+    "text": "Nykyisen toiminnan peruuttaminen..."
+  },
+  "Cannot allocate archive entry.": {
+    "origin": "M2M100-418M-local",
+    "text": "Arkistotuloja ei voi jakaa."
+  },
+  "Cannot allocate archive reader.": {
+    "origin": "M2M100-418M-local",
+    "text": "Arkistojen lukijan ei voi määrittää."
+  },
+  "Cannot allocate archive writer.": {
+    "origin": "M2M100-418M-local",
+    "text": "Arkistotyyppiä ei voi kirjoittaa."
+  },
+  "Cannot archive special device: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ei voi arkistoida erityisiä laitteita: %1$@"
+  },
+  "Cannot create archive entry: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ei voi luoda arkistoa: %1$@"
+  },
+  "Cannot create subprocess output file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Et voi luoda alihankkitiedostoa."
+  },
+  "Cannot decode image.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kuvia ei voi tallentaa."
+  },
+  "Cannot prepare SSH authentication.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ei voi valmistautua SSH ja todentaminen ."
+  },
+  "Cannot prepare command input.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ei voi valmistaa komennon sisäänkäyntiä."
+  },
+  "Cannot read %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ei voi lukea %1$@"
+  },
+  "Cannot read image metadata.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kuvan metatietoja ei voi lukea."
+  },
+  "Cannot remove the archive root.": {
+    "origin": "M2M100-418M-local",
+    "text": "Arkiston juuret eivät voi poistaa."
+  },
+  "Cannot rename the archive root.": {
+    "origin": "M2M100-418M-local",
+    "text": "Arkiston juuret eivät voi nimittää uudelleen."
+  },
+  "Cannot restore archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ei voi palauttaa arkistoa kova linkki."
+  },
+  "Cannot rotate image.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kuvia ei voi kääntää."
+  },
+  "Center": {
+    "origin": "Files:Center",
+    "text": "Keskitetty"
+  },
+  "Change file extension?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vaihda tiedoston laajennus?"
+  },
+  "Change ownership?": {
+    "origin": "M2M100-418M-local",
+    "text": "Vaihda omistusta?"
+  },
+  "Change provider app…": {
+    "origin": "M2M100-418M-local",
+    "text": "Vaihda palveluntarjoajan sovellusta"
+  },
+  "Change the shortcut target?": {
+    "origin": "M2M100-418M-local",
+    "text": "Vaihdako lyhytaikaista tavoitetta?"
+  },
+  "Changes": {
+    "origin": "M2M100-418M-local",
+    "text": "Muutokset"
+  },
+  "Changing the extension may prevent the file from opening in its usual application.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Laajennuksen muuttaminen voi estää tiedoston avaamasta sen tavallisessa sovelluksessa."
+  },
+  "Choose IDE…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Valitse tästä..."
+  },
+  "Choose a destination to restore": {
+    "origin": "M2M100-418M-local",
+    "text": "Valitse kohde palauttaa"
+  },
+  "Choose a file to calculate hashes.": {
+    "origin": "M2M100-418M-local",
+    "text": "Valitse tiedosto laskemaan hashit."
+  },
+  "Choose a new destination and a repository URL.": {
+    "origin": "M2M100-418M-local",
+    "text": "Valitse uusi kohde ja varasto URL."
+  },
+  "Choose a regular cloud file to download.": {
+    "origin": "M2M100-418M-local",
+    "text": "Valitse säännöllinen pilvitiedosto ladata."
+  },
+  "Choose a single file or folder to customize its icon.": {
+    "origin": "M2M100-418M-local",
+    "text": "Valitse yksittäinen tiedosto tai kaappi mukauttamaan sen ikonin."
+  },
+  "Choose a supported single-frame image (JPEG, PNG, TIFF or HEIC).": {
+    "origin": "M2M100-418M-local",
+    "text": "Valitse tuettu yksisuuntainen kuva (JPEG, PNG, TIFF tai HEIC)."
+  },
+  "Choose a template file": {
+    "origin": "M2M100-418M-local",
+    "text": "Valitse mallitiedosto"
+  },
+  "Choose custom icon…": {
+    "origin": "M2M100-418M-local",
+    "text": "Valitse ikoni..."
+  },
+  "Choose folder…": {
+    "origin": "M2M100-418M-local",
+    "text": "Valitse lomakkeen"
+  },
+  "Choose one item to edit ownership or ACLs.": {
+    "origin": "M2M100-418M-local",
+    "text": "Valitse yksi elementti omistuksen tai ACL: n muokkaamiseen."
+  },
+  "Choose one item to view extended attributes.": {
+    "origin": "M2M100-418M-local",
+    "text": "Valitse yksi elementti, jonka avulla voit tarkastella laajennettuja ominaisuuksia."
+  },
+  "Choose provider app…": {
+    "origin": "M2M100-418M-local",
+    "text": "Valitse palveluntarjoaja App..."
+  },
+  "Clear": {
+    "origin": "Files:Key.Clear",
+    "text": "Tyhjennä"
+  },
+  "Clear finished": {
+    "origin": "M2M100-418M-local",
+    "text": "selkeästi valmis"
+  },
+  "Clear selection": {
+    "origin": "Files:ClearSelection",
+    "text": "Tyhjennä valinta"
+  },
+  "Clear thumbnail cache": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pahoin pimeä kaappi"
+  },
+  "Clone": {
+    "origin": "M2M100-418M-local",
+    "text": "kloonit"
+  },
+  "Clone repository": {
+    "origin": "M2M100-418M-local",
+    "text": "Klonien säilytys"
+  },
+  "Clone…": {
+    "origin": "M2M100-418M-local",
+    "text": "Clone on..."
+  },
+  "Close": {
+    "origin": "Files:Close",
+    "text": "Sulje"
+  },
+  "Close details": {
+    "origin": "M2M100-418M-local",
+    "text": "Lähellä yksityiskohtia"
+  },
+  "Close other tabs": {
+    "origin": "Files:CloseOtherTabs",
+    "text": "Sulje muut välilehdet"
+  },
+  "Close tab": {
+    "origin": "Files:CloseTab",
+    "text": "Sulje välilehti"
+  },
+  "Close tabs to the left": {
+    "origin": "Files:CloseTabsToTheLeft",
+    "text": "Sulje vasemmalla olevat välilehdet"
+  },
+  "Close tabs to the right": {
+    "origin": "Files:CloseTabsToTheRight",
+    "text": "Sulje oikealla olevat välilehdet"
+  },
+  "Close window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lähellä ikkunaa"
+  },
+  "Cloud": {
+    "origin": "M2M100-418M-local",
+    "text": "pilvi"
+  },
+  "Cloud accounts": {
+    "origin": "M2M100-418M-local",
+    "text": "pilven tilit"
+  },
+  "Cloud accounts and folders": {
+    "origin": "M2M100-418M-local",
+    "text": "pilven tilit ja tiedostot"
+  },
+  "Cloud availability and synchronization": {
+    "origin": "M2M100-418M-local",
+    "text": "Pilvipalvelut ja synkronointi"
+  },
+  "Cloud folder name": {
+    "origin": "M2M100-418M-local",
+    "text": "pilvipalvelun nimi"
+  },
+  "Cloud items": {
+    "origin": "M2M100-418M-local",
+    "text": "pilvipisteitä"
+  },
+  "Cloud provider": {
+    "origin": "M2M100-418M-local",
+    "text": "pilvipalveluntarjoaja"
+  },
+  "Cloud providers installed on this Mac appear in the sidebar through their native File Provider folders.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tässä Macissa asennettujen pilvipalvelujen tarjoajat näkyvät sivuparissa kotimaan kautta File Provider Kansiot"
+  },
+  "Cloud status": {
+    "origin": "M2M100-418M-local",
+    "text": "pilven tilanne"
+  },
+  "Cloud status…": {
+    "origin": "M2M100-418M-local",
+    "text": "pilven tilanne..."
+  },
+  "Cloud storage": {
+    "origin": "M2M100-418M-local",
+    "text": "pilven varastointi"
+  },
+  "Collapse folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Putoaminen folderissa"
+  },
+  "Collapsed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "hajoaa"
+  },
+  "Collect file references from different folders, then copy or move them together.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kerää tiedostojen viittauksia eri kaapeleista, kopioi tai siirtää ne yhteen."
+  },
+  "Columns": {
+    "origin": "Files:Columns",
+    "text": "Sarakkeet"
+  },
+  "Columns layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Kolumni layout"
+  },
+  "Command": {
+    "origin": "M2M100-418M-local",
+    "text": "komento"
+  },
+  "Command output exceeded 16 MiB; no truncated result was accepted.": {
+    "origin": "M2M100-418M-local",
+    "text": "Komandaalituotanto ylitti 16 MiB: n; ei otettu vastaan mitään tulosta."
+  },
+  "Command palette": {
+    "origin": "M2M100-418M-local",
+    "text": "Komandaatti paletti"
+  },
+  "Command palette…": {
+    "origin": "M2M100-418M-local",
+    "text": "Komento paletti ..."
+  },
+  "Commit created": {
+    "origin": "M2M100-418M-local",
+    "text": "Komiteat luodaan"
+  },
+  "Commit message": {
+    "origin": "Files:CommitMessage",
+    "text": "Vahvistusviesti"
+  },
+  "Commit staged": {
+    "origin": "M2M100-418M-local",
+    "text": "Komiteat vaihtuvat"
+  },
+  "Compact file rows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Compact tiedostoja"
+  },
+  "Compare these SHA-256 fingerprints with your server administrator before trusting %1$@:%2$@.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vertaa näitä SHA-256 sormenjäljet palvelimen ylläpitäjän kanssa ennen luottamusta %1$@:%2$@.\n\n"
+  },
+  "Compatibility": {
+    "origin": "Files:Compatibility",
+    "text": "Yhteensopivuus"
+  },
+  "Completed": {
+    "origin": "M2M100-418M-local",
+    "text": "Täydellinen"
+  },
+  "Completed with errors": {
+    "origin": "M2M100-418M-local",
+    "text": "Täytyy virheitä"
+  },
+  "Compress": {
+    "origin": "Files:Compress",
+    "text": "Pakkaa"
+  },
+  "CompressIntoSevenZip": {
+    "origin": "Files:CompressIntoSevenZip",
+    "text": "Luo 7z-arkisto"
+  },
+  "CompressIntoZip": {
+    "origin": "Files:CompressIntoZip",
+    "text": "Luo zip-arkisto"
+  },
+  "Compressed movie headers require remuxing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kompressiiviset elokuvan päällyt vaativat remuxing."
+  },
+  "Compressing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kompressointi"
+  },
+  "Compress…": {
+    "origin": "Files:Compress",
+    "text": "Pakkaa"
+  },
+  "Confirm moving files to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "vahvistaa tiedostojen siirtäminen Trash"
+  },
+  "Confirmations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "vahvistukset"
+  },
+  "Conflicts": {
+    "origin": "M2M100-418M-local",
+    "text": "konflikteja"
+  },
+  "Connect": {
+    "origin": "M2M100-418M-local",
+    "text": "Yhteys"
+  },
+  "Connect to server": {
+    "origin": "M2M100-418M-local",
+    "text": "Liity palvelimeen"
+  },
+  "Connect to server…": {
+    "origin": "M2M100-418M-local",
+    "text": "Liity palvelimeen..."
+  },
+  "Connect to the server first.": {
+    "origin": "M2M100-418M-local",
+    "text": "Liity ensin palvelimeen."
+  },
+  "Connected folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Liittyneet tiedostot"
+  },
+  "Connected to this Mac": {
+    "origin": "M2M100-418M-local",
+    "text": "Yhteys tähän Mac"
+  },
+  "Contains UTF-8 text": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sisältö UTF-8 teksti"
+  },
+  "Content search includes text, PDF, Office and OpenDocument files. Unsupported, locked and online-only files are counted as skipped.": {
+    "origin": "M2M100-418M-local",
+    "text": "Sisällön etsiminen sisältää tekstitiedostoja, PDF-tiedostoja, Office- ja OpenDocument -tiedostoja. tukemattomat, lukitut ja vain verkossa olevat tiedostot lasketaan luopuneiksi."
+  },
+  "Content type": {
+    "origin": "M2M100-418M-local",
+    "text": "Sisällön tyyppi"
+  },
+  "Contents": {
+    "origin": "M2M100-418M-local",
+    "text": "Sisältö"
+  },
+  "Context": {
+    "origin": "M2M100-418M-local",
+    "text": "kontekstista"
+  },
+  "Context menu": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kontekstin menu"
+  },
+  "Copy": {
+    "origin": "Files:Copy",
+    "text": "Kopioi"
+  },
+  "Copy app version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kopioi sovellusversio"
+  },
+  "Copy hashes": {
+    "origin": "M2M100-418M-local",
+    "text": "Kopioi hashit"
+  },
+  "Copy here": {
+    "origin": "M2M100-418M-local",
+    "text": "Kopioi täällä"
+  },
+  "Copy macOS version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kopioi macOS Versio"
+  },
+  "Copy path": {
+    "origin": "Files:CopyPath",
+    "text": "Kopioi polku"
+  },
+  "Copy report": {
+    "origin": "M2M100-418M-local",
+    "text": "Kopioi raportti"
+  },
+  "Copy selected": {
+    "origin": "M2M100-418M-local",
+    "text": "Valittu kopio"
+  },
+  "CopyItemPathWithQuotes": {
+    "origin": "Files:CopyItemPathWithQuotes",
+    "text": "Kopioi valittu kohdepolku lainausmerkein"
+  },
+  "CopyPathDescription": {
+    "origin": "Files:CopyPathDescription",
+    "text": "Kopioi nykyisen hakemiston polku"
+  },
+  "CopyPathWithQuotes": {
+    "origin": "Files:CopyPathWithQuotes",
+    "text": "Kopioi polku lainausmerkeillä"
+  },
+  "Copying": {
+    "origin": "M2M100-418M-local",
+    "text": "Kopioi"
+  },
+  "Copying archive entries": {
+    "origin": "M2M100-418M-local",
+    "text": "Kopioi arkistotuloja"
+  },
+  "Copying files": {
+    "origin": "M2M100-418M-local",
+    "text": "Kopioi tiedostoja"
+  },
+  "Copyright": {
+    "origin": "Files:PropertyCopyright",
+    "text": "Tekijänoikeus"
+  },
+  "Could not find an available filename.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ei löydy käytettävissä olevaa nimitystä."
+  },
+  "Could not prepare archive contents.": {
+    "origin": "M2M100-418M-local",
+    "text": "Arkkitehtuurin sisältöä ei voi valmistaa."
+  },
+  "Could not remove GitHub credentials from Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "En voinut poistaa GitHub-luottoluokituksia Keychain."
+  },
+  "Could not save GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub-tunnustuksia ei voi tallentaa Keychain."
+  },
+  "Could not save the edited image; the original was kept.": {
+    "origin": "M2M100-418M-local",
+    "text": "Edistettyä kuvaa ei voitu tallentaa; alkuperäistä säilytettiin."
+  },
+  "Could not save the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Et voi tallentaa salasanaa Keychain (%1$@)."
+  },
+  "Could not update GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub-luottamus ei voi päivittää Keychain."
+  },
+  "Could not update the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Et voi päivittää salasanaa Keychain (%1$@)."
+  },
+  "Couldn’t change the folder viewer": {
+    "origin": "M2M100-418M-local",
+    "text": "En voinut muuttaa kaapelin katsojaa"
+  },
+  "Couldn’t eject volume": {
+    "origin": "M2M100-418M-local",
+    "text": "Ei voinut tuottaa määriä"
+  },
+  "Couldn’t open files": {
+    "origin": "M2M100-418M-local",
+    "text": "Ei voi avata tiedostoja"
+  },
+  "Couldn’t open folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Ei voi avata tiedostoa"
+  },
+  "Couldn’t open this file": {
+    "origin": "M2M100-418M-local",
+    "text": "En voinut avata tätä tiedostoa"
+  },
+  "Couldn’t open this location": {
+    "origin": "M2M100-418M-local",
+    "text": "Tätä paikkaa ei voi avata"
+  },
+  "Couldn’t resolve alias": {
+    "origin": "M2M100-418M-local",
+    "text": "Elias ei voi ratkaista"
+  },
+  "Couldn’t restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "En voinut käynnistää uudelleen MacFiles"
+  },
+  "Create": {
+    "origin": "Files:Create",
+    "text": "Luo"
+  },
+  "Create a GitHub token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Luo GitHub-toki"
+  },
+  "Create alias": {
+    "origin": "M2M100-418M-local",
+    "text": "Luo alias"
+  },
+  "Create archive": {
+    "origin": "Files:CreateArchive",
+    "text": "Luo arkisto"
+  },
+  "Create library…": {
+    "origin": "Files:FolderWidgetCreateNewLibraryDialogTitleText",
+    "text": "Luo kirjasto"
+  },
+  "Create shortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "Luo pikakuvake"
+  },
+  "Create zip archive": {
+    "origin": "Files:CompressIntoZip",
+    "text": "Luo zip-arkisto"
+  },
+  "CreateFolderWithSelection": {
+    "origin": "Files:CreateFolderWithSelection",
+    "text": "Luo kansio valinnalla"
+  },
+  "CreateShortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "Luo pikakuvake"
+  },
+  "CreateShortcutFromDialogDescription": {
+    "origin": "Files:CreateShortcutFromDialogDescription",
+    "text": "Luo uusi pikakuvake mihin tahansa kohteeseen"
+  },
+  "Created": {
+    "origin": "Files:PropertiesCreated.Text",
+    "text": "Luotu:"
+  },
+  "Creating alias": {
+    "origin": "M2M100-418M-local",
+    "text": "Luo alias"
+  },
+  "Creating from template": {
+    "origin": "M2M100-418M-local",
+    "text": "Temppelin luominen"
+  },
+  "Custom": {
+    "origin": "Files:Custom",
+    "text": "Mukautettu"
+  },
+  "Custom icon applied.": {
+    "origin": "M2M100-418M-local",
+    "text": "Käytettävissä oleva ikoni."
+  },
+  "Custom tag color (hex, optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Valittu väri (hex, valinnainen)"
+  },
+  "Custom theme": {
+    "origin": "M2M100-418M-local",
+    "text": "Käsitelty teema"
+  },
+  "Customization": {
+    "origin": "Files:Customization",
+    "text": "Mukauttaminen"
+  },
+  "Customize toolbar": {
+    "origin": "Files:CustomizeToolbar",
+    "text": "Mukauta työkalupalkkia"
+  },
+  "Customize toolbar…": {
+    "origin": "Files:CustomizeToolbar",
+    "text": "Mukauta työkalupalkkia"
+  },
+  "Cut": {
+    "origin": "Files:Cut",
+    "text": "Leikkaa"
+  },
+  "Dark": {
+    "origin": "Files:DarkTheme",
+    "text": "Tumma"
+  },
+  "Date created": {
+    "origin": "Files:DateCreated",
+    "text": "Luontipäivämäärä"
+  },
+  "Date deleted": {
+    "origin": "Files:DateDeleted",
+    "text": "Poistopäivämäärä"
+  },
+  "Date format": {
+    "origin": "Files:DateFormat",
+    "text": "Päivämäärän muoto"
+  },
+  "Date modified": {
+    "origin": "Files:DateModifiedLowerCase",
+    "text": "Muokkauspäivämäärä"
+  },
+  "Day": {
+    "origin": "Files:Day",
+    "text": "Päivä"
+  },
+  "Decimal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Decimalismi"
+  },
+  "Decrease size": {
+    "origin": "Files:DecreaseSize",
+    "text": "Pienennä kokoa"
+  },
+  "Default": {
+    "origin": "Files:Default",
+    "text": "Oletus"
+  },
+  "Default folder layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Oletusarvoinen folder layout"
+  },
+  "Default grouping": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Väärä ryhmittyminen"
+  },
+  "Default save location": {
+    "origin": "M2M100-418M-local",
+    "text": "Valitse sijainti"
+  },
+  "Default sorting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Valittu sortointi"
+  },
+  "Delete": {
+    "origin": "Files:Delete",
+    "text": "Poista"
+  },
+  "Delete permanently": {
+    "origin": "Files:DeletePermanently",
+    "text": "Poista pysyvästi"
+  },
+  "Delete saved tag and remove it from indexed files?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Poista tallennetut merkinnät ja poista ne indeksitetuista tiedostoista?"
+  },
+  "Delete selected permanently…": {
+    "origin": "M2M100-418M-local",
+    "text": "Poista valittu pysyvästi..."
+  },
+  "Deleting permanently": {
+    "origin": "M2M100-418M-local",
+    "text": "Poista pysyvästi"
+  },
+  "Description": {
+    "origin": "M2M100-418M-local",
+    "text": "kuvaus"
+  },
+  "Desktop": {
+    "origin": "Files:Desktop",
+    "text": "Työpöytä"
+  },
+  "Destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tavoitteena on: %1$@"
+  },
+  "Detached HEAD": {
+    "origin": "M2M100-418M-local",
+    "text": "Päätöntä"
+  },
+  "Details": {
+    "origin": "Files:Details",
+    "text": "Tiedot"
+  },
+  "Details layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Yksityiskohta layout"
+  },
+  "Details pane": {
+    "origin": "M2M100-418M-local",
+    "text": "Yksityiskohta pane"
+  },
+  "Developer tools": {
+    "origin": "Files:DevTools",
+    "text": "Kehittäjän työkalut"
+  },
+  "Development": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kehitys"
+  },
+  "Diagnostics": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Diagnoosi"
+  },
+  "Diagnostics opened": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Diagnoosi on avattu"
+  },
+  "Disconnect": {
+    "origin": "M2M100-418M-local",
+    "text": "Yhteys pois"
+  },
+  "Documents": {
+    "origin": "Files:Documents",
+    "text": "Dokumentit"
+  },
+  "Done": {
+    "origin": "Files:Close",
+    "text": "Sulje"
+  },
+  "Double-click empty space to go up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Double-click tyhjä tila ylös"
+  },
+  "Download": {
+    "origin": "M2M100-418M-local",
+    "text": "Lataa"
+  },
+  "Download files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lataa tiedostoja..."
+  },
+  "Download here": {
+    "origin": "M2M100-418M-local",
+    "text": "Lataa täältä"
+  },
+  "Download requested. iCloud may complete it asynchronously.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lataa pyydetty. iCloud Se voidaan tehdä synkronoimattomasti."
+  },
+  "Downloaded": {
+    "origin": "M2M100-418M-local",
+    "text": "Lataa"
+  },
+  "Downloading": {
+    "origin": "M2M100-418M-local",
+    "text": "Lataa"
+  },
+  "Downloads": {
+    "origin": "Files:Downloads",
+    "text": "Lataukset"
+  },
+  "Drives": {
+    "origin": "Files:Drives",
+    "text": "Asemat"
+  },
+  "Dual pane": {
+    "origin": "Files:DualPaneCategory",
+    "text": "Kaksiruutuinen näkymä"
+  },
+  "Duplicate": {
+    "origin": "M2M100-418M-local",
+    "text": "Duploitu"
+  },
+  "Duplicate archive paths cannot be extracted safely.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kaksinkertaisia arkisto-reittejä ei voi poistaa turvallisesti."
+  },
+  "Duplicate tab": {
+    "origin": "Files:DuplicateTab",
+    "text": "Monista välilehti"
+  },
+  "Edit": {
+    "origin": "Files:Edit",
+    "text": "Muokkaa"
+  },
+  "Edit POSIX permissions for selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Muokkaa POSIX Valintaoikeudet"
+  },
+  "Edit address · ⌘L": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit osoite · ⌘L"
+  },
+  "Edit archive": {
+    "origin": "M2M100-418M-local",
+    "text": "Edit arkisto"
+  },
+  "Edit in TextEdit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Editointi tekstissä"
+  },
+  "Edit media metadata": {
+    "origin": "M2M100-418M-local",
+    "text": "Median metatiedot"
+  },
+  "Edit media metadata…": {
+    "origin": "M2M100-418M-local",
+    "text": "Median metatiedot on"
+  },
+  "Edit or import the settings document, then Apply to validate and save. Language changes require a restart.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Muokkaa tai tuota asetukset asiakirja, sitten soveltaa validoida ja tallentaa. kielen muutokset edellyttävät uudelleenkäynnistä."
+  },
+  "Edit permissions on the link's target instead.": {
+    "origin": "M2M100-418M-local",
+    "text": "Muokkaa lupia linkin kohdalla sen sijaan."
+  },
+  "Edit settings file…": {
+    "origin": "Files:EditSettingsFile",
+    "text": "Muokkaa asetustiedostoa"
+  },
+  "Edit tags": {
+    "origin": "Files:EditTags",
+    "text": "Muokkaa tunnisteita"
+  },
+  "Edit tags…": {
+    "origin": "Files:EditTags",
+    "text": "Muokkaa tunnisteita"
+  },
+  "Edit the archive target instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Muokkaa arkiston kohde symbolisen linkin sijaan."
+  },
+  "Edit the target's attributes instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Muokkaa kohderyhmän ominaisuuksia symbolisen linkin sijasta."
+  },
+  "Edits apply to this item only. Ownership changes require existing system permission; MacFiles does not elevate itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Muunnokset koskevat vain tätä kohtaa. omistuksen muutokset edellyttävät olemassa olevaa järjestelmän lupaa; MacFiles Se ei korosta itseään."
+  },
+  "Eject": {
+    "origin": "Files:Eject",
+    "text": "Poista levy"
+  },
+  "Empty": {
+    "origin": "M2M100-418M-local",
+    "text": "tyhjä"
+  },
+  "Empty accessible Trash…": {
+    "origin": "M2M100-418M-local",
+    "text": "Tyhjä ja helposti saatavilla oleva raitiovaunu..."
+  },
+  "Empty archive entry.": {
+    "origin": "M2M100-418M-local",
+    "text": "Tyhjä arkiston sisäänkäynti."
+  },
+  "Encoding": {
+    "origin": "Files:Encoding",
+    "text": "Merkistökoodaus"
+  },
+  "Encrypted": {
+    "origin": "M2M100-418M-local",
+    "text": "salattu"
+  },
+  "Enter a GitHub username and a valid access token.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kirjoita GitHubin käyttäjätunnus ja voimassa oleva pääsy token."
+  },
+  "Enter a commit message.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kirjoita sitoutumisen viesti."
+  },
+  "Enter a name without a slash or colon. The name cannot be empty, ‘.’, or ‘..’.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kirjoita nimi ilman kuormaa tai kolonia.Nimi ei voi olla tyhjä, ”.”, tai ”..”."
+  },
+  "Enter a size from 1 to 1,048,576 MiB.": {
+    "origin": "M2M100-418M-local",
+    "text": "Sisällä koko 1 - 1048,576 MiB."
+  },
+  "Enter a valid host, username, and port.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kirjoita voimassa oleva host, käyttäjätunnus ja portti."
+  },
+  "Enter an SMB, AFP, or WebDAV address.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Käy sisään SMB, AFPtai WebDAV Osoite"
+  },
+  "Enter an attribute name of 1–127 UTF-8 bytes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kirjoita 1–127 ominaisuuden nimi UTF-8 Tavua"
+  },
+  "Enter compact overlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "Siirry suppeaan asetteluun"
+  },
+  "Enter numeric user and group IDs.": {
+    "origin": "M2M100-418M-local",
+    "text": "Sisällytä numerot käyttäjille ja ryhmän tunnuksille."
+  },
+  "Enter password:": {
+    "origin": "M2M100-418M-local",
+    "text": "Kirjoita salasano:"
+  },
+  "Enter permissions from 000 to 777.": {
+    "origin": "M2M100-418M-local",
+    "text": "Sisällytä lupia 000:sta 777:een."
+  },
+  "Enter the archive password before editing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kirjoita arkiston salasana ennen muokkausta."
+  },
+  "Enter three octal digits, for example 644 or 755.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kirjoita kolme oktaalia numeroa, esimerkiksi 644 tai 755."
+  },
+  "Enter whole numbers for byte limits.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kirjoita kokonaisluku bytin rajojen osalta."
+  },
+  "EnterCompactOverlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "Siirry suppeaan asetteluun"
+  },
+  "Executable": {
+    "origin": "M2M100-418M-local",
+    "text": "täytäntöönpano"
+  },
+  "Executable format": {
+    "origin": "M2M100-418M-local",
+    "text": "Toteutettava muoto"
+  },
+  "Exit compact overlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "Poistu suppeasta asettelusta"
+  },
+  "ExitCompactOverlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "Poistu suppeasta asettelusta"
+  },
+  "Expand folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Laajennetaan tiedostoa"
+  },
+  "Expanded": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "laajennettu"
+  },
+  "Export ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "vienti ACL…"
+  },
+  "Export bytes…": {
+    "origin": "M2M100-418M-local",
+    "text": "Vienti bytejä..."
+  },
+  "Export theme…": {
+    "origin": "M2M100-418M-local",
+    "text": "Tuonti aiheesta..."
+  },
+  "Export…": {
+    "origin": "M2M100-418M-local",
+    "text": "vientiä..."
+  },
+  "Extended attributes": {
+    "origin": "M2M100-418M-local",
+    "text": "Laajennetut ominaisuudet"
+  },
+  "Extended attributes…": {
+    "origin": "M2M100-418M-local",
+    "text": "Laajennetut ominaisuudet..."
+  },
+  "Extensions are preserved. Conflicts stop the batch before any names change.": {
+    "origin": "M2M100-418M-local",
+    "text": "Konfliktit pysäyttävät joukon ennen kuin nimi muuttuu."
+  },
+  "Extensions: txt, swift, pdf": {
+    "origin": "M2M100-418M-local",
+    "text": "Laajennukset: txt, swift, pdf"
+  },
+  "Extra large icons": {
+    "origin": "M2M100-418M-local",
+    "text": "Ylimääräinen ikoni"
+  },
+  "Extract": {
+    "origin": "Files:Extract",
+    "text": "Pura"
+  },
+  "Extract all…": {
+    "origin": "M2M100-418M-local",
+    "text": "Kaikkia uutisia..."
+  },
+  "Extract here": {
+    "origin": "Files:ExtractHere",
+    "text": "Pura tähän"
+  },
+  "Extract here (Smart)": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "Pura tänne (älykäs)"
+  },
+  "Extract selected…": {
+    "origin": "M2M100-418M-local",
+    "text": "Valittu tuote..."
+  },
+  "Extract to child folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lapsen kartan kuvanpoisto"
+  },
+  "Extract to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tuotetta on..."
+  },
+  "ExtractHere": {
+    "origin": "Files:ExtractHere",
+    "text": "Pura tähän"
+  },
+  "ExtractHereSmart": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "Pura tänne (älykäs)"
+  },
+  "Extracted entry size does not match its header.": {
+    "origin": "M2M100-418M-local",
+    "text": "Tuotetun sisäänpääsympäristön koko ei vastaa sen otsikoita."
+  },
+  "Extracting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "poistoa"
+  },
+  "Extracts into a new folder; existing files are kept.": {
+    "origin": "M2M100-418M-local",
+    "text": "Uuteen tiedostoon, jo olemassa olevat tiedostot säilytetään."
+  },
+  "FTP over TLS": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "FTP yli TLS"
+  },
+  "Failed": {
+    "origin": "M2M100-418M-local",
+    "text": "epäonnistunut"
+  },
+  "Fetch": {
+    "origin": "Files:GitFetch",
+    "text": "Hae"
+  },
+  "File": {
+    "origin": "Files:File",
+    "text": "Tiedosto"
+  },
+  "File actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tiedoston toimet"
+  },
+  "File hashes": {
+    "origin": "M2M100-418M-local",
+    "text": "Tiedostoja hashes"
+  },
+  "File information": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "tiedoston tiedot"
+  },
+  "File operations": {
+    "origin": "M2M100-418M-local",
+    "text": "Tiedoston toiminnot"
+  },
+  "File operations in this window": {
+    "origin": "M2M100-418M-local",
+    "text": "Tiedoston toiminnot tässä ikkunassa"
+  },
+  "File shelf": {
+    "origin": "M2M100-418M-local",
+    "text": "Tiedostoja Shelf"
+  },
+  "File shelf…": {
+    "origin": "M2M100-418M-local",
+    "text": "Tiedostoja Shelf..."
+  },
+  "File size": {
+    "origin": "M2M100-418M-local",
+    "text": "tiedoston koko"
+  },
+  "Files": {
+    "origin": "Files:SecurityAdvancedFlagsFilesLabel",
+    "text": "tiedostot"
+  },
+  "Files size": {
+    "origin": "M2M100-418M-local",
+    "text": "Tiedostojen koko"
+  },
+  "Files you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Avaamasi tiedostot näkyvät täällä."
+  },
+  "Fill": {
+    "origin": "Files:Fill",
+    "text": "Täytä"
+  },
+  "Filter entries": {
+    "origin": "M2M100-418M-local",
+    "text": "Suodatin sisäänkäynti"
+  },
+  "Find": {
+    "origin": "M2M100-418M-local",
+    "text": "Löydä"
+  },
+  "Find and replace": {
+    "origin": "M2M100-418M-local",
+    "text": "Löydä ja korvata"
+  },
+  "Finder Get Info unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder Tietoa ei ole saatavilla"
+  },
+  "Finder Get Info…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder Saa tietoa..."
+  },
+  "Finder's desktop and other apps' Open/Save dialogs remain managed by macOS.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder\"Desktop ja muut sovellukset\" Open/Save -dialogit hallinnoidaan edelleen macOS."
+  },
+  "First letter": {
+    "origin": "M2M100-418M-local",
+    "text": "Ensimmäinen kirje"
+  },
+  "Fit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Fit"
+  },
+  "Flatten": {
+    "origin": "Files:Flatten",
+    "text": "Tasoitettu"
+  },
+  "Flatten folder": {
+    "origin": "Files:FlattenFolder",
+    "text": "Tasoitettu kansio"
+  },
+  "Flatten folder…": {
+    "origin": "Files:FlattenFolder",
+    "text": "Tasoitettu kansio"
+  },
+  "Flatten ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Säätiö »%1$@’?"
+  },
+  "Flattening folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Flattening tiedostoja"
+  },
+  "Focus other pane": {
+    "origin": "Files:FocusOtherPane",
+    "text": "Siirrä kohdistus toiseen ruutuun"
+  },
+  "Folder": {
+    "origin": "Files:Folder",
+    "text": "Kansio"
+  },
+  "Folder contents": {
+    "origin": "M2M100-418M-local",
+    "text": "Folder Sisältö"
+  },
+  "Folder contents are not included in this total.": {
+    "origin": "M2M100-418M-local",
+    "text": "Folder-sisältö ei sisälly tähän kokonaisuuteen."
+  },
+  "Folder layout saved.": {
+    "origin": "M2M100-418M-local",
+    "text": "Folder Layout on tallennettu."
+  },
+  "Folder path": {
+    "origin": "Files:FolderPath",
+    "text": "Kansion polku"
+  },
+  "Folder presentation": {
+    "origin": "M2M100-418M-local",
+    "text": "Folder esitys"
+  },
+  "Folder sizes are calculated in the background after Refresh. Large or network folders may take longer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Taulukon koot lasketaan taustaan uudistamisen jälkeen. Suuri tai verkko-taulukot voivat kestää pidempään."
+  },
+  "Folder unavailable": {
+    "origin": "M2M100-418M-local",
+    "text": "Folder ei ole saatavilla"
+  },
+  "Folders": {
+    "origin": "Files:Folders",
+    "text": "Kansiot"
+  },
+  "Folders you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "text": "Avoimet tiedostot näkyvät täällä."
+  },
+  "Font": {
+    "origin": "Files:Font",
+    "text": "Fontti"
+  },
+  "Font and material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Fontti ja materiaali"
+  },
+  "Forget saved": {
+    "origin": "M2M100-418M-local",
+    "text": "Unohdettu pelastettu"
+  },
+  "Format": {
+    "origin": "Files:FormatDriveText",
+    "text": "Muoto"
+  },
+  "Format drive in Disk Utility…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Disk Utility -muotoilun käyttöjärjestelmä..."
+  },
+  "Forward": {
+    "origin": "Files:Forward",
+    "text": "Eteenpäin (Alt+oikea nuoli)"
+  },
+  "Forward · ⌘]": {
+    "origin": "Files:Forward",
+    "text": "Eteenpäin (Alt+oikea nuoli) · ⌘]"
+  },
+  "Fragmented media metadata cannot be edited without remuxing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Fragmentoituja media-metatietoja ei voi muokata ilman remuxing."
+  },
+  "Gallery": {
+    "origin": "M2M100-418M-local",
+    "text": "Galeria"
+  },
+  "Gallery layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Galeria Layout"
+  },
+  "General": {
+    "origin": "Files:General",
+    "text": "Yleinen"
+  },
+  "Git operation in %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git Toiminta on %1$@"
+  },
+  "Git repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git Rekisterinpito"
+  },
+  "Git repository…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git Rekisterinpitäjä..."
+  },
+  "GitHub account": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub tili"
+  },
+  "GitHub username": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub käyttäjätunnus"
+  },
+  "Go to path": {
+    "origin": "M2M100-418M-local",
+    "text": "Käy tiellä"
+  },
+  "Go to path…": {
+    "origin": "M2M100-418M-local",
+    "text": "Käy tiellä..."
+  },
+  "Gray": {
+    "origin": "Files:Gray",
+    "text": "Harmaa"
+  },
+  "Green": {
+    "origin": "Files:Green",
+    "text": "Vihreä"
+  },
+  "Group": {
+    "origin": "M2M100-418M-local",
+    "text": "Ryhmä"
+  },
+  "Group GID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ryhmä GID"
+  },
+  "Group ascending": {
+    "origin": "Files:GroupAscendingDescription",
+    "text": "Lajittele ryhmät nousevaan järjestykseen"
+  },
+  "Group by": {
+    "origin": "Files:GroupBy",
+    "text": "Ryhmittelyperuste"
+  },
+  "Group by date unit": {
+    "origin": "Files:GroupByDateUnit",
+    "text": "Ryhmittele päivämäärän mukaan"
+  },
+  "HTTPS Git operations can use a GitHub access token stored in your macOS Keychain. Choose the repositories and permissions when creating the token. Existing Git authentication remains in use when no MacFiles account is saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "HTTPS Git toiminnot voivat käyttää GitHub-sovellus token tallennettu sinun macOS Keychain. Valitse tallennukset ja luvat, kun luot token. Git Todistus pysyy käytössä, kun ei MacFiles Tilit on tallennettu."
+  },
+  "Hard Link": {
+    "origin": "M2M100-418M-local",
+    "text": "Kova linkki"
+  },
+  "Hashes": {
+    "origin": "Files:Hashes",
+    "text": "Hajautusarvot"
+  },
+  "Hashes are available for a single file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Hashit ovat saatavilla yhdelle tiedostolle."
+  },
+  "Header": {
+    "origin": "M2M100-418M-local",
+    "text": "päällikkö"
+  },
+  "Help": {
+    "origin": "Files:Help",
+    "text": "Tuki"
+  },
+  "Hidden": {
+    "origin": "Files:Hidden",
+    "text": "Piilotettu"
+  },
+  "Hidden files": {
+    "origin": "M2M100-418M-local",
+    "text": "Piilotetut tiedostot"
+  },
+  "History": {
+    "origin": "M2M100-418M-local",
+    "text": "historiaa"
+  },
+  "Home": {
+    "origin": "Files:Key.Home",
+    "text": "Koti"
+  },
+  "Horizontal alignment": {
+    "origin": "Files:HorizontalAlignment",
+    "text": "Vaakasuora suuntaus"
+  },
+  "IDE opened.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Se on avoinna."
+  },
+  "Icon": {
+    "origin": "Files:Icon",
+    "text": "Kuvake"
+  },
+  "Icons": {
+    "origin": "M2M100-418M-local",
+    "text": "Ikonat"
+  },
+  "Icons layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Ikonien asettaminen"
+  },
+  "Image alignment": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kuvien sopeutuminen"
+  },
+  "Image fit": {
+    "origin": "Files:ImageFit",
+    "text": "Kuva mahtuu"
+  },
+  "Import theme…": {
+    "origin": "M2M100-418M-local",
+    "text": "Tuontia aiheena..."
+  },
+  "Imported. Apply to save.": {
+    "origin": "M2M100-418M-local",
+    "text": "Säästää ja soveltaa säästää."
+  },
+  "Import…": {
+    "origin": "M2M100-418M-local",
+    "text": "Tuonti ..."
+  },
+  "Incomplete archive listing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Täydellinen arkistojen luettelo."
+  },
+  "Increase size": {
+    "origin": "Files:IncreaseSize",
+    "text": "Suurenna kokoa"
+  },
+  "Indexed document, image, audio, video and filesystem metadata supplied by Spotlight. Tags can be edited with the Tags tool.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Indeksoidut asiakirjat, kuvat, äänet, video ja tiedostojärjestelmän metatiedot SpotlightTagit voidaan muokata Tagin työkalun avulla."
+  },
+  "Indexed files updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Indeksoidut tiedostot päivitetään."
+  },
+  "Initialize": {
+    "origin": "M2M100-418M-local",
+    "text": "aloittaminen"
+  },
+  "Initialize repository here": {
+    "origin": "M2M100-418M-local",
+    "text": "Aloita tallennus täältä"
+  },
+  "Install certificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "Asenna varmenne"
+  },
+  "Install font": {
+    "origin": "Files:InstallFont",
+    "text": "Asenna fontti"
+  },
+  "InstallCertificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "Asenna varmenne"
+  },
+  "InstallFont": {
+    "origin": "Files:InstallFont",
+    "text": "Asenna fontti"
+  },
+  "Interval in seconds": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Väliaika sekunnissa"
+  },
+  "Invalid Base64 data.": {
+    "origin": "M2M100-418M-local",
+    "text": "Tiedot Base64 -tietokoneesta."
+  },
+  "Invalid SSH host or port.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "vammainen SSH Majoitus tai satama."
+  },
+  "Invalid archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Tiedosto on vahingoittunut."
+  },
+  "Invalid archive link target.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalid arkisto linkki tavoite."
+  },
+  "Invalid extended media atom.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalid laajentanut median atomia."
+  },
+  "Invalid hard link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vaarallinen kova linkki."
+  },
+  "Invalid key for %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Avain ei ole pätevä %1$@."
+  },
+  "Invalid macOS ACL text. Preserve the !#acl 1 header and use valid entries.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "vammainen macOS ACL Säilytä !#acl 1 -päällikkö ja käytä voimassa olevia merkintöjä."
+  },
+  "Invalid media atom header.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vaarallinen median atomipiste."
+  },
+  "Invalid media atom size.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vaarallinen media atomin koko."
+  },
+  "Invalid media atom.": {
+    "origin": "M2M100-418M-local",
+    "text": "Tiedotusvälineiden atomit."
+  },
+  "Invalid media file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Media tiedostoja ei ole."
+  },
+  "Invalid name": {
+    "origin": "Files:InvalidTagNameWarning",
+    "text": "Virheellinen nimi"
+  },
+  "Invalid remote URL.": {
+    "origin": "M2M100-418M-local",
+    "text": "Epäoikeutettu kauko URL."
+  },
+  "Invalid settings document.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Epäoikeudenmukainen asennusasiakirja."
+  },
+  "Invalid tag metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Epäoikeudenmukaiset metatiedot."
+  },
+  "Invalid tag name or color.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vammainen nimi tai väri."
+  },
+  "Invalid theme colors or appearance.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vaaralliset värit tai ulkonäkö."
+  },
+  "Invalid volume size": {
+    "origin": "M2M100-418M-local",
+    "text": "Vammainen koko"
+  },
+  "Invert selection": {
+    "origin": "Files:InvertSelection",
+    "text": "Käännä valinta"
+  },
+  "Item properties": {
+    "origin": "M2M100-418M-local",
+    "text": "Tuotteen ominaisuudet"
+  },
+  "Items move into .MacFiles-Recovery on this server, including folder contents. Use Undo remote to restore them during this session.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tuotteet liikkuvat .MacFiles-Recovery Käytä Undo remote palauttaa ne tämän istunnon aikana."
+  },
+  "Keep MacFiles open": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pidä MacFiles Avaa"
+  },
+  "Keep both": {
+    "origin": "M2M100-418M-local",
+    "text": "Pidä molemmat"
+  },
+  "Keep both creates numbered names. Replace moves previous versions to Trash and supports Undo. Folders are replaced as a whole.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pidä molemmat luo numeroituja nimiä. korvaus siirtää aiempia versioita Trash ja tukee Undo."
+  },
+  "Keep running after closing windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Jatka toimintaa ikkunoiden sulkemisen jälkeen"
+  },
+  "Keep window on top": {
+    "origin": "M2M100-418M-local",
+    "text": "Pidä ikkuna ylhäältä"
+  },
+  "Keyboard shortcuts": {
+    "origin": "M2M100-418M-local",
+    "text": "Keyboard lyhytkesto"
+  },
+  "Keyboard shortcuts…": {
+    "origin": "M2M100-418M-local",
+    "text": "Keyboard lyhytkestoinen..."
+  },
+  "Keywords (comma separated)": {
+    "origin": "M2M100-418M-local",
+    "text": "Avainsanoja (kuten erillään)"
+  },
+  "Kind": {
+    "origin": "Files:Type",
+    "text": "Tyyppi"
+  },
+  "Label": {
+    "origin": "Files:Label",
+    "text": "Tunniste"
+  },
+  "Language": {
+    "origin": "Files:PropertyLanguage",
+    "text": "Kieli"
+  },
+  "Large icons": {
+    "origin": "M2M100-418M-local",
+    "text": "Suuri ikoni"
+  },
+  "Launch at login": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Käynnistä login"
+  },
+  "Layout": {
+    "origin": "Files:Layout",
+    "text": "Ulkoasu"
+  },
+  "Left": {
+    "origin": "Files:Left",
+    "text": "Vasen"
+  },
+  "Let the current operation finish before quitting.": {
+    "origin": "M2M100-418M-local",
+    "text": "Anna nykyinen toiminta päättyä ennen luopumista."
+  },
+  "Libraries": {
+    "origin": "Files:SidebarLibraries",
+    "text": "Kirjastot"
+  },
+  "Library": {
+    "origin": "Files:Library",
+    "text": "Kirjasto"
+  },
+  "Library name": {
+    "origin": "M2M100-418M-local",
+    "text": "Kirjaston nimi"
+  },
+  "Library properties…": {
+    "origin": "M2M100-418M-local",
+    "text": "Kirjasto ominaisuuksia..."
+  },
+  "Library/Application Support/MacFiles/known_hosts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kirjasto / Sovellus tuki /MacFilesTunnetut - vieraat"
+  },
+  "Library/Mobile Documents": {
+    "origin": "M2M100-418M-local",
+    "text": "Kirjasto/Mobiilitiedostoja"
+  },
+  "Library/Mobile Documents/com~apple~CloudDocs": {
+    "origin": "M2M100-418M-local",
+    "text": "Kirjasto/Mobile Documents/com~apple~CloudDocs"
+  },
+  "Light": {
+    "origin": "Files:LightTheme",
+    "text": "Vaalea"
+  },
+  "Link target": {
+    "origin": "M2M100-418M-local",
+    "text": "Linkki kohteeseen"
+  },
+  "List": {
+    "origin": "Files:List",
+    "text": "Luettelo"
+  },
+  "List folders before files": {
+    "origin": "M2M100-418M-local",
+    "text": "Luettelo tiedostoja ennen tiedostoja"
+  },
+  "Loading…": {
+    "origin": "Files:Loading",
+    "text": "Ladataan..."
+  },
+  "Local": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Paikallinen"
+  },
+  "Local download removal requested.": {
+    "origin": "M2M100-418M-local",
+    "text": "Paikallinen lataus poisto pyydetään."
+  },
+  "Local file": {
+    "origin": "M2M100-418M-local",
+    "text": "Paikallinen tiedosto"
+  },
+  "Location": {
+    "origin": "Files:Location",
+    "text": "Sijainti:"
+  },
+  "Lock screen and wallpaper settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lock screen ja taustakuva asetukset..."
+  },
+  "Locked": {
+    "origin": "M2M100-418M-local",
+    "text": "Lopputettu"
+  },
+  "Macintosh HD": {
+    "origin": "M2M100-418M-local",
+    "text": "Macintosh HD"
+  },
+  "Make alias": {
+    "origin": "M2M100-418M-local",
+    "text": "Tee Alias"
+  },
+  "Make alias…": {
+    "origin": "M2M100-418M-local",
+    "text": "Tutustu Alias..."
+  },
+  "Manage account in provider app": {
+    "origin": "M2M100-418M-local",
+    "text": "Tilin hallinta palveluntarjoajan sovelluksessa"
+  },
+  "Manage cloud accounts…": {
+    "origin": "M2M100-418M-local",
+    "text": "Hallitse pilvipalveluita..."
+  },
+  "Manage tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ohjaus tags"
+  },
+  "Maximum bytes": {
+    "origin": "M2M100-418M-local",
+    "text": "Maksimi bytejä"
+  },
+  "Media export did not complete.": {
+    "origin": "M2M100-418M-local",
+    "text": "Median vienti ei ole valmis."
+  },
+  "Media metadata is too large.": {
+    "origin": "M2M100-418M-local",
+    "text": "Median metatiedot ovat liian suuria."
+  },
+  "Medium icons": {
+    "origin": "M2M100-418M-local",
+    "text": "Keskimääräinen ikoni"
+  },
+  "Minimize": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Minimiin"
+  },
+  "Minimum bytes": {
+    "origin": "M2M100-418M-local",
+    "text": "Minimi bytejä"
+  },
+  "Minimum size exceeds maximum size.": {
+    "origin": "M2M100-418M-local",
+    "text": "Pienin koko ylittää maksimi koko."
+  },
+  "Mode": {
+    "origin": "M2M100-418M-local",
+    "text": "Muoti"
+  },
+  "Modified": {
+    "origin": "Files:Modified",
+    "text": "Muokattu"
+  },
+  "Modified after": {
+    "origin": "M2M100-418M-local",
+    "text": "Muutos jälkeen"
+  },
+  "Month": {
+    "origin": "Files:Month",
+    "text": "Kuukausi"
+  },
+  "More actions": {
+    "origin": "M2M100-418M-local",
+    "text": "Lisää toimia"
+  },
+  "Mount share…": {
+    "origin": "M2M100-418M-local",
+    "text": "Vuoren osuus..."
+  },
+  "Mounted network locations appear here. Connect to a server to browse another location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Määritetyt verkkopaikat näkyvät täällä. Liity palvelimeen selaamaan toista sijaintia."
+  },
+  "Move %1$@ remote items to recovery?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "liikkeellä %1$@ Kaukaiset kohteet palautukseen?"
+  },
+  "Move %1$@ to Trash?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "liikkeellä %1$@ Jotta se kaatuisi?"
+  },
+  "Move here": {
+    "origin": "Files:PinToSidebarByDraggingCaptionText",
+    "text": "Siirrä tähän"
+  },
+  "Move nested files to this folder. Existing names and symbolic links are left in place. Empty subfolders go to Trash. You can undo this operation.": {
+    "origin": "M2M100-418M-local",
+    "text": "Siirrä nested tiedostot tähän kaappiin. olemassa olevat nimet ja symboliset linkit jätetään paikan päällä. Tyhjä alakohteet menevät Trash. Voit poistaa tämän toiminnan."
+  },
+  "Move to Trash": {
+    "origin": "M2M100-418M-local",
+    "text": "Siirry kaatumaan"
+  },
+  "Move to Trash…": {
+    "origin": "M2M100-418M-local",
+    "text": "Siirry kaatumaan..."
+  },
+  "Move to recovery": {
+    "origin": "M2M100-418M-local",
+    "text": "Siirry toipumaan"
+  },
+  "Move to recovery folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Siirry palauttamislehtiin..."
+  },
+  "Movies": {
+    "origin": "M2M100-418M-local",
+    "text": "Elokuvat"
+  },
+  "Moving": {
+    "origin": "M2M100-418M-local",
+    "text": "liikkeellä"
+  },
+  "Moving files": {
+    "origin": "M2M100-418M-local",
+    "text": "Liikkuminen tiedostoja"
+  },
+  "Moving to Trash": {
+    "origin": "M2M100-418M-local",
+    "text": "Siirry Trashille"
+  },
+  "Multiple items": {
+    "origin": "M2M100-418M-local",
+    "text": "Useita kohteita"
+  },
+  "Music": {
+    "origin": "Files:Music",
+    "text": "Musiikki"
+  },
+  "My MacFiles theme": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Minun MacFiles Teema"
+  },
+  "My library": {
+    "origin": "M2M100-418M-local",
+    "text": "Minun kirjasto"
+  },
+  "My search": {
+    "origin": "M2M100-418M-local",
+    "text": "Minun etsimäni"
+  },
+  "Name": {
+    "origin": "Files:NameWithColon",
+    "text": "Nimi:"
+  },
+  "Native macOS extended attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "alkuperäinen macOS Laajennetut ominaisuudet"
+  },
+  "Natural language search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Luonnollinen kieli etsiminen"
+  },
+  "Navigate": {
+    "origin": "M2M100-418M-local",
+    "text": "Navigointi"
+  },
+  "Network": {
+    "origin": "Files:Network",
+    "text": "Verkko"
+  },
+  "New": {
+    "origin": "Files:BaseLayoutContextFlyoutNew.Label",
+    "text": "Uusi"
+  },
+  "New archive file": {
+    "origin": "M2M100-418M-local",
+    "text": "Uusi arkisto"
+  },
+  "New archive folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Uusi arkistokortti"
+  },
+  "New branch": {
+    "origin": "Files:NewBranch",
+    "text": "Uusi haara"
+  },
+  "New file from template": {
+    "origin": "M2M100-418M-local",
+    "text": "Uusi tiedosto mallista"
+  },
+  "New folder": {
+    "origin": "Files:NewFolder",
+    "text": "Uusi kansio"
+  },
+  "New folder…": {
+    "origin": "Files:NewFolder",
+    "text": "Uusi kansio"
+  },
+  "New from template": {
+    "origin": "M2M100-418M-local",
+    "text": "Uusi temppelistä"
+  },
+  "New from template…": {
+    "origin": "M2M100-418M-local",
+    "text": "Uusi temppelistä."
+  },
+  "New name": {
+    "origin": "M2M100-418M-local",
+    "text": "Uusi nimi"
+  },
+  "New remote file": {
+    "origin": "M2M100-418M-local",
+    "text": "Uusi kaukotiedosto"
+  },
+  "New remote folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Uusi kaukotiedosto"
+  },
+  "New tab": {
+    "origin": "Files:NewTab",
+    "text": "Uusi välilehti"
+  },
+  "New tab · ⌘T": {
+    "origin": "Files:NewTab",
+    "text": "Uusi välilehti · ⌘T"
+  },
+  "New text file": {
+    "origin": "M2M100-418M-local",
+    "text": "Uusi tekstitiedosto"
+  },
+  "New text file…": {
+    "origin": "M2M100-418M-local",
+    "text": "Uusi tekstitiedosto..."
+  },
+  "New window": {
+    "origin": "Files:NewWindow",
+    "text": "Uusi ikkuna"
+  },
+  "Next layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Seuraava layout"
+  },
+  "Next tab": {
+    "origin": "Files:NextTab",
+    "text": "Seuraava välilehti"
+  },
+  "No": {
+    "origin": "Files:No",
+    "text": "Ei"
+  },
+  "No IDE selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ei valittu"
+  },
+  "No application could open ‘%1$@’.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hakemusta ei voi avata”%1$@’."
+  },
+  "No archive entry was extracted.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ei arkistotuloksia ole poistettu."
+  },
+  "No archive is open.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ei arkistoa ole avoinna."
+  },
+  "No archive was produced.": {
+    "origin": "M2M100-418M-local",
+    "text": "Arkistoa ei ole tuotettu."
+  },
+  "No commits yet": {
+    "origin": "M2M100-418M-local",
+    "text": "Ei ole vielä sitoutunut"
+  },
+  "No files were extracted.": {
+    "origin": "M2M100-418M-local",
+    "text": "Tiedostoja ei ole poistettu."
+  },
+  "No matching items": {
+    "origin": "M2M100-418M-local",
+    "text": "Ei vastaavia kohteita"
+  },
+  "No movie header was found.": {
+    "origin": "M2M100-418M-local",
+    "text": "Elokuvan otsikkoa ei löydetty."
+  },
+  "No operations recorded.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ei rekisteröity operaatiota."
+  },
+  "No readable macOS code signature.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ei lue macOS allekirjoittamisen koodi.\n\n"
+  },
+  "No selection": {
+    "origin": "M2M100-418M-local",
+    "text": "Ei valintaa"
+  },
+  "No settings match your search.": {
+    "origin": "Files:NoSearchResults",
+    "text": "Hakua vastaavia asetuksia ei löydy."
+  },
+  "No tracked diff. New files appear after staging.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ei jäljitetty diff. Uusia tiedostoja ilmestyy jäljellä."
+  },
+  "None": {
+    "origin": "Files:CompressionLevelNone",
+    "text": "Ei mitään"
+  },
+  "Not enough free space to finish extraction.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ei riittävästi vapaata tilaa kaatopaikan lopettamiseen."
+  },
+  "Not managed by a detected cloud provider": {
+    "origin": "M2M100-418M-local",
+    "text": "Ei hallittu havaittu pilvipalveluntarjoaja"
+  },
+  "Not used": {
+    "origin": "M2M100-418M-local",
+    "text": "Ei käytetty"
+  },
+  "Numbered names": {
+    "origin": "M2M100-418M-local",
+    "text": "Numeroitu nimi"
+  },
+  "OK": {
+    "origin": "M2M100-418M-local",
+    "text": "OK"
+  },
+  "Older": {
+    "origin": "M2M100-418M-local",
+    "text": "vanhemmat"
+  },
+  "Online only": {
+    "origin": "M2M100-418M-local",
+    "text": "Online vain"
+  },
+  "Only an uploaded iCloud file without conflicts can have its local download removed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vain yksi ylennetty iCloud tiedosto ilman konflikteja voi olla sen paikallinen lataus poistettu."
+  },
+  "Only images can be rotated.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vain kuvia voi kääntää."
+  },
+  "Open": {
+    "origin": "Files:Open",
+    "text": "Avaa"
+  },
+  "Open / Preview": {
+    "origin": "M2M100-418M-local",
+    "text": "Avoin / Etusivu"
+  },
+  "Open Login Items settings": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Avoin sisäänkäynti kohteet asetukset"
+  },
+  "Open MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Avaa MacFiles"
+  },
+  "Open System Settings for iCloud": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Avoimet järjestelmäasetukset iCloud"
+  },
+  "Open a repository, initialize this folder, or clone a repository.": {
+    "origin": "M2M100-418M-local",
+    "text": "Avaa tallennus, aloita tämä kansio tai kloonata tallennus."
+  },
+  "Open all folders in tabs": {
+    "origin": "M2M100-418M-local",
+    "text": "Avaa kaikki tiedostot taulukoissa"
+  },
+  "Open containing folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Avoin sisältävä tiedosto"
+  },
+  "Open external folders in new windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Avaa ulkoiset tiedostot uusissa ikkunoissa"
+  },
+  "Open file location": {
+    "origin": "Files:OpenFileLocation",
+    "text": "Avaa tiedoston sijainti"
+  },
+  "Open folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Avoin tiedosto"
+  },
+  "Open folders in new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Avaa tiedostoja uusissa taulukkoissa"
+  },
+  "Open folder…": {
+    "origin": "M2M100-418M-local",
+    "text": "Avoin tiedosto..."
+  },
+  "Open in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Avoin IDE"
+  },
+  "Open in IDE uses the selected application. Open repository in IDE resolves the Git repository root first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Avoin IDE käyttää valittua sovellusta. Avoin tallennus IDE ratkaisee Git Ensinnäkin reagoin root."
+  },
+  "Open in Terminal": {
+    "origin": "M2M100-418M-local",
+    "text": "Avoin terminaali"
+  },
+  "Open in new tab": {
+    "origin": "Files:OpenInNewTab",
+    "text": "Avaa uudessa välilehdessä"
+  },
+  "Open in new window": {
+    "origin": "Files:OpenInNewWindow",
+    "text": "Avaa uudessa ikkunassa"
+  },
+  "Open in other pane": {
+    "origin": "Files:OpenInOtherPane",
+    "text": "Avaa toisessa ruudussa"
+  },
+  "Open log file": {
+    "origin": "Files:OpenLogFile",
+    "text": "Open log file"
+  },
+  "Open new tabs with dual panes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Avaa uudet taulukot kaksinkertaisilla paneelilla"
+  },
+  "Open repository in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Avoin arkisto IDE:ssä"
+  },
+  "Open selection": {
+    "origin": "M2M100-418M-local",
+    "text": "Avoin valinta"
+  },
+  "Open target folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Avoin kohderyhmä"
+  },
+  "Open with": {
+    "origin": "Files:OpenWith",
+    "text": "Avaa sovelluksessa"
+  },
+  "Open with application": {
+    "origin": "M2M100-418M-local",
+    "text": "Avoin sovelluksella"
+  },
+  "Open with application…": {
+    "origin": "M2M100-418M-local",
+    "text": "Avoin sovelluksella..."
+  },
+  "Open with…": {
+    "origin": "Files:OpenWith",
+    "text": "Avaa sovelluksessa"
+  },
+  "Open-ended media atoms require remuxing before editing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Avoin median atomit vaativat remuxing ennen muokkausta."
+  },
+  "OpenAllTaggedItems": {
+    "origin": "Files:OpenAllTaggedItems",
+    "text": "Avaa kaikki"
+  },
+  "OpenLogFile": {
+    "origin": "Files:OpenLogFile",
+    "text": "Open log file"
+  },
+  "Operation completed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Operaatio on valmis."
+  },
+  "Operation failed": {
+    "origin": "M2M100-418M-local",
+    "text": "Toiminta epäonnistui"
+  },
+  "Operations": {
+    "origin": "M2M100-418M-local",
+    "text": "Operaatioita"
+  },
+  "Operations (%1$@ queued)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Toimintaohjelmat (%1$@ Käsittele)"
+  },
+  "Operations…": {
+    "origin": "M2M100-418M-local",
+    "text": "Toimintaa..."
+  },
+  "Orange": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "oranssi"
+  },
+  "Original location": {
+    "origin": "M2M100-418M-local",
+    "text": "Alkuperäinen sijainti"
+  },
+  "Original locations are remembered for items deleted by MacFiles, including across launches.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Alkuperäiset paikat muistetaan poistetuista kohteista MacFilesja myös kaikkialla käynnistyksessä."
+  },
+  "Original name": {
+    "origin": "M2M100-418M-local",
+    "text": "Alkuperäinen nimi"
+  },
+  "Overcast": {
+    "origin": "Files:Overcast",
+    "text": "Pilvinen"
+  },
+  "Owner": {
+    "origin": "Files:PropertyFileOwner",
+    "text": "Omistaja"
+  },
+  "Owner UID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Omistaja UID"
+  },
+  "Ownership updated.": {
+    "origin": "M2M100-418M-local",
+    "text": "Omistus on päivitetty."
+  },
+  "POSIX permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "POSIX Käyttöoikeudet"
+  },
+  "Password": {
+    "origin": "Files:Password",
+    "text": "Salasana"
+  },
+  "Password (optional, AES-256)": {
+    "origin": "M2M100-418M-local",
+    "text": "Salasana (vaihtoehtoinen, AES-256)"
+  },
+  "Password / key passphrase (optional)": {
+    "origin": "M2M100-418M-local",
+    "text": "Avainsano / avainsano (vaihtoehtoinen)"
+  },
+  "Password protection is supported for ZIP archives.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "salasanan suoja tukee ZIP ja arkistoja."
+  },
+  "Paste": {
+    "origin": "Files:Paste",
+    "text": "Liitä"
+  },
+  "Paste and drop transfers queue behind the current operation. Completed changes remain available through Undo. Copy cancellation stops the staged transfer before publishing it. Undo history is restored across launches.": {
+    "origin": "M2M100-418M-local",
+    "text": "Paste ja drop siirrot kulkevat nykyisen toiminnan takana. Täydelliset muutokset pysyvät käytettävissä Undo:n kautta. Kopiointi peruuttaa vaiheittaisen siirron ennen sen julkaisemista. Undo-historia palautetaan käynnistyksissä."
+  },
+  "Paste files": {
+    "origin": "M2M100-418M-local",
+    "text": "Paina tiedostoja"
+  },
+  "Paste shortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "Liitä pikakuvake"
+  },
+  "Paste the files into a permanent folder before creating aliases to them.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Laita tiedostot pysyväksi kaappiin ennen kuin luodaan liittoja niille."
+  },
+  "PasteItemToSelectionDescription": {
+    "origin": "Files:PasteItemToSelectionDescription",
+    "text": "Liitä kohteet valittuun kansioon"
+  },
+  "PasteShortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "Liitä pikakuvake"
+  },
+  "Path": {
+    "origin": "Files:ExtractToPath",
+    "text": "Polku"
+  },
+  "Pattern": {
+    "origin": "M2M100-418M-local",
+    "text": "mallia"
+  },
+  "Permanently delete %1$@ items?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "pysyvästi poistettu %1$@ Mitä kohteet?"
+  },
+  "Permissions": {
+    "origin": "Files:Permissions",
+    "text": "Käyttöoikeudet"
+  },
+  "Permissions are enforced by the server. FTP servers must support SITE CHMOD; SFTP uses SSH permissions.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Suostumukset ovat palvelimella. FTP palvelimien on tuettava CHMOD-sivustoa; SFTP Käytä SSH Käyttöoikeudet"
+  },
+  "Permissions are stored in the archive. Changes rebuild it and support Undo.": {
+    "origin": "M2M100-418M-local",
+    "text": "Luvat tallennetaan arkistoon. muutokset rakentavat sen uudelleen ja tukevat Undo."
+  },
+  "Permissions updated.": {
+    "origin": "M2M100-418M-local",
+    "text": "Lisenssit päivitetään."
+  },
+  "Permissions…": {
+    "origin": "Files:Permissions",
+    "text": "Käyttöoikeudet"
+  },
+  "Pick up where you left off": {
+    "origin": "M2M100-418M-local",
+    "text": "Valitse, missä jätit pois"
+  },
+  "Pictures": {
+    "origin": "Files:Pictures",
+    "text": "Kuvat"
+  },
+  "Pin this folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Pin tämän tiedoston"
+  },
+  "Pin to sidebar": {
+    "origin": "Files:PinFolderToSidebar",
+    "text": "Kiinnitä sivupalkkiin"
+  },
+  "Pinned": {
+    "origin": "Files:Pinned",
+    "text": "Kiinnitetty"
+  },
+  "Pinned folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Pinnetut lomakkeet"
+  },
+  "Play All": {
+    "origin": "Files:PlayAll",
+    "text": "Toista kaikki"
+  },
+  "PlayAll": {
+    "origin": "Files:PlayAll",
+    "text": "Toista kaikki"
+  },
+  "Port": {
+    "origin": "M2M100-418M-local",
+    "text": "satama"
+  },
+  "Preparing copy": {
+    "origin": "M2M100-418M-local",
+    "text": "Valmista kopio"
+  },
+  "Preparing move": {
+    "origin": "M2M100-418M-local",
+    "text": "Valmistautuminen liikkeelle"
+  },
+  "Presentation is saved with this virtual location.": {
+    "origin": "M2M100-418M-local",
+    "text": "Esitys tallennetaan tällä virtuaalinen sijainti."
+  },
+  "Press the shortcut…": {
+    "origin": "M2M100-418M-local",
+    "text": "Paina lyhytkesto..."
+  },
+  "Preview": {
+    "origin": "Files:Preview",
+    "text": "Esikatselu"
+  },
+  "Previous layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edellinen Layout"
+  },
+  "Previous tab": {
+    "origin": "Files:PreviousTab",
+    "text": "Edellinen välilehti"
+  },
+  "Properties": {
+    "origin": "Files:OpenProperties",
+    "text": "Ominaisuudet"
+  },
+  "Properties…": {
+    "origin": "Files:OpenProperties",
+    "text": "Ominaisuudet"
+  },
+  "Property": {
+    "origin": "M2M100-418M-local",
+    "text": "omaisuus"
+  },
+  "Protocol": {
+    "origin": "M2M100-418M-local",
+    "text": "pöytäkirja"
+  },
+  "Provider controls in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Palveluntarjoaja valvoo Finder"
+  },
+  "Pull": {
+    "origin": "Files:GitPull",
+    "text": "Vedä"
+  },
+  "Purple": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Purpulainen"
+  },
+  "Push": {
+    "origin": "Files:Push",
+    "text": "Työnnä"
+  },
+  "Queued": {
+    "origin": "M2M100-418M-local",
+    "text": "Valitse"
+  },
+  "Quick access": {
+    "origin": "Files:QuickAccess",
+    "text": "Pikakäyttö"
+  },
+  "Quit MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lopeta MacFiles"
+  },
+  "Readable": {
+    "origin": "M2M100-418M-local",
+    "text": "Luettavaa"
+  },
+  "Recent files": {
+    "origin": "Files:RecentFiles",
+    "text": "Viimeisimmät tiedostot"
+  },
+  "Recent folders": {
+    "origin": "M2M100-418M-local",
+    "text": "Viimeisimmät tiedostot"
+  },
+  "Reconnect to the same server and account, then retry Undo. The remote recovery data remains in .MacFiles-Recovery.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Liity uudelleen samaan palvelimeen ja tiliin, palauta sitten Undo. .MacFiles-Recovery."
+  },
+  "Record shortcut": {
+    "origin": "M2M100-418M-local",
+    "text": "Rekisteri lyhyt"
+  },
+  "Red": {
+    "origin": "Files:Red",
+    "text": "Punainen"
+  },
+  "Redo": {
+    "origin": "Files:Redo",
+    "text": "Tee uudelleen"
+  },
+  "Redo file operation": {
+    "origin": "M2M100-418M-local",
+    "text": "Redo tiedostojen toiminta"
+  },
+  "Redoing": {
+    "origin": "M2M100-418M-local",
+    "text": "Vähentää"
+  },
+  "Refresh": {
+    "origin": "Files:Refresh",
+    "text": "Päivitä"
+  },
+  "Refresh · ⌘R": {
+    "origin": "Files:Refresh",
+    "text": "Päivitä · ⌘R"
+  },
+  "Regular expression": {
+    "origin": "M2M100-418M-local",
+    "text": "säännöllinen ilmaisu"
+  },
+  "Release notes": {
+    "origin": "Files:ReleaseNotes",
+    "text": "Julkaisutiedot"
+  },
+  "Reload": {
+    "origin": "M2M100-418M-local",
+    "text": "Lataa"
+  },
+  "Remember password in Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Muista salasanasi Keychain"
+  },
+  "Remote operation on %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Etätoiminta on %1$@"
+  },
+  "Remote path": {
+    "origin": "M2M100-418M-local",
+    "text": "Kaukainen tie"
+  },
+  "Remote paths cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Etäisyydet eivät voi sisältää linja-aukoja tai NUL ja hahmoja."
+  },
+  "Remotes": {
+    "origin": "Files:Remotes",
+    "text": "Etäpalvelimet"
+  },
+  "Remove": {
+    "origin": "Files:Remove",
+    "text": "Poista"
+  },
+  "Remove attribute…": {
+    "origin": "M2M100-418M-local",
+    "text": "Poista ominaisuus..."
+  },
+  "Remove background image": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Poista taustakuva"
+  },
+  "Remove download": {
+    "origin": "M2M100-418M-local",
+    "text": "Poista lataus"
+  },
+  "Remove entries…": {
+    "origin": "M2M100-418M-local",
+    "text": "Poista sisäänkirjautuminen..."
+  },
+  "Remove from archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Poista arkistosta"
+  },
+  "Remove library": {
+    "origin": "M2M100-418M-local",
+    "text": "Poista kirjasto"
+  },
+  "Remove local download…": {
+    "origin": "M2M100-418M-local",
+    "text": "Poista paikallinen lataus..."
+  },
+  "Remove references": {
+    "origin": "M2M100-418M-local",
+    "text": "Poista viittaukset"
+  },
+  "Remove saved credentials": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Poista tallennetut luottamukset"
+  },
+  "Remove saved folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Poista tallennetut tiedostot"
+  },
+  "Remove saved search": {
+    "origin": "M2M100-418M-local",
+    "text": "Poista pelastettu etsiminen"
+  },
+  "Remove selected entries from the archive?": {
+    "origin": "M2M100-418M-local",
+    "text": "Poista valitut kirjoitukset arkistosta?"
+  },
+  "Remove tags": {
+    "origin": "Files:RemoveTags",
+    "text": "Poista tunnisteet"
+  },
+  "Remove the local download?": {
+    "origin": "M2M100-418M-local",
+    "text": "Poista paikallinen lataus?"
+  },
+  "Remove ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "poistaa »%1$@’?"
+  },
+  "RemoveTags": {
+    "origin": "Files:RemoveTags",
+    "text": "Poista tunnisteet"
+  },
+  "Removing tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Poista tags"
+  },
+  "Rename": {
+    "origin": "Files:Rename",
+    "text": "Nimeä uudelleen"
+  },
+  "Rename %1$@ items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "nimen %1$@ kohteet"
+  },
+  "Rename archive entry": {
+    "origin": "M2M100-418M-local",
+    "text": "Arkkitehtuurin nimeä"
+  },
+  "Rename entry…": {
+    "origin": "M2M100-418M-local",
+    "text": "Sisäänpääsyä..."
+  },
+  "Rename failed. Your item is preserved at %1$@. %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rename epäonnistui. kohteesi säilytetään %1$@. %2$@"
+  },
+  "Rename remote item": {
+    "origin": "M2M100-418M-local",
+    "text": "Remote kohteen nimittäminen"
+  },
+  "Rename…": {
+    "origin": "Files:Rename",
+    "text": "Nimeä uudelleen"
+  },
+  "Renaming": {
+    "origin": "M2M100-418M-local",
+    "text": "Uudelleenlaatu"
+  },
+  "Renaming items": {
+    "origin": "M2M100-418M-local",
+    "text": "Uudelleenlaatuisia kohteita"
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Finder uses the macOS palette; custom colors and stable IDs are retained by MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Palauttaminen tai poistaminen tallennetun tag-päivitysten tiedostoja löytyi SpotlightInindexed tai inaccessible tiedostot voivat säilyttää vanhan merkinnän. Finder Käytä sitä macOS paletti; mukautetut värit ja vakaat tunnisteet säilytetään MacFiles."
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Tag colors use the macOS palette.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Palauttaminen tai poistaminen tallennetun tag-päivitysten tiedostoja löytyi SpotlightUnindexed tai inaccessible tiedostot voivat säilyttää vanhan tag. macOS ja paletti."
+  },
+  "Reopen closed tab": {
+    "origin": "M2M100-418M-local",
+    "text": "Avaa uudelleen suljettu taulukko"
+  },
+  "Replace": {
+    "origin": "M2M100-418M-local",
+    "text": "korvaaminen"
+  },
+  "Replace this item's ACL?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vaihda tämä kohde ACL?"
+  },
+  "Replace with": {
+    "origin": "M2M100-418M-local",
+    "text": "Vaihda sen kanssa"
+  },
+  "Replace, keeping backup": {
+    "origin": "M2M100-418M-local",
+    "text": "Vaihda, säilyttää varmuuskopiointi"
+  },
+  "Report an issue": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Raportoi aiheesta"
+  },
+  "Repository": {
+    "origin": "M2M100-418M-local",
+    "text": "Repositorit"
+  },
+  "Repository URL": {
+    "origin": "M2M100-418M-local",
+    "text": "Rekisteröity URL"
+  },
+  "Requesting cloud download": {
+    "origin": "M2M100-418M-local",
+    "text": "Pyydä pilven lataamista"
+  },
+  "Reset": {
+    "origin": "M2M100-418M-local",
+    "text": "palautetta"
+  },
+  "Reset all": {
+    "origin": "M2M100-418M-local",
+    "text": "Palauta kaikki"
+  },
+  "Reset icon": {
+    "origin": "M2M100-418M-local",
+    "text": "Icon uudelleen"
+  },
+  "Reset pinned folders": {
+    "origin": "M2M100-418M-local",
+    "text": "Palauta uudelleen kiinnitettyjä tiedostoja"
+  },
+  "Restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Käynnistä uudelleen MacFiles"
+  },
+  "Restore all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Palauttaa kaikki"
+  },
+  "Restore command defaults": {
+    "origin": "M2M100-418M-local",
+    "text": "Palauttaa komentoja"
+  },
+  "Restore here": {
+    "origin": "M2M100-418M-local",
+    "text": "Palauta täällä"
+  },
+  "Restore original location": {
+    "origin": "M2M100-418M-local",
+    "text": "Palauta alkuperäinen sijainti"
+  },
+  "Restore previous folder viewer": {
+    "origin": "M2M100-418M-local",
+    "text": "Palauta aiempi folder viejä"
+  },
+  "Restore tabs at launch": {
+    "origin": "M2M100-418M-local",
+    "text": "Palauta taulukot käynnistyksessä"
+  },
+  "Restore to…": {
+    "origin": "M2M100-418M-local",
+    "text": "Palauttaa takaisin..."
+  },
+  "Restoring from Trash": {
+    "origin": "M2M100-418M-local",
+    "text": "Palautukset Trashista"
+  },
+  "Results come from the macOS Spotlight index. Unindexed folders are not included.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tulokset tulevat siitä, että macOS Spotlight Indeksit: Ei-indeksit eivät sisälly."
+  },
+  "Results in this folder and subfolders": {
+    "origin": "M2M100-418M-local",
+    "text": "Tulokset tässä tiedostossa ja subfolders"
+  },
+  "Retargeting shortcut": {
+    "origin": "M2M100-418M-local",
+    "text": "Lyhyt lyhyt lyhyt"
+  },
+  "Retarget…": {
+    "origin": "M2M100-418M-local",
+    "text": "Pysähdys..."
+  },
+  "Reveal": {
+    "origin": "M2M100-418M-local",
+    "text": "paljastaa"
+  },
+  "Reveal in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "paljastetaan Finder"
+  },
+  "Reverse tab scroll direction": {
+    "origin": "Files:ReverseTabScrollDirection",
+    "text": "Välilehtien käänteinen vierityssuunta"
+  },
+  "Review server fingerprint…": {
+    "origin": "M2M100-418M-local",
+    "text": "Tarkista sormenjäljet -"
+  },
+  "Right": {
+    "origin": "Files:Right",
+    "text": "Oikea"
+  },
+  "Rotate left": {
+    "origin": "Files:RotateLeft",
+    "text": "Kierrä vasemmalle"
+  },
+  "Rotate right": {
+    "origin": "Files:RotateRight",
+    "text": "Kierrä oikealle"
+  },
+  "Rotating left": {
+    "origin": "M2M100-418M-local",
+    "text": "Kääntyminen vasemmalle"
+  },
+  "Rotating right": {
+    "origin": "M2M100-418M-local",
+    "text": "Pyöräys oikea"
+  },
+  "Running": {
+    "origin": "M2M100-418M-local",
+    "text": "juokseminen"
+  },
+  "SFTP (SSH keys)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SFTP (SSH avaimet )"
+  },
+  "SMB, AFP, or WebDAV share": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SMB, AFPtai WebDAV Jaa"
+  },
+  "SSH known-host verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH Tuntematon vieraanvarmistus"
+  },
+  "SSH passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH salasanat eivät voi sisältää linja-aukoja tai NUL ja hahmoja."
+  },
+  "Save": {
+    "origin": "Files:Save",
+    "text": "Tallenna"
+  },
+  "Save attribute": {
+    "origin": "M2M100-418M-local",
+    "text": "Säästä ominaisuus"
+  },
+  "Save folder layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Tallenna folder layout"
+  },
+  "Save metadata": {
+    "origin": "M2M100-418M-local",
+    "text": "Tallenna metatiedot"
+  },
+  "Save search": {
+    "origin": "M2M100-418M-local",
+    "text": "Säästä etsiminen"
+  },
+  "Save search…": {
+    "origin": "M2M100-418M-local",
+    "text": "Pidä etsimässä..."
+  },
+  "Save to Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pelastaa Keychain"
+  },
+  "Saved connections": {
+    "origin": "M2M100-418M-local",
+    "text": "Pelastettu yhteys"
+  },
+  "Saved searches": {
+    "origin": "M2M100-418M-local",
+    "text": "Pelastetut etsinnät"
+  },
+  "Saved. The token will be used for GitHub HTTPS operations.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tekstiä käytetään GitHubin HTTPS-toimintoihin."
+  },
+  "Seafoam": {
+    "origin": "Files:Seafoam",
+    "text": "Meren vaahto"
+  },
+  "Search": {
+    "origin": "Files:Key.BrowserSearch",
+    "text": "Etsi"
+  },
+  "Search %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "etsiminen %1$@"
+  },
+  "Search %1$@ · Return searches subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "etsiminen %1$@ · Palautukset etsimässä subfolders"
+  },
+  "Search available actions": {
+    "origin": "M2M100-418M-local",
+    "text": "Etsi käytettävissä olevia toimia"
+  },
+  "Search commands": {
+    "origin": "M2M100-418M-local",
+    "text": "Etsi käskyjä"
+  },
+  "Search folder": {
+    "origin": "M2M100-418M-local",
+    "text": "etsiminen folder"
+  },
+  "Search settings": {
+    "origin": "Files:SearchSettings",
+    "text": "Hae asetuksia..."
+  },
+  "Search stopped.": {
+    "origin": "M2M100-418M-local",
+    "text": "Haku pysähtyi"
+  },
+  "Search subfolders": {
+    "origin": "M2M100-418M-local",
+    "text": "Etsi alijäämiä"
+  },
+  "Security": {
+    "origin": "Files:Security",
+    "text": "Suojaus"
+  },
+  "Select": {
+    "origin": "Files:NavToolbarSelectionOptions.Label",
+    "text": "Valitse"
+  },
+  "Select a file to view its diff.": {
+    "origin": "M2M100-418M-local",
+    "text": "Valitse tiedosto nähdäksesi sen diff."
+  },
+  "Select a macOS alias or symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Valitse A macOS Alias tai symbolinen linkki."
+  },
+  "Select a regular media file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Valitse säännöllinen tiedosto."
+  },
+  "Select all": {
+    "origin": "Files:SelectAll",
+    "text": "Valitse kaikki"
+  },
+  "Select an archive": {
+    "origin": "M2M100-418M-local",
+    "text": "Valitse arkisto"
+  },
+  "Select an item to see its details.": {
+    "origin": "M2M100-418M-local",
+    "text": "Valitse kohteen nähdäksesi sen yksityiskohdat."
+  },
+  "Select archive entries to remove.": {
+    "origin": "M2M100-418M-local",
+    "text": "Valitse arkiston tulokset poistettavaksi."
+  },
+  "Select on hover": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Valitse Hover"
+  },
+  "Select previous folder when navigating up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Valitse edellinen kansio navigoinnin aikana"
+  },
+  "Select uniquely named items to archive.": {
+    "origin": "M2M100-418M-local",
+    "text": "Valitse ainutlaatuisesti nimetyt kohteet arkistoon."
+  },
+  "Selected items": {
+    "origin": "M2M100-418M-local",
+    "text": "Valitut kohteet"
+  },
+  "Selected items have duplicate names. Archive them separately.": {
+    "origin": "M2M100-418M-local",
+    "text": "Valitut kohteet ovat kaksinkertaisia nimiä. arkistoida ne erikseen."
+  },
+  "Selection checkboxes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Valinta checkboxes"
+  },
+  "Separate file and folder counts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Erilliset tiedostot ja tiedostot lasketaan"
+  },
+  "Separator": {
+    "origin": "Files:Separator",
+    "text": "Erotin"
+  },
+  "Server": {
+    "origin": "M2M100-418M-local",
+    "text": "palvelimet"
+  },
+  "Set as app background": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "Aseta sovelluksen taustaksi"
+  },
+  "Set as wallpaper": {
+    "origin": "M2M100-418M-local",
+    "text": "Aseta taustakuva"
+  },
+  "Set default": {
+    "origin": "M2M100-418M-local",
+    "text": "Aseta default"
+  },
+  "SetAsAppBackground": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "Aseta sovelluksen taustaksi"
+  },
+  "Settings": {
+    "origin": "Files:Settings",
+    "text": "Asetukset"
+  },
+  "Settings file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "asetukset tiedostoja"
+  },
+  "Settings saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Asetukset on säästetty."
+  },
+  "Settings…": {
+    "origin": "Files:Settings",
+    "text": "Asetukset"
+  },
+  "Share": {
+    "origin": "Files:Share",
+    "text": "Jaa"
+  },
+  "Share…": {
+    "origin": "Files:Share",
+    "text": "Jaa"
+  },
+  "Shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Shelfin"
+  },
+  "Shortcut": {
+    "origin": "Files:Shortcut",
+    "text": "Pikakuvake"
+  },
+  "Shortcuts apply in the explorer. Text fields keep native editing behavior. Resolve duplicate assignments before applying.": {
+    "origin": "M2M100-418M-local",
+    "text": "Lyhytkestoja sovelletaan tutkijaan. tekstipisteet säilyttävät alkuperäisen muokkauksen käyttäytymisen. Ratkaista kaksinkertaiset tehtävät ennen soveltamista."
+  },
+  "Show dotfiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Näytä dotfiles"
+  },
+  "Show hidden files": {
+    "origin": "M2M100-418M-local",
+    "text": "Näytä piilotetut tiedostot"
+  },
+  "Show in folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Näytä folderissa"
+  },
+  "Show log in folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Näytä log-levyjä lomakkeessa"
+  },
+  "Show menu bar icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Näytä menu bar icon"
+  },
+  "Show package contents": {
+    "origin": "M2M100-418M-local",
+    "text": "Näytä paketin sisältö"
+  },
+  "Show shelf button": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Näytä Shelf -painiketta"
+  },
+  "Show staged diff": {
+    "origin": "M2M100-418M-local",
+    "text": "Näytönohjain diff"
+  },
+  "Show status bar": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Näytä tila-bar"
+  },
+  "Show tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Näytä TAB toimenpiteet"
+  },
+  "Show thumbnails": {
+    "origin": "Files:SettingsFilesAndFoldersShowThumbnails",
+    "text": "Näytä pikkukuvat"
+  },
+  "ShowFileExtensions": {
+    "origin": "Files:ShowFileExtensions",
+    "text": "Tiedostopäätteet"
+  },
+  "Sidebar": {
+    "origin": "Files:Sidebar",
+    "text": "Sivupalkki"
+  },
+  "Signature": {
+    "origin": "M2M100-418M-local",
+    "text": "allekirjoittaminen"
+  },
+  "Signature integrity verification failed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Allekirjoituksen eheysvakuutus epäonnistui."
+  },
+  "Signature integrity verified. This does not constitute a notarization or malware assessment.": {
+    "origin": "M2M100-418M-local",
+    "text": "Allekirjoituksen eheys todistettu. Tämä ei ole notaarisointi tai haittaohjelmien arviointi."
+  },
+  "Signatures": {
+    "origin": "M2M100-418M-local",
+    "text": "allekirjoitukset"
+  },
+  "Single file": {
+    "origin": "M2M100-418M-local",
+    "text": "Yksittäinen tiedosto"
+  },
+  "Single folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Yksittäinen tiedosto"
+  },
+  "Single-click columns": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yksinkertainen klikkaaminen"
+  },
+  "Single-click files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yksinkertainen klikkaus tiedostoja"
+  },
+  "Single-click folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yksi klikkaaminen"
+  },
+  "Size": {
+    "origin": "Files:SizeLabel",
+    "text": "Koko:"
+  },
+  "Size units": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Suuret yksiköt"
+  },
+  "Skip": {
+    "origin": "Files:Skip",
+    "text": "Ohita"
+  },
+  "Skip existing": {
+    "origin": "M2M100-418M-local",
+    "text": "Skip olemassa oleva"
+  },
+  "Small icons": {
+    "origin": "M2M100-418M-local",
+    "text": "Pieniä ikoneita"
+  },
+  "Smooth scrolling": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "pehmeä kierros"
+  },
+  "Solid": {
+    "origin": "Files:Solid",
+    "text": "Yhtenäinen"
+  },
+  "Some files could not be updated. The saved tag was retained so you can retry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Jotkut tiedostot eivät voineet päivittää. tallennettu merkki säilytettiin, joten voit peruuttaa."
+  },
+  "Some items could not be read.": {
+    "origin": "M2M100-418M-local",
+    "text": "Joitakin artikkeleita ei voinut lukea."
+  },
+  "Some items couldn’t be completed": {
+    "origin": "M2M100-418M-local",
+    "text": "Joitakin kohteita ei voinut olla valmis"
+  },
+  "Some items have no recorded original location. Select them and use Restore to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Jotkut kohteet eivät ole tallennettu alkuperäisen sijainnin. Valitse ne ja käytä Palauta..."
+  },
+  "Sort": {
+    "origin": "Files:Sort",
+    "text": "Lajittele"
+  },
+  "Sort by": {
+    "origin": "Files:SortBy",
+    "text": "Lajitteluperuste"
+  },
+  "SortFilesAndFoldersTogether": {
+    "origin": "Files:SortFilesAndFoldersTogether",
+    "text": "Lajittele tiedostot ja kansiot yhdessä"
+  },
+  "SortFilesFirst": {
+    "origin": "Files:SortFilesFirst",
+    "text": "Lajittele ensin tiedostot"
+  },
+  "SortFoldersFirst": {
+    "origin": "Files:SortFoldersFirst",
+    "text": "Lajittele ensin kansiot"
+  },
+  "Source code": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lähteen koodi"
+  },
+  "Special device entries cannot be extracted: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Erityisiä laitteita ei voi poistaa: %1$@"
+  },
+  "Split archives use ZIP or 7z format.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Jaettu arkistointi ZIP tai 7z Muoto"
+  },
+  "Split into volumes (MiB, optional)": {
+    "origin": "M2M100-418M-local",
+    "text": "Jaettu volyymiin (MiB, valinnainen)"
+  },
+  "Stage all": {
+    "origin": "M2M100-418M-local",
+    "text": "Vaihe kaikki"
+  },
+  "Stage selected": {
+    "origin": "M2M100-418M-local",
+    "text": "Vaihe valittu"
+  },
+  "Staged all changes": {
+    "origin": "M2M100-418M-local",
+    "text": "Kaikkien muutosten ajankohta"
+  },
+  "Staged selected files": {
+    "origin": "M2M100-418M-local",
+    "text": "Valitut tiedostot"
+  },
+  "Start": {
+    "origin": "Files:Start",
+    "text": "Käynnistä"
+  },
+  "Start folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Aloita folderin"
+  },
+  "Startup": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Aloitus"
+  },
+  "Startup and tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup ja Tabs"
+  },
+  "Startup folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup tiedostoja"
+  },
+  "Startup folders are used when session restoration is disabled. An empty list opens Home.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Käytetään käynnistyslaatikkoja, kun istunnon palauttaminen on estetty. tyhjä luettelo avaa Kotona."
+  },
+  "Status": {
+    "origin": "Files:StatusWithColon",
+    "text": "Tila:"
+  },
+  "Stop": {
+    "origin": "M2M100-418M-local",
+    "text": "pysähtyy"
+  },
+  "Stopped before the next item. Completed items were kept.": {
+    "origin": "M2M100-418M-local",
+    "text": "Lopetettiin ennen seuraavaa kohtaa. Täydelliset kohteet säilytettiin."
+  },
+  "Storage settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Varastointiasetukset..."
+  },
+  "Storm": {
+    "origin": "Files:Storm",
+    "text": "Myrsky"
+  },
+  "Stretch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "tiiviisti"
+  },
+  "Switch to new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vaihda uudet taulukot"
+  },
+  "Switched to %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "vaihdetaan %1$@"
+  },
+  "Symbolic Link": {
+    "origin": "M2M100-418M-local",
+    "text": "Symbolinen linkki"
+  },
+  "Symbolic link": {
+    "origin": "M2M100-418M-local",
+    "text": "Symbolinen linkki"
+  },
+  "Sync": {
+    "origin": "Files:GitSync",
+    "text": "Synkronoi"
+  },
+  "Sync conflict": {
+    "origin": "M2M100-418M-local",
+    "text": "Sync konflikti"
+  },
+  "Sync error": {
+    "origin": "M2M100-418M-local",
+    "text": "Synk virhe"
+  },
+  "Synced": {
+    "origin": "M2M100-418M-local",
+    "text": "synkronoitu"
+  },
+  "Synchronize folder preferences": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Synkronoi muistikirjan mieltymykset"
+  },
+  "System": {
+    "origin": "Files:SystemTimeStyle",
+    "text": "Järjestelmä"
+  },
+  "TLS certificate verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "TLS Todistuksen todentaminen"
+  },
+  "Tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tab toimenpiteet"
+  },
+  "Tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tabs"
+  },
+  "Tag": {
+    "origin": "Files:Tag",
+    "text": "Tunniste"
+  },
+  "Tag (blank = all tags)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag (blank = kaikki tags)"
+  },
+  "Tag color": {
+    "origin": "Files:TagColor",
+    "text": "Tunnisteen väri"
+  },
+  "Tag name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag nimi"
+  },
+  "Tag names must be unique.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nimien on oltava ainutlaatuisia."
+  },
+  "Tag update failed and original metadata could not be restored: ": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag päivitys epäonnistui ja alkuperäiset metatiedot eivät voineet palauttaa: "
+  },
+  "Tagged items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tagged kohteet"
+  },
+  "Tags": {
+    "origin": "Files:FileTags",
+    "text": "Tunnisteet"
+  },
+  "Tags, separated by commas": {
+    "origin": "M2M100-418M-local",
+    "text": "Tags, eristetty commas"
+  },
+  "Target": {
+    "origin": "Files:PropertyItemTarget",
+    "text": "Kohde"
+  },
+  "Terminal": {
+    "origin": "M2M100-418M-local",
+    "text": "terminaali"
+  },
+  "Test IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Testi on"
+  },
+  "The ACL failed validation.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ja sen ACL Epäonnistunut validointi."
+  },
+  "The command failed (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tilaus epäonnistui (%1$@)."
+  },
+  "The custom icon and saved layout belong to the selected item.": {
+    "origin": "M2M100-418M-local",
+    "text": "Käytetty kuvake ja tallennetut asetukset kuuluvat valittuun kohteeseen."
+  },
+  "The destination connection changed. Drop the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kohdeyhteys muuttui. Jätä tiedostot uudelleen."
+  },
+  "The destination connection changed. Paste the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kohdeyhteys muuttui. tiedostoja lisää uudelleen."
+  },
+  "The destination is not an accessible folder.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kohde ei ole saavutettavissa oleva kansio."
+  },
+  "The icon could not be changed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ikonia ei voi muuttaa."
+  },
+  "The icon could not be reset.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ikonia ei voi palauttaa."
+  },
+  "The media container did not retain: ": {
+    "origin": "M2M100-418M-local",
+    "text": "Mediakone ei säilyttänyt: "
+  },
+  "The media tracks cannot be preserved in this container.": {
+    "origin": "M2M100-418M-local",
+    "text": "Median jälkiä ei voida säilyttää tässä säiliössä."
+  },
+  "The new shortcut target does not exist.": {
+    "origin": "M2M100-418M-local",
+    "text": "Uusi lyhytkestoinen tavoite ei ole olemassa."
+  },
+  "The old shortcut is in Trash, but macOS did not return its location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vanha lyhytkesto on Trashissa, mutta macOS Hän ei palauttanut paikkansa."
+  },
+  "The original archive remains recoverable with Undo.": {
+    "origin": "M2M100-418M-local",
+    "text": "Alkuperäinen arkisto on edelleen palautettavissa Undon kanssa."
+  },
+  "The server did not return a valid host-key list.": {
+    "origin": "M2M100-418M-local",
+    "text": "Palvelin ei palauttanut voimassa olevaa host-key -luetteloa."
+  },
+  "The server recovery path is occupied by a file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Serverin palautuskierroksella on tiedosto."
+  },
+  "The server returned an unsafe or unsupported filename.": {
+    "origin": "M2M100-418M-local",
+    "text": "Palvelin palautti epävarman tai tuottamattoman tiedostonimen."
+  },
+  "The server returned an unsupported directory listing. No transfer was started.": {
+    "origin": "M2M100-418M-local",
+    "text": "Palvelin palautti tukemattoman luettelon. ei siirtoa aloitettu."
+  },
+  "The shortcut will point to %1$@. The target file itself is not modified.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lyhytkesto osoittaa, että %1$@Tavoitteen tiedosto itse ei ole muutettuna."
+  },
+  "The slideshow changes desktop wallpaper while MacFiles is running. It resumes at launch when enabled. macOS controls the lock screen wallpaper separately.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Slideshow muuttaa työpöydän taustakuvaa kun MacFiles käynnistyy. se käynnistyy uudelleen, kun se on käytössä. macOS ohjaa lukitusnäytön taustakuva erikseen."
+  },
+  "The system script could not be compiled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Järjestelmän skriptia ei voitu koota."
+  },
+  "The system script could not be created.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Järjestelmän skriptia ei voitu luoda."
+  },
+  "The transfer selection changed. Cut the items again.": {
+    "origin": "M2M100-418M-local",
+    "text": "Siirron valinta muuttui. leikata kohteet uudelleen."
+  },
+  "The uploaded data did not match its source. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "text": "Tallennettuja tietoja ei vastannut sen lähde. lähde säilytettiin."
+  },
+  "The uploaded iCloud copy remains available. macOS will download it again when needed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lataa ylös iCloud Kopio on edelleen käytettävissä. macOS Lataa se uudelleen tarvittaessa."
+  },
+  "Theme": {
+    "origin": "Files:SettingsAppearanceTheme",
+    "text": "Teema"
+  },
+  "These items will be removed from Trash. This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "text": "Nämä kohteet poistetaan Trashista. tämä ei voi olla poissa."
+  },
+  "Third-party providers do not expose a common public sync-completion API. Available locally describes downloaded bytes, not upload completion. Download requests do not pin files permanently.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kolmannen osapuolen palveluntarjoajat eivät altista yleistä julkista synkronointi-tulos API. Käytettävissä paikallisesti kuvailee lataettuja bytejä, ei ladata loppuun. Lataa pyyntöjä ei pin tiedostoja pysyvästi."
+  },
+  "This FTP server cannot create symbolic links. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tämä FTP Palvelin ei voi luoda symbolisia linkkejä. lähde säilytettiin."
+  },
+  "This Mac": {
+    "origin": "M2M100-418M-local",
+    "text": "Tämä Mac"
+  },
+  "This alias contains a target cycle.": {
+    "origin": "M2M100-418M-local",
+    "text": "Tämä alias sisältää kohdekierron."
+  },
+  "This archive format is read-only. Extract it and create a ZIP or 7z archive to edit its contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tämä arkistomuoto on vain lukematon. poista se ja luo ZIP tai 7z Arkisto muokata sen sisältöä."
+  },
+  "This archive or server protocol does not expose macOS extended attributes. Extract or download the item to manage attributes on its local copy.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tämä arkisto tai palvelimen protokolla ei esitä macOS Extended attributes. - Tuoda tai ladata elementti ominaisuuksien hallintaan sen paikallisessa kopioinnissa."
+  },
+  "This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tätä ei voi kieltää."
+  },
+  "This changes the registered folder viewer. Finder still manages the desktop and macOS file dialogs. You can restore the previous viewer here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tämä muuttaa rekisteröidyn kansiosan katsojaa. Finder Toimii edelleen työpöydän ja macOS tiedoston vuoropuhelut. voit palauttaa aiemman katsojan täällä."
+  },
+  "This changes which users can access the item. Export the existing ACL first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tämä muutos, jonka käyttäjät voivat käyttää kohteen. ACL Ensinnäkin, jos tarvitset varmuuskopion."
+  },
+  "This folder is empty": {
+    "origin": "Files:EmptyFolder.Text",
+    "text": "Tämä kansio on tyhjä."
+  },
+  "This location is not ready for transfers.": {
+    "origin": "M2M100-418M-local",
+    "text": "Tämä sijainti ei ole valmis siirtoihin."
+  },
+  "This media format cannot be edited by the native exporter.": {
+    "origin": "M2M100-418M-local",
+    "text": "Tämä media-muoto ei voi muokata alkuperäisen vientiä."
+  },
+  "This metadata container uses indexed keys; edit it with its native media application.": {
+    "origin": "M2M100-418M-local",
+    "text": "Tämä metatietokanta käyttää indeksoituja avaimia; muokkaa sitä alkuperäisen median sovelluksella."
+  },
+  "This operation cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "text": "Tätä toimintaa ei voi kieltää."
+  },
+  "This removes the attribute from this file. Export its bytes first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "text": "Tämä poistaa ominaisuuden tästä tiedostosta. tuoda sen bytejä ensin, jos tarvitset varmuuskopion."
+  },
+  "Thumbnail cache limit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thumbnail Cache rajoitus"
+  },
+  "Thumbnails": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thumbnailien"
+  },
+  "Thumbnails are cached in memory. The limit applies to decoded images.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tumbnailit ovat tallennettuja muistiin. rajan sovelletaan dekodittuja kuvia."
+  },
+  "Tiles": {
+    "origin": "M2M100-418M-local",
+    "text": "Tyyli"
+  },
+  "Title": {
+    "origin": "Files:PropertyTitle",
+    "text": "Otsikko"
+  },
+  "Today": {
+    "origin": "Files:Today",
+    "text": "Tänään"
+  },
+  "Toggle compact overlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "Kytke suppea asettelu päälle/pois"
+  },
+  "Toggle details pane": {
+    "origin": "M2M100-418M-local",
+    "text": "Lisää yksityiskohtia pane"
+  },
+  "Toggle dual pane": {
+    "origin": "Files:ToggleDualPane",
+    "text": "Vaihda kaksoisruudun tila"
+  },
+  "Toggle filter header": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "Näytä tai piilota suodatinotsake"
+  },
+  "Toggle full screen": {
+    "origin": "M2M100-418M-local",
+    "text": "Täydellinen näytöllä"
+  },
+  "Toggle selection": {
+    "origin": "Files:ToggleSelect",
+    "text": "Vaihda valinta"
+  },
+  "ToggleCompactOverlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "Kytke suppea asettelu päälle/pois"
+  },
+  "ToggleFilterHeader": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "Näytä tai piilota suodatinotsake"
+  },
+  "ToggleSelect": {
+    "origin": "Files:ToggleSelect",
+    "text": "Vaihda valinta"
+  },
+  "ToggleSidebar": {
+    "origin": "Files:ToggleSidebar",
+    "text": "Vaihda sivupalkkia"
+  },
+  "ToggleToolbar": {
+    "origin": "Files:ToggleToolbar",
+    "text": "Näytä/piilota työkalupalkki"
+  },
+  "Too many nested aliases.": {
+    "origin": "M2M100-418M-local",
+    "text": "Liian paljon liikaa liittoja."
+  },
+  "Tools": {
+    "origin": "M2M100-418M-local",
+    "text": "Työkalut"
+  },
+  "Top": {
+    "origin": "Files:Top",
+    "text": "Ylhäällä"
+  },
+  "Total size": {
+    "origin": "M2M100-418M-local",
+    "text": "Koko koko"
+  },
+  "Transfer failed": {
+    "origin": "M2M100-418M-local",
+    "text": "Siirto epäonnistui"
+  },
+  "Trash": {
+    "origin": "Files:RecycleBin",
+    "text": "Roskakori"
+  },
+  "Trash on this Mac and connected volumes": {
+    "origin": "M2M100-418M-local",
+    "text": "Tutustu tähän Mac ja liitettyjä määriä"
+  },
+  "Trust": {
+    "origin": "M2M100-418M-local",
+    "text": "Luottamus"
+  },
+  "Trust this SSH server?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Luota tähän SSH Ja palvelin?"
+  },
+  "Trust verified fingerprints": {
+    "origin": "M2M100-418M-local",
+    "text": "Vakuutettujen sormenjälkien luottamus"
+  },
+  "Try again": {
+    "origin": "M2M100-418M-local",
+    "text": "Kokeile uudelleen"
+  },
+  "Under window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ikkunan alla"
+  },
+  "Undo": {
+    "origin": "Files:Undo",
+    "text": "Kumoa"
+  },
+  "Undo file operation": {
+    "origin": "M2M100-418M-local",
+    "text": "Tiedostojen toiminta"
+  },
+  "Undoing": {
+    "origin": "M2M100-418M-local",
+    "text": "Ymmärrä"
+  },
+  "Unencrypted FTP": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "salaamattomia FTP"
+  },
+  "Universal": {
+    "origin": "Files:Universal",
+    "text": "Universaali"
+  },
+  "Unknown": {
+    "origin": "Files:Unknown",
+    "text": "Tuntematon"
+  },
+  "Unknown shortcut command.": {
+    "origin": "M2M100-418M-local",
+    "text": "Tietämätön lyhytkestoinen komento."
+  },
+  "Unpin": {
+    "origin": "Files:Unpin",
+    "text": "Irrota"
+  },
+  "Unsafe archive link target.": {
+    "origin": "M2M100-418M-local",
+    "text": "Turvallinen arkisto linkki tavoite."
+  },
+  "Unstage": {
+    "origin": "M2M100-418M-local",
+    "text": "Epäonnistuminen"
+  },
+  "Unstaged selected files": {
+    "origin": "M2M100-418M-local",
+    "text": "Valitut tiedostot"
+  },
+  "Unsupported Git action.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tuottamattomia Git Toiminto"
+  },
+  "Unsupported archive entry name or listing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ei tuettu arkistotunnus tai luettelo."
+  },
+  "Unsupported file type in transfer.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ei tuettu tiedostotyyppi siirretään."
+  },
+  "Unsupported metadata container version.": {
+    "origin": "M2M100-418M-local",
+    "text": "Tuottamattomat metatietojen säiliöversio."
+  },
+  "Unsupported movie header.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ohjattu elokuvateatteri."
+  },
+  "Untagged": {
+    "origin": "Files:Untagged",
+    "text": "Merkitsemätön"
+  },
+  "Up": {
+    "origin": "Files:Key.Up",
+    "text": "Ylös (Alt+ylös-nuoli)"
+  },
+  "Up one level": {
+    "origin": "M2M100-418M-local",
+    "text": "Yksi taso ylös"
+  },
+  "Up one level · ⌘↑": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yksi taso ylös ⌘↑"
+  },
+  "Updates native macOS tags for all selected items. Leave empty to remove tags.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Päivitykset alkuperäisestä macOS kaikki valitut kohteet. jätä tyhjä poistaa tags."
+  },
+  "Updating archive": {
+    "origin": "M2M100-418M-local",
+    "text": "Päivitys arkisto"
+  },
+  "Updating media metadata": {
+    "origin": "M2M100-418M-local",
+    "text": "Media metatietojen päivitys"
+  },
+  "Updating permissions": {
+    "origin": "M2M100-418M-local",
+    "text": "Lisenssien päivittäminen"
+  },
+  "Upload": {
+    "origin": "M2M100-418M-local",
+    "text": "Lataa"
+  },
+  "Upload failed. The original remains at %1$@; the pending upload is %2$@. %3$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Alkuperäinen on jätetty, alkuperäinen jää %1$@• Lopputuloksena on %2$@. %3$@"
+  },
+  "Upload files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tallenna tiedostoja..."
+  },
+  "Upload regular files or folders; symbolic links are not followed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Lataa säännölliset tiedostot tai tiedostot; symbolisia linkkejä ei seurata."
+  },
+  "Uploading": {
+    "origin": "M2M100-418M-local",
+    "text": "Lataa"
+  },
+  "Upstream Files issues": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Upstream tiedostojen ongelmat"
+  },
+  "Use Copy and Paste or Download to transfer remote items.": {
+    "origin": "M2M100-418M-local",
+    "text": "Käytä Kopioi ja Paista tai Lataa siirtääksesi etäisiä kohteita."
+  },
+  "Use Copy or Extract to transfer archive contents.": {
+    "origin": "M2M100-418M-local",
+    "text": "Käytä Kopioi tai poistaa arkiston sisällön siirtämiseksi."
+  },
+  "Use MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Käytä MacFiles"
+  },
+  "Use MacFiles for folder URLs?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Käytä MacFiles Ja URL-osoitteiden kanssa?"
+  },
+  "Use MacFiles for folder URLs…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Käytä MacFiles URL-osoitteiden käyttöä varten ..."
+  },
+  "User": {
+    "origin": "M2M100-418M-local",
+    "text": "Käyttäjä"
+  },
+  "Username": {
+    "origin": "Files:CredentialDialogUserName.PlaceholderText",
+    "text": "Käyttäjätunnus"
+  },
+  "Uses SSH keys or the password above. Host-key verification remains enabled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Käyttö SSH avaimet tai salasanat edellä. Host-key -todistus on edelleen sallittua."
+  },
+  "Uses the on-device Apple Intelligence model when available. Otherwise searches the words you entered. No file content is sent to a server.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Käytä laitteella olevaa Apple Intelligence -mallia, kun se on käytettävissä. muutoin etsit kirjoitettuja sanoja. Ei tiedoston sisältöä lähetetään palvelimeen."
+  },
+  "Value": {
+    "origin": "M2M100-418M-local",
+    "text": "Arvo"
+  },
+  "Verified host keys saved for MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tarkistettujen avainten säilytys MacFiles."
+  },
+  "Vertical alignment": {
+    "origin": "Files:VerticalAlignment",
+    "text": "Pystysuuntainen suuntaus"
+  },
+  "Vertical split": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vertikaalinen jakautuminen"
+  },
+  "View": {
+    "origin": "M2M100-418M-local",
+    "text": "Näkökulma"
+  },
+  "Volume": {
+    "origin": "M2M100-418M-local",
+    "text": "Määrä"
+  },
+  "Volume available": {
+    "origin": "M2M100-418M-local",
+    "text": "Käytettävissä oleva määrä"
+  },
+  "Volume capacity": {
+    "origin": "M2M100-418M-local",
+    "text": "Kapasiteetti Volume"
+  },
+  "Volume case sensitive": {
+    "origin": "M2M100-418M-local",
+    "text": "Tilanne herkkä"
+  },
+  "Volume read only": {
+    "origin": "M2M100-418M-local",
+    "text": "Lukemisen määrä vain"
+  },
+  "Volumes must be at least 1 KiB.": {
+    "origin": "M2M100-418M-local",
+    "text": "Volumien on oltava vähintään 1 KiB."
+  },
+  "Waiting to sync": {
+    "origin": "M2M100-418M-local",
+    "text": "Odottaa synkronointia"
+  },
+  "Wallpaper could not be changed": {
+    "origin": "M2M100-418M-local",
+    "text": "Tapettia ei voi muuttaa"
+  },
+  "Wallpaper slideshow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tapetti Slideshow"
+  },
+  "Wallpaper slideshow…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tapetti Slideshow ..."
+  },
+  "Warn when changing file extensions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Varo tiedoston laajennusten muuttamisen yhteydessä"
+  },
+  "When an item exists": {
+    "origin": "M2M100-418M-local",
+    "text": "Kun esine on olemassa"
+  },
+  "When names conflict, choose Keep both, Replace, or Skip. Replaced versions and deleted items go to the macOS Trash. Undo and redo are retained across launches and shared by open windows.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kun nimet ovat ristiriidassa, valitse Pidä molemmat, Vaihda tai Jätä. Vaihdettuja versioita ja poistettuja kohteita siirry macOS Undo ja redo säilytetään käynnistysten läpi ja jakavat avoimet ikkunat."
+  },
+  "Working…": {
+    "origin": "M2M100-418M-local",
+    "text": "Työskentely..."
+  },
+  "Writable": {
+    "origin": "M2M100-418M-local",
+    "text": "Kirjoittava"
+  },
+  "Writes embedded metadata. Image files may be re-encoded; the original remains recoverable with Undo. Audio and video edits preserve encoded tracks. Unsupported containers keep the original.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kirjoita sisäänrakennetut metatiedot. kuvan tiedostot voidaan kooda uudelleen; alkuperäinen pysyy palautettavissa Undo. Audio ja video muokkaukset säilyttävät kooditut jäljet. Tuottamattomat säiliöt säilyttävät alkuperän."
+  },
+  "Year": {
+    "origin": "Files:Year",
+    "text": "Vuosi"
+  },
+  "Yellow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "keltainen"
+  },
+  "Yes": {
+    "origin": "Files:Yes",
+    "text": "Kyllä"
+  },
+  "Yesterday": {
+    "origin": "Files:Yesterday",
+    "text": "Eilen"
+  },
+  "You can restore these items with Undo or from the Trash.": {
+    "origin": "M2M100-418M-local",
+    "text": "Voit palauttaa nämä kohteet Undon tai Trashin avulla."
+  },
+  "Your files, your way.": {
+    "origin": "M2M100-418M-local",
+    "text": "Tietosi ja tietosi."
+  },
+  "Your pinned folders": {
+    "origin": "M2M100-418M-local",
+    "text": "Sinun pyyhkeesi"
+  },
+  "Zoom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Zoom"
+  },
+  "macOS aliases and symbolic links refer to a target path. Windows shortcut arguments and Run as administrator flags do not have alias equivalents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Aliasit ja symboliset linkit viittaavat kohderyhmään. Windows Lyhytkestoiset argumentit ja Käynnistä hallinnoijan lippuilla ei ole alias-tunnuksia."
+  },
+  "macOS integration": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS integraatio"
+  },
+  "macOS moved the previous version to Trash but did not return its location. The new version was not installed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS siirtänyt aiemman version Trash, mutta ei palauttanut sijaintia. uusi versio ei asennettu."
+  },
+  "macOS returned %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS palautettu %1$@."
+  },
+  "macOS uses Mach-O architectures and the application's minimum OS version. Windows compatibility modes, DPI overrides and administrator flags cannot be applied to a native Mac app.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Käytä Mach-O sovelluksen arkkitehtuurit ja vähimmäisjärjestelmän versio. Windows Yhteensopivuusmuotoja, DPI: n ylityksiä ja hallinnoijan lippuja ei voi soveltaa alkuperäiseen Mac-sovellukseen."
+  }
+}

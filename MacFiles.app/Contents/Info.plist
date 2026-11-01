@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>MacFiles</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeName</key>
+			<string>Folder</string>
+			<key>CFBundleTypeRole</key>
+			<string>Viewer</string>
+			<key>LSHandlerRank</key>
+			<string>Alternate</string>
+			<key>LSItemContentTypes</key>
+			<array>
+				<string>public.folder</string>
+			</array>
+		</dict>
+	</array>
+	<key>CFBundleExecutable</key>
+	<string>MacFiles</string>
+	<key>CFBundleIconFile</key>
+	<string>MacFiles</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.toidi.macfiles</string>
+	<key>CFBundleName</key>
+	<string>MacFiles</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.7.2</string>
+	<key>CFBundleVersion</key>
+	<string>12</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>MacFiles opens Finder’s Get Info window for the files you select.</string>
+	<key>NSDesktopFolderUsageDescription</key>
+	<string>MacFiles browses and manages the files you choose on your Desktop.</string>
+	<key>NSDocumentsFolderUsageDescription</key>
+	<string>MacFiles browses and manages the documents you choose.</string>
+	<key>NSDownloadsFolderUsageDescription</key>
+	<string>MacFiles browses and manages your downloaded files.</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSHumanReadableCopyright</key>
+	<string>Based on Files Community. See bundled MIT and MPL-2.0 notices.</string>
+	<key>NSNetworkVolumesUsageDescription</key>
+	<string>MacFiles browses and manages files on mounted network drives.</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>NSRemovableVolumesUsageDescription</key>
+	<string>MacFiles browses and manages files on connected drives.</string>
+	<key>NSServices</key>
+	<array>
+		<dict>
+			<key>NSMenuItem</key>
+			<dict>
+				<key>default</key>
+				<string>Open in MacFiles</string>
+			</dict>
+			<key>NSMessage</key>
+			<string>openInMacFiles</string>
+			<key>NSPortName</key>
+			<string>MacFiles</string>
+			<key>NSSendTypes</key>
+			<array>
+				<string>public.file-url</string>
+				<string>NSFilenamesPboardType</string>
+			</array>
+		</dict>
+	</array>
+	<key>NSSupportsAutomaticTermination</key>
+	<false/>
+</dict>
+</plist>

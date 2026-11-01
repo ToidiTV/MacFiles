@@ -1,0 +1,5276 @@
+{
+  "%1$@ MB": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ MB"
+  },
+  "%1$@ Trash location(s) could not be read. macOS may require Full Disk Access for Trash. Items listed here remain available to manage.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ அந்நிய செலாவணி வடிவமைப்பு (S) எடுக்கப்படவில்லை. macOS முழு டிஸ்கி அணுகல் தேவைப்படும்.இங்கே பட்டியலிடப்பட்ட பொருட்கள் நிர்வகிக்க முடியும்."
+  },
+  "%1$@ destination name(s) already exist": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ பெயர் (s) இப்போது உள்ளன"
+  },
+  "%1$@ entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ நுழைவுகள்"
+  },
+  "%1$@ folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ பதிவுகள்"
+  },
+  "%1$@ folders · %2$@ files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ பதிவுகள் · %2$@ கோப்புகள்"
+  },
+  "%1$@ folders · saves to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ ஸ்பெஷல் ஸ்பெஷல் %2$@"
+  },
+  "%1$@ free of %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ free of %2$@"
+  },
+  "%1$@ inaccessible": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ அநியாயம்"
+  },
+  "%1$@ is assigned more than once.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ மேலும் ஒரு முறை வழங்கப்படும்."
+  },
+  "%1$@ is reserved by macOS or the application window.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ reserved by macOS அல்லது பயன்பாடு ஜன்னல்"
+  },
+  "%1$@ is reserved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ காங்கிரஸ் உள்ளது"
+  },
+  "%1$@ item(s) ready to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ பகுதி (s) தயாராகும் %2$@"
+  },
+  "%1$@ selected items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ தேர்ந்தெடுக்கப்பட்ட பொருட்கள்"
+  },
+  "%1$@. Sync completion is managed by the provider and is not reported through public file metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@Sync completion is managed by the provider and is not through public file metadata.தொடர்ந்து படிக்கவும்"
+  },
+  "A different key is already trusted for this host. Review the changed key with the server administrator before replacing it.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இந்த ஹோஸ்டிங்க்கு ஏற்கனவே ஒரு வேறு திறன் நம்பப்படுகிறது.இந்த மாற்றப்பட்ட திறனை சேவையக மேலாளர் மூலம் சரிபார்க்கும் முன் அதை மாற்றவும்."
+  },
+  "A familiar place for everything.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "எல்லாவற்றிற்கும் ஒரு அற்புதமான இடமாகும்."
+  },
+  "A file operation is still running": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஒரு கோப்பு செயல்பாடு இன்னும் செயல்படுகிறது"
+  },
+  "A folder cannot be copied or moved inside itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஒரு கோப்புறையை பதிவிறக்க அல்லது உள்ளே மாற்ற முடியாது."
+  },
+  "A shortcut cannot target itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஒரு குறுகிய இலக்கு தன்னை இலக்கு செய்ய முடியாது."
+  },
+  "ACL updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ACL புதுப்பிக்கப்பட்டது"
+  },
+  "About": {
+    "origin": "Files:About",
+    "text": "பற்றி"
+  },
+  "About MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பற்றி MacFiles"
+  },
+  "Accent color (hex)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "குளிர்பானம் குளிர்பானம் (hex)"
+  },
+  "Access control list — native macOS syntax": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அணுகல் கட்டுப்பாட்டு பட்டியல் - native macOS syntax"
+  },
+  "Access token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Access டாக்டர்"
+  },
+  "Accounts, authentication and sync preferences are managed by each provider’s native app. Removing a saved folder here does not unlink its account or delete files.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Accounts, authentication and sync preferences are managed by each provider's native app. இங்கே சேமிக்கப்பட்ட ஒரு கோப்புகளை நீக்குவதன் மூலம் உங்கள் கணக்கை நீக்கவும் அல்லது கோப்புகளை நீக்கவும் இல்லை."
+  },
+  "Action unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "நடவடிக்கை இல்லாத"
+  },
+  "Actions": {
+    "origin": "Files:Actions",
+    "text": "செயல்கள்"
+  },
+  "Adaptive": {
+    "origin": "Files:Adaptive",
+    "text": "Adaptive layout"
+  },
+  "Adaptive layout": {
+    "origin": "Files:Adaptive",
+    "text": "Adaptive layout"
+  },
+  "Add": {
+    "origin": "Files:Add",
+    "text": "Ce:ru"
+  },
+  "Add cloud folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud கோப்பை சேர்க்கவும்"
+  },
+  "Add current selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தற்போதைய தேர்வு"
+  },
+  "Add files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கோப்புகளை சேர்த்து..."
+  },
+  "Add folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் folder..."
+  },
+  "Add images…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஓவியங்கள் சேர்க்கவும்..."
+  },
+  "Add prefix": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முன்பதிவு Prefix"
+  },
+  "Add saved tag": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "சேமிப்பு tag"
+  },
+  "Add selection to shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Shelf தேர்ந்தெடுக்கவும்"
+  },
+  "Add startup folders…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup கோப்புகளை சேர்க்கவும்"
+  },
+  "Add suffix": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "suffix வாசனை"
+  },
+  "Add to library": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மேலும் library செய்திகள்"
+  },
+  "Add to shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Shelf க்கு சேர்க்கவும்"
+  },
+  "Advanced": {
+    "origin": "Files:Advanced",
+    "text": "மேம்பட்ட"
+  },
+  "Advanced search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Advanced தேடல்"
+  },
+  "Advanced search…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மேம்படுத்தப்பட்ட தேடல்..."
+  },
+  "Album": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஆல்பம்"
+  },
+  "Allocated size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அளவு அளவு"
+  },
+  "Already assigned to %1$@. Remove that assignment first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இப்போது வழங்கப்பட்ட %1$@முதலில் அந்த அலுவலகத்தை நீக்கவும்."
+  },
+  "Always show operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "எப்போதும் செயல்பாடுகள்"
+  },
+  "Always visible": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "எப்போதும் பார்வை"
+  },
+  "Always-visible items are combined with the current selection context. Cloud items add their own controls.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "All-visible items are combined with the current selection context.பூமி பொருட்கள் தங்கள் சொந்த கட்டுப்பாடுகளை சேர்க்கிறது."
+  },
+  "Ambiguous archive listing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ambiguous archive பட்டியலை"
+  },
+  "Ambiguous media metadata containers.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முகப்பு குறிச்சொற்கள் Media metadata containers"
+  },
+  "Any": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "எந்த"
+  },
+  "App language (restart to apply)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பயன்பாடு மொழி (Restart to Apply)"
+  },
+  "Appearance": {
+    "origin": "Files:Appearance",
+    "text": "தோற்றம்"
+  },
+  "Application": {
+    "origin": "Files:Application",
+    "text": "செயலி"
+  },
+  "Application unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பயன்பாடு Unavailable"
+  },
+  "Applies owner, group, and other permissions to the selected items only.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேர்ந்தெடுக்கப்பட்ட பொருட்களுக்கு மட்டுமே உரிமையாளர், குழு, மற்றும் மற்ற அனுமதிகளை பயன்படுத்துகிறது."
+  },
+  "Apply": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பயன்பாடு"
+  },
+  "Apply ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பயன்பாடு ACL…"
+  },
+  "Apply UID %1$@ and GID %2$@ to this item only.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பயன்பாடு UID %1$@ மற்றும் GID %2$@ இந்த விஷயத்தில் மட்டுமே"
+  },
+  "Apply attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Attributes பயன்பாடு"
+  },
+  "Apply file permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கோப்பு அனுமதிகள்"
+  },
+  "Apply owner/group…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "உரிமையாளர் / குழு"
+  },
+  "Approve MacFiles in Login Items in System Settings.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஒப்பந்தம் MacFiles Login Items in System Settings என்பதன் சுருக்கம்."
+  },
+  "Archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive பற்றிய தகவல்கள்"
+  },
+  "Archive attempts to write through a link or file: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive attempts to write through a link or file: ஒரு இணைப்பு அல்லது கோப்பு மூலம் எழுத முயற்சிகள்: %1$@"
+  },
+  "Archive contains an unsafe path: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பாதுகாப்பான வழிமுறைகள் உள்ளன: %1$@"
+  },
+  "Archive contains an unsafe symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive contains an unsafe symbolic link என்பார்கள்."
+  },
+  "Archive editing cannot traverse symbolic links.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive editing symbolic links என்பதில் கிளிக் செய்ய முடியாது."
+  },
+  "Archive link escapes its destination.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive link அவரது இலக்கு வெளியேறுகிறது."
+  },
+  "Archive link target is too long.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive link இலக்கு நீண்டது."
+  },
+  "Archive operation failed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive வேலை தவறு."
+  },
+  "Archive password (if needed)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive Password (தொடர்பு தேவைப்பட்டால்)"
+  },
+  "Archive password (leave blank if unencrypted)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive password (தொடர்ந்து கிளிக் செய்யவும்)"
+  },
+  "Archive passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive passwords can not contain line breaks அல்லது வரி குழப்பங்கள் உள்ளடக்க முடியாது NUL அடையாளங்கள்"
+  },
+  "Archive path escapes the destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive path இலக்கு வெளியேறுகிறது: %1$@"
+  },
+  "Archive root": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive ரோஜா"
+  },
+  "Archive symbolic link escapes the destination.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive symbolic link escapes இலக்கு."
+  },
+  "Arrange panes side by side": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அலெக்சாண்டர் பக்கத்தில்"
+  },
+  "Arrange panes top and bottom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மேல் மற்றும் கீழே அட்டவணைகள்"
+  },
+  "Artist": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Artist கலைஞர்"
+  },
+  "Artist / author": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "எழுத்தாளர் / Author"
+  },
+  "Ascending": {
+    "origin": "Files:Ascending",
+    "text": "ஏறுவரிசை"
+  },
+  "Attribute name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அடையாளம் Name"
+  },
+  "Attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Attribute அம்சங்கள்"
+  },
+  "Attributes updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Attributes புதுப்பிக்கப்பட்டது"
+  },
+  "Auto-fit columns": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Auto-Fit Columns க்கு தொடர்புள்ள கிளைகள்"
+  },
+  "AutoFitColumns": {
+    "origin": "Files:AutoFitColumns",
+    "text": "Auto-fit columns"
+  },
+  "Available locally": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "உள்ளூர் கிடைக்கும்"
+  },
+  "Back": {
+    "origin": "Files:Back",
+    "text": "பின்"
+  },
+  "Back · ⌘[": {
+    "origin": "Files:Back",
+    "text": "பின் · ⌘["
+  },
+  "Backdrop material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Backdrop பொருட்கள்"
+  },
+  "Backdrop materials use macOS visual effects. Standard system controls and monospaced content retain their system fonts.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Backdrop பொருட்கள் பயன்பாடு macOS Standard system controls and monospaced content retain their system fonts என்பார்கள்."
+  },
+  "Background": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பின்னணி"
+  },
+  "Background color (blank = system)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பின்னணி வண்ணம் (white = system)"
+  },
+  "Background image": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பின்னணி image"
+  },
+  "Background image and status": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முகப்பு குறிச்சொற்கள் Image and status"
+  },
+  "Background image opacity": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முகப்பு Image Opacity"
+  },
+  "Background mode keeps the menu bar icon available so you can reopen MacFiles or quit it.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Background mode keeps the menu bar icon available so you can reopen MacFiles அல்லது அதை நிறுத்த"
+  },
+  "Background preset": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முன்பதிவு background"
+  },
+  "Base": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அடிப்படை"
+  },
+  "Base64": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பாபா64"
+  },
+  "Based on the Files Community explorer’s shell, MVVM, command, and storage architecture. Built with Swift, AppKit, and SwiftUI.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "File Community explorer shell, MVVM, command, and storage architecture.Swift, AppKit, மற்றும் SwiftUI உடன் உருவாக்கப்பட்டது."
+  },
+  "Binary": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Binary க்கான"
+  },
+  "Blue": {
+    "origin": "Files:Blue",
+    "text": "Ni:lam"
+  },
+  "Bottom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கீழே"
+  },
+  "Browse all tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "browsing all tag க்கு"
+  },
+  "Browse archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse ஆவணங்கள்"
+  },
+  "Browse archive…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "browse archive க்கு..."
+  },
+  "Browse tagged items…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse tagged பொருட்கள்..."
+  },
+  "Browsing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "browsing"
+  },
+  "Browsing interactions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "browsing தொடர்புகள்"
+  },
+  "Bulk rename": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மொழி Rename"
+  },
+  "Bulk rename requires items from one folder.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பெரும்பாலான பெயர் ஒரே கோப்புறிலிருந்து பொருட்கள் தேவைப்படுகிறது."
+  },
+  "Bulk rename…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாதிரியாக Rename..."
+  },
+  "Bytes": {
+    "origin": "Files:Bytes",
+    "text": "பைட்டுங்க"
+  },
+  "Cache thumbnails": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "குழப்பங்கள் Cache"
+  },
+  "Calculate combined size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Combined size கணக்கீடு"
+  },
+  "Calculate folder size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் folder size"
+  },
+  "Calculate folder sizes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கணக்கெடுப்பு folder size"
+  },
+  "Calculate hashes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஹேஷிங் ஹேஷிங்..."
+  },
+  "Calculate total size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முழு அளவு கணக்கீடு"
+  },
+  "Calculating hashes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஹேஷிஸ் கணக்கீடு"
+  },
+  "Camouflage": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Camouflage"
+  },
+  "Cancel": {
+    "origin": "Files:Cancel",
+    "text": "ரத்து"
+  },
+  "Cancel calculation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கணக்கெடுப்பு cancell"
+  },
+  "Cancel operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அந்நிய செலாவு"
+  },
+  "Cancel queued operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cancelled Operation க்கு தொடர்புள்ள கிளைகள்"
+  },
+  "Cancelled": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cancelled மறுப்பு"
+  },
+  "Cancelled before starting.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தொடங்கும் முன் நிறுத்தப்பட்டது."
+  },
+  "Cancelled before starting. No files were changed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முன்மொழிந்து , வழிமொழிந்துவிட்டால் அதற்குத்தானே first priority."
+  },
+  "Cancelling the current operation…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தற்போதைய நடவடிக்கைகளை நிறுத்த..."
+  },
+  "Cannot allocate archive entry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "archive entrance தரவிறக்க முடியாது."
+  },
+  "Cannot allocate archive reader.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive Reader இல் பதிவு செய்ய முடியாது."
+  },
+  "Cannot allocate archive writer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive எழுத்தாளரை அனுமதிக்க முடியாது."
+  },
+  "Cannot archive special device: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Special Device இல் சேமிக்க முடியாது: %1$@"
+  },
+  "Cannot create archive entry: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive entries உருவாக்க முடியாது: %1$@"
+  },
+  "Cannot create subprocess output file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Subprocess output file உருவாக்க முடியாது."
+  },
+  "Cannot decode image.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஓவியம் குறியீடு செய்ய முடியாது."
+  },
+  "Cannot prepare SSH authentication.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தயாராக முடியாது SSH authentication உறுதி"
+  },
+  "Cannot prepare command input.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கட்டளை உள்ளடக்கத்தை உருவாக்க முடியாது."
+  },
+  "Cannot read %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஓதுவதில்லை %1$@"
+  },
+  "Cannot read image metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Image metadata பற்றிய தகவல்கள் கிடையாது."
+  },
+  "Cannot remove the archive root.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive root ஐ நீக்க முடியாது."
+  },
+  "Cannot rename the archive root.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive root என்ற பெயரை மாற்ற முடியாது."
+  },
+  "Cannot restore archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hard link இல் பதிவிறக்க முடியாது."
+  },
+  "Cannot rotate image.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஓவியத்தை சுற்றிவிட முடியாது."
+  },
+  "Center": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மையம்"
+  },
+  "Change file extension?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "File Extension மாற்றம்?"
+  },
+  "Change ownership?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாற்றம் உரிமை ?"
+  },
+  "Change provider app…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாற்றுத் திறனாளிகள் App..."
+  },
+  "Change the shortcut target?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இலக்கு மாற்றம்?"
+  },
+  "Changes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாற்றங்கள்"
+  },
+  "Changing the extension may prevent the file from opening in its usual application.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாற்றம் நீட்டிப்பு உங்கள் பொதுவான பயன்பாட்டில் கோப்பு திறக்க தடுக்க முடியும்."
+  },
+  "Choose IDE…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேர்ந்தெடுக்கவும்..."
+  },
+  "Choose a destination to restore": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேர்ந்தெடுக்க ஒரு இலக்கு மீண்டும்"
+  },
+  "Choose a file to calculate hashes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hashes தேர்ந்தெடுக்க ஒரு கோப்பு தேர்ந்தெடுக்க."
+  },
+  "Choose a new destination and a repository URL.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஒரு புதிய இலக்கு மற்றும் ஒரு சேமிப்பு URL தேர்வு."
+  },
+  "Choose a regular cloud file to download.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்க ஒரு நிலையான Cloud கோப்பு தேர்ந்தெடுக்க."
+  },
+  "Choose a single file or folder to customize its icon.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Select a single file or folder to customize its icon என்பதை கிளிக் செய்யவும்."
+  },
+  "Choose a supported single-frame image (JPEG, PNG, TIFF or HEIC).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஒரு ஒரே வடிவமைப்பு படத்தை (JPEG, PNG, TIFF அல்லது HEIC) தேர்ந்தெடுக்கவும்."
+  },
+  "Choose a template file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேர்ந்தெடுக்க ஒரு template file"
+  },
+  "Choose custom icon…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேர்தல் ஆணையம் icon..."
+  },
+  "Choose folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேர்ந்தெடுக்கவும் folder..."
+  },
+  "Choose one item to edit ownership or ACLs.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Select one item to edit ownership or ACLs என்பதைத் தேர்வு செய்யவும்."
+  },
+  "Choose one item to view extended attributes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேர்வு ஒரு பொருளை நீட்டிக்கப்பட்ட அம்சங்களை பார்க்க."
+  },
+  "Choose provider app…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேர்தல் ஆணையம் App..."
+  },
+  "Clear": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தெளிவான"
+  },
+  "Clear finished": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தெளிவான முடிவு"
+  },
+  "Clear selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தெளிவான தேர்வு"
+  },
+  "Clear thumbnail cache": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தெளிவான குறுகிய காப்புரிமை"
+  },
+  "Clone": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கிளோன்"
+  },
+  "Clone repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Clone வடிவமைப்பு"
+  },
+  "Clone…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கிளோன்"
+  },
+  "Close": {
+    "origin": "Files:Close",
+    "text": "மூடு"
+  },
+  "Close details": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "விரிவான Details"
+  },
+  "Close other tabs": {
+    "origin": "Files:CloseOtherTabs",
+    "text": "மற்ற டæபை மூடு"
+  },
+  "Close tab": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "நெருக்கடி tab"
+  },
+  "Close tabs to the left": {
+    "origin": "Files:CloseTabsToTheLeft",
+    "text": "இடதுல இருக்குற டæபுகளை மூடு"
+  },
+  "Close tabs to the right": {
+    "origin": "Files:CloseTabsToTheRight",
+    "text": "வலதுல இருக்குற டæபுகளை மூடு"
+  },
+  "Close window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "நெருங்கிய ஜன்னல்"
+  },
+  "Cloud": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மலைகள்"
+  },
+  "Cloud accounts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud கணக்குகள்"
+  },
+  "Cloud accounts and folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud கணக்குகள் மற்றும் கோப்புகளை"
+  },
+  "Cloud availability and synchronization": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud Availability மற்றும் Synchronization"
+  },
+  "Cloud folder name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud கோப்பு பெயர்"
+  },
+  "Cloud items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud பொருட்கள்"
+  },
+  "Cloud provider": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud விற்பனையாளர்"
+  },
+  "Cloud providers installed on this Mac appear in the sidebar through their native File Provider folders.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud providers installed on this Mac appear in the side bar through their native File Provider பதிவுகள்"
+  },
+  "Cloud status": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud நிலை"
+  },
+  "Cloud status…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud நிலையம்"
+  },
+  "Cloud storage": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud சேமிப்பு"
+  },
+  "Collapse folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அழிவு folder"
+  },
+  "Collapsed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "குழப்பம்"
+  },
+  "Collect file references from different folders, then copy or move them together.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "• பல்வேறு கோப்புகளிலிருந்து கோப்பு குறிப்புகள் சேகரிக்க, பின்னர் அவற்றை பதிவிறக்க அல்லது இணைக்க."
+  },
+  "Columns": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Columns"
+  },
+  "Columns layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Columns வடிவமைப்பு"
+  },
+  "Command": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அலுவலகம்"
+  },
+  "Command output exceeded 16 MiB; no truncated result was accepted.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஆர்டர் வெளியீடு 16 MiB க்கு மேல் இருந்தது; எந்த குழப்பமான முடிவு கிடைக்கவில்லை."
+  },
+  "Command palette": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அலுவலகம் Palette"
+  },
+  "Command palette…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அலுவலகம் Palette..."
+  },
+  "Commit created": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "படைத்தது Commit"
+  },
+  "Commit message": {
+    "origin": "Files:CommitMessage",
+    "text": "கமிட் உர"
+  },
+  "Commit staged": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Commit நிலைமை"
+  },
+  "Compact file rows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "compact file வரிகள்"
+  },
+  "Compare these SHA-256 fingerprints with your server administrator before trusting %1$@:%2$@.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இவற்றை ஒப்பிடுக SHA-256 உங்கள் சேவையக மேலாளர் நம்பிக்கை முன்பதிவு %1$@:%2$@.\n\n"
+  },
+  "Compatibility": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "compatibility தொடர்பு"
+  },
+  "Completed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முடிவு"
+  },
+  "Completed with errors": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தவறுகள் நிறைந்த"
+  },
+  "Compress": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Compress அழுத்தம்"
+  },
+  "CompressIntoSevenZip": {
+    "origin": "Files:CompressIntoSevenZip",
+    "text": "Create 7z archive"
+  },
+  "CompressIntoZip": {
+    "origin": "Files:CompressIntoZip",
+    "text": "Create zip archive"
+  },
+  "Compressed movie headers require remuxing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Compressed film headers remuxing தேவை."
+  },
+  "Compressing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "compressing கழுவி"
+  },
+  "Compress…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Compress..."
+  },
+  "Confirm moving files to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் செய்க Moving files to Trash"
+  },
+  "Confirmations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "உறுதிகள்"
+  },
+  "Conflicts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Conflict தொடர்பு"
+  },
+  "Connect": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தொடர்பு"
+  },
+  "Connect to server": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "சேவையகத்தில் தொடர்பு"
+  },
+  "Connect to server…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "சேவையகத்தில் தொடர்பு..."
+  },
+  "Connect to the server first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முதலில் சேவையகத்தில் தொடர்பு கொள்ளுங்கள்."
+  },
+  "Connected folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தொடர்புடைய கோப்பு"
+  },
+  "Connected to this Mac": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இந்த Mac இல் இணைக்க"
+  },
+  "Contains UTF-8 text": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "contain க்கு UTF-8 Text எழுதுதல்"
+  },
+  "Content search includes text, PDF, Office and OpenDocument files. Unsupported, locked and online-only files are counted as skipped.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "உள்ளடக்க தேடல் உரை, PDF, Office மற்றும் OpenDocument கோப்புகளை சேர்க்கிறது.Unsupported, locked and online-only files are counted as skipped."
+  },
+  "Content type": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Content வகை"
+  },
+  "Contents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "உள்ளடக்கங்கள்"
+  },
+  "Context": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Context தொடர்பு"
+  },
+  "Context menu": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முகப்பு Menu"
+  },
+  "Copy": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிப்பு"
+  },
+  "Copy app version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிப்பு App Version"
+  },
+  "Copy hashes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஹேஷிங் HASHES"
+  },
+  "Copy here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் இங்கே"
+  },
+  "Copy macOS version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிப்பு macOS பதிப்பு"
+  },
+  "Copy path": {
+    "origin": "Files:CopyPath",
+    "text": "பாதய நகலெடு"
+  },
+  "Copy report": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிப்பு Report"
+  },
+  "Copy selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேர்ந்தெடுக்கப்பட்ட copy"
+  },
+  "CopyItemPathWithQuotes": {
+    "origin": "Files:CopyItemPathWithQuotes",
+    "text": "Copy selected item path with quotes"
+  },
+  "CopyPathDescription": {
+    "origin": "Files:CopyPathDescription",
+    "text": "Copy path of the current directory"
+  },
+  "CopyPathWithQuotes": {
+    "origin": "Files:CopyPathWithQuotes",
+    "text": "Copy path with quotes"
+  },
+  "Copying": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிப்பு"
+  },
+  "Copying archive entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "archive entries ஆவணங்கள்"
+  },
+  "Copying files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிப்பு File"
+  },
+  "Copyright": {
+    "origin": "Files:PropertyCopyright",
+    "text": "பதிப்புரிம"
+  },
+  "Could not find an available filename.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கிடைக்கும் ஒரு பெயர் கண்டுபிடிக்க முடியாது."
+  },
+  "Could not prepare archive contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவுகள் சேமிக்க முடியாது."
+  },
+  "Could not remove GitHub credentials from Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub உறுதிகளை நீக்க முடியவில்லை Keychain."
+  },
+  "Could not save GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub உறுப்பினர்கள் சேமிக்க முடியாது Keychain."
+  },
+  "Could not save the edited image; the original was kept.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "* விடைத்தாளில் தேர்வு எண், பெயர் அல்லது வேறு குறியீடு எழுதக் கூடாது."
+  },
+  "Could not save the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Password இல் சேமிக்க முடியாது Keychain (%1$@)."
+  },
+  "Could not update GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub உறுதிகளை மேம்படுத்த முடியாது Keychain."
+  },
+  "Could not update the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் செய்ய முடியாது Password Keychain (%1$@)."
+  },
+  "Couldn’t change the folder viewer": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாற்ற முடியாது கோப்பு பார்வையாளர்"
+  },
+  "Couldn’t eject volume": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "எடை குறைக்க முடியாது"
+  },
+  "Couldn’t open files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கோப்புகளை திறக்க முடியாது"
+  },
+  "Couldn’t open folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "திறக்க முடியாது கோப்பு"
+  },
+  "Couldn’t open this file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இந்த கோப்பை திறக்க முடியாது"
+  },
+  "Couldn’t open this location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இந்த இடத்தை திறக்க முடியாது"
+  },
+  "Couldn’t resolve alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அலெக்சாண்டர் தீர்க்க முடியாது"
+  },
+  "Couldn’t restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மீண்டும் தொடங்க முடியாது MacFiles"
+  },
+  "Create": {
+    "origin": "Files:Create",
+    "text": "உருவாக்கு"
+  },
+  "Create a GitHub token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஒரு GitHub ஸ்கிரிப்ட்"
+  },
+  "Create alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அலெக்சாண்டர்"
+  },
+  "Create archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive படைப்புகள்"
+  },
+  "Create library…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Library படைப்புகள்..."
+  },
+  "Create shortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "குறுக்குவழி உருவாக்கு"
+  },
+  "Create zip archive": {
+    "origin": "Files:CompressIntoZip",
+    "text": "Create zip archive"
+  },
+  "CreateFolderWithSelection": {
+    "origin": "Files:CreateFolderWithSelection",
+    "text": "Create folder with selection"
+  },
+  "CreateShortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "குறுக்குவழி உருவாக்கு"
+  },
+  "CreateShortcutFromDialogDescription": {
+    "origin": "Files:CreateShortcutFromDialogDescription",
+    "text": "Create new shortcut to any item"
+  },
+  "Created": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "படைத்த"
+  },
+  "Creating alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அலெக்சாண்டர்"
+  },
+  "Creating from template": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "template படைப்புகள்"
+  },
+  "Custom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Custom இல்"
+  },
+  "Custom icon applied.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Custom icon பயன்படுத்தி"
+  },
+  "Custom tag color (hex, optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Custom tag color (ஹெக்ஸ், விருப்பமான)"
+  },
+  "Custom theme": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Custom Theme பற்றிய தகவல்கள்"
+  },
+  "Customization": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Customization தனிநபர்"
+  },
+  "Customize toolbar": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Custom Toolbar கையேடுகள்"
+  },
+  "Customize toolbar…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அலெக்சாண்டர் Toolbar"
+  },
+  "Cut": {
+    "origin": "Files:Cut",
+    "text": "வெட்டு"
+  },
+  "Dark": {
+    "origin": "Files:DarkTheme",
+    "text": "இருட்டு"
+  },
+  "Date created": {
+    "origin": "Files:DateCreated",
+    "text": "Date created"
+  },
+  "Date deleted": {
+    "origin": "Files:DateDeleted",
+    "text": "Date deleted"
+  },
+  "Date format": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Date வடிவமைப்பு"
+  },
+  "Date modified": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Date மாற்றம்"
+  },
+  "Day": {
+    "origin": "Files:Day",
+    "text": "நாள்"
+  },
+  "Decimal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Decimal க்கு"
+  },
+  "Decrease size": {
+    "origin": "Files:DecreaseSize",
+    "text": "அளவ குற"
+  },
+  "Default": {
+    "origin": "Files:Default",
+    "text": "Default"
+  },
+  "Default folder layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Default folder வடிவமைப்பு"
+  },
+  "Default grouping": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Default குழுவினை"
+  },
+  "Default save location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "நிலையம் save location"
+  },
+  "Default sorting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Default வடிவமைப்பு"
+  },
+  "Delete": {
+    "origin": "Files:Delete",
+    "text": "நீக்கு"
+  },
+  "Delete permanently": {
+    "origin": "Files:DeletePermanently",
+    "text": "நிரந்தரமா நீக்கு"
+  },
+  "Delete saved tag and remove it from indexed files?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் செய்க பதிவிறக்கம் செய்க பதிவிறக்கம் செய்க பதிவிறக்கம் செய்க பதிவிறக்கம் செய்க?"
+  },
+  "Delete selected permanently…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேர்ந்தெடுக்கப்பட்ட நீக்க நிலையான ..."
+  },
+  "Deleting permanently": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முழுமையாக நீக்க"
+  },
+  "Description": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Description பற்றிய தகவல்கள்"
+  },
+  "Desktop": {
+    "origin": "Files:Desktop",
+    "text": "டெஸ்க்டாப்"
+  },
+  "Destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இலக்கு: %1$@"
+  },
+  "Detached HEAD": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தலையணை"
+  },
+  "Details": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "விவரங்கள்"
+  },
+  "Details layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "விவரங்கள் Layout"
+  },
+  "Details pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "விவரங்கள் Mr."
+  },
+  "Developer tools": {
+    "origin": "Files:DevTools",
+    "text": "டிவெலப்பர் கருவிகள்"
+  },
+  "Development": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Development வளர்ச்சி"
+  },
+  "Diagnostics": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Diagnostics ஆய்வு"
+  },
+  "Diagnostics opened": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "diagnosis திறப்பு"
+  },
+  "Disconnect": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Disconnect தொடர்பு"
+  },
+  "Documents": {
+    "origin": "Files:Documents",
+    "text": "ஆவணங்க"
+  },
+  "Done": {
+    "origin": "Files:Close",
+    "text": "மூடு"
+  },
+  "Double-click empty space to go up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Double-click empty space கீழே செல்ல"
+  },
+  "Download": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம்"
+  },
+  "Download files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் File..."
+  },
+  "Download here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் இங்கே"
+  },
+  "Download requested. iCloud may complete it asynchronously.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் தேவை iCloud இது asynchronous ஆக இருக்கலாம்."
+  },
+  "Downloaded": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம்"
+  },
+  "Downloading": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம்"
+  },
+  "Downloads": {
+    "origin": "Files:Downloads",
+    "text": "டவ்ன்லோடுங்க"
+  },
+  "Drives": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஓட்டுநர்"
+  },
+  "Dual pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இரண்டாவது PAN"
+  },
+  "Duplicate": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "duplicate இரட்டை"
+  },
+  "Duplicate archive paths cannot be extracted safely.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Duplicate archive paths பாதுகாப்பாக எடுக்க முடியாது."
+  },
+  "Duplicate tab": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "duplicate அட்டை"
+  },
+  "Edit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிப்பு Edit"
+  },
+  "Edit POSIX permissions for selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிப்பு Edit POSIX தேர்ந்தெடுக்க அனுமதி"
+  },
+  "Edit address · ⌘L": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் Edit Address ⌘L"
+  },
+  "Edit archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit ஆவணங்கள்"
+  },
+  "Edit in TextEdit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit in ஆங்கிலம்"
+  },
+  "Edit media metadata": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் Media Metadata"
+  },
+  "Edit media metadata…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் Media Metadata..."
+  },
+  "Edit or import the settings document, then Apply to validate and save. Language changes require a restart.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit or import the settings document, then Apply to validate and save.ஆங்கில மாற்றங்கள் ஒரு மீண்டும் தொடங்க தேவை."
+  },
+  "Edit permissions on the link's target instead.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இலக்கு இலக்கு இலக்கு இலக்கு இலக்கு இலக்கு இலக்கு இலக்கு இலக்கு"
+  },
+  "Edit settings file…": {
+    "origin": "Files:EditSettingsFile",
+    "text": "அமய்ப்புங்க கோப்ப திருத்து"
+  },
+  "Edit tags": {
+    "origin": "Files:EditTags",
+    "text": "குறிங்கள திருத்து"
+  },
+  "Edit tags…": {
+    "origin": "Files:EditTags",
+    "text": "குறிங்கள திருத்து"
+  },
+  "Edit the archive target instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஒரு அடையாள அட்டை மாறாக ஆவண இலக்கு அமைக்கவும்."
+  },
+  "Edit the target's attributes instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இலக்கு அம்சங்கள் ஒரு அடையாள இணைப்பு மாறாக இலக்கு அம்சங்களை திருத்தவும்."
+  },
+  "Edits apply to this item only. Ownership changes require existing system permission; MacFiles does not elevate itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாற்றங்கள் உரிமை மாற்றங்கள் நிலையான அமைப்பு அனுமதி தேவை; MacFiles தன்னை உயர்த்தவில்லை."
+  },
+  "Eject": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "வெளியேற்ற"
+  },
+  "Empty": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "வித்தியாசம்"
+  },
+  "Empty accessible Trash…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "வெளிநாட்டு வழிமுறைகள் கிடைக்கும்..."
+  },
+  "Empty archive entry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கோடை விடுமுறை பதிவுகள்"
+  },
+  "Encoding": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "குறியீடு"
+  },
+  "Encrypted": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "குறியீடு"
+  },
+  "Enter a GitHub username and a valid access token.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஒரு GitHub பயனர் பெயர் மற்றும் ஒரு சரியான அணுகல் டிக்கெட் உள்ளிடவும்."
+  },
+  "Enter a commit message.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஒரு பொறுப்பு செய்தியை அனுப்புங்கள்."
+  },
+  "Enter a name without a slash or colon. The name cannot be empty, ‘.’, or ‘..’.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஒரு குழப்பம் அல்லது குழப்பம் இல்லாமல் ஒரு பெயரை உள்ளிடவும்.The name cannot be empty, ‘.’, or ‘..’."
+  },
+  "Enter a size from 1 to 1,048,576 MiB.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "1 முதல் 1,048,576 MiB வரை ஒரு அளவு உள்ளிடவும்."
+  },
+  "Enter a valid host, username, and port.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஒரு சரியான ஹோஸ்டிங், பயனர் பெயர், மற்றும் போர்டு உள்ளிடவும்."
+  },
+  "Enter an SMB, AFP, or WebDAV address.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "உள்ளே ஒரு SMB, AFPஅல்லது WebDAV முகவரி"
+  },
+  "Enter an attribute name of 1–127 UTF-8 bytes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "1 - 127 அம்சங்கள் பெயர் உள்ளிடவும் UTF-8 பைட்டுங்க"
+  },
+  "Enter compact overlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "Enter compact overlay"
+  },
+  "Enter numeric user and group IDs.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "எண் பயனர் மற்றும் குழு IDs உள்ளிடவும்."
+  },
+  "Enter password:": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Password ஐ உள்ளிடவும்:"
+  },
+  "Enter permissions from 000 to 777.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "1000 முதல் 777 வரை அனுமதிகளை உள்ளிடவும்."
+  },
+  "Enter the archive password before editing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் செய்வதற்கு முன்பே Archive Password ஐ உள்ளிடவும்."
+  },
+  "Enter three octal digits, for example 644 or 755.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மூன்று அக்டோபர் எண்கள் உள்ளிடவும், உதாரணமாக 644 அல்லது 755."
+  },
+  "Enter whole numbers for byte limits.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முழு எண்களை byte limit க்கு உள்ளிடவும்."
+  },
+  "EnterCompactOverlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "Enter compact overlay"
+  },
+  "Executable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Executable செயற்பாடு"
+  },
+  "Executable format": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Executable வடிவமைப்பு"
+  },
+  "Exit compact overlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "Exit compact overlay"
+  },
+  "ExitCompactOverlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "Exit compact overlay"
+  },
+  "Expand folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பரந்து folder"
+  },
+  "Expanded": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பரபரப்பு"
+  },
+  "Export ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Export விற்பனை ACL…"
+  },
+  "Export bytes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "விற்பனை பீட்டர்..."
+  },
+  "Export theme…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "விற்பனையாளர்கள் Export..."
+  },
+  "Export…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Export →"
+  },
+  "Extended attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "extended attributes நீட்டிப்பு அம்சங்கள்"
+  },
+  "Extended attributes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "நீட்டிக்கப்பட்ட அடையாளங்கள்..."
+  },
+  "Extensions are preserved. Conflicts stop the batch before any names change.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இதே சூழல், ஒவ்வொரு ஆண்டும் தொடர் கதையாக இருந்தும், அதிகாரிகள் போதிய கவனம் செலுத்துகிறார்கள்."
+  },
+  "Extensions: txt, swift, pdf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "நீட்டிப்புகள்: txt, swift, pdf"
+  },
+  "Extra large icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மேலும் icon செய்திகள்"
+  },
+  "Extract": {
+    "origin": "Files:Extract",
+    "text": "Extract"
+  },
+  "Extract all…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "எல்லோருக்கும் வெளியே..."
+  },
+  "Extract here": {
+    "origin": "Files:ExtractHere",
+    "text": "இங்கு பிரித்தெடு"
+  },
+  "Extract here (Smart)": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "Extract here (Smart)"
+  },
+  "Extract selected…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேர்ந்தெடுக்கப்பட்ட பரிசுகள்..."
+  },
+  "Extract to child folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Child folder குழந்தைப் பருவப் பருவ"
+  },
+  "Extract to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "extract to..."
+  },
+  "ExtractHere": {
+    "origin": "Files:ExtractHere",
+    "text": "இங்கு பிரித்தெடு"
+  },
+  "ExtractHereSmart": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "Extract here (Smart)"
+  },
+  "Extracted entry size does not match its header.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அந்நிய செலாவணி அளவு தங்கள் தலைப்பை ஒப்பிடவில்லை."
+  },
+  "Extracting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "extract வெளியீடு"
+  },
+  "Extracts into a new folder; existing files are kept.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஒரு புதிய கோப்புறையில் வெளியீடு; existing files are kept."
+  },
+  "FTP over TLS": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "FTP மேல் TLS"
+  },
+  "Failed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "நஷ்டம்"
+  },
+  "Fetch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஃபேக்"
+  },
+  "File": {
+    "origin": "Files:File",
+    "text": "கோப்பு"
+  },
+  "File actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "File நடவடிக்கைகள்"
+  },
+  "File hashes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கோப்பு ஹேஷி"
+  },
+  "File information": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "File தகவல்"
+  },
+  "File operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "File Operations செயற்பாடுகள்"
+  },
+  "File operations in this window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இந்த விண்டோவில் File Operations"
+  },
+  "File shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கோப்பு shelf"
+  },
+  "File shelf…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கோப்பு ஷாப்பிங்..."
+  },
+  "File size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கோப்பு அளவு"
+  },
+  "Files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கோப்புகள்"
+  },
+  "Files size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கோப்பு அளவு"
+  },
+  "Files you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "நீங்கள் திறந்த கோப்புகள் இங்கே காண்பிக்கப்படும்."
+  },
+  "Fill": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முழு"
+  },
+  "Filter entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Filter நுழைவுகள்"
+  },
+  "Find": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கண்டுபிடிப்பு"
+  },
+  "Find and replace": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கண்டுபிடிக்க மற்றும் மாற்ற"
+  },
+  "Finder Get Info unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder தகவல் கிடைக்கவில்லை"
+  },
+  "Finder Get Info…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder தகவல் கிடைக்கும்..."
+  },
+  "Finder's desktop and other apps' Open/Save dialogs remain managed by macOS.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder's desktop and other apps' Open/Save dialogs remain managed by macOS."
+  },
+  "First letter": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முதல் பதிவு"
+  },
+  "Fit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "சரியான"
+  },
+  "Flatten": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மென்மையான"
+  },
+  "Flatten folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மென்மையான கோப்பு"
+  },
+  "Flatten folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மென்மையான கோப்பை..."
+  },
+  "Flatten ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மெதுவாக »%1$@’?"
+  },
+  "Flattening folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Flattening கோப்பு"
+  },
+  "Focus other pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கவனிக்க வேண்டியது Pan"
+  },
+  "Folder": {
+    "origin": "Files:Folder",
+    "text": "கோப்புற"
+  },
+  "Folder contents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Folder உள்ளடக்கங்கள்"
+  },
+  "Folder contents are not included in this total.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கோப்புகளை உள்ளடக்கங்கள் இந்த மொத்தத்தில் சேர்க்கப்படவில்லை."
+  },
+  "Folder layout saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் செய்க Folder Layout"
+  },
+  "Folder path": {
+    "origin": "Files:FolderPath",
+    "text": "கோப்புற பாத"
+  },
+  "Folder presentation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முகப்பு Presentation"
+  },
+  "Folder sizes are calculated in the background after Refresh. Large or network folders may take longer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Folder sizes are calculated in the background after Refresh. பெரிய அல்லது நெட்வொர்க் கோப்புகளை நீண்ட காலம் எடுக்கும்."
+  },
+  "Folder unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முகப்பு Unavailable"
+  },
+  "Folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவுகள்"
+  },
+  "Folders you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "நீங்கள் திறந்த கோப்புகள் இங்கே காணப்படும்."
+  },
+  "Font": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Font க்கு"
+  },
+  "Font and material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "எழுத்து மற்றும் பொருள்"
+  },
+  "Forget saved": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மறந்து காப்பாற்ற"
+  },
+  "Format": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "வடிவமைப்பு"
+  },
+  "Format drive in Disk Utility…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Disk Utility இல் வடிவமைக்கப்பட்டது."
+  },
+  "Forward": {
+    "origin": "Files:Forward",
+    "text": "முன்"
+  },
+  "Forward · ⌘]": {
+    "origin": "Files:Forward",
+    "text": "முன் · ⌘]"
+  },
+  "Fragmented media metadata cannot be edited without remuxing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Fragmented media metadata remuxing இல்லாமல் திருத்தப்பட முடியாது."
+  },
+  "Gallery": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கேலரி"
+  },
+  "Gallery layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gallery வடிவமைப்பு"
+  },
+  "General": {
+    "origin": "Files:General",
+    "text": "பொது"
+  },
+  "Git operation in %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git Operation இல் %1$@"
+  },
+  "Git repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git பதிப்புரிமை"
+  },
+  "Git repository…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git பதிவிறக்கம்..."
+  },
+  "GitHub account": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub கணக்கு"
+  },
+  "GitHub username": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub பயனர் பெயர்"
+  },
+  "Go to path": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "வழியே செல்ல"
+  },
+  "Go to path…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "வழியில் போக..."
+  },
+  "Gray": {
+    "origin": "Files:Gray",
+    "text": "Sa:mbal"
+  },
+  "Green": {
+    "origin": "Files:Green",
+    "text": "Paccy"
+  },
+  "Group": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "குழு"
+  },
+  "Group GID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "குழு GID"
+  },
+  "Group ascending": {
+    "origin": "Files:GroupAscendingDescription",
+    "text": "Sort groups in ascending order"
+  },
+  "Group by": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "குழு by"
+  },
+  "Group by date unit": {
+    "origin": "Files:GroupByDateUnit",
+    "text": "Group by date unit"
+  },
+  "HTTPS Git operations can use a GitHub access token stored in your macOS Keychain. Choose the repositories and permissions when creating the token. Existing Git authentication remains in use when no MacFiles account is saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "HTTPS Git செயல்பாடுகள் உங்கள் உள்ளே சேமிக்கப்பட்ட ஒரு GitHub அணுகல் டிக்கெட் பயன்படுத்த முடியும் macOS Keychain.Choose the repositories and permissions when creating the token.தொடர்ந்து படிக்கவும் Git * விடைத்தாளில் தேர்வு எண், பெயர் அல்லது வேறு குறியீடு எழுதக் கூடாது. MacFiles கணக்கு காப்பாற்றப்பட்டது"
+  },
+  "Hard Link": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கடினமான இணைப்பு"
+  },
+  "Hashes": {
+    "origin": "Files:Hashes",
+    "text": "ஹேஷுங்க"
+  },
+  "Hashes are available for a single file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஹேக்கர்கள் ஒரே ஒரு கோப்புக்கு கிடைக்கும்."
+  },
+  "Header": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தலைப்பு"
+  },
+  "Help": {
+    "origin": "Files:Help",
+    "text": "உதவி"
+  },
+  "Hidden": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மறைக்க"
+  },
+  "Hidden files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மறைக்கப்பட்ட கோப்புகள்"
+  },
+  "History": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "History பற்றிய தகவல்கள்"
+  },
+  "Home": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "வீடு"
+  },
+  "Horizontal alignment": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "horizontal ஒத்துழைப்பு"
+  },
+  "IDE opened.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "திறந்த இடம்"
+  },
+  "Icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஐபோன்"
+  },
+  "Icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஐபோன்"
+  },
+  "Icons layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Icons லேசானம்"
+  },
+  "Image alignment": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Image ஒத்துழைப்பு"
+  },
+  "Image fit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "படங்கள் fit"
+  },
+  "Import theme…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "import வடிவமைப்பு..."
+  },
+  "Imported. Apply to save.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "சேமிப்பு - சேமிப்பு தேவை"
+  },
+  "Import…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Import..."
+  },
+  "Incomplete archive listing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அநியாயமான பதிவு பதிவுகள்"
+  },
+  "Increase size": {
+    "origin": "Files:IncreaseSize",
+    "text": "அளவ அதிகரி"
+  },
+  "Indexed document, image, audio, video and filesystem metadata supplied by Spotlight. Tags can be edited with the Tags tool.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Indexed document, image, audio, video and file system metadata வழங்கப்படும் SpotlightTags can be edited with the Tags tool என்பதன் சுருக்கம்."
+  },
+  "Indexed files updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Indexed files புதுப்பிக்கப்பட்டது."
+  },
+  "Initialize": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முதலீடு"
+  },
+  "Initialize repository here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முதன்மைக் கட்டுரைகள் repository here"
+  },
+  "Install certificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "Install certificate"
+  },
+  "Install font": {
+    "origin": "Files:InstallFont",
+    "text": "Install font"
+  },
+  "InstallCertificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "Install certificate"
+  },
+  "InstallFont": {
+    "origin": "Files:InstallFont",
+    "text": "Install font"
+  },
+  "Interval in seconds": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இரண்டாவது நிமிடத்தில்"
+  },
+  "Invalid Base64 data.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அந்நிய செலாவணி அந்நிய செலாவணி 64"
+  },
+  "Invalid SSH host or port.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid குழப்பம் SSH ஹோஸ்டிங் அல்லது போர்ட்"
+  },
+  "Invalid archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid file hard link கடினமான இணைப்பு"
+  },
+  "Invalid archive link target.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid archive link இலக்கு"
+  },
+  "Invalid extended media atom.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அந்நிய செலாவணி அந்நிய செலாவணி"
+  },
+  "Invalid hard link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கடினமான இணைப்பு"
+  },
+  "Invalid key for %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid Key க்கு %1$@."
+  },
+  "Invalid macOS ACL text. Preserve the !#acl 1 header and use valid entries.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid குழப்பம் macOS ACL .#acl 1 தலைப்பை சேமிக்கவும், சரியான உள்ளடக்கங்களைப் பயன்படுத்தவும்."
+  },
+  "Invalid media atom header.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அட்டவணை அட்டவணை அட்டவணை"
+  },
+  "Invalid media atom size.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அமில அளவு அமில அமில அமில அமில"
+  },
+  "Invalid media atom.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அந்நிய செலாவணி அணுகுமுறை"
+  },
+  "Invalid media file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தவறான Media File"
+  },
+  "Invalid name": {
+    "origin": "Files:InvalidTagNameWarning",
+    "text": "செல்லாத பெயர்"
+  },
+  "Invalid remote URL.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தவறான URL"
+  },
+  "Invalid settings document.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid அமைப்பு பதிவு"
+  },
+  "Invalid tag metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid மெட்ராட் தரவு"
+  },
+  "Invalid tag name or color.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "குளிர்பானம் அல்லது குளிர்பானம்"
+  },
+  "Invalid theme colors or appearance.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அந்த ட்வீட்களுக்கு காரணம், Colour Blind."
+  },
+  "Invalid volume size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அந்நிய செலாவணி volume"
+  },
+  "Invert selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invert தேர்வு"
+  },
+  "Item properties": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பொருள் Properties"
+  },
+  "Items move into .MacFiles-Recovery on this server, including folder contents. Use Undo remote to restore them during this session.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பொருட்கள் உள்ளே செல்ல .MacFiles-Recovery இந்த சேவையகத்தில், பட்டியலில் உள்ளடக்கங்களை உட்பட.Use Undo remote to restore them during this session."
+  },
+  "Keep MacFiles open": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "காத்திருங்கள் MacFiles தெற"
+  },
+  "Keep both": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இரண்டையும் வைத்து"
+  },
+  "Keep both creates numbered names. Replace moves previous versions to Trash and supports Undo. Folders are replaced as a whole.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இரண்டு பெயர்களை உருவாக்குகிறது. replacement moves previous versions to Trash and supports Undo."
+  },
+  "Keep running after closing windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "விண்டோஸ் மூடப்பட்ட பிறகு தொடங்கவும்"
+  },
+  "Keep window on top": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கதவை மேல் வைத்து"
+  },
+  "Keyboard shortcuts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Keyboard குறுக்கீடுகள்"
+  },
+  "Keyboard shortcuts…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Keyboard குறுக்கீடுகள்..."
+  },
+  "Keywords (comma separated)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "குறிச்சொல்: Keywords (As Separated)"
+  },
+  "Kind": {
+    "origin": "Files:Type",
+    "text": "வகய்"
+  },
+  "Label": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அடையாளம்"
+  },
+  "Language": {
+    "origin": "Files:PropertyLanguage",
+    "text": "மொழி"
+  },
+  "Large icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பெரிய ஐபோன்"
+  },
+  "Launch at login": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "login இல் தொடங்க"
+  },
+  "Layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "லேப்டா"
+  },
+  "Left": {
+    "origin": "Files:Left",
+    "text": "இடது"
+  },
+  "Let the current operation finish before quitting.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "விபத்துகள், பிரச்சனைகள் தான் முதல் பக்கச் செய்தியாக்கப்பட்டு, exceptions are standardized!"
+  },
+  "Libraries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "புத்தகங்கள்"
+  },
+  "Library": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம்"
+  },
+  "Library name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Library பெயர்"
+  },
+  "Library properties…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Library Properties - புத்தகங்கள்"
+  },
+  "Library/Application Support/MacFiles/known_hosts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் / Application SupportMacFilesஅறியப்பட்ட ஹோஸ்டிங்"
+  },
+  "Library/Mobile Documents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் Library / Mobile Documents"
+  },
+  "Library/Mobile Documents/com~apple~CloudDocs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் செய்க Library/Mobile Documents/com~apple~CloudDocs"
+  },
+  "Light": {
+    "origin": "Files:LightTheme",
+    "text": "வெளிச்சம்"
+  },
+  "Link target": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இலக்கு Link"
+  },
+  "List": {
+    "origin": "Files:List",
+    "text": "பட்டியல்"
+  },
+  "List folders before files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முகப்பு குறிச்சொற்கள் File"
+  },
+  "Loading…": {
+    "origin": "Files:Loading",
+    "text": "ஏற்றுறோம்..."
+  },
+  "Local": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாநிலம்"
+  },
+  "Local download removal requested.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் தேவைப்பட்ட இடத்தில் பதிவிறக்கம்."
+  },
+  "Local file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Local கோப்பு"
+  },
+  "Location": {
+    "origin": "Files:Location",
+    "text": "இடம்:"
+  },
+  "Lock screen and wallpaper settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lock screen and wallpaper அமைப்புகள்..."
+  },
+  "Locked": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மூடப்பட்ட"
+  },
+  "Macintosh HD": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மைக்கேல் HD"
+  },
+  "Make alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அலெக்ஸா"
+  },
+  "Make alias…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அலெக்சாண்டர்"
+  },
+  "Manage account in provider app": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "வழங்குநர் பயன்பாட்டில் கணக்கு மேலாண்மை"
+  },
+  "Manage cloud accounts…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud கணக்குகள் மேலாண்மை"
+  },
+  "Manage tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "குறிச்சொற்கள்"
+  },
+  "Maximum bytes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அதிகபட்ச பைட்டுகள்"
+  },
+  "Media export did not complete.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Media Export முழுமையாக இல்லை."
+  },
+  "Media metadata is too large.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Media metadata மிகவும் பெரியது."
+  },
+  "Medium icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அடையாள அட்டவணை"
+  },
+  "Minimize": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "குறைந்தபட்ச"
+  },
+  "Minimum bytes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Minimum பவுண்டரிகள்"
+  },
+  "Minimum size exceeds maximum size.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Minimum size அதிகபட்ச அளவை விட அதிகபட்ச அளவை விட அதிகபட்ச அளவை விட அதிகபட்ச அளவை விட அதிகபட்ச அளவை விட அதிகமாக உள்ளது."
+  },
+  "Mode": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாதிரியாக"
+  },
+  "Modified": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாற்றம்"
+  },
+  "Modified after": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாற்றம் பின்னூட்டம்"
+  },
+  "Month": {
+    "origin": "Files:Month",
+    "text": "மாசம்"
+  },
+  "More actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மேலும் நடவடிக்கைகள்"
+  },
+  "Mount share…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மலையாளப் பங்களிப்பு"
+  },
+  "Mounted network locations appear here. Connect to a server to browse another location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மேம்படுத்தப்பட்ட நெட்வொர்க் இடங்கள் இங்கே காணப்படுகின்றன.Connect to a server to browse another location."
+  },
+  "Move %1$@ remote items to recovery?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாற்றம் %1$@ மீட்பு பொருட்கள் மீட்பு பொருட்கள்"
+  },
+  "Move %1$@ to Trash?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாற்றம் %1$@ அழுகியது ?"
+  },
+  "Move here": {
+    "origin": "Files:PinToSidebarByDraggingCaptionText",
+    "text": "இங்கு நகர்த்து"
+  },
+  "Move nested files to this folder. Existing names and symbolic links are left in place. Empty subfolders go to Trash. You can undo this operation.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இந்த கோப்புறையில் நுழைந்த கோப்புகளை மாற்றவும். existing names and symbolic links are left in place. Empty subfolders go to Trash. You can undo this operation."
+  },
+  "Move to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாற்றி மாற்றி மாற்றி"
+  },
+  "Move to Trash…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாற்றத்தை தடுப்பதற்காக..."
+  },
+  "Move to recovery": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மீட்புக்கு செல்ல"
+  },
+  "Move to recovery folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் செய்க Recovery folder..."
+  },
+  "Movies": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "படங்கள்"
+  },
+  "Moving": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாற்றம்"
+  },
+  "Moving files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Moving கோப்புகள்"
+  },
+  "Moving to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாற்றம் TRASH"
+  },
+  "Multiple items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பல்வேறு பொருட்கள்"
+  },
+  "Music": {
+    "origin": "Files:Music",
+    "text": "இசய்"
+  },
+  "My MacFiles theme": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "என் MacFiles தீம்"
+  },
+  "My library": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "என் Library"
+  },
+  "My search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "என் தேடல்"
+  },
+  "Name": {
+    "origin": "Files:NameWithColon",
+    "text": "பேரு:"
+  },
+  "Native macOS extended attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அம்பேத்கர் macOS extended attributes நீட்டிப்பு"
+  },
+  "Natural language search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "natural language தேடல்"
+  },
+  "Navigate": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Navigation சுற்று"
+  },
+  "Network": {
+    "origin": "Files:Network",
+    "text": "பிணயம்"
+  },
+  "New": {
+    "origin": "Files:BaseLayoutContextFlyoutNew.Label",
+    "text": "புது"
+  },
+  "New archive file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "புதிய Archive File"
+  },
+  "New archive folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "புதிய archive folder"
+  },
+  "New branch": {
+    "origin": "Files:NewBranch",
+    "text": "புது கிளை"
+  },
+  "New file from template": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "புதிய கோப்பு template"
+  },
+  "New folder": {
+    "origin": "Files:NewFolder",
+    "text": "புது கோப்புற"
+  },
+  "New folder…": {
+    "origin": "Files:NewFolder",
+    "text": "புது கோப்புற"
+  },
+  "New from template": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "புதிய template"
+  },
+  "New from template…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Temple க்கு புதிய..."
+  },
+  "New name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "புதிய பெயர்"
+  },
+  "New remote file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "புதிய தொலைத்தொடர்பு"
+  },
+  "New remote folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "புதிய Remote folder"
+  },
+  "New tab": {
+    "origin": "Files:NewTab",
+    "text": "புது டæபு"
+  },
+  "New tab · ⌘T": {
+    "origin": "Files:NewTab",
+    "text": "புது டæபு · ⌘T"
+  },
+  "New text file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "புதிய Text File"
+  },
+  "New text file…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "புதிய பதிவு பதிவுகள்..."
+  },
+  "New window": {
+    "origin": "Files:NewWindow",
+    "text": "புது சாளரம்"
+  },
+  "Next layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அடுத்த Layout"
+  },
+  "Next tab": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அடுத்த TAB"
+  },
+  "No": {
+    "origin": "Files:No",
+    "text": "Illy"
+  },
+  "No IDE selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேர்ந்தெடுக்கப்படவில்லை"
+  },
+  "No application could open ‘%1$@’.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "திறக்க முடியவில்லை” என்றார்%1$@’."
+  },
+  "No archive entry was extracted.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive entries எடுக்கப்படவில்லை."
+  },
+  "No archive is open.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive திறக்கப்படவில்லை."
+  },
+  "No archive was produced.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "எந்த ஆவணமும் உருவாக்கப்படவில்லை."
+  },
+  "No commits yet": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இப்போதைய நிலைமை இல்லை"
+  },
+  "No files were extracted.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "எந்த கோப்புகளும் வெளியிடப்படவில்லை."
+  },
+  "No matching items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பொருட்கள் matching இல்லை"
+  },
+  "No movie header was found.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Film header கண்டுபிடிக்கப்படவில்லை."
+  },
+  "No operations recorded.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "எந்த நடவடிக்கைகளும் பதிவு செய்யப்படவில்லை."
+  },
+  "No readable macOS code signature.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஓதுவதில்லை macOS அடையாள அட்டை\n\n"
+  },
+  "No selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேர்வு இல்லை"
+  },
+  "No settings match your search.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "எந்த அமைப்புகளும் உங்கள் தேடல் பொருந்தாது."
+  },
+  "No tracked diff. New files appear after staging.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "புதிய கோப்புகளை பின்பற்றுவதில்லை.New files appear after staging."
+  },
+  "None": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "எந்த"
+  },
+  "Not enough free space to finish extraction.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "வெளியில் செல்போனை பயன்படுத்துவதில் எந்தவித பாதிப்பும் இல்லை."
+  },
+  "Not managed by a detected cloud provider": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஒரு கண்டுபிடிக்கப்பட்ட மேக வழங்குநர் மூலம் நிர்வகிக்கப்படவில்லை"
+  },
+  "Not used": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பயன்படுத்தப்படவில்லை"
+  },
+  "Numbered names": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "எண் பெயர்"
+  },
+  "OK": {
+    "origin": "Files:OK",
+    "text": "சரி"
+  },
+  "Older": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "வயது"
+  },
+  "Online only": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஆன்லைன் மட்டுமே"
+  },
+  "Only an uploaded iCloud file without conflicts can have its local download removed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஒரே ஒரு பதிப்பு iCloud file without conflicts can have its local download removed.தொடர்ந்து படிக்கவும்"
+  },
+  "Only images can be rotated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஓவியங்கள் மட்டுமே சுற்றுச்சூழல் செய்ய முடியும்."
+  },
+  "Open": {
+    "origin": "Files:Open",
+    "text": "தெற"
+  },
+  "Open / Preview": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முகப்பு / Preview"
+  },
+  "Open Login Items settings": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open Login பொருட்கள் அமைப்புகள்"
+  },
+  "Open MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தெற MacFiles"
+  },
+  "Open System Settings for iCloud": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "திறந்த அமைப்பு அமைப்புகள் iCloud"
+  },
+  "Open a repository, initialize this folder, or clone a repository.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open a repository, initialize this folder, or clone a repository.இந்த கோப்பை திறக்கவும், அல்லது ஒரு கோப்பை கிளிக் செய்யவும்."
+  },
+  "Open all folders in tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "திறக்க அனைத்து கோப்புகளை அட்டவணைகளில்"
+  },
+  "Open containing folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "திறந்த உள்ளடக்கங்கள் folder"
+  },
+  "Open external folders in new windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "புதிய விண்டோவில் வெளி கோப்புகளைத் திறந்து"
+  },
+  "Open file location": {
+    "origin": "Files:OpenFileLocation",
+    "text": "கோப்பு இருப்பிடத்த தெற"
+  },
+  "Open folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "திறந்த கோப்பு"
+  },
+  "Open folders in new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "புதிய அட்டவணைகளில் கோப்புகளைத் திறந்து"
+  },
+  "Open folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "திறந்த கோப்பை..."
+  },
+  "Open in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "திறந்து IDE"
+  },
+  "Open in IDE uses the selected application. Open repository in IDE resolves the Git repository root first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open in IDE uses the selected application. open repository in IDE solves the தேர்ந்தெடுக்கப்பட்ட பயன்பாட்டை பயன்படுத்துகிறது. Git முதன்முதலாக ரோஜா ரோஜா"
+  },
+  "Open in Terminal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Terminal இல் திறப்பு"
+  },
+  "Open in new tab": {
+    "origin": "Files:OpenInNewTab",
+    "text": "புது ^டேபுல திற"
+  },
+  "Open in new window": {
+    "origin": "Files:OpenInNewWindow",
+    "text": "புது ஃவிண்டோல திற"
+  },
+  "Open in other pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மற்ற பந்தயங்களில் திறப்பு"
+  },
+  "Open log file": {
+    "origin": "Files:OpenLogFile",
+    "text": "Open log file"
+  },
+  "Open new tabs with dual panes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Double Panes மூலம் புதிய அட்டவணைகளைத் திறக்கவும்"
+  },
+  "Open repository in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "IDE இல் திறந்த சேமிப்பு"
+  },
+  "Open selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "திறந்த தேர்வு"
+  },
+  "Open target folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இலக்கு திறப்பு map"
+  },
+  "Open with": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "திறந்து"
+  },
+  "Open with application": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "திறந்த பயன்பாடு"
+  },
+  "Open with application…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "திறந்த பயன்பாடு..."
+  },
+  "Open with…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "திறந்த கையெழுத்து..."
+  },
+  "Open-ended media atoms require remuxing before editing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "திறந்த மென்பொருள் அட்டவணைகள் திருத்தம் முன் திருத்தம் தேவை."
+  },
+  "OpenAllTaggedItems": {
+    "origin": "Files:OpenAllTaggedItems",
+    "text": "எல்லாம் திற"
+  },
+  "OpenLogFile": {
+    "origin": "Files:OpenLogFile",
+    "text": "Open log file"
+  },
+  "Operation completed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Operation முடிந்தது"
+  },
+  "Operation failed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Operation நஷ்டம்"
+  },
+  "Operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Operations செயல்பாடுகள்"
+  },
+  "Operations (%1$@ queued)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "வேலைவாய்ப்பு (%1$@ காங்கிரஸ் )"
+  },
+  "Operations…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "செயல்பாடுகள்..."
+  },
+  "Orange": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அரங்கன்"
+  },
+  "Original location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முதன்மை Location"
+  },
+  "Original locations are remembered for items deleted by MacFiles, including across launches.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முதன்மை கட்டுரைகள்: மானுடத்துக்கு எதிரான குற்றங்கள்மற்றும் அனைத்துலக குற்றவியல் நீதிமன்றம் MacFilesமேலும், தொடங்கல் முழுவதும்"
+  },
+  "Original name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முதன்மை பெயர்"
+  },
+  "Overcast": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அழுகிய"
+  },
+  "Owner": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "உரிமையாளர்"
+  },
+  "Owner UID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "உரிமையாளர் UID"
+  },
+  "Ownership updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் செய்க Updated"
+  },
+  "POSIX permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "POSIX அனுமதிகள்"
+  },
+  "Password": {
+    "origin": "Files:Password",
+    "text": "கடவுச்சொல்"
+  },
+  "Password (optional, AES-256)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கடவுச்சொல் (தொடர்பு, AES-256)"
+  },
+  "Password / key passphrase (optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Password / Key Password (தொடர்ந்து படிக்கவும்)"
+  },
+  "Password protection is supported for ZIP archives.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Password Protection உதவியுடன் ZIP ஆவணங்கள்"
+  },
+  "Paste": {
+    "origin": "Files:Paste",
+    "text": "ஒட்டு"
+  },
+  "Paste and drop transfers queue behind the current operation. Completed changes remain available through Undo. Copy cancellation stops the staged transfer before publishing it. Undo history is restored across launches.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Paste and drop transfers cheue behind the current operation. Complete changes remain available through Undo. Copy cancellation stops the staged transfer before publishing it. Undo history is restored across launchings."
+  },
+  "Paste files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கோப்புகள்"
+  },
+  "Paste shortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "Paste shortcut"
+  },
+  "Paste the files into a permanent folder before creating aliases to them.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கோப்புகளை ஒரு நிலையான கோப்புறையில் சேர்த்து, அவர்களுக்கு இணைப்புகளை உருவாக்குவதற்கு முன்பே."
+  },
+  "PasteItemToSelectionDescription": {
+    "origin": "Files:PasteItemToSelectionDescription",
+    "text": "Paste items to the selected folder"
+  },
+  "PasteShortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "Paste shortcut"
+  },
+  "Path": {
+    "origin": "Files:ExtractToPath",
+    "text": "பாத"
+  },
+  "Pattern": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாதிரி"
+  },
+  "Permanently delete %1$@ items?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "நிலையான அழிவு %1$@ பொருட்கள் ?"
+  },
+  "Permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அனுமதிகள்"
+  },
+  "Permissions are enforced by the server. FTP servers must support SITE CHMOD; SFTP uses SSH permissions.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அனுமதிகள் சேவையகத்தில் வழங்கப்படும். FTP சேவையகங்கள் SITE CHMOD ஆதரவு வேண்டும்; SFTP பயன்பாடு SSH அனுமதிகள்"
+  },
+  "Permissions are stored in the archive. Changes rebuild it and support Undo.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "உரிமைகள் ஆவணத்தில் சேமிக்கப்படுகின்றன.Changes rebuild it and support Undo."
+  },
+  "Permissions updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அனுமதிகள் புதுப்பிக்கப்பட்டது"
+  },
+  "Permissions…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அனுமதி..."
+  },
+  "Pick up where you left off": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "நீங்கள் எங்கிருந்து வெளியேறினீர்கள்"
+  },
+  "Pictures": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஓவியங்கள்"
+  },
+  "Pin this folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இந்த கோப்பை PIN"
+  },
+  "Pin to sidebar": {
+    "origin": "Files:PinFolderToSidebar",
+    "text": "பக்கப்பட்டய்'ல பொருத்து"
+  },
+  "Pinned": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பீன்"
+  },
+  "Pinned folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pinned கோப்பு"
+  },
+  "Play All": {
+    "origin": "Files:PlayAll",
+    "text": "Play All"
+  },
+  "PlayAll": {
+    "origin": "Files:PlayAll",
+    "text": "Play All"
+  },
+  "Port": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "வானிலை"
+  },
+  "Preparing copy": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் copy"
+  },
+  "Preparing move": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "நடவடிக்கை தயார்"
+  },
+  "Presentation is saved with this virtual location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இந்த Virtual Location இல் பதிவிறக்கம் செய்யப்படுகிறது."
+  },
+  "Press the shortcut…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "குறுகிய அழுத்தத்தை அழுத்தவும்..."
+  },
+  "Preview": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முகப்பு Preview"
+  },
+  "Previous layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முந்தைய Layout"
+  },
+  "Previous tab": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முந்தைய TAB"
+  },
+  "Properties": {
+    "origin": "Files:OpenProperties",
+    "text": "பண்புங்க"
+  },
+  "Properties…": {
+    "origin": "Files:OpenProperties",
+    "text": "பண்புங்க"
+  },
+  "Property": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "உரிமைகள்"
+  },
+  "Protocol": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Protocol க்கு"
+  },
+  "Provider controls in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "வழங்குநர் கண்காணிப்பு Finder"
+  },
+  "Pull": {
+    "origin": "Files:GitPull",
+    "text": "இழு"
+  },
+  "Purple": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாளிகை"
+  },
+  "Push": {
+    "origin": "Files:Push",
+    "text": "தள்ளு"
+  },
+  "Queued": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கோபம்"
+  },
+  "Quick access": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "விரைவான அணுகல்"
+  },
+  "Quit MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "வெளியே MacFiles"
+  },
+  "Readable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Readable வாசனை"
+  },
+  "Recent files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முந்தைய பதிவு"
+  },
+  "Recent folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முந்தைய பதிவுகள்"
+  },
+  "Reconnect to the same server and account, then retry Undo. The remote recovery data remains in .MacFiles-Recovery.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அதே சேவையகத்தையும் கணக்கில் மீண்டும் இணைக்கவும், பின்னர் Undo ஐ திரும்பப் பெறவும். .MacFiles-Recovery."
+  },
+  "Record shortcut": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "குறுகிய பதிவு"
+  },
+  "Red": {
+    "origin": "Files:Red",
+    "text": "சிவப்பு"
+  },
+  "Redo": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ரெடோ"
+  },
+  "Redo file operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் file operation"
+  },
+  "Redoing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Reduce"
+  },
+  "Refresh": {
+    "origin": "Files:Refresh",
+    "text": "புதுப்பி"
+  },
+  "Refresh · ⌘R": {
+    "origin": "Files:Refresh",
+    "text": "புதுப்பி · ⌘R"
+  },
+  "Regular expression": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "நிலையான பேச்சு"
+  },
+  "Release notes": {
+    "origin": "Files:ReleaseNotes",
+    "text": "Release Notes"
+  },
+  "Reload": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம்"
+  },
+  "Remember password in Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Password க்கு நினைவு Keychain"
+  },
+  "Remote operation on %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Remote Operation இல் %1$@"
+  },
+  "Remote path": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "நீண்ட வழி"
+  },
+  "Remote paths cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இல்- For entries beginning with a prothetic இ-, see also ர் - in the glossary.ஆங்கிலம் NUL அடையாளங்கள்"
+  },
+  "Remotes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தொலைபேசி"
+  },
+  "Remove": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "நீக்க"
+  },
+  "Remove attribute…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அடையாளத்தை நீக்கவும்..."
+  },
+  "Remove background image": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் Background Image"
+  },
+  "Remove download": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் Download"
+  },
+  "Remove entries…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் entries..."
+  },
+  "Remove from archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive இல் இருந்து நீக்க"
+  },
+  "Remove library": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் Library"
+  },
+  "Remove local download…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் Local Download..."
+  },
+  "Remove references": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Remove References தொடர்புடைய முடிவுகள்"
+  },
+  "Remove saved credentials": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் Rescue Credentials"
+  },
+  "Remove saved folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் Save folder"
+  },
+  "Remove saved search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "காப்பாற்றப்பட்ட தேடல்"
+  },
+  "Remove selected entries from the archive?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேர்ந்தெடுக்கப்பட்ட பதிவுகளை ஆவணத்தில் இருந்து நீக்குமா?"
+  },
+  "Remove tags": {
+    "origin": "Files:RemoveTags",
+    "text": "Remove tags"
+  },
+  "Remove the local download?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் செய்க Local Download?"
+  },
+  "Remove ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "எடுக்கவும் »%1$@’?"
+  },
+  "RemoveTags": {
+    "origin": "Files:RemoveTags",
+    "text": "Remove tags"
+  },
+  "Removing tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் tags"
+  },
+  "Rename": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பெயர் Rename"
+  },
+  "Rename %1$@ items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பெயர் Rename %1$@ பொருள்கள்"
+  },
+  "Rename archive entry": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் Archive entry"
+  },
+  "Rename entry…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "நுழைவாயில் மாற்றம்..."
+  },
+  "Rename failed. Your item is preserved at %1$@. %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rename failed.உங்கள் பொருள் சேமிக்கப்பட்டுள்ளது %1$@. %2$@"
+  },
+  "Rename remote item": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Remote பொருட்கள்"
+  },
+  "Rename…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பெயர்..."
+  },
+  "Renaming": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாற்றம்"
+  },
+  "Renaming items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாற்ற பொருட்கள்"
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Finder uses the macOS palette; custom colors and stable IDs are retained by MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Renaming or deleting a saved tag updates files found by ஒரு சேமிக்கப்பட்ட குறிப்பு புதுப்பிக்கப்பட்ட கோப்புகள் SpotlightUnindexed or inaccessible files may retain the old tag.தொடர்ந்து படிக்கவும் Finder பயன்படுத்தி macOS palette; custom colors and stable IDs are retained by MacFiles."
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Tag colors use the macOS palette.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Renaming or deleting a saved tag updates files found by ஒரு சேமிக்கப்பட்ட குறிப்பு புதுப்பிக்கப்பட்ட கோப்புகள் SpotlightUnindexed or inaccessible files may retain the old tag. அட்டவணை வண்ணங்கள் பயன்படுத்தி பழைய குறிப்பு வைத்திருக்கலாம் macOS பால்"
+  },
+  "Reopen closed tab": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மீண்டும் திறக்கப்பட்டது tab"
+  },
+  "Replace": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாற்றம்"
+  },
+  "Replace this item's ACL?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இந்த விஷயத்தை மாற்றவும் ACL?"
+  },
+  "Replace with": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாற்றுத்திறனாளிகள்"
+  },
+  "Replace, keeping backup": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாற்றம், backup"
+  },
+  "Report an issue": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஒரு விஷயத்தை அறிமுகம்"
+  },
+  "Repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Repository"
+  },
+  "Repository URL": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் URL"
+  },
+  "Requesting cloud download": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் Cloud Download"
+  },
+  "Reset": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மீண்டும்"
+  },
+  "Reset all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "எல்லாவற்றையும் மீண்டும்"
+  },
+  "Reset icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஐபோன் மீண்டும்"
+  },
+  "Reset pinned folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "புதுப்பிக்கப்பட்ட கோப்புகளை"
+  },
+  "Restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மீண்டும் தொடங்க MacFiles"
+  },
+  "Restore all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "எல்லாவற்றையும் மீண்டும்"
+  },
+  "Restore command defaults": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Command defaults திரும்பப் பெற"
+  },
+  "Restore here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மீண்டும் இங்கே"
+  },
+  "Restore original location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முதன்மை கட்டுரை: Restore original location"
+  },
+  "Restore previous folder viewer": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முந்தைய பதிவிறக்கம் folder viewers"
+  },
+  "Restore tabs at launch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் செய்க Restore tabs at launch"
+  },
+  "Restore to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மீண்டும் மீண்டும்..."
+  },
+  "Restoring from Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "திரும்பப் பெறுவதற்கான வழி"
+  },
+  "Results come from the macOS Spotlight index. Unindexed folders are not included.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முடிவுகள் கிடைத்தன macOS Spotlight index. unindexed கோப்புகள் சேர்க்கப்படவில்லை."
+  },
+  "Results in this folder and subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இந்த பட்டியலில் உள்ள முடிவுகள் மற்றும் subfolders"
+  },
+  "Retargeting shortcut": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Retargeting குறுக்கீடு"
+  },
+  "Retarget…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மீட்பு..."
+  },
+  "Reveal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "வெளிப்படுத்துதல்"
+  },
+  "Reveal in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "வெளிப்படுத்தும் Finder"
+  },
+  "Reverse tab scroll direction": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாற்று அட்டவணை scroll direction"
+  },
+  "Review server fingerprint…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கண்காணிப்பு server fingerprint..."
+  },
+  "Right": {
+    "origin": "Files:Right",
+    "text": "வலது"
+  },
+  "Rotate left": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "வலது சுழற்சி"
+  },
+  "Rotate right": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "வலது சுழல்"
+  },
+  "Rotating left": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "வலது சுழற்சி"
+  },
+  "Rotating right": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "வலது சுற்றி"
+  },
+  "Running": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஓடி"
+  },
+  "SFTP (SSH keys)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SFTP (SSH கதவுகள் )"
+  },
+  "SMB, AFP, or WebDAV share": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SMB, AFPஅல்லது WebDAV பகிர்"
+  },
+  "SSH known-host verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH ஹோஸ்டிங் ஹோஸ்டிங்"
+  },
+  "SSH passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH * விடைத்தாளில் தேர்வு எண், பெயர் அல்லது வேறு குறியீடு எழுதக் கூடாது. NUL அடையாளங்கள்"
+  },
+  "Save": {
+    "origin": "Files:Save",
+    "text": "சேமி"
+  },
+  "Save attribute": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "சேமிப்பு Attribute"
+  },
+  "Save folder layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் folder layout"
+  },
+  "Save metadata": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் Metadata"
+  },
+  "Save search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேடல் Save Search"
+  },
+  "Save search…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேடல் சேமிப்பு..."
+  },
+  "Save to Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "காப்பாற்ற Keychain"
+  },
+  "Saved connections": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "காப்பாற்றப்பட்ட தொடர்புகள்"
+  },
+  "Saved searches": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "காப்பாற்றப்பட்ட தேடல்"
+  },
+  "Saved. The token will be used for GitHub HTTPS operations.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "சேமிக்கப்பட்டது. the token will be used for GitHub HTTPS operations."
+  },
+  "Seafoam": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கடல்"
+  },
+  "Search": {
+    "origin": "Files:Key.BrowserSearch",
+    "text": "தேடு"
+  },
+  "Search %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேடு %1$@"
+  },
+  "Search %1$@ · Return searches subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேடு %1$@ · Return search subfolders திரும்பத் தேடல்"
+  },
+  "Search available actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேடல் Available Actions"
+  },
+  "Search commands": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேடல் Commands"
+  },
+  "Search folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேடல் folder"
+  },
+  "Search settings": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேடல் Settings"
+  },
+  "Search stopped.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேடல் நிறுத்தப்பட்டது"
+  },
+  "Search subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Subfolders தேடல்"
+  },
+  "Security": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பாதுகாப்பு"
+  },
+  "Select": {
+    "origin": "Files:NavToolbarSelectionOptions.Label",
+    "text": "Select'u"
+  },
+  "Select a file to view its diff.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஒரு கோப்பு தேர்ந்தெடுக்கவும் அதன் diff பார்க்க."
+  },
+  "Select a macOS alias or symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேர்வு A macOS அலெக்சாண்டர் அல்லது அடையாள அட்டை"
+  },
+  "Select a regular media file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேர்வு ஒரு நிலையான மென்பொருள் கோப்பு."
+  },
+  "Select all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேர்ந்தெடுக்க All"
+  },
+  "Select an archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேர்ந்தெடுக்க ஒரு Archive"
+  },
+  "Select an item to see its details.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மெனுவில் தோன்றும், Staff details ஐ Click செய்யவும்."
+  },
+  "Select archive entries to remove.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive entries தேர்ந்தெடுக்கவும்."
+  },
+  "Select on hover": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேர்தல் Hover"
+  },
+  "Select previous folder when navigating up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முந்தைய கட்டுரைபொதுமக்களை தேர்ந்தெடுக்கவும்"
+  },
+  "Select uniquely named items to archive.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Select unique named items to archive என்பதை கிளிக் செய்யவும்."
+  },
+  "Selected items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேர்ந்தெடுக்கப்பட்ட பொருட்கள்"
+  },
+  "Selected items have duplicate names. Archive them separately.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேர்ந்தெடுக்கப்பட்ட பொருட்கள் இரண்டு பெயர்கள் உள்ளன.Archive them separately."
+  },
+  "Selection checkboxes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேர்வு checkboxes"
+  },
+  "Separate file and folder counts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Separate file and folder எண்கள்"
+  },
+  "Separator": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Separator வித்தியாசம்"
+  },
+  "Server": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "சேவையகம்"
+  },
+  "Set as app background": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "Set as app background"
+  },
+  "Set as wallpaper": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கையெழுத்து வடிவமைப்பு"
+  },
+  "Set default": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Default தரவிறக்கம்"
+  },
+  "SetAsAppBackground": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "Set as app background"
+  },
+  "Settings": {
+    "origin": "Files:Settings",
+    "text": "அமய்ப்புங்க"
+  },
+  "Settings file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Settings கோப்பு"
+  },
+  "Settings saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அமைப்பு காப்பாற்றப்பட்டது"
+  },
+  "Settings…": {
+    "origin": "Files:Settings",
+    "text": "அமய்ப்புங்க"
+  },
+  "Share": {
+    "origin": "Files:Share",
+    "text": "பகிர்"
+  },
+  "Share…": {
+    "origin": "Files:Share",
+    "text": "பகிர்"
+  },
+  "Shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஷெல்"
+  },
+  "Shortcut": {
+    "origin": "Files:Shortcut",
+    "text": "குறுக்குவழி"
+  },
+  "Shortcuts apply in the explorer. Text fields keep native editing behavior. Resolve duplicate assignments before applying.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Shortcuts apply in the explorer. text fields keep native editing behavior. பயன்படுத்தும் முன் duplicate assignments solve."
+  },
+  "Show dotfiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "dotfiles காட்சி"
+  },
+  "Show hidden files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மறைக்கப்பட்ட கோப்புகள்"
+  },
+  "Show in folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Show in கோப்பு"
+  },
+  "Show log in folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Show log in கோப்பு"
+  },
+  "Show menu bar icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாடல் நமே Menu Bar Icon"
+  },
+  "Show package contents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Show package உள்ளடக்கங்கள்"
+  },
+  "Show shelf button": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஷெல்ஃப் button"
+  },
+  "Show staged diff": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பரந்து Stage diff"
+  },
+  "Show status bar": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "காட்சி நிலையம் Bar"
+  },
+  "Show tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Show tab நடவடிக்கைகள்"
+  },
+  "Show thumbnails": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "சிறுகதைகள்"
+  },
+  "ShowFileExtensions": {
+    "origin": "Files:ShowFileExtensions",
+    "text": "File extensions"
+  },
+  "Sidebar": {
+    "origin": "Files:Sidebar",
+    "text": "பக்கப்பட்டய்"
+  },
+  "Signature": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அடையாளம்"
+  },
+  "Signature integrity verification failed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அடையாளம் முழுமையான உறுதிப்படுத்தல் நிரந்தரமாக இருந்தது."
+  },
+  "Signature integrity verified. This does not constitute a notarization or malware assessment.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "* விடைத்தாளில் தேர்வு எண், பெயர் அல்லது வேறு குறியீடு எழுதக் கூடாது."
+  },
+  "Signatures": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அடையாளங்கள்"
+  },
+  "Single file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Single கோப்பு"
+  },
+  "Single folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஒரே கோப்பு"
+  },
+  "Single-click columns": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Single-click பகுதிகள்"
+  },
+  "Single-click files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Single-click கோப்புகள்"
+  },
+  "Single-click folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Single-click கோப்புகள்"
+  },
+  "Size": {
+    "origin": "Files:SizeLabel",
+    "text": "அளவு:"
+  },
+  "Size units": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அலகுகள்"
+  },
+  "Skip": {
+    "origin": "Files:Skip",
+    "text": "விட்டு விடு"
+  },
+  "Skip existing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஸ்கிரிப்ட் existing"
+  },
+  "Small icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "சிறிய அடையாளங்கள்"
+  },
+  "Smooth scrolling": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மென்மையான scrolling"
+  },
+  "Solid": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "வலுவான"
+  },
+  "Some files could not be updated. The saved tag was retained so you can retry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "சில கோப்புகள் புதுப்பிக்க முடியாது.The saved tag was retained so you can retry."
+  },
+  "Some items could not be read.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "சில விஷயங்கள் ஓதுவதில்லை."
+  },
+  "Some items couldn’t be completed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "சில விஷயங்கள் முழுமையாக செய்ய முடியாது"
+  },
+  "Some items have no recorded original location. Select them and use Restore to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "சில பொருட்கள் இல்லை பதிவு செய்யப்பட்ட ஆரம்ப இடம். select them and use Restore to..."
+  },
+  "Sort": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாதிரியாக"
+  },
+  "Sort by": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "வடிவமைப்பு by"
+  },
+  "SortFilesAndFoldersTogether": {
+    "origin": "Files:SortFilesAndFoldersTogether",
+    "text": "Sort files and folders together"
+  },
+  "SortFilesFirst": {
+    "origin": "Files:SortFilesFirst",
+    "text": "Sort files first"
+  },
+  "SortFoldersFirst": {
+    "origin": "Files:SortFoldersFirst",
+    "text": "Sort folders first"
+  },
+  "Source code": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Source குறியீடு"
+  },
+  "Special device entries cannot be extracted: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Special Device entries தள்ளுபடி செய்ய முடியாது: %1$@"
+  },
+  "Split archives use ZIP or 7z format.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Share Archive பயன்பாடுகள் ZIP அல்லது 7z வடிவமைப்பு"
+  },
+  "Split into volumes (MiB, optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பகுதிகள் (MiB, Optional)"
+  },
+  "Stage all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "நிலை அனைத்தும்"
+  },
+  "Stage selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேர்ந்தெடுக்கப்பட்ட நிலை"
+  },
+  "Staged all changes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாற்றங்கள் அனைத்தையும் நிறுத்த"
+  },
+  "Staged selected files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேர்ந்தெடுக்கப்பட்ட கோப்புகள்"
+  },
+  "Start": {
+    "origin": "Files:Start",
+    "text": "Start"
+  },
+  "Start folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முகப்பு folder"
+  },
+  "Startup": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முதலீடு Startup"
+  },
+  "Startup and tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup மற்றும் Tabs"
+  },
+  "Startup folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup கோப்புகள்"
+  },
+  "Startup folders are used when session restoration is disabled. An empty list opens Home.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup maps are used when session restoration is disabled.ஒரு வெளிப்படையான பட்டியலை திறக்கிறது வீடு."
+  },
+  "Status": {
+    "origin": "Files:StatusWithColon",
+    "text": "நிலை:"
+  },
+  "Stop": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "நிறுத்த"
+  },
+  "Stopped before the next item. Completed items were kept.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Next articleதொடர்புத் துறையில் முடிவு செய்யப்பட்டது.தொடர்புத் துறையில் முடிவு"
+  },
+  "Storage settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "சேமிப்பு அமைப்புகள்..."
+  },
+  "Storm": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மழை"
+  },
+  "Stretch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Stretch பரந்து"
+  },
+  "Switch to new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாற்றங்கள் to new tabs"
+  },
+  "Switched to %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாற்றி %1$@"
+  },
+  "Symbolic Link": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அடையாளம் link"
+  },
+  "Symbolic link": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அடையாளம் link"
+  },
+  "Sync": {
+    "origin": "Files:GitSync",
+    "text": "ஒத்திசை"
+  },
+  "Sync conflict": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "sync தொடர்புடைய"
+  },
+  "Sync error": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "sync தவறு"
+  },
+  "Synced": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sync செய்"
+  },
+  "Synchronize folder preferences": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முகப்பு குறிச்சொற்கள் Synchronize folder preferences"
+  },
+  "System": {
+    "origin": "Files:SystemTimeStyle",
+    "text": "ஸிஸ்டம்"
+  },
+  "TLS certificate verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "TLS certificate உறுதி"
+  },
+  "Tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "TAB நடவடிக்கைகள்"
+  },
+  "Tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "டேபிள்"
+  },
+  "Tag": {
+    "origin": "Files:Tag",
+    "text": "குறி"
+  },
+  "Tag (blank = all tags)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "குறிச்சொல் (white = all tags)"
+  },
+  "Tag color": {
+    "origin": "Files:TagColor",
+    "text": "குறி நிறம்"
+  },
+  "Tag name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag பெயர்"
+  },
+  "Tag names must be unique.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "குறிச்சொற்கள் பெயர்கள் ஒரே மாதிரியாக இருக்க வேண்டும்."
+  },
+  "Tag update failed and original metadata could not be restored: ": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag update failed and original metadata couldn't be restored: முந்தைய மெட்ராட் தரவு திரும்ப முடியவில்லை: "
+  },
+  "Tagged items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tagged பொருட்கள்"
+  },
+  "Tags": {
+    "origin": "Files:FileTags",
+    "text": "குறிங்க"
+  },
+  "Tags, separated by commas": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "குறிச்சொற்கள் Separated by commas"
+  },
+  "Target": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இலக்கு"
+  },
+  "Terminal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Terminal இடைவெளி"
+  },
+  "Test IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "சோதனை IDE"
+  },
+  "The ACL failed validation.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "The க்கு ACL validation தவறானது"
+  },
+  "The command failed (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அந்நிய செலாவணி (%1$@)."
+  },
+  "The custom icon and saved layout belong to the selected item.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "The custom icon and saved layout belong to the selected item என்பார்கள்."
+  },
+  "The destination connection changed. Drop the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இலக்கு இணைப்பு மாற்றப்பட்டது.Drop the files again."
+  },
+  "The destination connection changed. Paste the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இலக்கு இணைப்பு மாற்றப்பட்டது.இன்னும் கோப்புகளை சேமிக்கவும்."
+  },
+  "The destination is not an accessible folder.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இலக்கு ஒரு அணுகக்கூடிய கோப்புறையாக இல்லை."
+  },
+  "The icon could not be changed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஐபோன் மாற்ற முடியாது."
+  },
+  "The icon could not be reset.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஐபோன் மீண்டும் அமைக்க முடியாது."
+  },
+  "The media container did not retain: ": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Media container இல் காணப்படவில்லை: "
+  },
+  "The media tracks cannot be preserved in this container.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இந்நிறுவனத்தில் மின்னஞ்சல் வசதிகள் சேமிக்கப்படவில்லை."
+  },
+  "The new shortcut target does not exist.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "புதிய குறுகிய இலக்கு இல்லை."
+  },
+  "The old shortcut is in Trash, but macOS did not return its location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பழைய குறுகிய அழுத்தத்தில் உள்ளது, ஆனால் macOS அவரது இடத்தை திரும்பப் பெறவில்லை."
+  },
+  "The original archive remains recoverable with Undo.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஆங்கிலத்தில் இதை Single Orgasm, Multiple Orgasm என்றும் கூறுகிறார்கள்."
+  },
+  "The server did not return a valid host-key list.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஹோஸ்டிங் கிளிக் பட்டியலை திரும்ப அனுமதிக்கவில்லை."
+  },
+  "The server recovery path is occupied by a file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "சேவையகம் மீட்பு வழி ஒரு கோப்பு மூலம் அடைந்துள்ளது."
+  },
+  "The server returned an unsafe or unsupported filename.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "சேவையகம் பாதுகாப்பான அல்லது ஆதரவு இல்லாத ஒரு கோப்பு பெயரை திரும்பியது."
+  },
+  "The server returned an unsupported directory listing. No transfer was started.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "சேவையகம் ஒரு ஆதரவு இல்லாத கோப்புரிமை பட்டியலை திரும்பியது.No transfer was started."
+  },
+  "The shortcut will point to %1$@. The target file itself is not modified.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "சிறிது நேரம் கழித்து அவர் கூறிய %1$@இலக்கு கோப்பு தானே மாற்றப்படவில்லை."
+  },
+  "The slideshow changes desktop wallpaper while MacFiles is running. It resumes at launch when enabled. macOS controls the lock screen wallpaper separately.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் செய்க Slideshow changes desktop wallpaper MacFiles மீண்டும் திறக்கப்படும் போது மீண்டும் திறக்கப்படும். macOS Lock screen wallpaper தனித்தனியாக கட்டுப்படுத்துகிறது."
+  },
+  "The system script could not be compiled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கணினியின் எழுத்துக்களை எழுத முடியாது."
+  },
+  "The system script could not be created.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கணினியின் ஸ்கிரிப்ட் உருவாக்க முடியவில்லை."
+  },
+  "The transfer selection changed. Cut the items again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாற்றங்கள்: மாற்றங்கள் மீண்டும் மாற்றங்கள்"
+  },
+  "The uploaded data did not match its source. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அதைவிடவரைமுறை விளக்கமும், Technical information உம் பயனுள்ளது."
+  },
+  "The uploaded iCloud copy remains available. macOS will download it again when needed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் upload iCloud copy கிடைக்கும். macOS தேவைப்பட்டால் மீண்டும் பதிவிறக்கவும்."
+  },
+  "Theme": {
+    "origin": "Files:SettingsAppearanceTheme",
+    "text": "தீம்"
+  },
+  "These items will be removed from Trash. This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இந்த பொருட்கள் Trash இருந்து நீக்கப்படும்.இது தவிர்க்க முடியாது."
+  },
+  "Third-party providers do not expose a common public sync-completion API. Available locally describes downloaded bytes, not upload completion. Download requests do not pin files permanently.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மூன்றாம் தரப்பினர் வழங்குநர்கள் ஒரு பொதுவான பொது ஒத்துழைப்பு முழுமையான API காட்டவில்லை. Available locally describes downloaded bytes, not upload completion. Download requests do not pin files permanently."
+  },
+  "This FTP server cannot create symbolic links. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இந்த FTP சேவையகம் அடையாள அட்டைகளை உருவாக்க முடியாது.The source was retained."
+  },
+  "This Mac": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இந்த Mac"
+  },
+  "This alias contains a target cycle.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இந்த அலெக்சாண்டர் ஒரு இலக்கு சுழற்சி உள்ளது."
+  },
+  "This archive format is read-only. Extract it and create a ZIP or 7z archive to edit its contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இந்த ஆவண வடிவமைப்பு மட்டுமே படிக்க உள்ளது. extract it and create a ZIP அல்லது 7z archive அவரது உள்ளடக்கங்களை திருத்த."
+  },
+  "This archive or server protocol does not expose macOS extended attributes. Extract or download the item to manage attributes on its local copy.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இந்த ஆவணங்கள் அல்லது சேவையக திட்டங்கள் வெளிப்படுத்தப்படவில்லை macOS extended attributes. extract or download the item to manage attributes on its local copy என்பதன் சுருக்கமாகும்."
+  },
+  "This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இது தவறாக இருக்க முடியாது."
+  },
+  "This changes the registered folder viewer. Finder still manages the desktop and macOS file dialogs. You can restore the previous viewer here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இது பதிவு செய்யப்பட்ட கோப்பு பார்வையாளரை மாற்றும். Finder அலுவலகத்தில் வேலை செய்கிறது மற்றும் macOS முந்தைய கண்காணிப்பாளர் மீண்டும் இங்கே கிடைக்கும்."
+  },
+  "This changes which users can access the item. Export the existing ACL first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இந்த மாற்றங்கள் பயனர்கள் பொருள் அணுக முடியும்.Export the existing ACL முதலில் நீங்கள் ஒரு பதிப்பு தேவை என்றால்"
+  },
+  "This folder is empty": {
+    "origin": "Files:EmptyFolder.Text",
+    "text": "இந்த கோப்புற வெறுமயா இருக்கு."
+  },
+  "This location is not ready for transfers.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இந்நிறுவனம் மாற்றங்களுக்கு தயாராக இல்லை."
+  },
+  "This media format cannot be edited by the native exporter.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இந்த மென்பொருள் வடிவமைப்பு ஆசிரியர் வெளியிட முடியாது."
+  },
+  "This metadata container uses indexed keys; edit it with its native media application.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "This metadata container uses indexed keys; edits it with its native media application.இந்த மென்பொருள் கோப்பை குறியீடுகள் பயன்படுத்துகிறது."
+  },
+  "This operation cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இந்த நடவடிக்கை தவிர்க்க முடியாது."
+  },
+  "This removes the attribute from this file. Export its bytes first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இதன் மூலம் இந்த கோப்பு இருந்து அம்சத்தை நீக்குகிறது.Export its bytes first if you need a backup."
+  },
+  "Thumbnail cache limit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "குழப்பம் cache limit"
+  },
+  "Thumbnails": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thumbnails"
+  },
+  "Thumbnails are cached in memory. The limit applies to decoded images.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "The limit applies to decoded images.பொதுமக்களின் அடையாள அட்டவணைகள் நினைவகத்தில் உள்ளன."
+  },
+  "Tiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "டைரக்டர்"
+  },
+  "Title": {
+    "origin": "Files:PropertyTitle",
+    "text": "தலய்ப்பு"
+  },
+  "Today": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இன்று"
+  },
+  "Toggle compact overlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "Toggle compact overlay"
+  },
+  "Toggle details pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மெனுவில் தோன்றும், Staff details ஐ Click செய்யவும்"
+  },
+  "Toggle dual pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இரண்டாவதாக Pan"
+  },
+  "Toggle filter header": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "Toggle filter header"
+  },
+  "Toggle full screen": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முழு screen"
+  },
+  "Toggle selection": {
+    "origin": "Files:ToggleSelect",
+    "text": "Toggle selection"
+  },
+  "ToggleCompactOverlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "Toggle compact overlay"
+  },
+  "ToggleFilterHeader": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "Toggle filter header"
+  },
+  "ToggleSelect": {
+    "origin": "Files:ToggleSelect",
+    "text": "Toggle selection"
+  },
+  "ToggleSidebar": {
+    "origin": "Files:ToggleSidebar",
+    "text": "Toggle the sidebar"
+  },
+  "ToggleToolbar": {
+    "origin": "Files:ToggleToolbar",
+    "text": "Toggle toolbar"
+  },
+  "Too many nested aliases.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பல அலெக்சாண்டர் அலெக்சாண்டர்"
+  },
+  "Tools": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கருவிகள்"
+  },
+  "Top": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மேல்"
+  },
+  "Total size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முழு அளவு"
+  },
+  "Transfer failed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "transfer தவறு"
+  },
+  "Trash": {
+    "origin": "Files:RecycleBin",
+    "text": "மறுசுழற்சி கூடை"
+  },
+  "Trash on this Mac and connected volumes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இந்த Mac மற்றும் இணைக்கப்பட்ட அளவுகள் மீது குழப்பம்"
+  },
+  "Trust": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "நம்பிக்கை"
+  },
+  "Trust this SSH server?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இந்த நம்பிக்கை SSH சேவையகம் ?"
+  },
+  "Trust verified fingerprints": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "நம்பிக்கையுள்ள அடையாள அட்டை"
+  },
+  "Try again": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மீண்டும் முயற்சி"
+  },
+  "Under window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கீழே window"
+  },
+  "Undo": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மற்றும்"
+  },
+  "Undo file operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "கோப்பு செயல்பாடு"
+  },
+  "Undoing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அழுகியே"
+  },
+  "Unencrypted FTP": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அநியாயமான FTP"
+  },
+  "Universal": {
+    "origin": "Files:Universal",
+    "text": "உலகளாவிய"
+  },
+  "Unknown": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தெரியாத"
+  },
+  "Unknown shortcut command.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அறியப்படாத குறுகிய கட்டளைகள்"
+  },
+  "Unpin": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அம்பேத்கர்"
+  },
+  "Unsafe archive link target.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பாதுகாப்பான அரட்டை இலக்கு."
+  },
+  "Unstage": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அநியாயம்"
+  },
+  "Unstaged selected files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "தேர்ந்தெடுக்கப்பட்ட கோப்புகள்"
+  },
+  "Unsupported Git action.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "உதவி இல்லாத Git நடவடிக்கை"
+  },
+  "Unsupported archive entry name or listing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Unsupported archive entry name அல்லது பட்டியலிடப்பட்டது."
+  },
+  "Unsupported file type in transfer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் செய்யப்படாத கோப்பு வகை"
+  },
+  "Unsupported metadata container version.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மெட்ராடேட் கோன்டர் பதிப்பு ஆதரவு இல்லை."
+  },
+  "Unsupported movie header.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Unsupported film header படங்கள்"
+  },
+  "Untagged": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அடையாளம்"
+  },
+  "Up": {
+    "origin": "Files:Key.Up",
+    "text": "மேல்"
+  },
+  "Up one level": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மேல் ஒரு நிலை"
+  },
+  "Up one level · ⌘↑": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஒரு நிலைக்கு மேல் ⌘↑"
+  },
+  "Updates native macOS tags for all selected items. Leave empty to remove tags.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "புதுப்பிக்கப்பட்டது native macOS தேர்ந்தெடுக்கப்பட்ட அனைத்து பொருட்களுக்கும் குறிப்புகள்.Leave empty to remove tags."
+  },
+  "Updating archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive புதுப்பிக்க"
+  },
+  "Updating media metadata": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Media Metadata பற்றிய தகவல்கள்"
+  },
+  "Updating permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Updated அனுமதிகள்"
+  },
+  "Upload": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம்"
+  },
+  "Upload failed. The original remains at %1$@; the pending upload is %2$@. %3$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முதன்மை கட்டுரை: The original remains at %1$@மேல்முறையீட்டாளர்கள் upload %2$@. %3$@"
+  },
+  "Upload files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் File..."
+  },
+  "Upload regular files or folders; symbolic links are not followed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் செய்க regular files or maps; symbolic links are not followed."
+  },
+  "Uploading": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம்"
+  },
+  "Upstream Files issues": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Upstream கோப்புகள்"
+  },
+  "Use Copy and Paste or Download to transfer remote items.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Copy and Paste or Download பயன்படுத்தி, தொலைத்தொடர்பு பொருட்களை மாற்றவும்."
+  },
+  "Use Copy or Extract to transfer archive contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Copy or Extract என்பதன் விரிவாக்கம் archive content transfer."
+  },
+  "Use MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பயன்பாடு MacFiles"
+  },
+  "Use MacFiles for folder URLs?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பயன்பாடு MacFiles URL க்கு பதிவிறக்கம் செய்வது?"
+  },
+  "Use MacFiles for folder URLs…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பயன்பாடு MacFiles URL க்கான பதிவுகள்..."
+  },
+  "User": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பயனர்"
+  },
+  "Username": {
+    "origin": "Files:CredentialDialogUserName.PlaceholderText",
+    "text": "பயனர்பேர்"
+  },
+  "Uses SSH keys or the password above. Host-key verification remains enabled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பயன்பாடு SSH மேலே உள்ள திறமைகள் அல்லது கடவுச்சொல்.Host-key verification remains enabled."
+  },
+  "Uses the on-device Apple Intelligence model when available. Otherwise searches the words you entered. No file content is sent to a server.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "இணையத்தில் Apple Intelligence மாதிரி பயன்படுத்தி கிடைக்கும் போது.அல்லது நீங்கள் உள்ளிட்ட வார்த்தைகளை தேடுங்கள்.ஒரு சேவையகத்திற்கு கோப்பு உள்ளடக்கத்தை அனுப்பப்படவில்லை."
+  },
+  "Value": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மதிப்பு"
+  },
+  "Verified host keys saved for MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "முகப்பு குறிச்சொற்கள் Verified host keys saved for MacFiles."
+  },
+  "Vertical alignment": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vertical ஒத்துழைப்பு"
+  },
+  "Vertical split": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vertical வித்தியாசம்"
+  },
+  "View": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பார்வை"
+  },
+  "Volume": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "எடை Volume"
+  },
+  "Volume available": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Volume கிடைக்கும்"
+  },
+  "Volume capacity": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Volume திறன்"
+  },
+  "Volume case sensitive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "அளவு sensitive"
+  },
+  "Volume read only": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Volume மட்டுமே படிக்க"
+  },
+  "Volumes must be at least 1 KiB.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "எடை குறைந்தபட்சம் 1 KIB ஆக இருக்க வேண்டும்."
+  },
+  "Waiting to sync": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sync காத்திருப்பது"
+  },
+  "Wallpaper could not be changed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "மாற்ற முடியாது கையெழுத்து"
+  },
+  "Wallpaper slideshow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் Slideshow"
+  },
+  "Wallpaper slideshow…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஸ்பெஷல் Slideshow..."
+  },
+  "Warn when changing file extensions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பதிவிறக்கம் செய்க File Extensions"
+  },
+  "When an item exists": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஒரு பொருள் இருந்தால்"
+  },
+  "When names conflict, choose Keep both, Replace, or Skip. Replaced versions and deleted items go to the macOS Trash. Undo and redo are retained across launches and shared by open windows.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "பெயர்கள் ஒப்பந்தம் போது, தேர்ந்தெடுக்கவும் Keep both, Replace, or Skip. replaced versions and deleted items go to the macOS Undo மற்றும் redo ஒவ்வொரு வெளியீட்டுகளிலும் சேமிக்கப்படுகின்றன மற்றும் திறந்த விண்டோக்கள் மூலம் பகிர்ந்து கொள்ளப்படுகின்றன."
+  },
+  "Working…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "வேலை..."
+  },
+  "Writable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "எழுத்தாளர்"
+  },
+  "Writes embedded metadata. Image files may be re-encoded; the original remains recoverable with Undo. Audio and video edits preserve encoded tracks. Unsupported containers keep the original.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Writes embedded metadata. Image files may be re-encoded; the original remains recoverable with Undo. Audio and video edits preserve encoded tracks. Unsupported containers keep the original."
+  },
+  "Year": {
+    "origin": "Files:Year",
+    "text": "வருஷம்"
+  },
+  "Yellow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "யூனியன்"
+  },
+  "Yes": {
+    "origin": "Files:Yes",
+    "text": "ஆமா"
+  },
+  "Yesterday": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "நேற்று"
+  },
+  "You can restore these items with Undo or from the Trash.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "நீங்கள் இந்த பொருட்களை Undo அல்லது Trash இருந்து மீட்க முடியும்."
+  },
+  "Your files, your way.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "உங்கள் பதிவுகள், உங்கள் வழி"
+  },
+  "Your pinned folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "உன் கழுதைகள்"
+  },
+  "Zoom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ஜூம்"
+  },
+  "macOS aliases and symbolic links refer to a target path. Windows shortcut arguments and Run as administrator flags do not have alias equivalents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Aliases and symbolic links refer to a target path என்பார்கள். Windows shortcut arguments and Run as administrator flags have no alias equivalents என்பார்கள்."
+  },
+  "macOS integration": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS integration தொடர்பு"
+  },
+  "macOS moved the previous version to Trash but did not return its location. The new version was not installed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS முந்தைய பதிப்பு மாற்றப்பட்டது Trash ஆனால் அதன் இடத்தை திரும்பவில்லை."
+  },
+  "macOS returned %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS திரும்பி %1$@."
+  },
+  "macOS uses Mach-O architectures and the application's minimum OS version. Windows compatibility modes, DPI overrides and administrator flags cannot be applied to a native Mac app.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS பயன்பாடு Mach-O ஆங்கிலத்தில் இதை Single Orgasm, Multiple Orgasm என்றும் கூறுகிறார்கள். Windows compatibility modes, DPI overrides and administrator flags cannot be applied to a native Mac app.தொடர்ந்து படிக்கவும்"
+  }
+}

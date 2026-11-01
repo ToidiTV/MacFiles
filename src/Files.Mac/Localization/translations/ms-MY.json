@@ -1,0 +1,5268 @@
+{
+  "%1$@ MB": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ MB yang"
+  },
+  "%1$@ Trash location(s) could not be read. macOS may require Full Disk Access for Trash. Items listed here remain available to manage.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Lokasi (s) tidak boleh dibaca. macOS boleh memerlukan akses cakera penuh untuk Trash. item yang disenaraikan di sini kekal tersedia untuk dikendalikan."
+  },
+  "%1$@ destination name(s) already exist": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Nama destinasi(s) sudah wujud"
+  },
+  "%1$@ entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Kemasukan"
+  },
+  "%1$@ folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Laporan"
+  },
+  "%1$@ folders · %2$@ files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Laporan · %2$@ fail"
+  },
+  "%1$@ folders · saves to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Tag: penyimpanan untuk %2$@"
+  },
+  "%1$@ free of %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ bebas daripada %2$@"
+  },
+  "%1$@ inaccessible": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Tidak boleh diakses"
+  },
+  "%1$@ is assigned more than once.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ diberikan lebih daripada sekali."
+  },
+  "%1$@ is reserved by macOS or the application window.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ disimpan oleh macOS atau tetingkap permohonan."
+  },
+  "%1$@ is reserved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ telah disimpan."
+  },
+  "%1$@ item(s) ready to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ item(s) bersedia untuk %2$@"
+  },
+  "%1$@ selected items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ item yang dipilih"
+  },
+  "%1$@. Sync completion is managed by the provider and is not reported through public file metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@Penyelesaian Sink dikendalikan oleh pembekal dan tidak dilaporkan melalui metadata fail awam."
+  },
+  "A different key is already trusted for this host. Review the changed key with the server administrator before replacing it.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kunci yang berbeza telah dipercayai untuk tuan rumah ini.Lihat kunci yang diubah dengan pentadbir pelayan sebelum menggantikannya."
+  },
+  "A familiar place for everything.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tempat yang dikenali untuk segala-galanya."
+  },
+  "A file operation is still running": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Operasi fail masih berjalan"
+  },
+  "A folder cannot be copied or moved inside itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "folder tidak boleh disalin atau dipindahkan ke dalamnya."
+  },
+  "A shortcut cannot target itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sebuah pendek tidak boleh menargetkan diri."
+  },
+  "ACL updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ACL dikemaskini ."
+  },
+  "About": {
+    "origin": "Files:About",
+    "text": "Tentang"
+  },
+  "About MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tentang MacFiles"
+  },
+  "Accent color (hex)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Warna Aksen ( hex )"
+  },
+  "Access control list — native macOS syntax": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Senarai kawalan akses - asli macOS sintaks"
+  },
+  "Access token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Akses kepada token"
+  },
+  "Accounts, authentication and sync preferences are managed by each provider’s native app. Removing a saved folder here does not unlink its account or delete files.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Akaun, pengesahan dan keutamaan sink dikendalikan oleh aplikasi asli setiap pembekal.Menghapuskan folder yang disimpan di sini tidak mengalih keluar akaun atau memadamkan fail."
+  },
+  "Action unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tindakan tidak tersedia"
+  },
+  "Actions": {
+    "origin": "Files:Actions",
+    "text": "Tindakan"
+  },
+  "Adaptive": {
+    "origin": "Files:Adaptive",
+    "text": "Susun atur penyesuaian"
+  },
+  "Adaptive layout": {
+    "origin": "Files:Adaptive",
+    "text": "Susun atur penyesuaian"
+  },
+  "Add": {
+    "origin": "Files:Add",
+    "text": "Tambah"
+  },
+  "Add cloud folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menambah folder awan"
+  },
+  "Add current selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menambah pemilihan semasa"
+  },
+  "Add files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tambah fail..."
+  },
+  "Add folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menambah folder ..."
+  },
+  "Add images…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tambah imej ..."
+  },
+  "Add prefix": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menambah Prefix"
+  },
+  "Add saved tag": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menambah tag disimpan"
+  },
+  "Add selection to shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menambah pemilihan kepada shelf"
+  },
+  "Add startup folders…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menambah folder permulaan ..."
+  },
+  "Add suffix": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menambah suffix"
+  },
+  "Add to library": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tambah ke perpustakaan"
+  },
+  "Add to shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tambah kepada shelf"
+  },
+  "Advanced": {
+    "origin": "Files:Advanced",
+    "text": "Lanjutan"
+  },
+  "Advanced search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pencarian maju"
+  },
+  "Advanced search…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pencarian lanjutan ..."
+  },
+  "Album": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Album"
+  },
+  "Allocated size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Saiz yang diperuntukkan"
+  },
+  "Already assigned to %1$@. Remove that assignment first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "yang telah ditugaskan kepada %1$@Hentikan tugas ini terlebih dahulu."
+  },
+  "Always show operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Selalu menunjukkan operasi"
+  },
+  "Always visible": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Selalu kelihatan"
+  },
+  "Always-visible items are combined with the current selection context. Cloud items add their own controls.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Item yang sentiasa kelihatan digabungkan dengan konteks pemilihan semasa. item awan menambah kawalan mereka sendiri."
+  },
+  "Ambiguous archive listing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Senarai arkib yang ambigu."
+  },
+  "Ambiguous media metadata containers.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kontainer metadata media yang ambigu."
+  },
+  "Any": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "mana-mana"
+  },
+  "App language (restart to apply)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bahasa Permohonan (bermula semula untuk Permohonan)"
+  },
+  "Appearance": {
+    "origin": "Files:Appearance",
+    "text": "Penampilan"
+  },
+  "Application": {
+    "origin": "Files:Application",
+    "text": "Aplikasi"
+  },
+  "Application unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Permohonan tidak tersedia"
+  },
+  "Applies owner, group, and other permissions to the selected items only.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ia hanya terpakai kepada pemilik, kumpulan, dan kebenaran lain untuk item yang dipilih."
+  },
+  "Apply": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Permohonan"
+  },
+  "Apply ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Permohonan ACL…"
+  },
+  "Apply UID %1$@ and GID %2$@ to this item only.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Permohonan UID %1$@ dan GID %2$@ Hanya kepada item ini sahaja."
+  },
+  "Apply attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menggunakan atribut"
+  },
+  "Apply file permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Permohonan Permohonan fail"
+  },
+  "Apply owner/group…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Permohonan pemilik / kumpulan ..."
+  },
+  "Approve MacFiles in Login Items in System Settings.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kelulusan MacFiles dalam Login Items dalam Sistem Settings."
+  },
+  "Archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arkib"
+  },
+  "Archive attempts to write through a link or file: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arkib cuba untuk menulis melalui pautan atau fail: %1$@"
+  },
+  "Archive contains an unsafe path: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arkib mengandungi laluan yang tidak selamat: %1$@"
+  },
+  "Archive contains an unsafe symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arkib mengandungi pautan simbolik yang tidak selamat."
+  },
+  "Archive editing cannot traverse symbolic links.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pengeditan arkib tidak boleh melalui pautan simbolik."
+  },
+  "Archive link escapes its destination.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arkib link melarikan diri daripada destinasi."
+  },
+  "Archive link target is too long.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Target Link Arkib Terlalu Lama"
+  },
+  "Archive operation failed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Operasi arkib gagal."
+  },
+  "Archive password (if needed)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kata laluan arkib (jika perlu)"
+  },
+  "Archive password (leave blank if unencrypted)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kata laluan arkib (meninggalkan putih jika tidak disulitkan)"
+  },
+  "Archive passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kata laluan Arkib tidak boleh mengandungi garis pecah atau NUL kepada watak."
+  },
+  "Archive path escapes the destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arkib laluan melarikan diri destinasi: %1$@"
+  },
+  "Archive root": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arkib akar"
+  },
+  "Archive symbolic link escapes the destination.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arkib simbolik pautan melarikan diri destinasi."
+  },
+  "Arrange panes side by side": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menguruskan Panes Sisi-Sisi"
+  },
+  "Arrange panes top and bottom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menguruskan panel atas dan bawah"
+  },
+  "Artist": {
+    "origin": "Files:Artist",
+    "text": "Artis"
+  },
+  "Artist / author": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Penulis / Penulis"
+  },
+  "Ascending": {
+    "origin": "Files:Ascending",
+    "text": "Menaik"
+  },
+  "Attribute name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nama Atribut"
+  },
+  "Attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Attribut"
+  },
+  "Attributes updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atribut yang dikemaskini."
+  },
+  "Auto-fit columns": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kolom Automatik"
+  },
+  "AutoFitColumns": {
+    "origin": "Files:AutoFitColumns",
+    "text": "Auto-fit columns"
+  },
+  "Available locally": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Terdapat secara tempatan"
+  },
+  "Back": {
+    "origin": "Files:Back",
+    "text": "Kembali"
+  },
+  "Back · ⌘[": {
+    "origin": "Files:Back",
+    "text": "Kembali · ⌘["
+  },
+  "Backdrop material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bahan belakang"
+  },
+  "Backdrop materials use macOS visual effects. Standard system controls and monospaced content retain their system fonts.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Penggunaan bahan belakang macOS Pengawal sistem standard dan kandungan monospace mengekalkan fon sistem mereka."
+  },
+  "Background": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "latar belakang"
+  },
+  "Background color (blank = system)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Warna latar belakang (putih = sistem)"
+  },
+  "Background image": {
+    "origin": "Files:BackgroundImage",
+    "text": "Imej latar belakang"
+  },
+  "Background image and status": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gambar latar belakang dan status"
+  },
+  "Background image opacity": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gambar latar belakang opacity"
+  },
+  "Background mode keeps the menu bar icon available so you can reopen MacFiles or quit it.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mode latar belakang mengekalkan ikon bar menu yang tersedia supaya anda boleh membuka semula MacFiles atau berhenti daripada itu."
+  },
+  "Background preset": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "latar belakang preset"
+  },
+  "Base": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "pangkalan"
+  },
+  "Base64": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perbezaan 64"
+  },
+  "Based on the Files Community explorer’s shell, MVVM, command, and storage architecture. Built with Swift, AppKit, and SwiftUI.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Berdasarkan shell, MVVM, komando, dan arsitektur penyimpanan File Community Explorer. dibina dengan Swift, AppKit, dan SwiftUI."
+  },
+  "Binary": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perbezaan binari"
+  },
+  "Blue": {
+    "origin": "Files:Blue",
+    "text": "Biru"
+  },
+  "Bottom": {
+    "origin": "Files:Bottom",
+    "text": "Bawah"
+  },
+  "Browse all tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Melayari semua tag"
+  },
+  "Browse archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse Arkib"
+  },
+  "Browse archive…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse Arkib"
+  },
+  "Browse tagged items…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse tagged item ..."
+  },
+  "Browsing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Melancap"
+  },
+  "Browsing interactions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Berinteraksi Browsing"
+  },
+  "Bulk rename": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kumpulan Renama"
+  },
+  "Bulk rename requires items from one folder.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nama besar memerlukan item daripada satu folder."
+  },
+  "Bulk rename…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perbezaan nama ..."
+  },
+  "Bytes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perbezaan"
+  },
+  "Cache thumbnails": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Penyimpanan miniatur"
+  },
+  "Calculate combined size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mengira saiz gabungan"
+  },
+  "Calculate folder size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menghitung saiz folder"
+  },
+  "Calculate folder sizes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mengira saiz folder"
+  },
+  "Calculate hashes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menghitung hash ..."
+  },
+  "Calculate total size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menghitung saiz keseluruhan"
+  },
+  "Calculating hashes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menghitung hash ..."
+  },
+  "Camouflage": {
+    "origin": "Files:Camouflage",
+    "text": "Samar"
+  },
+  "Cancel": {
+    "origin": "Files:Cancel",
+    "text": "Batal"
+  },
+  "Cancel calculation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pembatalan pengiraan"
+  },
+  "Cancel operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pembatalan Operasi"
+  },
+  "Cancel queued operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pembatalan Operasi Queued"
+  },
+  "Cancelled": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "dibatalkan"
+  },
+  "Cancelled before starting.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dilancarkan sebelum bermula."
+  },
+  "Cancelled before starting. No files were changed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dilancarkan sebelum bermula. tiada fail yang diubah."
+  },
+  "Cancelling the current operation…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menghapuskan operasi semasa ..."
+  },
+  "Cannot allocate archive entry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tiada kemasukan arkib yang boleh diperuntukkan."
+  },
+  "Cannot allocate archive reader.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak boleh mengalokasikan pembaca arkib."
+  },
+  "Cannot allocate archive writer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tiada penulisan penulis arkib."
+  },
+  "Cannot archive special device: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak boleh mengarkibkan peranti khas: %1$@"
+  },
+  "Cannot create archive entry: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak boleh mencipta entri arkib: %1$@"
+  },
+  "Cannot create subprocess output file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak boleh mencipta fail output subproses."
+  },
+  "Cannot decode image.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak boleh memadamkan imej."
+  },
+  "Cannot prepare SSH authentication.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak boleh bersedia SSH pengesahan ."
+  },
+  "Cannot prepare command input.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak boleh menyiapkan input perintah."
+  },
+  "Cannot read %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak boleh dibaca %1$@"
+  },
+  "Cannot read image metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak boleh membaca imej metadata."
+  },
+  "Cannot remove the archive root.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak boleh menghapuskan akar arkib."
+  },
+  "Cannot rename the archive root.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak boleh menamakan semula akar arkib."
+  },
+  "Cannot restore archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak boleh memulihkan arkib hard link."
+  },
+  "Cannot rotate image.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak boleh memutar imej."
+  },
+  "Center": {
+    "origin": "Files:Center",
+    "text": "Tengah"
+  },
+  "Change file extension?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perubahan fail perpanjangan?"
+  },
+  "Change ownership?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perubahan kepemilikan?"
+  },
+  "Change provider app…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perubahan pembekal app..."
+  },
+  "Change the shortcut target?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Adakah anda mengubah sasaran pendek?"
+  },
+  "Changes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perubahan"
+  },
+  "Changing the extension may prevent the file from opening in its usual application.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mengubah perpanjangan boleh menghalang fail daripada dibuka dalam aplikasi biasa."
+  },
+  "Choose IDE…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pilih di sini..."
+  },
+  "Choose a destination to restore": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pilih destinasi untuk memulihkan"
+  },
+  "Choose a file to calculate hashes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pilih fail untuk mengira hash."
+  },
+  "Choose a new destination and a repository URL.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pilih destinasi baru dan URL repositori."
+  },
+  "Choose a regular cloud file to download.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pilih fail awan biasa untuk dimuat turun."
+  },
+  "Choose a single file or folder to customize its icon.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pilih satu fail atau folder untuk menyesuaikan ikon."
+  },
+  "Choose a supported single-frame image (JPEG, PNG, TIFF or HEIC).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pilih imej satu bingkai yang disokong (JPEG, PNG, TIFF atau HEIC)."
+  },
+  "Choose a template file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pilih fail template"
+  },
+  "Choose custom icon…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pilih ikon yang sesuai."
+  },
+  "Choose folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pilih folder ..."
+  },
+  "Choose one item to edit ownership or ACLs.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pilih satu item untuk mengedit pemilikan atau ACL."
+  },
+  "Choose one item to view extended attributes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pilih satu item untuk melihat atribut yang diperluaskan."
+  },
+  "Choose provider app…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pilih pembekal aplikasi..."
+  },
+  "Clear": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "jelas"
+  },
+  "Clear finished": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bersih selesai"
+  },
+  "Clear selection": {
+    "origin": "Files:ClearSelection",
+    "text": "Kosongkan pilihan"
+  },
+  "Clear thumbnail cache": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pembersihan Cache Kecil"
+  },
+  "Clone": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Klon yang"
+  },
+  "Clone repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Penyimpanan Clone"
+  },
+  "Clone…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Klon yang"
+  },
+  "Close": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "berhampiran"
+  },
+  "Close details": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Maklumat dekat"
+  },
+  "Close other tabs": {
+    "origin": "Files:CloseOtherTabs",
+    "text": "Tutup tab lain"
+  },
+  "Close tab": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Berhampiran Tab"
+  },
+  "Close tabs to the left": {
+    "origin": "Files:CloseTabsToTheLeft",
+    "text": "Tutup tab di sebelah kiri"
+  },
+  "Close tabs to the right": {
+    "origin": "Files:CloseTabsToTheRight",
+    "text": "Tutup tab di sebelah kanan"
+  },
+  "Close window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "tetingkap terdekat"
+  },
+  "Cloud": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "awan"
+  },
+  "Cloud accounts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Akaun awan"
+  },
+  "Cloud accounts and folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Akaun awan dan folder"
+  },
+  "Cloud availability and synchronization": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ketersediaan awan dan penyegerakan"
+  },
+  "Cloud folder name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nama folder awan"
+  },
+  "Cloud items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Objek awan"
+  },
+  "Cloud provider": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pembekal awan"
+  },
+  "Cloud providers installed on this Mac appear in the sidebar through their native File Provider folders.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pembekal awan yang dipasang pada Mac ini muncul dalam bar sisi melalui asli mereka File Provider daripada folder."
+  },
+  "Cloud status": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Status awan"
+  },
+  "Cloud status…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Status awan ..."
+  },
+  "Cloud storage": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Penyimpanan awan"
+  },
+  "Collapse folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "kegagalan folder"
+  },
+  "Collapsed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "runtuh"
+  },
+  "Collect file references from different folders, then copy or move them together.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mengumpul rujukan fail daripada folder yang berbeza, kemudian salin atau pindah mereka bersama-sama."
+  },
+  "Columns": {
+    "origin": "Files:Columns",
+    "text": "Kolum"
+  },
+  "Columns layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Layout Kolom"
+  },
+  "Command": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perintah"
+  },
+  "Command output exceeded 16 MiB; no truncated result was accepted.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kuasa perintah melebihi 16 MiB; tiada hasil yang dipotong diterima."
+  },
+  "Command palette": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perintah Palet"
+  },
+  "Command palette…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perintah Palet ..."
+  },
+  "Commit created": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "komitmen yang dibuat"
+  },
+  "Commit message": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Komite mesej"
+  },
+  "Commit staged": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Komite telah"
+  },
+  "Compact file rows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rangkaian fail kompak"
+  },
+  "Compare these SHA-256 fingerprints with your server administrator before trusting %1$@:%2$@.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perbandingan ini SHA-256 percetakan jari dengan pentadbir pelayan anda sebelum mempercayai %1$@:%2$@.\n\n"
+  },
+  "Compatibility": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kompatibiliti"
+  },
+  "Completed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "telah selesai"
+  },
+  "Completed with errors": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Penuh dengan kesilapan"
+  },
+  "Compress": {
+    "origin": "Files:Compress",
+    "text": "Mampatkan"
+  },
+  "CompressIntoSevenZip": {
+    "origin": "Files:CompressIntoSevenZip",
+    "text": "Create 7z archive"
+  },
+  "CompressIntoZip": {
+    "origin": "Files:CompressIntoZip",
+    "text": "Create zip archive"
+  },
+  "Compressed movie headers require remuxing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Filem yang dikompresi memerlukan remuxing."
+  },
+  "Compressing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kompresi"
+  },
+  "Compress…": {
+    "origin": "Files:Compress",
+    "text": "Mampatkan"
+  },
+  "Confirm moving files to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mengesahkan memindahkan fail ke Trash"
+  },
+  "Confirmations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pengesahan"
+  },
+  "Conflicts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Konflik"
+  },
+  "Connect": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hubungi"
+  },
+  "Connect to server": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menyambung ke server"
+  },
+  "Connect to server…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menyambung ke pelayan"
+  },
+  "Connect to the server first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sambungkan ke server terlebih dahulu."
+  },
+  "Connected folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "folder yang berkaitan"
+  },
+  "Connected to this Mac": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Terhubung ke Mac ini"
+  },
+  "Contains UTF-8 text": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "mengandungi UTF-8 teks"
+  },
+  "Content search includes text, PDF, Office and OpenDocument files. Unsupported, locked and online-only files are counted as skipped.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pencarian kandungan termasuk fail teks, PDF, Office dan OpenDocument. fail yang tidak disokong, tertutup dan dalam talian sahaja dikira sebagai terlepas."
+  },
+  "Content type": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Jenis Kandungan"
+  },
+  "Contents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kandungan"
+  },
+  "Context": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "konteks"
+  },
+  "Context menu": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menu konteks"
+  },
+  "Copy": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kopi"
+  },
+  "Copy app version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menyalin versi app"
+  },
+  "Copy hashes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menyalin hash"
+  },
+  "Copy here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Salin di sini"
+  },
+  "Copy macOS version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kopi macOS Versi"
+  },
+  "Copy path": {
+    "origin": "Files:CopyPath",
+    "text": "Salin laluan"
+  },
+  "Copy report": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Laporan salinan"
+  },
+  "Copy selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Salinan yang dipilih"
+  },
+  "CopyItemPathWithQuotes": {
+    "origin": "Files:CopyItemPathWithQuotes",
+    "text": "Copy selected item path with quotes"
+  },
+  "CopyPathDescription": {
+    "origin": "Files:CopyPathDescription",
+    "text": "Copy path of the current directory"
+  },
+  "CopyPathWithQuotes": {
+    "origin": "Files:CopyPathWithQuotes",
+    "text": "Salin laluan dengan petikan"
+  },
+  "Copying": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menyalin"
+  },
+  "Copying archive entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menyalin entri arkib"
+  },
+  "Copying files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menyalin fail"
+  },
+  "Copyright": {
+    "origin": "Files:PropertyCopyright",
+    "text": "Hak Cipta"
+  },
+  "Could not find an available filename.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Saya tidak boleh mencari nama fail yang tersedia."
+  },
+  "Could not prepare archive contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak boleh menyiapkan kandungan arkib."
+  },
+  "Could not remove GitHub credentials from Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak boleh menghapuskan pengesahan GitHub daripada Keychain."
+  },
+  "Could not save GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak boleh menyimpan pengesahan GitHub dalam Keychain."
+  },
+  "Could not save the edited image; the original was kept.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak boleh menyimpan imej yang diedit; asal disimpan."
+  },
+  "Could not save the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak boleh menyimpan kata laluan dalam Keychain (%1$@)."
+  },
+  "Could not update GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak boleh mengemas kini pengesahan GitHub dalam Keychain."
+  },
+  "Could not update the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak boleh mengemas kini kata laluan dalam Keychain (%1$@)."
+  },
+  "Couldn’t change the folder viewer": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak boleh mengubah folder viewer"
+  },
+  "Couldn’t eject volume": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak boleh mengeluarkan volum"
+  },
+  "Couldn’t open files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak boleh membuka fail"
+  },
+  "Couldn’t open folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak boleh membuka folder"
+  },
+  "Couldn’t open this file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Saya tidak boleh membuka fail ini"
+  },
+  "Couldn’t open this location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak boleh membuka lokasi ini"
+  },
+  "Couldn’t resolve alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak boleh diselesaikan alias"
+  },
+  "Couldn’t restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak boleh memulakan semula MacFiles"
+  },
+  "Create": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mencipta"
+  },
+  "Create a GitHub token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mencipta token GitHub"
+  },
+  "Create alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mencipta Alias"
+  },
+  "Create archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mencipta Arkib"
+  },
+  "Create library…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Membina perpustakaan ..."
+  },
+  "Create shortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "Cipta pintasan"
+  },
+  "Create zip archive": {
+    "origin": "Files:CompressIntoZip",
+    "text": "Create zip archive"
+  },
+  "CreateFolderWithSelection": {
+    "origin": "Files:CreateFolderWithSelection",
+    "text": "Cipta folder dengan pilihan"
+  },
+  "CreateShortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "Cipta pintasan"
+  },
+  "CreateShortcutFromDialogDescription": {
+    "origin": "Files:CreateShortcutFromDialogDescription",
+    "text": "Create new shortcut to any item"
+  },
+  "Created": {
+    "origin": "Files:PropertiesCreated.Text",
+    "text": "Dicipta:"
+  },
+  "Creating alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mencipta Alias"
+  },
+  "Creating from template": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mencipta daripada template"
+  },
+  "Custom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Khas"
+  },
+  "Custom icon applied.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ikon yang digunakan."
+  },
+  "Custom tag color (hex, optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Warna label tersuai (hex, pilihan)"
+  },
+  "Custom theme": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tema Khas"
+  },
+  "Customization": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Penyesuaian"
+  },
+  "Customize toolbar": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Penyesuaian Toolbar"
+  },
+  "Customize toolbar…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menggunakan toolbar..."
+  },
+  "Cut": {
+    "origin": "Files:Cut",
+    "text": "Potong"
+  },
+  "Dark": {
+    "origin": "Files:DarkTheme",
+    "text": "Gelap"
+  },
+  "Date created": {
+    "origin": "Files:DateCreated",
+    "text": "Date created"
+  },
+  "Date deleted": {
+    "origin": "Files:DateDeleted",
+    "text": "Tarikh Dihapuskan"
+  },
+  "Date format": {
+    "origin": "Files:DateFormat",
+    "text": "Format tarikh"
+  },
+  "Date modified": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tarikh berubah"
+  },
+  "Day": {
+    "origin": "Files:Day",
+    "text": "Day"
+  },
+  "Decimal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Separuh"
+  },
+  "Decrease size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mengurangkan saiz"
+  },
+  "Default": {
+    "origin": "Files:Default",
+    "text": "Lalai"
+  },
+  "Default folder layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Layout folder lalai"
+  },
+  "Default grouping": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kumpulan default"
+  },
+  "Default save location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menyelamatkan lokasi"
+  },
+  "Default sorting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perbezaan lalai"
+  },
+  "Delete": {
+    "origin": "Files:Delete",
+    "text": "Padam"
+  },
+  "Delete permanently": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menghapuskan secara kekal"
+  },
+  "Delete saved tag and remove it from indexed files?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menghapus tag disimpan dan menghapuskannya daripada fail yang diindeks?"
+  },
+  "Delete selected permanently…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Memadamkan yang dipilih secara kekal ..."
+  },
+  "Deleting permanently": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Penghapusan secara kekal"
+  },
+  "Description": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Penerangan"
+  },
+  "Desktop": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perkhidmatan Desktop"
+  },
+  "Destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Destinasi: %1$@"
+  },
+  "Detached HEAD": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "kepala tertutup"
+  },
+  "Details": {
+    "origin": "Files:Details",
+    "text": "Butiran"
+  },
+  "Details layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rujukan Layout"
+  },
+  "Details pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Maklumat Puan"
+  },
+  "Developer tools": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Alat Pembangunan"
+  },
+  "Development": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pembangunan"
+  },
+  "Diagnostics": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Diagnosis"
+  },
+  "Diagnostics opened": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Diagnosis telah dibuka"
+  },
+  "Disconnect": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Disambungkan"
+  },
+  "Documents": {
+    "origin": "Files:Documents",
+    "text": "Dokumen"
+  },
+  "Done": {
+    "origin": "Files:Close",
+    "text": "Close"
+  },
+  "Double-click empty space to go up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Double-click ruang kosong untuk naik"
+  },
+  "Download": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Download"
+  },
+  "Download files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mengunduh fail..."
+  },
+  "Download here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Download di sini"
+  },
+  "Download requested. iCloud may complete it asynchronously.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Download yang diminta iCloud boleh diselesaikan secara asynchronous."
+  },
+  "Downloaded": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dimuat turun"
+  },
+  "Downloading": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dilancarkan"
+  },
+  "Downloads": {
+    "origin": "Files:Downloads",
+    "text": "Muat Turun"
+  },
+  "Drives": {
+    "origin": "Files:Drives",
+    "text": "Pemacu"
+  },
+  "Dual pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "2 buah pan"
+  },
+  "Duplicate": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Duplikasi"
+  },
+  "Duplicate archive paths cannot be extracted safely.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Laluan arkib duplikat tidak boleh dikeluarkan dengan selamat."
+  },
+  "Duplicate tab": {
+    "origin": "Files:DuplicateTab",
+    "text": "Gandakan tab"
+  },
+  "Edit": {
+    "origin": "Files:Edit",
+    "text": "Sunting"
+  },
+  "Edit POSIX permissions for selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sunting POSIX Permohonan untuk pemilihan"
+  },
+  "Edit address · ⌘L": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Alamat Edit · ⌘L"
+  },
+  "Edit archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit Arkib"
+  },
+  "Edit in TextEdit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit dalam teks"
+  },
+  "Edit media metadata": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mengedit media metadata"
+  },
+  "Edit media metadata…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mengedit media metadata ..."
+  },
+  "Edit or import the settings document, then Apply to validate and save. Language changes require a restart.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mengedit atau mengimport dokumen tetapan, kemudian memohon untuk mengesahkan dan menyimpan. perubahan bahasa memerlukan pemulihan semula."
+  },
+  "Edit permissions on the link's target instead.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit keizinan pada sasaran pautan sebaliknya."
+  },
+  "Edit settings file…": {
+    "origin": "Files:EditSettingsFile",
+    "text": "Edit fail tetapan"
+  },
+  "Edit tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit tags"
+  },
+  "Edit tags…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit tags untuk..."
+  },
+  "Edit the archive target instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mengedit sasaran arkib daripada pautan simbolik."
+  },
+  "Edit the target's attributes instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mengedit atribut sasaran daripada pautan simbolik."
+  },
+  "Edits apply to this item only. Ownership changes require existing system permission; MacFiles does not elevate itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perubahan pemilikan memerlukan kebenaran sistem yang sedia ada; MacFiles Ia tidak menaikkan diri."
+  },
+  "Eject": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "pengusiran"
+  },
+  "Empty": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "kosong"
+  },
+  "Empty accessible Trash…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perkhidmatan percuma yang boleh diakses ..."
+  },
+  "Empty archive entry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kemasukan arkib kosong."
+  },
+  "Encoding": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pengekodan"
+  },
+  "Encrypted": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Penyulitan"
+  },
+  "Enter a GitHub username and a valid access token.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Masukkan nama pengguna GitHub dan token akses yang sah."
+  },
+  "Enter a commit message.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Masukkan mesej komitmen"
+  },
+  "Enter a name without a slash or colon. The name cannot be empty, ‘.’, or ‘..’.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Masukkan nama tanpa slash atau kolon. nama tidak boleh kosong, '.', atau '..'."
+  },
+  "Enter a size from 1 to 1,048,576 MiB.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Masukkan saiz dari 1 hingga 1,048,576 MiB."
+  },
+  "Enter a valid host, username, and port.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Masukkan host yang sah, nama pengguna, dan port."
+  },
+  "Enter an SMB, AFP, or WebDAV address.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Masuklah satu SMB, AFPatau WebDAV Alamat"
+  },
+  "Enter an attribute name of 1–127 UTF-8 bytes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Masukkan nama atribut 1–127 UTF-8 daripada bytes."
+  },
+  "Enter compact overlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "Enter compact overlay"
+  },
+  "Enter numeric user and group IDs.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Masukkan nombor pengguna dan ID kumpulan."
+  },
+  "Enter password:": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Masukkan kata laluan :"
+  },
+  "Enter permissions from 000 to 777.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Masukkan lesen daripada 000 kepada 777."
+  },
+  "Enter the archive password before editing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Masukkan kata laluan arkib sebelum mengedit."
+  },
+  "Enter three octal digits, for example 644 or 755.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Masukkan tiga digit octal, contohnya 644 atau 755."
+  },
+  "Enter whole numbers for byte limits.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Masukkan nombor penuh untuk had byte."
+  },
+  "EnterCompactOverlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "Enter compact overlay"
+  },
+  "Executable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pelaksanaan"
+  },
+  "Executable format": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Format yang boleh dilaksanakan"
+  },
+  "Exit compact overlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "Exit compact overlay"
+  },
+  "ExitCompactOverlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "Exit compact overlay"
+  },
+  "Expand folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Membesarkan folder"
+  },
+  "Expanded": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "diperluaskan"
+  },
+  "Export ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Eksport ACL…"
+  },
+  "Export bytes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bayaran eksport ..."
+  },
+  "Export theme…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tema Eksport ..."
+  },
+  "Export…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Eksport ..."
+  },
+  "Extended attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Attribut yang diperluaskan"
+  },
+  "Extended attributes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perbezaan ciri-ciri yang diperluaskan ..."
+  },
+  "Extensions are preserved. Conflicts stop the batch before any names change.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Konflik menghentikan batch sebelum sebarang nama berubah."
+  },
+  "Extensions: txt, swift, pdf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perpanjangan : txt, swift, pdf"
+  },
+  "Extra large icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ikon yang lebih besar"
+  },
+  "Extract": {
+    "origin": "Files:Extract",
+    "text": "Extract"
+  },
+  "Extract all…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mengekstrak semua..."
+  },
+  "Extract here": {
+    "origin": "Files:ExtractHere",
+    "text": "Ekstrak di sini"
+  },
+  "Extract here (Smart)": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "Ekstrak di sini (Pintar)"
+  },
+  "Extract selected…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ekstrak yang dipilih..."
+  },
+  "Extract to child folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ekstrak untuk folder kanak-kanak"
+  },
+  "Extract to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ekstrak untuk..."
+  },
+  "ExtractHere": {
+    "origin": "Files:ExtractHere",
+    "text": "Ekstrak di sini"
+  },
+  "ExtractHereSmart": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "Ekstrak di sini (Pintar)"
+  },
+  "Extracted entry size does not match its header.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Saiz entri yang dikeluarkan tidak sepadan dengan tajuknya."
+  },
+  "Extracting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pengekstrakan"
+  },
+  "Extracts into a new folder; existing files are kept.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mengekstrak ke folder baru; fail yang sedia ada disimpan."
+  },
+  "FTP over TLS": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "FTP Di atas TLS"
+  },
+  "Failed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "kegagalan"
+  },
+  "Fetch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Feng Shui"
+  },
+  "File": {
+    "origin": "Files:File",
+    "text": "Fail"
+  },
+  "File actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Aktiviti fail"
+  },
+  "File hashes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "fail hashes"
+  },
+  "File information": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Maklumat fail"
+  },
+  "File operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Operasi fail"
+  },
+  "File operations in this window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Operasi fail dalam tetingkap ini"
+  },
+  "File shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "fail shelf"
+  },
+  "File shelf…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "fail shelf ..."
+  },
+  "File size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Saiz fail"
+  },
+  "Files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "fail"
+  },
+  "Files size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Saiz fail"
+  },
+  "Files you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Fail yang anda buka akan muncul di sini."
+  },
+  "Fill": {
+    "origin": "Files:Fill",
+    "text": "Isi"
+  },
+  "Filter entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Filter kemasukan"
+  },
+  "Find": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mencari"
+  },
+  "Find and replace": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cari dan tukar"
+  },
+  "Finder Get Info unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder Maklumat yang tidak tersedia"
+  },
+  "Finder Get Info…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder Dapatkan maklumat..."
+  },
+  "Finder's desktop and other apps' Open/Save dialogs remain managed by macOS.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder dialog 'desk dan aplikasi lain' Open/Save kekal dikendalikan oleh macOS."
+  },
+  "First letter": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Surat Pertama"
+  },
+  "Fit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sesuai"
+  },
+  "Flatten": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kelembapan"
+  },
+  "Flatten folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Laporan yang lurus"
+  },
+  "Flatten folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "folder yang rata..."
+  },
+  "Flatten ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "yang rata »%1$@’?"
+  },
+  "Flattening folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pembukaan folder"
+  },
+  "Focus other pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perbincangan lain Pan"
+  },
+  "Folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Folder yang"
+  },
+  "Folder contents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Maklumat Folder"
+  },
+  "Folder contents are not included in this total.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kandungan folder tidak termasuk dalam jumlah ini."
+  },
+  "Folder layout saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Layout folder disimpan."
+  },
+  "Folder path": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Laluan Folder"
+  },
+  "Folder presentation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Persembahan Folder"
+  },
+  "Folder sizes are calculated in the background after Refresh. Large or network folders may take longer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Saiz folder dikira dalam latar belakang selepas Refresh. folder besar atau rangkaian boleh mengambil masa yang lebih lama."
+  },
+  "Folder unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Folder tidak tersedia"
+  },
+  "Folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "folder yang"
+  },
+  "Folders you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "folder yang anda buka akan muncul di sini."
+  },
+  "Font": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tuliskan"
+  },
+  "Font and material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Font dan bahan"
+  },
+  "Forget saved": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lupa selamatkan"
+  },
+  "Format": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Format"
+  },
+  "Format drive in Disk Utility…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Format drive dalam Disk Utility ..."
+  },
+  "Forward": {
+    "origin": "Files:Forward",
+    "text": "Ke Depan"
+  },
+  "Forward · ⌘]": {
+    "origin": "Files:Forward",
+    "text": "Ke Depan · ⌘]"
+  },
+  "Fragmented media metadata cannot be edited without remuxing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Metadata media yang dipecah tidak boleh diedit tanpa remuxing."
+  },
+  "Gallery": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Galeri"
+  },
+  "Gallery layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gambaran keseluruhan Layout"
+  },
+  "General": {
+    "origin": "Files:General",
+    "text": "Umum"
+  },
+  "Git operation in %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git Operasi dalam %1$@"
+  },
+  "Git repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git Penyimpanan"
+  },
+  "Git repository…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git Penyimpanan ..."
+  },
+  "GitHub account": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Akaun GitHub"
+  },
+  "GitHub username": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nama Pengguna GitHub"
+  },
+  "Go to path": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pergi ke laluan"
+  },
+  "Go to path…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pergi ke laluan..."
+  },
+  "Gray": {
+    "origin": "Files:Gray",
+    "text": "Kelabu"
+  },
+  "Green": {
+    "origin": "Files:Green",
+    "text": "Hijau"
+  },
+  "Group": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kumpulan"
+  },
+  "Group GID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kumpulan GID"
+  },
+  "Group ascending": {
+    "origin": "Files:GroupAscendingDescription",
+    "text": "Sort groups in ascending order"
+  },
+  "Group by": {
+    "origin": "Files:GroupBy",
+    "text": "Kumpul ikut"
+  },
+  "Group by date unit": {
+    "origin": "Files:GroupByDateUnit",
+    "text": "Group by date unit"
+  },
+  "HTTPS Git operations can use a GitHub access token stored in your macOS Keychain. Choose the repositories and permissions when creating the token. Existing Git authentication remains in use when no MacFiles account is saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "HTTPS Git operasi boleh menggunakan token akses GitHub yang disimpan dalam anda macOS Keychain. Pilih repositori dan keizinan apabila mencipta token. Git pengesahan tetap digunakan apabila tidak MacFiles Akaun telah disimpan."
+  },
+  "Hard Link": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hubungan keras"
+  },
+  "Hashes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hashemah"
+  },
+  "Hashes are available for a single file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hashes boleh didapati untuk satu fail."
+  },
+  "Header": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "tajuk"
+  },
+  "Help": {
+    "origin": "Files:Help",
+    "text": "Bantuan"
+  },
+  "Hidden": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "tersembunyi"
+  },
+  "Hidden files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "fail tersembunyi"
+  },
+  "History": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sejarah"
+  },
+  "Home": {
+    "origin": "Files:Key.Home",
+    "text": "Rumah"
+  },
+  "Horizontal alignment": {
+    "origin": "Files:HorizontalAlignment",
+    "text": "Penjajaran mendatar"
+  },
+  "IDE opened.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "IDE telah dibuka"
+  },
+  "Icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ikon yang"
+  },
+  "Icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ikon yang"
+  },
+  "Icons layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ikon Layout"
+  },
+  "Image alignment": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "imej penyesuaian"
+  },
+  "Image fit": {
+    "origin": "Files:ImageFit",
+    "text": "Padanan imej"
+  },
+  "Import theme…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perbincangan import..."
+  },
+  "Imported. Apply to save.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Permohonan untuk disimpan."
+  },
+  "Import…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pengimportan ..."
+  },
+  "Incomplete archive listing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Senarai arkib yang tidak lengkap."
+  },
+  "Increase size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Meningkatkan saiz"
+  },
+  "Indexed document, image, audio, video and filesystem metadata supplied by Spotlight. Tags can be edited with the Tags tool.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dokumen indeks, imej, audio, video dan metadata sistem fail yang disediakan oleh SpotlightTag boleh diedit dengan alat tag."
+  },
+  "Indexed files updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "fail indeks yang dikemas kini."
+  },
+  "Initialize": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Inisiatif"
+  },
+  "Initialize repository here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Memulakan repository di sini"
+  },
+  "Install certificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "Install certificate"
+  },
+  "Install font": {
+    "origin": "Files:InstallFont",
+    "text": "Install font"
+  },
+  "InstallCertificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "Install certificate"
+  },
+  "InstallFont": {
+    "origin": "Files:InstallFont",
+    "text": "Install font"
+  },
+  "Interval in seconds": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perbezaan dalam detik"
+  },
+  "Invalid Base64 data.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Data Base64 yang tidak sah."
+  },
+  "Invalid SSH host or port.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid SSH pelabuhan atau pelabuhan."
+  },
+  "Invalid archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid arkib hard link."
+  },
+  "Invalid archive link target.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid link sasaran."
+  },
+  "Invalid extended media atom.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid meluaskan atom media."
+  },
+  "Invalid hard link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hubungan keras yang tidak sah."
+  },
+  "Invalid key for %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "kekurangan kunci untuk %1$@."
+  },
+  "Invalid macOS ACL text. Preserve the !#acl 1 header and use valid entries.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid macOS ACL Simpan tajuk !#acl 1 dan gunakan entri yang sah."
+  },
+  "Invalid media atom header.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid media atom tajuk."
+  },
+  "Invalid media atom size.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Saiz atom media yang tidak sah."
+  },
+  "Invalid media atom.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Media yang terjejas atom."
+  },
+  "Invalid media file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "fail media yang tidak sah."
+  },
+  "Invalid name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nama Invalid"
+  },
+  "Invalid remote URL.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "URL jauh yang tidak sah"
+  },
+  "Invalid settings document.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dokumen penyelesaian yang tidak sah."
+  },
+  "Invalid tag metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mengurangkan data metadata."
+  },
+  "Invalid tag name or color.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nama atau warna tag yang tidak sah."
+  },
+  "Invalid theme colors or appearance.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Warna tema yang tidak sah atau penampilan."
+  },
+  "Invalid volume size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Jumlah Invalid Volume"
+  },
+  "Invert selection": {
+    "origin": "Files:InvertSelection",
+    "text": "Terbalikkan pilihan"
+  },
+  "Item properties": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Item Properti"
+  },
+  "Items move into .MacFiles-Recovery on this server, including folder contents. Use Undo remote to restore them during this session.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Item bergerak ke dalam .MacFiles-Recovery pada pelayan ini, termasuk kandungan folder. gunakan Undo remote untuk memulihkannya semasa sesi ini."
+  },
+  "Keep MacFiles open": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "teruskan MacFiles Buka"
+  },
+  "Keep both": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pastikan kedua"
+  },
+  "Keep both creates numbered names. Replace moves previous versions to Trash and supports Undo. Folders are replaced as a whole.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pastikan kedua-duanya mencipta nama yang terhitung. penggantian memindahkan versi terdahulu ke Trash dan menyokong Undo. folder digantikan secara keseluruhan."
+  },
+  "Keep running after closing windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Berhenti beroperasi selepas menutup tetingkap"
+  },
+  "Keep window on top": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tetapkan tetingkap di atas"
+  },
+  "Keyboard shortcuts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Keyboard Pendek"
+  },
+  "Keyboard shortcuts…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Keyboard yang singkat..."
+  },
+  "Keywords (comma separated)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kata Kunci (seperti yang terpisah)"
+  },
+  "Kind": {
+    "origin": "Files:Type",
+    "text": "Jenis"
+  },
+  "Label": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Label"
+  },
+  "Language": {
+    "origin": "Files:PropertyLanguage",
+    "text": "Bahasa"
+  },
+  "Large icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ikon yang besar"
+  },
+  "Launch at login": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Permulaan dalam login"
+  },
+  "Layout": {
+    "origin": "Files:Layout",
+    "text": "Susun atur"
+  },
+  "Left": {
+    "origin": "Files:Left",
+    "text": "Kiri"
+  },
+  "Let the current operation finish before quitting.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Biarkan operasi semasa selesai sebelum berundur."
+  },
+  "Libraries": {
+    "origin": "Files:SidebarLibraries",
+    "text": "Pusaka"
+  },
+  "Library": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perpustakaan"
+  },
+  "Library name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nama Perpustakaan"
+  },
+  "Library properties…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perpustakaan hartanah ..."
+  },
+  "Library/Application Support/MacFiles/known_hosts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perpustakaan / Sokongan AplikasiMacFilesPenghuni / Penghuni"
+  },
+  "Library/Mobile Documents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perpustakaan / Dokumen Mobile"
+  },
+  "Library/Mobile Documents/com~apple~CloudDocs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perpustakaan/Dokumen mudah alih/com~apple~CloudDocs"
+  },
+  "Light": {
+    "origin": "Files:LightTheme",
+    "text": "Cerah"
+  },
+  "Link target": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Link Target"
+  },
+  "List": {
+    "origin": "Files:List",
+    "text": "Senarai"
+  },
+  "List folders before files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Senarai folder sebelum fail"
+  },
+  "Loading…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pengangkutan..."
+  },
+  "Local": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lokasi"
+  },
+  "Local download removal requested.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Download tempatan dikehendaki."
+  },
+  "Local file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "fail tempatan"
+  },
+  "Location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lokasi"
+  },
+  "Lock screen and wallpaper settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menutup skrin dan tetapan wallpaper ..."
+  },
+  "Locked": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "tertutup"
+  },
+  "Macintosh HD": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Macintosh dalam HD"
+  },
+  "Make alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Maklumkan kepada Alias"
+  },
+  "Make alias…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Berikan alias..."
+  },
+  "Manage account in provider app": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menguruskan akaun dalam aplikasi pembekal"
+  },
+  "Manage cloud accounts…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menguruskan akaun awan ..."
+  },
+  "Manage tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pengurusan Tag"
+  },
+  "Maximum bytes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bayaran maksimum"
+  },
+  "Media export did not complete.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Eksport media tidak selesai."
+  },
+  "Media metadata is too large.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Metadata media terlalu besar."
+  },
+  "Medium icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ikon yang sederhana"
+  },
+  "Minimize": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Minimum"
+  },
+  "Minimum bytes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bayaran Minimum"
+  },
+  "Minimum size exceeds maximum size.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ukuran minimum melebihi saiz maksimum"
+  },
+  "Mode": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mod yang"
+  },
+  "Modified": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perubahan"
+  },
+  "Modified after": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "berubah selepas"
+  },
+  "Month": {
+    "origin": "Files:Month",
+    "text": "Month"
+  },
+  "More actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lebih banyak tindakan"
+  },
+  "Mount share…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gunung berkongsi ..."
+  },
+  "Mounted network locations appear here. Connect to a server to browse another location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lokasi rangkaian yang dipasang muncul di sini.Sambung ke pelayan untuk melayari lokasi lain."
+  },
+  "Move %1$@ remote items to recovery?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "bergerak %1$@ objek jauh untuk pemulihan?"
+  },
+  "Move %1$@ to Trash?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "bergerak %1$@ untuk menghancurkan?"
+  },
+  "Move here": {
+    "origin": "Files:PinToSidebarByDraggingCaptionText",
+    "text": "Alih ke sini"
+  },
+  "Move nested files to this folder. Existing names and symbolic links are left in place. Empty subfolders go to Trash. You can undo this operation.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Memindahkan fail-fail yang ditarik ke folder ini. nama-nama dan pautan simbolik yang sedia ada ditinggalkan di tempat. subfolders kosong pergi ke Trash. anda boleh undo operasi ini."
+  },
+  "Move to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bergerak untuk menghancurkan"
+  },
+  "Move to Trash…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bergerak untuk melarikan diri..."
+  },
+  "Move to recovery": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bergerak untuk pemulihan"
+  },
+  "Move to recovery folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bergerak ke folder pemulihan ..."
+  },
+  "Movies": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "filem"
+  },
+  "Moving": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "bergerak"
+  },
+  "Moving files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "fail bergerak"
+  },
+  "Moving to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bergerak ke Trash"
+  },
+  "Multiple items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "pelbagai item"
+  },
+  "Music": {
+    "origin": "Files:Music",
+    "text": "Muzik"
+  },
+  "My MacFiles theme": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "saya MacFiles Tema"
+  },
+  "My library": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perpustakaan saya"
+  },
+  "My search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pencarian saya"
+  },
+  "Name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nama"
+  },
+  "Native macOS extended attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Orang asli macOS Attribut yang diperluaskan"
+  },
+  "Natural language search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pencarian Bahasa Semulajadi"
+  },
+  "Navigate": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "navigasi"
+  },
+  "Network": {
+    "origin": "Files:Network",
+    "text": "Rangkaian"
+  },
+  "New": {
+    "origin": "Files:BaseLayoutContextFlyoutNew.Label",
+    "text": "Baru"
+  },
+  "New archive file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "fail arkib baru"
+  },
+  "New archive folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arkib folder baru"
+  },
+  "New branch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bahagian baru"
+  },
+  "New file from template": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Fail baru daripada template"
+  },
+  "New folder": {
+    "origin": "Files:NewFolder",
+    "text": "Folder baharu"
+  },
+  "New folder…": {
+    "origin": "Files:NewFolder",
+    "text": "Folder baharu"
+  },
+  "New from template": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Baru daripada Template"
+  },
+  "New from template…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Baru daripada Template"
+  },
+  "New name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nama baru"
+  },
+  "New remote file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Fail Remote baru"
+  },
+  "New remote folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "folder jauh baru"
+  },
+  "New tab": {
+    "origin": "Files:NewTab",
+    "text": "Tab baharu"
+  },
+  "New tab · ⌘T": {
+    "origin": "Files:NewTab",
+    "text": "Tab baharu · ⌘T"
+  },
+  "New text file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "fail teks baru"
+  },
+  "New text file…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "fail teks baru ..."
+  },
+  "New window": {
+    "origin": "Files:NewWindow",
+    "text": "Tetingkap baharu"
+  },
+  "Next layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Layout seterusnya"
+  },
+  "Next tab": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag berikutnya tab"
+  },
+  "No": {
+    "origin": "Files:No",
+    "text": "Tidak"
+  },
+  "No IDE selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tiada IDE yang dipilih"
+  },
+  "No application could open ‘%1$@’.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tiada permohonan boleh dibuka\"%1$@’."
+  },
+  "No archive entry was extracted.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tiada kemasukan arkib telah dikeluarkan."
+  },
+  "No archive is open.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tiada arkib yang terbuka."
+  },
+  "No archive was produced.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tiada arkib yang dihasilkan."
+  },
+  "No commits yet": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tiada komitmen lagi"
+  },
+  "No files were extracted.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tiada fail yang dikeluarkan."
+  },
+  "No matching items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tiada item yang sesuai"
+  },
+  "No movie header was found.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tiada tajuk filem ditemui."
+  },
+  "No operations recorded.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tiada operasi yang dicatatkan."
+  },
+  "No readable macOS code signature.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak boleh dibaca macOS Kod penandatanganan\n\n"
+  },
+  "No selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tiada pemilihan"
+  },
+  "No settings match your search.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tiada seting yang sepadan dengan carian anda."
+  },
+  "No tracked diff. New files appear after staging.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tiada pengesanan diff. fail baru muncul selepas barisan."
+  },
+  "None": {
+    "origin": "Files:CompressionLevelNone",
+    "text": "Tiada"
+  },
+  "Not enough free space to finish extraction.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tiada ruang percuma yang mencukupi untuk menyelesaikan ekstraksi."
+  },
+  "Not managed by a detected cloud provider": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak dikendalikan oleh penyedia awan yang dideteksi"
+  },
+  "Not used": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak digunakan"
+  },
+  "Numbered names": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nombor nama"
+  },
+  "OK": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "OK"
+  },
+  "Older": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "tua"
+  },
+  "Online only": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Online sahaja"
+  },
+  "Only an uploaded iCloud file without conflicts can have its local download removed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hanya satu yang diunggah iCloud fail tanpa konflik boleh mempunyai muat turun tempatan dihapuskan."
+  },
+  "Only images can be rotated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hanya imej sahaja yang boleh diputar."
+  },
+  "Open": {
+    "origin": "Files:Open",
+    "text": "Buka"
+  },
+  "Open / Preview": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perbincangan / Preview"
+  },
+  "Open Login Items settings": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pembukaan Log Item Seting"
+  },
+  "Open MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Buka MacFiles"
+  },
+  "Open System Settings for iCloud": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Seting Sistem Terbuka untuk iCloud"
+  },
+  "Open a repository, initialize this folder, or clone a repository.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Buka repositori, inisialisasikan folder ini, atau klon repositori."
+  },
+  "Open all folders in tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Buka semua folder dalam tab"
+  },
+  "Open containing folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Membuka folder yang mengandungi"
+  },
+  "Open external folders in new windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Membuka folder luaran dalam tetingkap baru"
+  },
+  "Open file location": {
+    "origin": "Files:OpenFileLocation",
+    "text": "Buka lokasi fail"
+  },
+  "Open folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pembukaan folder"
+  },
+  "Open folders in new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Membuka folder dalam tab baru"
+  },
+  "Open folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "folder terbuka ..."
+  },
+  "Open in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Terbuka di IDE"
+  },
+  "Open in IDE uses the selected application. Open repository in IDE resolves the Git repository root first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open in IDE menggunakan aplikasi yang dipilih. repositori terbuka dalam IDE menyelesaikan Git Reka bentuk root terlebih dahulu."
+  },
+  "Open in Terminal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Terbuka di Terminal"
+  },
+  "Open in new tab": {
+    "origin": "Files:OpenInNewTab",
+    "text": "Buka dalam tab baharu"
+  },
+  "Open in new window": {
+    "origin": "Files:OpenInNewWindow",
+    "text": "Buka dalam tetingkap baharu"
+  },
+  "Open in other pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Terbuka di Pan yang lain"
+  },
+  "Open log file": {
+    "origin": "Files:OpenLogFile",
+    "text": "Open log file"
+  },
+  "Open new tabs with dual panes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Buka tab baru dengan double panes"
+  },
+  "Open repository in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Penyimpanan Terbuka dalam IDE"
+  },
+  "Open selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pilihan Terbuka"
+  },
+  "Open target folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pembukaan folder sasaran"
+  },
+  "Open with": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Terbuka dengan"
+  },
+  "Open with application": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Terbuka dengan Permohonan"
+  },
+  "Open with application…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Terbuka dengan permohonan..."
+  },
+  "Open with…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Terbuka dengan..."
+  },
+  "Open-ended media atoms require remuxing before editing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atom media terbuka memerlukan remuxing sebelum editing."
+  },
+  "OpenAllTaggedItems": {
+    "origin": "Files:OpenAllTaggedItems",
+    "text": "Open all"
+  },
+  "OpenLogFile": {
+    "origin": "Files:OpenLogFile",
+    "text": "Open log file"
+  },
+  "Operation completed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Operasi telah selesai."
+  },
+  "Operation failed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Operasi gagal"
+  },
+  "Operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Operasi"
+  },
+  "Operations (%1$@ queued)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pengurusan (%1$@ yang dikurniakan)"
+  },
+  "Operations…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Operasi ..."
+  },
+  "Orange": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "buah oranye"
+  },
+  "Original location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lokasi asal"
+  },
+  "Original locations are remembered for items deleted by MacFiles, including across launches.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lokasi asal diingati untuk item yang dipadamkan oleh MacFilestermasuk dalam pelancaran."
+  },
+  "Original name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nama Asli"
+  },
+  "Overcast": {
+    "origin": "Files:Overcast",
+    "text": "Mendung"
+  },
+  "Owner": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pemilik"
+  },
+  "Owner UID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pemilik UID"
+  },
+  "Ownership updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pemilikan telah dikemaskini."
+  },
+  "POSIX permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "POSIX Permohonan"
+  },
+  "Password": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "kata laluan"
+  },
+  "Password (optional, AES-256)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kata laluan (pilihan, AES-256)"
+  },
+  "Password / key passphrase (optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kata laluan / kata laluan kunci (pilihan)"
+  },
+  "Password protection is supported for ZIP archives.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perlindungan kata laluan disokong untuk ZIP dan arkib."
+  },
+  "Paste": {
+    "origin": "Files:Paste",
+    "text": "Tampal"
+  },
+  "Paste and drop transfers queue behind the current operation. Completed changes remain available through Undo. Copy cancellation stops the staged transfer before publishing it. Undo history is restored across launches.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Paste dan drop transfers rangkaian di belakang operasi semasa. perubahan selesai kekal tersedia melalui Undo. pembatalan salinan menghentikan transfers yang telah dipindahkan sebelum menerbitkannya. sejarah Undo dikembalikan di sepanjang pelancaran."
+  },
+  "Paste files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menyimpan fail"
+  },
+  "Paste shortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "Tampal pintasan"
+  },
+  "Paste the files into a permanent folder before creating aliases to them.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Masukkan fail ke dalam folder kekal sebelum mencipta aloi untuk mereka."
+  },
+  "PasteItemToSelectionDescription": {
+    "origin": "Files:PasteItemToSelectionDescription",
+    "text": "Paste items to the selected folder"
+  },
+  "PasteShortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "Tampal pintasan"
+  },
+  "Path": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Jalan"
+  },
+  "Pattern": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pattern yang"
+  },
+  "Permanently delete %1$@ items?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Permanen dihapuskan %1$@ Perkara yang ?"
+  },
+  "Permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Permohonan"
+  },
+  "Permissions are enforced by the server. FTP servers must support SITE CHMOD; SFTP uses SSH permissions.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Permohonan diluluskan oleh pelayan. FTP Pelayan perlu menyokong SITE CHMOD; SFTP Penggunaan SSH Permohonan yang"
+  },
+  "Permissions are stored in the archive. Changes rebuild it and support Undo.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Permohonan disimpan dalam arkib. perubahan membina semula dan menyokong Undo."
+  },
+  "Permissions updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Permohonan yang dikemaskini."
+  },
+  "Permissions…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Permohonan..."
+  },
+  "Pick up where you left off": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pilih di mana anda meninggalkan"
+  },
+  "Pictures": {
+    "origin": "Files:Pictures",
+    "text": "Gambar"
+  },
+  "Pin this folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pin folder ini"
+  },
+  "Pin to sidebar": {
+    "origin": "Files:PinFolderToSidebar",
+    "text": "Semat ke Bar Sisi"
+  },
+  "Pinned": {
+    "origin": "Files:Pinned",
+    "text": "Disemat"
+  },
+  "Pinned folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "folder yang dipaparkan"
+  },
+  "Play All": {
+    "origin": "Files:PlayAll",
+    "text": "Play All"
+  },
+  "PlayAll": {
+    "origin": "Files:PlayAll",
+    "text": "Play All"
+  },
+  "Port": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pelabuhan"
+  },
+  "Preparing copy": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Persiapan copy"
+  },
+  "Preparing move": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Persiapan Pergerakan"
+  },
+  "Presentation is saved with this virtual location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Persembahan disimpan dengan lokasi maya ini."
+  },
+  "Press the shortcut…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tekan singkatan..."
+  },
+  "Preview": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Persiapan"
+  },
+  "Previous layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Layout terdahulu"
+  },
+  "Previous tab": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tabu yang lepas"
+  },
+  "Properties": {
+    "origin": "Files:OpenProperties",
+    "text": "Sifat"
+  },
+  "Properties…": {
+    "origin": "Files:OpenProperties",
+    "text": "Sifat"
+  },
+  "Property": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "hartanah"
+  },
+  "Protocol": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Protokol"
+  },
+  "Provider controls in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pembekal mengawal dalam Finder"
+  },
+  "Pull": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pull yang"
+  },
+  "Purple": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Purple yang"
+  },
+  "Push": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tembakan"
+  },
+  "Queued": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "yang dikehendaki"
+  },
+  "Quick access": {
+    "origin": "Files:QuickAccess",
+    "text": "Akses pantas"
+  },
+  "Quit MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "keluar MacFiles"
+  },
+  "Readable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "boleh dibaca"
+  },
+  "Recent files": {
+    "origin": "Files:RecentFiles",
+    "text": "Fail terkini"
+  },
+  "Recent folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "folder terkini"
+  },
+  "Reconnect to the same server and account, then retry Undo. The remote recovery data remains in .MacFiles-Recovery.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sambungkan semula ke pelayan dan akaun yang sama, kemudian retry Undo. data pemulihan jauh kekal dalam .MacFiles-Recovery."
+  },
+  "Record shortcut": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rekod Pendek"
+  },
+  "Red": {
+    "origin": "Files:Red",
+    "text": "Merah"
+  },
+  "Redo": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Reka bentuk"
+  },
+  "Redo file operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kegunaan File Operasi"
+  },
+  "Redoing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mengurangkan"
+  },
+  "Refresh": {
+    "origin": "Files:Refresh",
+    "text": "Segar semula"
+  },
+  "Refresh · ⌘R": {
+    "origin": "Files:Refresh",
+    "text": "Segar semula · ⌘R"
+  },
+  "Regular expression": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ekspresi yang kerap"
+  },
+  "Release notes": {
+    "origin": "Files:ReleaseNotes",
+    "text": "Release Notes"
+  },
+  "Reload": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tembakan"
+  },
+  "Remember password in Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ingat kata laluan dalam Keychain"
+  },
+  "Remote operation on %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Operasi jarak jauh di %1$@"
+  },
+  "Remote path": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Jalan Jarak Jauh"
+  },
+  "Remote paths cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Laluan jarak jauh tidak boleh mengandungi garis pecah atau NUL kepada watak."
+  },
+  "Remotes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menjauhkan"
+  },
+  "Remove": {
+    "origin": "Files:Remove",
+    "text": "Alih keluar"
+  },
+  "Remove attribute…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menghapuskan atribut ..."
+  },
+  "Remove background image": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menghilangkan imej latar belakang"
+  },
+  "Remove download": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menghapuskan download"
+  },
+  "Remove entries…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menghapuskan entri ..."
+  },
+  "Remove from archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menghapus daripada arkib"
+  },
+  "Remove library": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menghapuskan perpustakaan"
+  },
+  "Remove local download…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menghapuskan download tempatan ..."
+  },
+  "Remove references": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menghapuskan rujukan"
+  },
+  "Remove saved credentials": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menghapuskan pengesahan yang disimpan"
+  },
+  "Remove saved folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menghapuskan folder yang disimpan"
+  },
+  "Remove saved search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menghapuskan carian yang disimpan"
+  },
+  "Remove selected entries from the archive?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menghapuskan entri yang dipilih daripada arkib?"
+  },
+  "Remove tags": {
+    "origin": "Files:RemoveTags",
+    "text": "Remove tags"
+  },
+  "Remove the local download?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menghapuskan download tempatan?"
+  },
+  "Remove ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menghapus »%1$@’?"
+  },
+  "RemoveTags": {
+    "origin": "Files:RemoveTags",
+    "text": "Remove tags"
+  },
+  "Removing tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menghapus tag"
+  },
+  "Rename": {
+    "origin": "Files:Rename",
+    "text": "Namakan semula"
+  },
+  "Rename %1$@ items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Namakan semula %1$@ item"
+  },
+  "Rename archive entry": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag: nama arkib masuk"
+  },
+  "Rename entry…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nama masuk ..."
+  },
+  "Rename failed. Your item is preserved at %1$@. %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rename gagal. item anda disimpan di %1$@. %2$@"
+  },
+  "Rename remote item": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rujukan item jauh"
+  },
+  "Rename…": {
+    "origin": "Files:Rename",
+    "text": "Namakan semula"
+  },
+  "Renaming": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Penggantian"
+  },
+  "Renaming items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Penggantian item"
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Finder uses the macOS palette; custom colors and stable IDs are retained by MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menukar atau memadamkan fail kemas kini tag yang disimpan yang ditemui oleh SpotlightFail yang tidak disenaraikan atau tidak boleh diakses boleh mengekalkan tag lama. Finder Menggunakan yang macOS palet; warna tersuai dan ID stabil disimpan oleh MacFiles."
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Tag colors use the macOS palette.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menukar atau memadamkan fail kemas kini tag yang disimpan yang ditemui oleh Spotlight. fail yang tidak disenaraikan atau tidak boleh diakses boleh mengekalkan tag lama. macOS Palet yang"
+  },
+  "Reopen closed tab": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Membuka semula tab tertutup"
+  },
+  "Replace": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Penggantian"
+  },
+  "Replace this item's ACL?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menggantikan item ini ACL?"
+  },
+  "Replace with": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menggantikan dengan"
+  },
+  "Replace, keeping backup": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menggantikan, mengekalkan sandaran"
+  },
+  "Report an issue": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "melaporkan masalah"
+  },
+  "Repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Penyimpanan"
+  },
+  "Repository URL": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Penyimpanan URL"
+  },
+  "Requesting cloud download": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Permintaan untuk Cloud Download"
+  },
+  "Reset": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kembali ke"
+  },
+  "Reset all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kembalikan semua"
+  },
+  "Reset icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Penghantaran Icon"
+  },
+  "Reset pinned folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mengembalikan folder yang dilapisi"
+  },
+  "Restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mulakan semula MacFiles"
+  },
+  "Restore all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kembalikan semua"
+  },
+  "Restore command defaults": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Memulihkan kekurangan perintah"
+  },
+  "Restore here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Restorasi di sini"
+  },
+  "Restore original location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Memulihkan lokasi asal"
+  },
+  "Restore previous folder viewer": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Memulihkan folder Viewer terdahulu"
+  },
+  "Restore tabs at launch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Memulihkan tab pada pelancaran"
+  },
+  "Restore to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kembalikan kepada..."
+  },
+  "Restoring from Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pengembalian daripada Trash"
+  },
+  "Results come from the macOS Spotlight index. Unindexed folders are not included.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hasilnya berasal daripada macOS Spotlight Indeks. folder yang tidak disenaraikan tidak termasuk."
+  },
+  "Results in this folder and subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hasil dalam folder ini dan subfolders"
+  },
+  "Retargeting shortcut": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pengurangan Shortcut"
+  },
+  "Retarget…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Keterlambatan..."
+  },
+  "Reveal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kegagalan"
+  },
+  "Reveal in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Terungkap dalam Finder"
+  },
+  "Reverse tab scroll direction": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menukar arah tab scroll"
+  },
+  "Review server fingerprint…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perbincangan jari server..."
+  },
+  "Right": {
+    "origin": "Files:Right",
+    "text": "Kanan"
+  },
+  "Rotate left": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kiri Rotasi"
+  },
+  "Rotate right": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bergerak kanan"
+  },
+  "Rotating left": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kiri berputar"
+  },
+  "Rotating right": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Berbalik ke kanan"
+  },
+  "Running": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Berlari"
+  },
+  "SFTP (SSH keys)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SFTP (SSH Kunci )"
+  },
+  "SMB, AFP, or WebDAV share": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SMB, AFPatau WebDAV Kongsi"
+  },
+  "SSH known-host verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH Pengesahan Host"
+  },
+  "SSH passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH kata laluan tidak boleh mengandungi garis pecah atau NUL kepada watak."
+  },
+  "Save": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "menyelamatkan"
+  },
+  "Save attribute": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menyelamatkan atribut"
+  },
+  "Save folder layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menyelamatkan folder layout"
+  },
+  "Save metadata": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menyelamatkan Metadata"
+  },
+  "Save search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menyelamatkan carian"
+  },
+  "Save search…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menyelamatkan pencarian ..."
+  },
+  "Save to Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "menyelamatkan kepada Keychain"
+  },
+  "Saved connections": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Penyimpanan sambungan"
+  },
+  "Saved searches": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pencarian yang diselamatkan"
+  },
+  "Saved. The token will be used for GitHub HTTPS operations.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Token ini akan digunakan untuk operasi GitHub HTTPS."
+  },
+  "Seafoam": {
+    "origin": "Files:Seafoam",
+    "text": "Buih Laut"
+  },
+  "Search": {
+    "origin": "Files:Key.BrowserSearch",
+    "text": "Cari"
+  },
+  "Search %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cari %1$@"
+  },
+  "Search %1$@ · Return searches subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cari %1$@ · Kembali mencari subfolders"
+  },
+  "Search available actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mencari tindakan yang tersedia"
+  },
+  "Search commands": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perintah Pencarian"
+  },
+  "Search folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pencarian folder"
+  },
+  "Search settings": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pencarian seting"
+  },
+  "Search stopped.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pencarian telah berhenti."
+  },
+  "Search subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pencarian Subfolders"
+  },
+  "Security": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Keselamatan"
+  },
+  "Select": {
+    "origin": "Files:NavToolbarSelectionOptions.Label",
+    "text": "Pilih"
+  },
+  "Select a file to view its diff.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pilih fail untuk melihat diff."
+  },
+  "Select a macOS alias or symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pilih A macOS Alias atau pautan simbolik"
+  },
+  "Select a regular media file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pilih fail media biasa."
+  },
+  "Select all": {
+    "origin": "Files:SelectAll",
+    "text": "Pilih semua"
+  },
+  "Select an archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pilih sebuah arkib"
+  },
+  "Select an item to see its details.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pilih item untuk melihat butiran."
+  },
+  "Select archive entries to remove.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pilih entri arkib untuk dihapuskan."
+  },
+  "Select on hover": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pilih di Hover"
+  },
+  "Select previous folder when navigating up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pilih folder terdahulu apabila melayari"
+  },
+  "Select uniquely named items to archive.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pilih item yang dinamakan secara unik untuk arkib."
+  },
+  "Selected items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "item yang dipilih"
+  },
+  "Selected items have duplicate names. Archive them separately.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Item yang dipilih mempunyai nama duplikat. arkib mereka secara berasingan."
+  },
+  "Selection checkboxes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pilihan kotak semak"
+  },
+  "Separate file and folder counts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Fail dan folder terpisah mengira"
+  },
+  "Separator": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pembahagian"
+  },
+  "Server": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pelayan"
+  },
+  "Set as app background": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "Tetapkan sebagai latar belakang aplikasi"
+  },
+  "Set as wallpaper": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Set sebagai wallpaper"
+  },
+  "Set default": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Set kekurangan"
+  },
+  "SetAsAppBackground": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "Tetapkan sebagai latar belakang aplikasi"
+  },
+  "Settings": {
+    "origin": "Files:Settings",
+    "text": "Tetapan"
+  },
+  "Settings file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pengaturan fail"
+  },
+  "Settings saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Seting telah disimpan."
+  },
+  "Settings…": {
+    "origin": "Files:Settings",
+    "text": "Tetapan"
+  },
+  "Share": {
+    "origin": "Files:Share",
+    "text": "Kongsi"
+  },
+  "Share…": {
+    "origin": "Files:Share",
+    "text": "Kongsi"
+  },
+  "Shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "shelf"
+  },
+  "Shortcut": {
+    "origin": "Files:Shortcut",
+    "text": "Pintasan"
+  },
+  "Shortcuts apply in the explorer. Text fields keep native editing behavior. Resolve duplicate assignments before applying.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Shortcuts digunakan dalam Explorer. medan teks mengekalkan tingkah laku pengeditan asli. menyelesaikan tugas duplikat sebelum memohon."
+  },
+  "Show dotfiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tunjukkan Dotfiles"
+  },
+  "Show hidden files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tunjukkan fail tersembunyi"
+  },
+  "Show in folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tunjukkan dalam folder"
+  },
+  "Show log in folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tunjukkan log dalam folder"
+  },
+  "Show menu bar icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menunjukkan menu bar icon"
+  },
+  "Show package contents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tunjukkan pakej kandungan"
+  },
+  "Show shelf button": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tunjukkan butang shelf"
+  },
+  "Show staged diff": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perbincangan di diff"
+  },
+  "Show status bar": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menunjukkan status bar"
+  },
+  "Show tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tunjukkan tindakan tab"
+  },
+  "Show thumbnails": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tunjukkan miniatur"
+  },
+  "ShowFileExtensions": {
+    "origin": "Files:ShowFileExtensions",
+    "text": "File extensions"
+  },
+  "Sidebar": {
+    "origin": "Files:Sidebar",
+    "text": "Sidebar"
+  },
+  "Signature": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Penandatanganan"
+  },
+  "Signature integrity verification failed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pengesahan integriti tandatangan gagal."
+  },
+  "Signature integrity verified. This does not constitute a notarization or malware assessment.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Integriti tandatangan disahkan. ini tidak mewakili notarisasi atau penilaian malware."
+  },
+  "Signatures": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tandatangan"
+  },
+  "Single file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "fail tunggal"
+  },
+  "Single folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "folder tunggal"
+  },
+  "Single-click columns": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kolom klik tunggal"
+  },
+  "Single-click files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "fail klik tunggal"
+  },
+  "Single-click folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pendaftaran Single-Click"
+  },
+  "Size": {
+    "origin": "Files:SizeLabel",
+    "text": "Saiz:"
+  },
+  "Size units": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Jumlah unit"
+  },
+  "Skip": {
+    "origin": "Files:Skip",
+    "text": "Langkau"
+  },
+  "Skip existing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Skrip yang wujud"
+  },
+  "Small icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ikon Kecil"
+  },
+  "Smooth scrolling": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perkataan Smooth Scrolling"
+  },
+  "Solid": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kekuatan"
+  },
+  "Some files could not be updated. The saved tag was retained so you can retry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sesetengah fail tidak boleh dikemas kini. tag disimpan sehingga anda boleh menarik balik."
+  },
+  "Some items could not be read.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Beberapa item tidak boleh dibaca."
+  },
+  "Some items couldn’t be completed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Beberapa item tidak boleh selesai"
+  },
+  "Some items have no recorded original location. Select them and use Restore to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sesetengah item tidak mempunyai lokasi asal yang disenaraikan. pilih mereka dan gunakan Restore untuk..."
+  },
+  "Sort": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Berwarna"
+  },
+  "Sort by": {
+    "origin": "Files:SortBy",
+    "text": "Isih ikut"
+  },
+  "SortFilesAndFoldersTogether": {
+    "origin": "Files:SortFilesAndFoldersTogether",
+    "text": "Isih fail dan folder bersama"
+  },
+  "SortFilesFirst": {
+    "origin": "Files:SortFilesFirst",
+    "text": "Isih fail dahulu"
+  },
+  "SortFoldersFirst": {
+    "origin": "Files:SortFoldersFirst",
+    "text": "Isih folder dahulu"
+  },
+  "Source code": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kod sumber"
+  },
+  "Special device entries cannot be extracted: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kemasukan peranti khas tidak boleh dikeluarkan: %1$@"
+  },
+  "Split archives use ZIP or 7z format.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Penggunaan Arkib Berpecah ZIP atau 7z dalam format."
+  },
+  "Split into volumes (MiB, optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Membahagikan kepada volum (MiB, opsional)"
+  },
+  "Stage all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tahap Semua"
+  },
+  "Stage selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tahap yang dipilih"
+  },
+  "Staged all changes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tamat tempoh semua perubahan"
+  },
+  "Staged selected files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Filem yang dipilih"
+  },
+  "Start": {
+    "origin": "Files:Start",
+    "text": "Start"
+  },
+  "Start folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Memulakan folder"
+  },
+  "Startup": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Permulaan"
+  },
+  "Startup and tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup dan Tab"
+  },
+  "Startup folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Permulaan folder"
+  },
+  "Startup folders are used when session restoration is disabled. An empty list opens Home.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "folder permulaan digunakan apabila pemulihan sesi disekat. senarai kosong membuka Home."
+  },
+  "Status": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Status"
+  },
+  "Stop": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Berhenti"
+  },
+  "Stopped before the next item. Completed items were kept.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Berhenti sebelum item seterusnya. item selesai disimpan."
+  },
+  "Storage settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pengaturan penyimpanan ..."
+  },
+  "Storm": {
+    "origin": "Files:Storm",
+    "text": "Ribut"
+  },
+  "Stretch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Stretch"
+  },
+  "Switch to new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tukar kepada tab baru"
+  },
+  "Switched to %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tukar kepada %1$@"
+  },
+  "Symbolic Link": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sambungan Simbolik"
+  },
+  "Symbolic link": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sambungan Simbolik"
+  },
+  "Sync": {
+    "origin": "Files:GitSync",
+    "text": "Sync"
+  },
+  "Sync conflict": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Konflik Sinkron"
+  },
+  "Sync error": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kesilapan Sync"
+  },
+  "Synced": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sinkronisasi"
+  },
+  "Synchronize folder preferences": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sinkronkan keutamaan folder"
+  },
+  "System": {
+    "origin": "Files:SystemTimeStyle",
+    "text": "Sistem"
+  },
+  "TLS certificate verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "TLS Pengesahan Sijil"
+  },
+  "Tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "TAB Tindakan"
+  },
+  "Tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tabel"
+  },
+  "Tag": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag"
+  },
+  "Tag (blank = all tags)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag (berwarna putih = semua tag)"
+  },
+  "Tag color": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag warna"
+  },
+  "Tag name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag Nama"
+  },
+  "Tag names must be unique.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag nama mesti unik."
+  },
+  "Tag update failed and original metadata could not be restored: ": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag update gagal dan metadata asal tidak boleh dipulihkan: "
+  },
+  "Tagged items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag: item"
+  },
+  "Tags": {
+    "origin": "Files:FileTags",
+    "text": "Tag"
+  },
+  "Tags, separated by commas": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tags, dibahagikan oleh commas"
+  },
+  "Target": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Target"
+  },
+  "Terminal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Terminal"
+  },
+  "Test IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ujian IDE"
+  },
+  "The ACL failed validation.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "kepada yang ACL kegagalan pengesahan"
+  },
+  "The command failed (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perintah yang gagal (%1$@)."
+  },
+  "The custom icon and saved layout belong to the selected item.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ikon tersuai dan tataletak disimpan tergolong dalam item yang dipilih."
+  },
+  "The destination connection changed. Drop the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "sambungan destinasi berubah. letakkan fail lagi."
+  },
+  "The destination connection changed. Paste the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "sambungan destinasi berubah. menyelitkan fail lagi."
+  },
+  "The destination is not an accessible folder.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Destinasi bukan folder yang boleh diakses."
+  },
+  "The icon could not be changed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ikon tidak boleh diubah."
+  },
+  "The icon could not be reset.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ikon ini tidak boleh diubah suai."
+  },
+  "The media container did not retain: ": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kontainer media tidak menyimpan: "
+  },
+  "The media tracks cannot be preserved in this container.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Track media tidak boleh disimpan dalam bekas ini."
+  },
+  "The new shortcut target does not exist.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tujuan pendek yang baru tidak wujud."
+  },
+  "The old shortcut is in Trash, but macOS did not return its location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perbezaan antara pendek dan pendek, tetapi macOS Beliau tidak mengembalikan lokasi."
+  },
+  "The original archive remains recoverable with Undo.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arkib asal masih boleh dipulihkan dengan Undo."
+  },
+  "The server did not return a valid host-key list.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pelayan tidak mengembalikan senarai kunci tuan rumah yang sah."
+  },
+  "The server recovery path is occupied by a file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Laluan pemulihan pelayan diduduki oleh fail."
+  },
+  "The server returned an unsafe or unsupported filename.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pelayan mengembalikan nama fail yang tidak selamat atau tidak disokong."
+  },
+  "The server returned an unsupported directory listing. No transfer was started.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pelayan mengembalikan senarai direktori yang tidak disokong. tiada pemindahan dimulakan."
+  },
+  "The shortcut will point to %1$@. The target file itself is not modified.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pendekatan akan menunjukkan kepada %1$@Fail sasaran itu sendiri tidak diubah suai."
+  },
+  "The slideshow changes desktop wallpaper while MacFiles is running. It resumes at launch when enabled. macOS controls the lock screen wallpaper separately.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Slideshow mengubah wallpaper desktop semasa MacFiles Ia bermula semula apabila ia dilancarkan semula. macOS Mengawal wallpaper skrin kunci secara berasingan."
+  },
+  "The system script could not be compiled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Skrip sistem tidak boleh disusun."
+  },
+  "The system script could not be created.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Skrip sistem tidak boleh dibuat."
+  },
+  "The transfer selection changed. Cut the items again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pilihan pemindahan berubah. potong item lagi."
+  },
+  "The uploaded data did not match its source. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Data yang dimuat naik tidak sepadan dengan sumbernya. sumber itu disimpan."
+  },
+  "The uploaded iCloud copy remains available. macOS will download it again when needed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "yang diunggah iCloud Kopi masih boleh didapati macOS Ia boleh dimuat turun lagi apabila perlu."
+  },
+  "Theme": {
+    "origin": "Files:SettingsAppearanceTheme",
+    "text": "Tema"
+  },
+  "These items will be removed from Trash. This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Barang-barang ini akan dihapuskan daripada Trash. ini tidak boleh dikecualikan."
+  },
+  "Third-party providers do not expose a common public sync-completion API. Available locally describes downloaded bytes, not upload completion. Download requests do not pin files permanently.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pembekal pihak ketiga tidak mendedahkan API penyelesaian sinkron awam yang biasa. tersedia secara tempatan menggambarkan byte yang dimuat turun, tidak memuat naik penyelesaian. permintaan muat turun tidak memin fail secara kekal."
+  },
+  "This FTP server cannot create symbolic links. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ini FTP Server tidak boleh mencipta pautan simbolik. sumber itu disimpan."
+  },
+  "This Mac": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mac ini"
+  },
+  "This alias contains a target cycle.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Alias ini mengandungi kitaran sasaran."
+  },
+  "This archive format is read-only. Extract it and create a ZIP or 7z archive to edit its contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "format fail ini hanya boleh dibaca.Tariknya dan cipta ZIP atau 7z untuk mengedit kandungan mereka."
+  },
+  "This archive or server protocol does not expose macOS extended attributes. Extract or download the item to manage attributes on its local copy.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arkib atau protokol pelayan ini tidak mendedahkan macOS Mengekstrak atau muat turun item untuk menguruskan atribut pada salinan tempatan."
+  },
+  "This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ini tidak boleh dikecualikan."
+  },
+  "This changes the registered folder viewer. Finder still manages the desktop and macOS file dialogs. You can restore the previous viewer here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ini mengubah penonton folder yang didaftarkan. Finder menguruskan desktop dan macOS dialog fail. anda boleh memulihkan penonton terdahulu di sini."
+  },
+  "This changes which users can access the item. Export the existing ACL first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perubahan ini yang pengguna boleh mengakses item. mengeksport yang sedia ada ACL Pertama sekali jika anda memerlukan backup."
+  },
+  "This folder is empty": {
+    "origin": "Files:EmptyFolder.Text",
+    "text": "Folder ini kosong."
+  },
+  "This location is not ready for transfers.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lokasi ini tidak bersedia untuk pemindahan."
+  },
+  "This media format cannot be edited by the native exporter.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Format media ini tidak boleh diedit oleh pengeksport asli."
+  },
+  "This metadata container uses indexed keys; edit it with its native media application.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kontainer metadata ini menggunakan kunci yang diindeks; mengeditnya dengan aplikasi media asli."
+  },
+  "This operation cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Operasi ini tidak boleh dibatalkan."
+  },
+  "This removes the attribute from this file. Export its bytes first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ini menghapuskan atribut daripada fail ini. mengeksport byte terlebih dahulu jika anda memerlukan sandaran."
+  },
+  "Thumbnail cache limit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perbezaan Cache Limit"
+  },
+  "Thumbnails": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tombongan"
+  },
+  "Thumbnails are cached in memory. The limit applies to decoded images.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thumbnails disimpan dalam memori. had ini terpakai kepada imej yang dikodkan."
+  },
+  "Tiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag : Tiles"
+  },
+  "Title": {
+    "origin": "Files:PropertyTitle",
+    "text": "Tajuk"
+  },
+  "Today": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hari ini"
+  },
+  "Toggle compact overlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "Toggle compact overlay"
+  },
+  "Toggle details pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Maklumat lanjut Pan"
+  },
+  "Toggle dual pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perbincangan:Dual Pan"
+  },
+  "Toggle filter header": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "Toggle filter header"
+  },
+  "Toggle full screen": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menggabungkan skrin penuh"
+  },
+  "Toggle selection": {
+    "origin": "Files:ToggleSelect",
+    "text": "Toggle selection"
+  },
+  "ToggleCompactOverlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "Toggle compact overlay"
+  },
+  "ToggleFilterHeader": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "Toggle filter header"
+  },
+  "ToggleSelect": {
+    "origin": "Files:ToggleSelect",
+    "text": "Toggle selection"
+  },
+  "ToggleSidebar": {
+    "origin": "Files:ToggleSidebar",
+    "text": "Toggle the sidebar"
+  },
+  "ToggleToolbar": {
+    "origin": "Files:ToggleToolbar",
+    "text": "Toggle toolbar"
+  },
+  "Too many nested aliases.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Terlalu banyak Alias yang terjejas."
+  },
+  "Tools": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Alat-alat"
+  },
+  "Top": {
+    "origin": "Files:Top",
+    "text": "Atas"
+  },
+  "Total size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Jumlah keseluruhan"
+  },
+  "Transfer failed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Penghantaran gagal"
+  },
+  "Trash": {
+    "origin": "Files:RecycleBin",
+    "text": "Tong Kitar Semula"
+  },
+  "Trash on this Mac and connected volumes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tembak pada Mac ini dan volum yang disambungkan"
+  },
+  "Trust": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "kepercayaan"
+  },
+  "Trust this SSH server?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Percayalah ini SSH pelayan ?"
+  },
+  "Trust verified fingerprints": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pengesahan Ciri Ciri Ciri Ciri Ciri Ciri Ciri Ciri Ciri Ciri"
+  },
+  "Try again": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "cuba lagi"
+  },
+  "Under window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "di bawah tingkap"
+  },
+  "Undo": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "dan"
+  },
+  "Undo file operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Operasi fail"
+  },
+  "Undoing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mengurangkan"
+  },
+  "Unencrypted FTP": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tidak disulitkan FTP"
+  },
+  "Universal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Universal"
+  },
+  "Unknown": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "yang tidak diketahui"
+  },
+  "Unknown shortcut command.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perintah pendek yang tidak diketahui."
+  },
+  "Unpin": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Unpin yang"
+  },
+  "Unsafe archive link target.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Target fail yang tidak selamat."
+  },
+  "Unstage": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perkembangan"
+  },
+  "Unstaged selected files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "fail yang dipilih"
+  },
+  "Unsupported Git action.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "tidak disokong Git tindakan yang"
+  },
+  "Unsupported archive entry name or listing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nama masuk atau senarai arkib yang tidak disokong."
+  },
+  "Unsupported file type in transfer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Jenis fail yang tidak disokong dalam pemindahan."
+  },
+  "Unsupported metadata container version.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Versi Kontainer Metadata yang tidak disokong."
+  },
+  "Unsupported movie header.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Filem yang tidak disokong."
+  },
+  "Untagged": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Untaged"
+  },
+  "Up": {
+    "origin": "Files:Key.Up",
+    "text": "Atas"
+  },
+  "Up one level": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Meningkatkan satu tahap"
+  },
+  "Up one level · ⌘↑": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Meningkatkan satu peringkat ⌘↑"
+  },
+  "Updates native macOS tags for all selected items. Leave empty to remove tags.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Maklumat terkini Native macOS Tag untuk semua item yang dipilih. biarkan kosong untuk menghapuskan tag."
+  },
+  "Updating archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Maklumat terkini Archive"
+  },
+  "Updating media metadata": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mengemas kini metadata media"
+  },
+  "Updating permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pembaharuan Permohonan"
+  },
+  "Upload": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Meningkatkan"
+  },
+  "Upload failed. The original remains at %1$@; the pending upload is %2$@. %3$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pemasangan gagal. yang asal kekal di %1$@· Menangguhkan kenaikan ialah %2$@. %3$@"
+  },
+  "Upload files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menambah fail..."
+  },
+  "Upload regular files or folders; symbolic links are not followed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Muat naik fail atau folder biasa; pautan simbolik tidak diikuti."
+  },
+  "Uploading": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menyewa"
+  },
+  "Upstream Files issues": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Upstream fail masalah"
+  },
+  "Use Copy and Paste or Download to transfer remote items.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gunakan Copy and Paste atau Download untuk memindahkan item jauh."
+  },
+  "Use Copy or Extract to transfer archive contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gunakan Kopi atau Ekstrak untuk memindahkan kandungan arkib."
+  },
+  "Use MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Penggunaan MacFiles"
+  },
+  "Use MacFiles for folder URLs?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Penggunaan MacFiles untuk folder URL?"
+  },
+  "Use MacFiles for folder URLs…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Penggunaan MacFiles Untuk folder URL..."
+  },
+  "User": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pengguna"
+  },
+  "Username": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nama Pengguna"
+  },
+  "Uses SSH keys or the password above. Host-key verification remains enabled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Penggunaan SSH kunci atau kata laluan di atas. pengesahan kunci tuan rumah kekal diaktifkan."
+  },
+  "Uses the on-device Apple Intelligence model when available. Otherwise searches the words you entered. No file content is sent to a server.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gunakan model Apple Intelligence pada peranti apabila tersedia. jika tidak, carian perkataan yang anda masukkan. tiada kandungan fail dihantar ke pelayan."
+  },
+  "Value": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "nilai"
+  },
+  "Verified host keys saved for MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kunci tuan rumah yang disimpan untuk MacFiles."
+  },
+  "Vertical alignment": {
+    "origin": "Files:VerticalAlignment",
+    "text": "Penjajaran menegak"
+  },
+  "Vertical split": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perpecahan Vertikal"
+  },
+  "View": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "pandangan"
+  },
+  "Volume": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Jumlah"
+  },
+  "Volume available": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Jumlah yang tersedia"
+  },
+  "Volume capacity": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kapasiti Volume"
+  },
+  "Volume case sensitive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Jumlah kes sensitif"
+  },
+  "Volume read only": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Volume baca sahaja"
+  },
+  "Volumes must be at least 1 KiB.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Volume hendaklah sekurang-kurangnya 1 KiB."
+  },
+  "Waiting to sync": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menunggu Sync"
+  },
+  "Wallpaper could not be changed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Wallpaper tidak boleh diubah"
+  },
+  "Wallpaper slideshow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gambaran keseluruhan Slideshow"
+  },
+  "Wallpaper slideshow…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gambaran keseluruhan Slideshow..."
+  },
+  "Warn when changing file extensions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Peringatan apabila mengubah ekstensi fail"
+  },
+  "When an item exists": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Apabila satu item wujud"
+  },
+  "When names conflict, choose Keep both, Replace, or Skip. Replaced versions and deleted items go to the macOS Trash. Undo and redo are retained across launches and shared by open windows.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Apabila nama bertentangan, pilih Simpan kedua-duanya, Tukar, atau Hapus. versi yang digantikan dan item yang dipadam pergi ke macOS Undo dan redo disimpan di sepanjang pelancaran dan dikongsi oleh tetingkap terbuka."
+  },
+  "Working…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pekerjaan ..."
+  },
+  "Writable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Penulisan"
+  },
+  "Writes embedded metadata. Image files may be re-encoded; the original remains recoverable with Undo. Audio and video edits preserve encoded tracks. Unsupported containers keep the original.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menulis metadata tertanam. fail imej boleh dikodkan semula; asal kekal boleh dipulihkan dengan Undo. audio dan video edits menyimpan trek yang dikodkan. bekas yang tidak disokong mengekalkan asal."
+  },
+  "Year": {
+    "origin": "Files:Year",
+    "text": "Tahun"
+  },
+  "Yellow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kuning"
+  },
+  "Yes": {
+    "origin": "Files:Yes",
+    "text": "Ya"
+  },
+  "Yesterday": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Semalam"
+  },
+  "You can restore these items with Undo or from the Trash.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Anda boleh memulihkan item ini dengan Undo atau daripada Trash."
+  },
+  "Your files, your way.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Filem anda, jalan anda"
+  },
+  "Your pinned folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Papan yang tertutup"
+  },
+  "Zoom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Zoom"
+  },
+  "macOS aliases and symbolic links refer to a target path. Windows shortcut arguments and Run as administrator flags do not have alias equivalents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Alias dan pautan simbolik merujuk kepada laluan sasaran. Windows Argumen pendek dan menjalankan sebagai bendera pentadbir tidak mempunyai alias setara."
+  },
+  "macOS integration": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Integrasi"
+  },
+  "macOS moved the previous version to Trash but did not return its location. The new version was not installed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS memindahkan versi terdahulu ke Trash tetapi tidak mengembalikan lokasi."
+  },
+  "macOS returned %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Kembali %1$@."
+  },
+  "macOS uses Mach-O architectures and the application's minimum OS version. Windows compatibility modes, DPI overrides and administrator flags cannot be applied to a native Mac app.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Penggunaan Mach-O Arsitektur dan versi OS minimum aplikasi. Windows Mod keserasian, overrides DPI dan bendera pentadbir tidak boleh digunakan untuk aplikasi Mac asli."
+  }
+}

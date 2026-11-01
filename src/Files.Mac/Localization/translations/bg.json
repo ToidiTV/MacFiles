@@ -1,0 +1,4651 @@
+{
+  "%1$@ MB": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ МБ"
+  },
+  "%1$@ Trash location(s) could not be read. macOS may require Full Disk Access for Trash. Items listed here remain available to manage.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Местоположението на траха(и) не може да бъде прочетено. macOS Може да се изисква пълен достъп до диск за изтегляне. елементите, изброени тук, остават на разположение за управление."
+  },
+  "%1$@ destination name(s) already exist": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Име на местоназначението(и) вече съществува"
+  },
+  "%1$@ entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Входът"
+  },
+  "%1$@ folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Досиетата"
+  },
+  "%1$@ folders · %2$@ files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Снимки · %2$@ файлове"
+  },
+  "%1$@ folders · saves to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Снимки за спасяване на %2$@"
+  },
+  "%1$@ free of %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Свободен от %2$@"
+  },
+  "%1$@ inaccessible": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ недостъпни"
+  },
+  "%1$@ is assigned more than once.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Тя е възложена повече от веднъж."
+  },
+  "%1$@ is reserved by macOS or the application window.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Тя е резервирана от macOS или прозореца за кандидатстване."
+  },
+  "%1$@ is reserved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Тя е резервирана."
+  },
+  "%1$@ item(s) ready to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ А) е готов за %2$@"
+  },
+  "%1$@ selected items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Избрани елементи"
+  },
+  "%1$@. Sync completion is managed by the provider and is not reported through public file metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@Завършването на синхронизацията се управлява от доставчика и не се съобщава чрез публични метаданни за файлове."
+  },
+  "A different key is already trusted for this host. Review the changed key with the server administrator before replacing it.": {
+    "origin": "M2M100-418M-local",
+    "text": "Различен ключ вече се доверява на този хост. Прегледайте променен ключ с администратора на сървъра, преди да го замените."
+  },
+  "A familiar place for everything.": {
+    "origin": "M2M100-418M-local",
+    "text": "Известно място за всичко."
+  },
+  "A file operation is still running": {
+    "origin": "M2M100-418M-local",
+    "text": "Операцията на файловете все още работи"
+  },
+  "A folder cannot be copied or moved inside itself.": {
+    "origin": "M2M100-418M-local",
+    "text": "Не може да се копира или премества папка вътре в себе си."
+  },
+  "A shortcut cannot target itself.": {
+    "origin": "M2M100-418M-local",
+    "text": "Краткото не може да бъде самоцелено."
+  },
+  "ACL updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ACL Актуализирана е."
+  },
+  "About": {
+    "origin": "Files:About",
+    "text": "Относно"
+  },
+  "About MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Относно MacFiles"
+  },
+  "Accent color (hex)": {
+    "origin": "M2M100-418M-local",
+    "text": "Цвет на акцента (hex)"
+  },
+  "Access control list — native macOS syntax": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Контролен списък за достъп — роден macOS Синтаксис"
+  },
+  "Access token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Достъп до токен"
+  },
+  "Accounts, authentication and sync preferences are managed by each provider’s native app. Removing a saved folder here does not unlink its account or delete files.": {
+    "origin": "M2M100-418M-local",
+    "text": "Счетоводите, преференциите за аутентификация и синхронизиране се управляват от родното приложение на всеки доставчик. Премахването на спасена папка тук не отвързва сметката си или изтрива файловете."
+  },
+  "Action unavailable": {
+    "origin": "M2M100-418M-local",
+    "text": "Недостъпни действия"
+  },
+  "Actions": {
+    "origin": "Files:Actions",
+    "text": "Действия"
+  },
+  "Adaptive": {
+    "origin": "Files:Adaptive",
+    "text": "Адаптивно оформление"
+  },
+  "Adaptive layout": {
+    "origin": "Files:Adaptive",
+    "text": "Адаптивно оформление"
+  },
+  "Add": {
+    "origin": "Files:Add",
+    "text": "Добави"
+  },
+  "Add cloud folder…": {
+    "origin": "M2M100-418M-local",
+    "text": "Добавяне на облачни папки ..."
+  },
+  "Add current selection": {
+    "origin": "M2M100-418M-local",
+    "text": "Добавяне на текущ избор"
+  },
+  "Add files…": {
+    "origin": "M2M100-418M-local",
+    "text": "Добавете файлове..."
+  },
+  "Add folder…": {
+    "origin": "M2M100-418M-local",
+    "text": "Добавяне на папката..."
+  },
+  "Add images…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Добавете снимки..."
+  },
+  "Add prefix": {
+    "origin": "M2M100-418M-local",
+    "text": "Добавяне на префикс"
+  },
+  "Add saved tag": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Добавете спасена таг"
+  },
+  "Add selection to shelf": {
+    "origin": "M2M100-418M-local",
+    "text": "Добавете селекция към Shelf"
+  },
+  "Add startup folders…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Добавете стартап файлове..."
+  },
+  "Add suffix": {
+    "origin": "M2M100-418M-local",
+    "text": "Добавяне на suffix"
+  },
+  "Add to library": {
+    "origin": "M2M100-418M-local",
+    "text": "Добавете към библиотеката"
+  },
+  "Add to shelf": {
+    "origin": "M2M100-418M-local",
+    "text": "Добавете към Shelf"
+  },
+  "Advanced": {
+    "origin": "Files:Advanced",
+    "text": "Разширени"
+  },
+  "Advanced search": {
+    "origin": "M2M100-418M-local",
+    "text": "Напредни търсения"
+  },
+  "Advanced search…": {
+    "origin": "M2M100-418M-local",
+    "text": "Разширено търсене..."
+  },
+  "Album": {
+    "origin": "M2M100-418M-local",
+    "text": "Албум"
+  },
+  "Allocated size": {
+    "origin": "M2M100-418M-local",
+    "text": "Разпределени размери"
+  },
+  "Already assigned to %1$@. Remove that assignment first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Вече е присвоен на %1$@Премахнете тази задача първо."
+  },
+  "Always show operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Винаги показват операции"
+  },
+  "Always visible": {
+    "origin": "M2M100-418M-local",
+    "text": "Винаги видими"
+  },
+  "Always-visible items are combined with the current selection context. Cloud items add their own controls.": {
+    "origin": "M2M100-418M-local",
+    "text": "Винаги видими елементи се комбинират с текущия контекст на подбор. облачни елементи добавят свои собствени контроли."
+  },
+  "Ambiguous archive listing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Дълготраен архивен списък."
+  },
+  "Ambiguous media metadata containers.": {
+    "origin": "M2M100-418M-local",
+    "text": "Медийни контейнери с метаданни."
+  },
+  "Any": {
+    "origin": "M2M100-418M-local",
+    "text": "Всеки"
+  },
+  "App language (restart to apply)": {
+    "origin": "M2M100-418M-local",
+    "text": "Език на приложението (възстановяване на приложението)"
+  },
+  "Appearance": {
+    "origin": "Files:Appearance",
+    "text": "Външен вид"
+  },
+  "Application": {
+    "origin": "Files:Application",
+    "text": "Приложение"
+  },
+  "Application unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Недостъпна заявка"
+  },
+  "Applies owner, group, and other permissions to the selected items only.": {
+    "origin": "M2M100-418M-local",
+    "text": "Прилага собственик, група и други разрешения само за избраните елементи."
+  },
+  "Apply": {
+    "origin": "M2M100-418M-local",
+    "text": "Прилагане"
+  },
+  "Apply ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Прилагане ACL…"
+  },
+  "Apply UID %1$@ and GID %2$@ to this item only.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Прилагане UID %1$@ и GID %2$@ Само за този елемент."
+  },
+  "Apply attributes": {
+    "origin": "M2M100-418M-local",
+    "text": "Прилагане на атрибути"
+  },
+  "Apply file permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Използване на разрешения за файлове"
+  },
+  "Apply owner/group…": {
+    "origin": "M2M100-418M-local",
+    "text": "Изпратете заявка на собственик/група..."
+  },
+  "Approve MacFiles in Login Items in System Settings.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "одобрение MacFiles в Log Items в Системните настройки."
+  },
+  "Archive": {
+    "origin": "M2M100-418M-local",
+    "text": "Архив"
+  },
+  "Archive attempts to write through a link or file: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Архивът се опитва да пише чрез линк или файл: %1$@"
+  },
+  "Archive contains an unsafe path: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Архивът съдържа несигурен път: %1$@"
+  },
+  "Archive contains an unsafe symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Архивът съдържа несигурен символичен линк."
+  },
+  "Archive editing cannot traverse symbolic links.": {
+    "origin": "M2M100-418M-local",
+    "text": "Архивът не може да преминава през символични връзки."
+  },
+  "Archive link escapes its destination.": {
+    "origin": "M2M100-418M-local",
+    "text": "Архивният линк избяга от дестинацията си."
+  },
+  "Archive link target is too long.": {
+    "origin": "M2M100-418M-local",
+    "text": "Целта на архивите е твърде дълга."
+  },
+  "Archive operation failed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Архивът е провалил."
+  },
+  "Archive password (if needed)": {
+    "origin": "M2M100-418M-local",
+    "text": "Парола за архивиране (ако е необходимо)"
+  },
+  "Archive password (leave blank if unencrypted)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Парола за архивиране (оставете бял, ако не е криптиран)"
+  },
+  "Archive passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Архивните пароли не могат да съдържат линии прекъсвания или NUL Личността на героите."
+  },
+  "Archive path escapes the destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Архивният път избяга от дестинацията: %1$@"
+  },
+  "Archive root": {
+    "origin": "M2M100-418M-local",
+    "text": "Архив за корен"
+  },
+  "Archive symbolic link escapes the destination.": {
+    "origin": "M2M100-418M-local",
+    "text": "Архив символичен линк избяга от дестинацията."
+  },
+  "Arrange panes side by side": {
+    "origin": "M2M100-418M-local",
+    "text": "Подредете панели от страна на страна"
+  },
+  "Arrange panes top and bottom": {
+    "origin": "M2M100-418M-local",
+    "text": "Подредете панелите нагоре и надолу"
+  },
+  "Artist": {
+    "origin": "Files:Artist",
+    "text": "Изпълнител"
+  },
+  "Artist / author": {
+    "origin": "M2M100-418M-local",
+    "text": "Художник / автор"
+  },
+  "Ascending": {
+    "origin": "Files:Ascending",
+    "text": "Възходящ"
+  },
+  "Attribute name": {
+    "origin": "M2M100-418M-local",
+    "text": "Името на атрибута"
+  },
+  "Attributes": {
+    "origin": "Files:Attributes",
+    "text": "Атрибути"
+  },
+  "Attributes updated.": {
+    "origin": "M2M100-418M-local",
+    "text": "Атрибутите са актуализирани."
+  },
+  "Auto-fit columns": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Авто-подходящи колони"
+  },
+  "AutoFitColumns": {
+    "origin": "Files:AutoFitColumns",
+    "text": "Auto-fit columns"
+  },
+  "Available locally": {
+    "origin": "M2M100-418M-local",
+    "text": "На разположение локално"
+  },
+  "Back": {
+    "origin": "Files:Back",
+    "text": "Назад (Alt+Стрелка наляво)"
+  },
+  "Back · ⌘[": {
+    "origin": "Files:Back",
+    "text": "Назад (Alt+Стрелка наляво) · ⌘["
+  },
+  "Backdrop material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Материали за задната част"
+  },
+  "Backdrop materials use macOS visual effects. Standard system controls and monospaced content retain their system fonts.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Използване на материали от задната част macOS Стандартните системни контроли и монопространственото съдържание запазват системен шрифт."
+  },
+  "Background": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Задължение"
+  },
+  "Background color (blank = system)": {
+    "origin": "M2M100-418M-local",
+    "text": "Цвет на фона (бела = система)"
+  },
+  "Background image": {
+    "origin": "Files:BackgroundImage",
+    "text": "Фонов образ"
+  },
+  "Background image and status": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Снимка и статус на фона"
+  },
+  "Background image opacity": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Опасност на изображението"
+  },
+  "Background mode keeps the menu bar icon available so you can reopen MacFiles or quit it.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Подходният режим поддържа иконата на лентата на менюто на разположение, така че да можете да отворите отново MacFiles Или да го спрем."
+  },
+  "Background preset": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Предварителна поза"
+  },
+  "Base": {
+    "origin": "M2M100-418M-local",
+    "text": "База"
+  },
+  "Base64": {
+    "origin": "M2M100-418M-local",
+    "text": "Базел 64"
+  },
+  "Based on the Files Community explorer’s shell, MVVM, command, and storage architecture. Built with Swift, AppKit, and SwiftUI.": {
+    "origin": "M2M100-418M-local",
+    "text": "Въз основа на архивата на файловете, MVVM, командната и архивата за съхранение на общността, изградена с Swift, AppKit и SwiftUI."
+  },
+  "Binary": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Бинарни"
+  },
+  "Blue": {
+    "origin": "Files:Blue",
+    "text": "Синьо"
+  },
+  "Bottom": {
+    "origin": "Files:Bottom",
+    "text": "Най-отдолу"
+  },
+  "Browse all tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Прегледайте всички тегове"
+  },
+  "Browse archive": {
+    "origin": "M2M100-418M-local",
+    "text": "Browse Архив"
+  },
+  "Browse archive…": {
+    "origin": "M2M100-418M-local",
+    "text": "Архивът на Browse..."
+  },
+  "Browse tagged items…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse етикетирани елементи..."
+  },
+  "Browsing": {
+    "origin": "M2M100-418M-local",
+    "text": "Браузиране"
+  },
+  "Browsing interactions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Браузиране на взаимодействието"
+  },
+  "Bulk rename": {
+    "origin": "M2M100-418M-local",
+    "text": "Булк реномиране"
+  },
+  "Bulk rename requires items from one folder.": {
+    "origin": "M2M100-418M-local",
+    "text": "Масовото име изисква елементи от една папка."
+  },
+  "Bulk rename…": {
+    "origin": "M2M100-418M-local",
+    "text": "Булк реномиран..."
+  },
+  "Bytes": {
+    "origin": "Files:Bytes",
+    "text": "байтове"
+  },
+  "Cache thumbnails": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Закриване на миниатюри"
+  },
+  "Calculate combined size": {
+    "origin": "M2M100-418M-local",
+    "text": "Изчислете комбиниран размер"
+  },
+  "Calculate folder size": {
+    "origin": "M2M100-418M-local",
+    "text": "Изчислете размера на папката"
+  },
+  "Calculate folder sizes": {
+    "origin": "Files:CalculateFolderSizes",
+    "text": "Изчисляване на големините на папката"
+  },
+  "Calculate hashes…": {
+    "origin": "M2M100-418M-local",
+    "text": "Изчисляване на хаши..."
+  },
+  "Calculate total size": {
+    "origin": "M2M100-418M-local",
+    "text": "Изчисляване на общата величина"
+  },
+  "Calculating hashes…": {
+    "origin": "M2M100-418M-local",
+    "text": "Изчисляване на хаши..."
+  },
+  "Camouflage": {
+    "origin": "Files:Camouflage",
+    "text": "Камуфлаж"
+  },
+  "Cancel": {
+    "origin": "Files:Cancel",
+    "text": "Отказ"
+  },
+  "Cancel calculation": {
+    "origin": "M2M100-418M-local",
+    "text": "Отмяна на изчисленията"
+  },
+  "Cancel operation": {
+    "origin": "M2M100-418M-local",
+    "text": "Отмяна на операцията"
+  },
+  "Cancel queued operation": {
+    "origin": "M2M100-418M-local",
+    "text": "Отмяна на операцията"
+  },
+  "Cancelled": {
+    "origin": "M2M100-418M-local",
+    "text": "отменени"
+  },
+  "Cancelled before starting.": {
+    "origin": "M2M100-418M-local",
+    "text": "Отменени преди началото."
+  },
+  "Cancelled before starting. No files were changed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Изтеглено преди началото. няма промени в файловете."
+  },
+  "Cancelling the current operation…": {
+    "origin": "M2M100-418M-local",
+    "text": "Отмяна на текущата дейност..."
+  },
+  "Cannot allocate archive entry.": {
+    "origin": "M2M100-418M-local",
+    "text": "Не може да се разпределят архиви."
+  },
+  "Cannot allocate archive reader.": {
+    "origin": "M2M100-418M-local",
+    "text": "Не може да се разпредели архивен читател."
+  },
+  "Cannot allocate archive writer.": {
+    "origin": "M2M100-418M-local",
+    "text": "Не може да се разпредели архивен писател."
+  },
+  "Cannot archive special device: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Не може да се архивира специално устройство: %1$@"
+  },
+  "Cannot create archive entry: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Не може да се създаде архивен запис: %1$@"
+  },
+  "Cannot create subprocess output file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Не може да се създаде подпроцес изходния файл."
+  },
+  "Cannot decode image.": {
+    "origin": "M2M100-418M-local",
+    "text": "Не можете да декодирате изображението."
+  },
+  "Cannot prepare SSH authentication.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Не може да се подготви SSH за автентичност ."
+  },
+  "Cannot prepare command input.": {
+    "origin": "M2M100-418M-local",
+    "text": "Не можете да подготвите командния вход."
+  },
+  "Cannot read %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "не може да чете %1$@"
+  },
+  "Cannot read image metadata.": {
+    "origin": "M2M100-418M-local",
+    "text": "Не можете да четете метаданни на изображението."
+  },
+  "Cannot remove the archive root.": {
+    "origin": "M2M100-418M-local",
+    "text": "Не може да се премахне коренът на архивите."
+  },
+  "Cannot rename the archive root.": {
+    "origin": "M2M100-418M-local",
+    "text": "Не може да се преименува коренът на архивите."
+  },
+  "Cannot restore archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Не може да се възстанови хард линк."
+  },
+  "Cannot rotate image.": {
+    "origin": "M2M100-418M-local",
+    "text": "Не може да се върти изображението."
+  },
+  "Center": {
+    "origin": "Files:Center",
+    "text": "По средата"
+  },
+  "Change file extension?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Промяна на разширението на файла?"
+  },
+  "Change ownership?": {
+    "origin": "M2M100-418M-local",
+    "text": "Промяна на собствеността?"
+  },
+  "Change provider app…": {
+    "origin": "M2M100-418M-local",
+    "text": "Промяна на доставчиците на приложения..."
+  },
+  "Change the shortcut target?": {
+    "origin": "M2M100-418M-local",
+    "text": "Промени ли се целта за краткосрочно преминаване?"
+  },
+  "Changes": {
+    "origin": "M2M100-418M-local",
+    "text": "промяна"
+  },
+  "Changing the extension may prevent the file from opening in its usual application.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Промяната на разширението може да предотврати отварянето на файла в обичайното му приложение."
+  },
+  "Choose IDE…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Изберете тук..."
+  },
+  "Choose a destination to restore": {
+    "origin": "M2M100-418M-local",
+    "text": "Изберете място за възстановяване"
+  },
+  "Choose a file to calculate hashes.": {
+    "origin": "M2M100-418M-local",
+    "text": "Изберете файл, за да изчислите хашета."
+  },
+  "Choose a new destination and a repository URL.": {
+    "origin": "M2M100-418M-local",
+    "text": "Изберете нова дестинация и URL адрес за съхранение."
+  },
+  "Choose a regular cloud file to download.": {
+    "origin": "M2M100-418M-local",
+    "text": "Изберете редовен файл в облака за изтегляне."
+  },
+  "Choose a single file or folder to customize its icon.": {
+    "origin": "M2M100-418M-local",
+    "text": "Изберете един файл или папка, за да персонализирате иконата му."
+  },
+  "Choose a supported single-frame image (JPEG, PNG, TIFF or HEIC).": {
+    "origin": "M2M100-418M-local",
+    "text": "Изберете поддържана еднократна картина (JPEG, PNG, TIFF или HEIC)."
+  },
+  "Choose a template file": {
+    "origin": "M2M100-418M-local",
+    "text": "Изберете шаблон на файла"
+  },
+  "Choose custom icon…": {
+    "origin": "M2M100-418M-local",
+    "text": "Изберете иконата на ..."
+  },
+  "Choose folder…": {
+    "origin": "M2M100-418M-local",
+    "text": "Изберете папката..."
+  },
+  "Choose one item to edit ownership or ACLs.": {
+    "origin": "M2M100-418M-local",
+    "text": "Изберете един елемент за редактиране на собственост или ACLs."
+  },
+  "Choose one item to view extended attributes.": {
+    "origin": "M2M100-418M-local",
+    "text": "Изберете един елемент, за да видите разширени атрибути."
+  },
+  "Choose provider app…": {
+    "origin": "M2M100-418M-local",
+    "text": "Изберете доставчик на приложение ..."
+  },
+  "Clear": {
+    "origin": "Files:Key.Clear",
+    "text": "Изчисти"
+  },
+  "Clear finished": {
+    "origin": "M2M100-418M-local",
+    "text": "Късно завършен"
+  },
+  "Clear selection": {
+    "origin": "Files:ClearSelection",
+    "text": "Изчистване на избраното"
+  },
+  "Clear thumbnail cache": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Къщи за тънки кеш"
+  },
+  "Clone": {
+    "origin": "M2M100-418M-local",
+    "text": "Клониране"
+  },
+  "Clone repository": {
+    "origin": "M2M100-418M-local",
+    "text": "Клонирани резервоари"
+  },
+  "Clone…": {
+    "origin": "M2M100-418M-local",
+    "text": "Клониране..."
+  },
+  "Close": {
+    "origin": "Files:Close",
+    "text": "Затвори"
+  },
+  "Close details": {
+    "origin": "M2M100-418M-local",
+    "text": "Близки детайли"
+  },
+  "Close other tabs": {
+    "origin": "Files:CloseOtherTabs",
+    "text": "Затвори другите раздели"
+  },
+  "Close tab": {
+    "origin": "M2M100-418M-local",
+    "text": "Близкия таб"
+  },
+  "Close tabs to the left": {
+    "origin": "Files:CloseTabsToTheLeft",
+    "text": "Затваряне на разделите наляво"
+  },
+  "Close tabs to the right": {
+    "origin": "Files:CloseTabsToTheRight",
+    "text": "Затваряне на раздели вдясно"
+  },
+  "Close window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Късно прозорче"
+  },
+  "Cloud": {
+    "origin": "M2M100-418M-local",
+    "text": "Облакът"
+  },
+  "Cloud accounts": {
+    "origin": "M2M100-418M-local",
+    "text": "Облачни сметки"
+  },
+  "Cloud accounts and folders": {
+    "origin": "M2M100-418M-local",
+    "text": "Облачни сметки и папки"
+  },
+  "Cloud availability and synchronization": {
+    "origin": "M2M100-418M-local",
+    "text": "Облачна наличност и синхронизация"
+  },
+  "Cloud folder name": {
+    "origin": "M2M100-418M-local",
+    "text": "Името на облака"
+  },
+  "Cloud items": {
+    "origin": "M2M100-418M-local",
+    "text": "Облачни елементи"
+  },
+  "Cloud provider": {
+    "origin": "M2M100-418M-local",
+    "text": "Доставчик на облака"
+  },
+  "Cloud providers installed on this Mac appear in the sidebar through their native File Provider folders.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Доставчиците на облака, инсталирани на този Mac, се появяват в страничната лента през родния си File Provider на папките."
+  },
+  "Cloud status": {
+    "origin": "M2M100-418M-local",
+    "text": "Статус на облака"
+  },
+  "Cloud status…": {
+    "origin": "M2M100-418M-local",
+    "text": "Статусът на облака"
+  },
+  "Cloud storage": {
+    "origin": "M2M100-418M-local",
+    "text": "Облачно съхранение"
+  },
+  "Collapse folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Разпадане на папката"
+  },
+  "Collapsed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "счупена"
+  },
+  "Collect file references from different folders, then copy or move them together.": {
+    "origin": "M2M100-418M-local",
+    "text": "Събирайте файловите референции от различни папки, след това ги копирайте или ги премествате заедно."
+  },
+  "Columns": {
+    "origin": "Files:Columns",
+    "text": "Колони"
+  },
+  "Columns layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Колонни за разпределение"
+  },
+  "Command": {
+    "origin": "M2M100-418M-local",
+    "text": "Командиране"
+  },
+  "Command output exceeded 16 MiB; no truncated result was accepted.": {
+    "origin": "M2M100-418M-local",
+    "text": "Изходът на командата превишава 16 МиБ; не е приет никакъв изход."
+  },
+  "Command palette": {
+    "origin": "M2M100-418M-local",
+    "text": "Командваща палетка"
+  },
+  "Command palette…": {
+    "origin": "M2M100-418M-local",
+    "text": "Командваща палитра..."
+  },
+  "Commit created": {
+    "origin": "M2M100-418M-local",
+    "text": "Създаден комитет"
+  },
+  "Commit message": {
+    "origin": "M2M100-418M-local",
+    "text": "Комитет за съобщение"
+  },
+  "Commit staged": {
+    "origin": "M2M100-418M-local",
+    "text": "Комитетът е стажант"
+  },
+  "Compact file rows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "компактни файлове"
+  },
+  "Compare these SHA-256 fingerprints with your server administrator before trusting %1$@:%2$@.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Сравнете тези SHA-256 Отпечатъци от сървъра, преди да се доверите %1$@:%2$@.\n\n"
+  },
+  "Compatibility": {
+    "origin": "Files:Compatibility",
+    "text": "Съвместимост"
+  },
+  "Completed": {
+    "origin": "M2M100-418M-local",
+    "text": "Завършени"
+  },
+  "Completed with errors": {
+    "origin": "M2M100-418M-local",
+    "text": "Завършени с грешки"
+  },
+  "Compress": {
+    "origin": "Files:Compress",
+    "text": "Компресиране"
+  },
+  "CompressIntoSevenZip": {
+    "origin": "Files:CompressIntoSevenZip",
+    "text": "Create 7z archive"
+  },
+  "CompressIntoZip": {
+    "origin": "Files:CompressIntoZip",
+    "text": "Create zip archive"
+  },
+  "Compressed movie headers require remuxing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Компресираните филмови глави изискват ремукс."
+  },
+  "Compressing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "компресиране"
+  },
+  "Compress…": {
+    "origin": "Files:Compress",
+    "text": "Компресиране"
+  },
+  "Confirm moving files to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Потвърдете преместването на файловете към Trash"
+  },
+  "Confirmations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "потвърждение"
+  },
+  "Conflicts": {
+    "origin": "M2M100-418M-local",
+    "text": "Конфликти"
+  },
+  "Connect": {
+    "origin": "M2M100-418M-local",
+    "text": "свържете се"
+  },
+  "Connect to server": {
+    "origin": "M2M100-418M-local",
+    "text": "Свържете се с сървъра"
+  },
+  "Connect to server…": {
+    "origin": "M2M100-418M-local",
+    "text": "Свържете се с сървъра"
+  },
+  "Connect to the server first.": {
+    "origin": "M2M100-418M-local",
+    "text": "Първо свържете се към сървъра."
+  },
+  "Connected folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Свързани папки"
+  },
+  "Connected to this Mac": {
+    "origin": "M2M100-418M-local",
+    "text": "Свързани с този Mac"
+  },
+  "Contains UTF-8 text": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "съдържание UTF-8 Текстът"
+  },
+  "Content search includes text, PDF, Office and OpenDocument files. Unsupported, locked and online-only files are counted as skipped.": {
+    "origin": "M2M100-418M-local",
+    "text": "Търсенето на съдържание включва текстови, PDF, Office и OpenDocument файлове.Неподдържани, блокирани и онлайн само файлове се считат за пропуснати."
+  },
+  "Content type": {
+    "origin": "M2M100-418M-local",
+    "text": "Тип съдържание"
+  },
+  "Contents": {
+    "origin": "M2M100-418M-local",
+    "text": "съдържание"
+  },
+  "Context": {
+    "origin": "M2M100-418M-local",
+    "text": "Контекст"
+  },
+  "Context menu": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Контекстът меню"
+  },
+  "Copy": {
+    "origin": "Files:Copy",
+    "text": "Копирай"
+  },
+  "Copy app version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Копиране на версията на App"
+  },
+  "Copy hashes": {
+    "origin": "M2M100-418M-local",
+    "text": "Копиране на хаши"
+  },
+  "Copy here": {
+    "origin": "M2M100-418M-local",
+    "text": "Копирай тук"
+  },
+  "Copy macOS version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Копирай macOS Версия"
+  },
+  "Copy path": {
+    "origin": "Files:CopyPath",
+    "text": "Копиране на пътя"
+  },
+  "Copy report": {
+    "origin": "M2M100-418M-local",
+    "text": "Копиране на доклада"
+  },
+  "Copy selected": {
+    "origin": "M2M100-418M-local",
+    "text": "Копиране на избрани"
+  },
+  "CopyItemPathWithQuotes": {
+    "origin": "Files:CopyItemPathWithQuotes",
+    "text": "Copy selected item path with quotes"
+  },
+  "CopyPathDescription": {
+    "origin": "Files:CopyPathDescription",
+    "text": "Copy path of the current directory"
+  },
+  "CopyPathWithQuotes": {
+    "origin": "Files:CopyPathWithQuotes",
+    "text": "Копиране на пътя с кавички"
+  },
+  "Copying": {
+    "origin": "M2M100-418M-local",
+    "text": "Копиране"
+  },
+  "Copying archive entries": {
+    "origin": "M2M100-418M-local",
+    "text": "Копиране на архивите"
+  },
+  "Copying files": {
+    "origin": "M2M100-418M-local",
+    "text": "Копиране на файлове"
+  },
+  "Copyright": {
+    "origin": "Files:PropertyCopyright",
+    "text": "Авторско право"
+  },
+  "Could not find an available filename.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Не може да се намери налично име."
+  },
+  "Could not prepare archive contents.": {
+    "origin": "M2M100-418M-local",
+    "text": "Не може да се подготвят архивни материали."
+  },
+  "Could not remove GitHub credentials from Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Не може да се премахнат GitHub поверителности от Keychain."
+  },
+  "Could not save GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Не може да се съхраняват GitHub поверителности в Keychain."
+  },
+  "Could not save the edited image; the original was kept.": {
+    "origin": "M2M100-418M-local",
+    "text": "Не може да се съхранява редактираната картина; оригиналът е запазен."
+  },
+  "Could not save the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Не може да се запази паролата в Keychain (%1$@)."
+  },
+  "Could not update GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Не може да се актуализира GitHub поверителности в Keychain."
+  },
+  "Could not update the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Не може да се актуализира паролата в Keychain (%1$@)."
+  },
+  "Couldn’t change the folder viewer": {
+    "origin": "M2M100-418M-local",
+    "text": "Не мога да променя зрителния раздел"
+  },
+  "Couldn’t eject volume": {
+    "origin": "M2M100-418M-local",
+    "text": "Не може да се изхвърли обем"
+  },
+  "Couldn’t open files": {
+    "origin": "M2M100-418M-local",
+    "text": "Не може да отворите файлове"
+  },
+  "Couldn’t open folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Не може да се отваря папката"
+  },
+  "Couldn’t open this file": {
+    "origin": "M2M100-418M-local",
+    "text": "Не мога да отворя този файл"
+  },
+  "Couldn’t open this location": {
+    "origin": "M2M100-418M-local",
+    "text": "Не може да се отвори това място"
+  },
+  "Couldn’t resolve alias": {
+    "origin": "M2M100-418M-local",
+    "text": "Не може да се реши алиас"
+  },
+  "Couldn’t restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Не може да се рестартира MacFiles"
+  },
+  "Create": {
+    "origin": "Files:Create",
+    "text": "Създаване"
+  },
+  "Create a GitHub token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Създаване на GitHub токен"
+  },
+  "Create alias": {
+    "origin": "M2M100-418M-local",
+    "text": "Създаване на алиас"
+  },
+  "Create archive": {
+    "origin": "Files:CreateArchive",
+    "text": "Създаване на архив"
+  },
+  "Create library…": {
+    "origin": "Files:FolderWidgetCreateNewLibraryDialogTitleText",
+    "text": "Създай библиотека"
+  },
+  "Create shortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "Създаване на пряк път"
+  },
+  "Create zip archive": {
+    "origin": "Files:CompressIntoZip",
+    "text": "Create zip archive"
+  },
+  "CreateFolderWithSelection": {
+    "origin": "Files:CreateFolderWithSelection",
+    "text": "Сътворение на папка с избраното"
+  },
+  "CreateShortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "Създаване на пряк път"
+  },
+  "CreateShortcutFromDialogDescription": {
+    "origin": "Files:CreateShortcutFromDialogDescription",
+    "text": "Сътворяване на пряк път до кой да е елемент"
+  },
+  "Created": {
+    "origin": "Files:PropertiesCreated.Text",
+    "text": "Създаден:"
+  },
+  "Creating alias": {
+    "origin": "M2M100-418M-local",
+    "text": "Създаване на алиас"
+  },
+  "Creating from template": {
+    "origin": "M2M100-418M-local",
+    "text": "Създаване на шаблони"
+  },
+  "Custom": {
+    "origin": "Files:Custom",
+    "text": "По избор"
+  },
+  "Custom icon applied.": {
+    "origin": "M2M100-418M-local",
+    "text": "Използва се икона."
+  },
+  "Custom tag color (hex, optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Цвет на етикета (hex, опция)"
+  },
+  "Custom theme": {
+    "origin": "M2M100-418M-local",
+    "text": "Квалифицирана тема"
+  },
+  "Customization": {
+    "origin": "Files:Customization",
+    "text": "Персонализиране"
+  },
+  "Customize toolbar": {
+    "origin": "M2M100-418M-local",
+    "text": "Настройка на инструмента"
+  },
+  "Customize toolbar…": {
+    "origin": "M2M100-418M-local",
+    "text": "Настройки на инструменти..."
+  },
+  "Cut": {
+    "origin": "Files:Cut",
+    "text": "Изрязване"
+  },
+  "Dark": {
+    "origin": "Files:DarkTheme",
+    "text": "Тъмен"
+  },
+  "Date created": {
+    "origin": "Files:DateCreated",
+    "text": "Дата на създаване"
+  },
+  "Date deleted": {
+    "origin": "Files:DateDeleted",
+    "text": "Дата на изтриване"
+  },
+  "Date format": {
+    "origin": "Files:DateFormat",
+    "text": "Формат на датата"
+  },
+  "Date modified": {
+    "origin": "Files:DateModifiedLowerCase",
+    "text": "Модифициран"
+  },
+  "Day": {
+    "origin": "Files:Day",
+    "text": "Ден"
+  },
+  "Decimal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Децитал"
+  },
+  "Decrease size": {
+    "origin": "Files:DecreaseSize",
+    "text": "Намаляване на големината"
+  },
+  "Default": {
+    "origin": "Files:Default",
+    "text": "По подразбиране"
+  },
+  "Default folder layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Дефиниция на папката layout"
+  },
+  "Default grouping": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "дефектна група"
+  },
+  "Default save location": {
+    "origin": "M2M100-418M-local",
+    "text": "Дефинитивно спасяване на местоположение"
+  },
+  "Default sorting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Дефинирано класиране"
+  },
+  "Delete": {
+    "origin": "Files:Delete",
+    "text": "Изтрий"
+  },
+  "Delete permanently": {
+    "origin": "Files:DeletePermanently",
+    "text": "Изтриване за постоянно"
+  },
+  "Delete saved tag and remove it from indexed files?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Изтриване на съхранения етикет и да го премахнете от индексирани файлове?"
+  },
+  "Delete selected permanently…": {
+    "origin": "M2M100-418M-local",
+    "text": "Изтриване на избрани постоянно ..."
+  },
+  "Deleting permanently": {
+    "origin": "M2M100-418M-local",
+    "text": "Постоянно изтриване"
+  },
+  "Description": {
+    "origin": "M2M100-418M-local",
+    "text": "описание"
+  },
+  "Desktop": {
+    "origin": "Files:Desktop",
+    "text": "Работен плот"
+  },
+  "Destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "За целта: %1$@"
+  },
+  "Detached HEAD": {
+    "origin": "M2M100-418M-local",
+    "text": "Открита глава"
+  },
+  "Details": {
+    "origin": "Files:Details",
+    "text": "Детайли"
+  },
+  "Details layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Детайли за layout"
+  },
+  "Details pane": {
+    "origin": "M2M100-418M-local",
+    "text": "Детайлът е пане"
+  },
+  "Developer tools": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Инструменти на разработчиците"
+  },
+  "Development": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Развитие"
+  },
+  "Diagnostics": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Диагностика"
+  },
+  "Diagnostics opened": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Диагнозата е отворена"
+  },
+  "Disconnect": {
+    "origin": "M2M100-418M-local",
+    "text": "Разединяване"
+  },
+  "Documents": {
+    "origin": "Files:Documents",
+    "text": "Документи"
+  },
+  "Done": {
+    "origin": "Files:Close",
+    "text": "Затвори"
+  },
+  "Double-click empty space to go up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Двойно кликване на празен пространство, за да отидете нагоре"
+  },
+  "Download": {
+    "origin": "M2M100-418M-local",
+    "text": "Изтегляне"
+  },
+  "Download files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Изтегляне на файлове..."
+  },
+  "Download here": {
+    "origin": "M2M100-418M-local",
+    "text": "Изтеглете тук"
+  },
+  "Download requested. iCloud may complete it asynchronously.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Изтегляне е поискано. iCloud Тя може да бъде завършена несинхронно."
+  },
+  "Downloaded": {
+    "origin": "M2M100-418M-local",
+    "text": "Изтеглени"
+  },
+  "Downloading": {
+    "origin": "M2M100-418M-local",
+    "text": "Изтегляне"
+  },
+  "Downloads": {
+    "origin": "Files:Downloads",
+    "text": "Изтеглени файлове"
+  },
+  "Drives": {
+    "origin": "Files:Drives",
+    "text": "Дискови устройства"
+  },
+  "Dual pane": {
+    "origin": "M2M100-418M-local",
+    "text": "Двойна пана"
+  },
+  "Duplicate": {
+    "origin": "M2M100-418M-local",
+    "text": "дуплиране"
+  },
+  "Duplicate archive paths cannot be extracted safely.": {
+    "origin": "M2M100-418M-local",
+    "text": "Двойните архивни пътеки не могат да бъдат извлечени безопасно."
+  },
+  "Duplicate tab": {
+    "origin": "Files:DuplicateTab",
+    "text": "Удвояване на раздел"
+  },
+  "Edit": {
+    "origin": "Files:Edit",
+    "text": "Редактирай"
+  },
+  "Edit POSIX permissions for selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Редактирай POSIX Разрешение за подбор"
+  },
+  "Edit address · ⌘L": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Изпращане на адрес; ⌘L"
+  },
+  "Edit archive": {
+    "origin": "M2M100-418M-local",
+    "text": "редактиране на архиви"
+  },
+  "Edit in TextEdit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit в TextEdit"
+  },
+  "Edit media metadata": {
+    "origin": "M2M100-418M-local",
+    "text": "Изграждане на медийни метаданни"
+  },
+  "Edit media metadata…": {
+    "origin": "M2M100-418M-local",
+    "text": "Изпращане на медийни метаданни..."
+  },
+  "Edit or import the settings document, then Apply to validate and save. Language changes require a restart.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Редактиране или импортиране на документа за настройки, а след това приложи за валидиране и съхранение."
+  },
+  "Edit permissions on the link's target instead.": {
+    "origin": "M2M100-418M-local",
+    "text": "Редактиране на разрешенията на целта на връзката вместо това."
+  },
+  "Edit settings file…": {
+    "origin": "Files:EditSettingsFile",
+    "text": "Редактиране на файла с настройки"
+  },
+  "Edit tags": {
+    "origin": "Files:EditTags",
+    "text": "Редактиране на файлови етикети"
+  },
+  "Edit tags…": {
+    "origin": "Files:EditTags",
+    "text": "Редактиране на файлови етикети"
+  },
+  "Edit the archive target instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Редактиране на целта за архивиране вместо символичен линк."
+  },
+  "Edit the target's attributes instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Редактиране на атрибутите на целта вместо символична връзка."
+  },
+  "Edits apply to this item only. Ownership changes require existing system permission; MacFiles does not elevate itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Промените в собствеността изискват съществуващо системно разрешение; MacFiles Тя не се издига."
+  },
+  "Eject": {
+    "origin": "Files:Eject",
+    "text": "Извади"
+  },
+  "Empty": {
+    "origin": "M2M100-418M-local",
+    "text": "празна"
+  },
+  "Empty accessible Trash…": {
+    "origin": "M2M100-418M-local",
+    "text": "Празен достъп до трафик..."
+  },
+  "Empty archive entry.": {
+    "origin": "M2M100-418M-local",
+    "text": "Празен архив за влизане."
+  },
+  "Encoding": {
+    "origin": "M2M100-418M-local",
+    "text": "Кодиране"
+  },
+  "Encrypted": {
+    "origin": "M2M100-418M-local",
+    "text": "криптирани"
+  },
+  "Enter a GitHub username and a valid access token.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Въведете потребителско име на GitHub и валиден токен за достъп."
+  },
+  "Enter a commit message.": {
+    "origin": "M2M100-418M-local",
+    "text": "Въведете съобщение за ангажираност."
+  },
+  "Enter a name without a slash or colon. The name cannot be empty, ‘.’, or ‘..’.": {
+    "origin": "M2M100-418M-local",
+    "text": "Въведете име, без да има слой или колона. името не може да бъде празно, “.”, или “..”."
+  },
+  "Enter a size from 1 to 1,048,576 MiB.": {
+    "origin": "M2M100-418M-local",
+    "text": "Въведете размери от 1 до 1,048,576 MiB."
+  },
+  "Enter a valid host, username, and port.": {
+    "origin": "M2M100-418M-local",
+    "text": "Въведете валиден хост, потребителско име и порт."
+  },
+  "Enter an SMB, AFP, or WebDAV address.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Влезте в SMB, AFPили WebDAV Адрес"
+  },
+  "Enter an attribute name of 1–127 UTF-8 bytes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Въведете името на атрибута от 1 до 127 UTF-8 байтове"
+  },
+  "Enter compact overlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "Компактен режим"
+  },
+  "Enter numeric user and group IDs.": {
+    "origin": "M2M100-418M-local",
+    "text": "Въведете идентификационни номера на потребителя и идентификаторите на групата."
+  },
+  "Enter password:": {
+    "origin": "M2M100-418M-local",
+    "text": "Въведете парола:"
+  },
+  "Enter permissions from 000 to 777.": {
+    "origin": "M2M100-418M-local",
+    "text": "Въведете разрешения от 000 до 777."
+  },
+  "Enter the archive password before editing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Въведете паролата за архивиране преди редактиране."
+  },
+  "Enter three octal digits, for example 644 or 755.": {
+    "origin": "M2M100-418M-local",
+    "text": "Въведете три октални цифри, например 644 или 755."
+  },
+  "Enter whole numbers for byte limits.": {
+    "origin": "M2M100-418M-local",
+    "text": "Въведете цели числа за байтове."
+  },
+  "EnterCompactOverlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "Компактен режим"
+  },
+  "Executable": {
+    "origin": "M2M100-418M-local",
+    "text": "Изпълнителна"
+  },
+  "Executable format": {
+    "origin": "M2M100-418M-local",
+    "text": "Изпълнителен формат"
+  },
+  "Exit compact overlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "Изход от компактен режим"
+  },
+  "ExitCompactOverlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "Изход от компактен режим"
+  },
+  "Expand folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Разширяване на папката"
+  },
+  "Expanded": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "разширени"
+  },
+  "Export ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Износът ACL…"
+  },
+  "Export bytes…": {
+    "origin": "M2M100-418M-local",
+    "text": "Износът на битове..."
+  },
+  "Export theme…": {
+    "origin": "M2M100-418M-local",
+    "text": "Темата на износа..."
+  },
+  "Export…": {
+    "origin": "M2M100-418M-local",
+    "text": "Износът..."
+  },
+  "Extended attributes": {
+    "origin": "M2M100-418M-local",
+    "text": "Разширени атрибути"
+  },
+  "Extended attributes…": {
+    "origin": "M2M100-418M-local",
+    "text": "Разширени атрибути..."
+  },
+  "Extensions are preserved. Conflicts stop the batch before any names change.": {
+    "origin": "M2M100-418M-local",
+    "text": "Конфликтите спират партидата, преди да се променят имената."
+  },
+  "Extensions: txt, swift, pdf": {
+    "origin": "M2M100-418M-local",
+    "text": "Разширения: txt, swift и pdf"
+  },
+  "Extra large icons": {
+    "origin": "M2M100-418M-local",
+    "text": "Допълнителни икони"
+  },
+  "Extract": {
+    "origin": "Files:Extract",
+    "text": "Извличане"
+  },
+  "Extract all…": {
+    "origin": "M2M100-418M-local",
+    "text": "Извлечете всички..."
+  },
+  "Extract here": {
+    "origin": "Files:ExtractHere",
+    "text": "Извличане тук"
+  },
+  "Extract here (Smart)": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "Extract here (Smart)"
+  },
+  "Extract selected…": {
+    "origin": "M2M100-418M-local",
+    "text": "Избрани екстракти..."
+  },
+  "Extract to child folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Екстракт към детската папка"
+  },
+  "Extract to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Екстракт от..."
+  },
+  "ExtractHere": {
+    "origin": "Files:ExtractHere",
+    "text": "Извличане тук"
+  },
+  "ExtractHereSmart": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "Extract here (Smart)"
+  },
+  "Extracted entry size does not match its header.": {
+    "origin": "M2M100-418M-local",
+    "text": "Размерът на входа не съответства на заглавието му."
+  },
+  "Extracting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Екстрактиране"
+  },
+  "Extracts into a new folder; existing files are kept.": {
+    "origin": "M2M100-418M-local",
+    "text": "Екстрактират се в нова папка; съществуващите файлове се съхраняват."
+  },
+  "FTP over TLS": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "FTP над TLS"
+  },
+  "Failed": {
+    "origin": "M2M100-418M-local",
+    "text": "неуспех"
+  },
+  "Fetch": {
+    "origin": "M2M100-418M-local",
+    "text": "Фетч"
+  },
+  "File": {
+    "origin": "Files:File",
+    "text": "Файл"
+  },
+  "File actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Филми действия"
+  },
+  "File hashes": {
+    "origin": "M2M100-418M-local",
+    "text": "Датотеки хаши"
+  },
+  "File information": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Информация за файлове"
+  },
+  "File operations": {
+    "origin": "M2M100-418M-local",
+    "text": "Файлови операции"
+  },
+  "File operations in this window": {
+    "origin": "M2M100-418M-local",
+    "text": "Файлови операции в този прозорец"
+  },
+  "File shelf": {
+    "origin": "M2M100-418M-local",
+    "text": "Файлове Shelf"
+  },
+  "File shelf…": {
+    "origin": "M2M100-418M-local",
+    "text": "Филмът Shelf..."
+  },
+  "File size": {
+    "origin": "M2M100-418M-local",
+    "text": "Размер на файла"
+  },
+  "Files": {
+    "origin": "Files:SecurityAdvancedFlagsFilesLabel",
+    "text": "файлове"
+  },
+  "Files size": {
+    "origin": "M2M100-418M-local",
+    "text": "Размер на файловете"
+  },
+  "Files you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Файловете, които отворите, ще се появят тук."
+  },
+  "Fill": {
+    "origin": "Files:Fill",
+    "text": "Запълване"
+  },
+  "Filter entries": {
+    "origin": "M2M100-418M-local",
+    "text": "Филтри за влизане"
+  },
+  "Find": {
+    "origin": "M2M100-418M-local",
+    "text": "Намерете"
+  },
+  "Find and replace": {
+    "origin": "M2M100-418M-local",
+    "text": "Намерете и замествайте"
+  },
+  "Finder Get Info unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder Недостъпна информация"
+  },
+  "Finder Get Info…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder Получаване на информация..."
+  },
+  "Finder's desktop and other apps' Open/Save dialogs remain managed by macOS.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder Диалоговете на \"Десктоп и други приложения\" Отворени/Спаси се управляват от macOS."
+  },
+  "First letter": {
+    "origin": "M2M100-418M-local",
+    "text": "Първо писмо"
+  },
+  "Fit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Подходящ"
+  },
+  "Flatten": {
+    "origin": "M2M100-418M-local",
+    "text": "Плътно"
+  },
+  "Flatten folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Пълна папка"
+  },
+  "Flatten folder…": {
+    "origin": "M2M100-418M-local",
+    "text": "Пълна папка..."
+  },
+  "Flatten ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Плътно »%1$@’?"
+  },
+  "Flattening folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Плътно папче"
+  },
+  "Focus other pane": {
+    "origin": "M2M100-418M-local",
+    "text": "Внимавайте за други панели"
+  },
+  "Folder": {
+    "origin": "Files:Folder",
+    "text": "Папка"
+  },
+  "Folder contents": {
+    "origin": "M2M100-418M-local",
+    "text": "Съдържание на папката"
+  },
+  "Folder contents are not included in this total.": {
+    "origin": "M2M100-418M-local",
+    "text": "Съдържанието на папките не е включено в това общо."
+  },
+  "Folder layout saved.": {
+    "origin": "M2M100-418M-local",
+    "text": "Стойността на папката е спасена."
+  },
+  "Folder path": {
+    "origin": "Files:FolderPath",
+    "text": "Път на папката"
+  },
+  "Folder presentation": {
+    "origin": "M2M100-418M-local",
+    "text": "Представяне на папката"
+  },
+  "Folder sizes are calculated in the background after Refresh. Large or network folders may take longer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Размерите на фасциклетите се изчисляват на фона след освежаване. големи или мрежови фасцикли могат да отнемат по-дълго време."
+  },
+  "Folder unavailable": {
+    "origin": "M2M100-418M-local",
+    "text": "Недостъпна папка"
+  },
+  "Folders": {
+    "origin": "M2M100-418M-local",
+    "text": "Досиетата"
+  },
+  "Folders you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "text": "Файловете, които ще отворите, ще се появят тук."
+  },
+  "Font": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "фонтани"
+  },
+  "Font and material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Източник и материал"
+  },
+  "Forget saved": {
+    "origin": "M2M100-418M-local",
+    "text": "Забравени спасени"
+  },
+  "Format": {
+    "origin": "Files:FormatDriveText",
+    "text": "Формат"
+  },
+  "Format drive in Disk Utility…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Формат на дисковете в диска Utility..."
+  },
+  "Forward": {
+    "origin": "Files:Forward",
+    "text": "Напред (Alt+Стрелка надясно)"
+  },
+  "Forward · ⌘]": {
+    "origin": "Files:Forward",
+    "text": "Напред (Alt+Стрелка надясно) · ⌘]"
+  },
+  "Fragmented media metadata cannot be edited without remuxing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Фрагментираните медийни метаданни не могат да бъдат редактирани без ремукс."
+  },
+  "Gallery": {
+    "origin": "M2M100-418M-local",
+    "text": "Галерия"
+  },
+  "Gallery layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Галерия Layout"
+  },
+  "General": {
+    "origin": "Files:General",
+    "text": "Общо"
+  },
+  "Git operation in %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git Операция в %1$@"
+  },
+  "Git repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git Репозитории"
+  },
+  "Git repository…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git Ресторантът..."
+  },
+  "GitHub account": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Счетоводен акаунт на GitHub"
+  },
+  "GitHub username": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub потребителско име"
+  },
+  "Go to path": {
+    "origin": "M2M100-418M-local",
+    "text": "Пътувайте по пътя"
+  },
+  "Go to path…": {
+    "origin": "M2M100-418M-local",
+    "text": "Да отидеш на пътя..."
+  },
+  "Gray": {
+    "origin": "Files:Gray",
+    "text": "Сиво"
+  },
+  "Green": {
+    "origin": "Files:Green",
+    "text": "Зелено"
+  },
+  "Group": {
+    "origin": "M2M100-418M-local",
+    "text": "Група"
+  },
+  "Group GID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Група GID"
+  },
+  "Group ascending": {
+    "origin": "Files:GroupAscendingDescription",
+    "text": "Подредба на групите възходящо"
+  },
+  "Group by": {
+    "origin": "Files:GroupBy",
+    "text": "Групиране по"
+  },
+  "Group by date unit": {
+    "origin": "Files:GroupByDateUnit",
+    "text": "Групиране по дата"
+  },
+  "HTTPS Git operations can use a GitHub access token stored in your macOS Keychain. Choose the repositories and permissions when creating the token. Existing Git authentication remains in use when no MacFiles account is saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "HTTPS Git операциите могат да използват токен за достъп до GitHub, който се съхранява в macOS KeychainИзберете архивите и разрешенията при създаването на токена. Git Оценката остава в употреба, когато не MacFiles Счетоводителят е спасен."
+  },
+  "Hard Link": {
+    "origin": "M2M100-418M-local",
+    "text": "Твърди връзки"
+  },
+  "Hashes": {
+    "origin": "Files:Hashes",
+    "text": "Хешове"
+  },
+  "Hashes are available for a single file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Хашетата са достъпни за един файл."
+  },
+  "Header": {
+    "origin": "M2M100-418M-local",
+    "text": "Глава"
+  },
+  "Help": {
+    "origin": "Files:Help",
+    "text": "Помощ"
+  },
+  "Hidden": {
+    "origin": "Files:Hidden",
+    "text": "Скрито"
+  },
+  "Hidden files": {
+    "origin": "M2M100-418M-local",
+    "text": "Скрити файлове"
+  },
+  "History": {
+    "origin": "M2M100-418M-local",
+    "text": "История"
+  },
+  "Home": {
+    "origin": "Files:Key.Home",
+    "text": "Начало"
+  },
+  "Horizontal alignment": {
+    "origin": "Files:HorizontalAlignment",
+    "text": "Водоравно приравняване"
+  },
+  "IDE opened.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Отворена е тук."
+  },
+  "Icon": {
+    "origin": "M2M100-418M-local",
+    "text": "Икона"
+  },
+  "Icons": {
+    "origin": "M2M100-418M-local",
+    "text": "Икони"
+  },
+  "Icons layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Икони на лайка"
+  },
+  "Image alignment": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Снимка на съвместимост"
+  },
+  "Image fit": {
+    "origin": "Files:ImageFit",
+    "text": "Напасване на изображението"
+  },
+  "Import theme…": {
+    "origin": "M2M100-418M-local",
+    "text": "Темата на вноса..."
+  },
+  "Imported. Apply to save.": {
+    "origin": "M2M100-418M-local",
+    "text": "Изтеглете и използвайте за спасяване."
+  },
+  "Import…": {
+    "origin": "M2M100-418M-local",
+    "text": "Вносът..."
+  },
+  "Incomplete archive listing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Непълна архивна списък."
+  },
+  "Increase size": {
+    "origin": "Files:IncreaseSize",
+    "text": "Увеличаване на големината"
+  },
+  "Indexed document, image, audio, video and filesystem metadata supplied by Spotlight. Tags can be edited with the Tags tool.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Индексирани документи, изображения, аудио, видео и метаданни на файловата система, предоставени от SpotlightТагове могат да бъдат редактирани с инструмента Тагове."
+  },
+  "Indexed files updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Индексирани файлове са актуализирани."
+  },
+  "Initialize": {
+    "origin": "M2M100-418M-local",
+    "text": "Инициативата"
+  },
+  "Initialize repository here": {
+    "origin": "M2M100-418M-local",
+    "text": "Започнете с резервация тук"
+  },
+  "Install certificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "Install certificate"
+  },
+  "Install font": {
+    "origin": "Files:InstallFont",
+    "text": "Install font"
+  },
+  "InstallCertificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "Install certificate"
+  },
+  "InstallFont": {
+    "origin": "Files:InstallFont",
+    "text": "Install font"
+  },
+  "Interval in seconds": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Разходка в секунди"
+  },
+  "Invalid Base64 data.": {
+    "origin": "M2M100-418M-local",
+    "text": "Невалидни данни Base64"
+  },
+  "Invalid SSH host or port.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "инвалид SSH Хостинг или пристанище."
+  },
+  "Invalid archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Невъзможни архиви за хард линк."
+  },
+  "Invalid archive link target.": {
+    "origin": "M2M100-418M-local",
+    "text": "Задължителен архивен линк за целта."
+  },
+  "Invalid extended media atom.": {
+    "origin": "M2M100-418M-local",
+    "text": "Инвалиден разширен медиен атом."
+  },
+  "Invalid hard link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Недостатъчна твърда връзка."
+  },
+  "Invalid key for %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Недостатъчен ключ за %1$@."
+  },
+  "Invalid macOS ACL text. Preserve the !#acl 1 header and use valid entries.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "инвалид macOS ACL Съхранявайте заглавието #acl 1 и използвайте валидни въвеждания."
+  },
+  "Invalid media atom header.": {
+    "origin": "M2M100-418M-local",
+    "text": "Инвалиден медиен атом на заглавието."
+  },
+  "Invalid media atom size.": {
+    "origin": "M2M100-418M-local",
+    "text": "Инвалидни медийни атомни размери"
+  },
+  "Invalid media atom.": {
+    "origin": "M2M100-418M-local",
+    "text": "Атом на медиите."
+  },
+  "Invalid media file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Невалидни медийни файлове"
+  },
+  "Invalid name": {
+    "origin": "Files:InvalidTagNameWarning",
+    "text": "Невалидно име"
+  },
+  "Invalid remote URL.": {
+    "origin": "M2M100-418M-local",
+    "text": "Невалиден дистанционен URL."
+  },
+  "Invalid settings document.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Инвалиден документ за установяване."
+  },
+  "Invalid tag metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Невалидни метаданни."
+  },
+  "Invalid tag name or color.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Невалидно име или цвят."
+  },
+  "Invalid theme colors or appearance.": {
+    "origin": "M2M100-418M-local",
+    "text": "Невалидни цветове или външен вид."
+  },
+  "Invalid volume size": {
+    "origin": "M2M100-418M-local",
+    "text": "Невалиден обем размер"
+  },
+  "Invert selection": {
+    "origin": "Files:InvertSelection",
+    "text": "Обръщане на избора"
+  },
+  "Item properties": {
+    "origin": "M2M100-418M-local",
+    "text": "Продукти на свойствата"
+  },
+  "Items move into .MacFiles-Recovery on this server, including folder contents. Use Undo remote to restore them during this session.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Продуктите се движат .MacFiles-Recovery на този сървър, включително съдържанието на папката. използвайте Undo Remote, за да ги възстановите по време на тази сесия."
+  },
+  "Keep MacFiles open": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Дръжте MacFiles Отвори"
+  },
+  "Keep both": {
+    "origin": "M2M100-418M-local",
+    "text": "Дръжте и двете"
+  },
+  "Keep both creates numbered names. Replace moves previous versions to Trash and supports Undo. Folders are replaced as a whole.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Дръжте и двете създава номерирани имена. заместване премества предишните версии на Trash и поддържа Undo."
+  },
+  "Keep running after closing windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Продължете да работите след затваряне на прозорците"
+  },
+  "Keep window on top": {
+    "origin": "M2M100-418M-local",
+    "text": "Дръжте прозореца нагоре"
+  },
+  "Keyboard shortcuts": {
+    "origin": "M2M100-418M-local",
+    "text": "Късметът на кратките"
+  },
+  "Keyboard shortcuts…": {
+    "origin": "M2M100-418M-local",
+    "text": "Късметът на кратките..."
+  },
+  "Keywords (comma separated)": {
+    "origin": "M2M100-418M-local",
+    "text": "Ключови думи (като отделни)"
+  },
+  "Kind": {
+    "origin": "Files:Type",
+    "text": "Тип"
+  },
+  "Label": {
+    "origin": "M2M100-418M-local",
+    "text": "Етикет"
+  },
+  "Language": {
+    "origin": "Files:PropertyLanguage",
+    "text": "Език"
+  },
+  "Large icons": {
+    "origin": "M2M100-418M-local",
+    "text": "Големи икони"
+  },
+  "Launch at login": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Стартиране в Login"
+  },
+  "Layout": {
+    "origin": "Files:Layout",
+    "text": "Оформление"
+  },
+  "Left": {
+    "origin": "Files:Left",
+    "text": "Наляво"
+  },
+  "Let the current operation finish before quitting.": {
+    "origin": "M2M100-418M-local",
+    "text": "Нека текущата операция приключи, преди да се откаже."
+  },
+  "Libraries": {
+    "origin": "Files:SidebarLibraries",
+    "text": "Библиотеки"
+  },
+  "Library": {
+    "origin": "Files:Library",
+    "text": "Библиотека"
+  },
+  "Library name": {
+    "origin": "M2M100-418M-local",
+    "text": "Име на библиотеката"
+  },
+  "Library properties…": {
+    "origin": "M2M100-418M-local",
+    "text": "Библиотечни имоти..."
+  },
+  "Library/Application Support/MacFiles/known_hosts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Библиотека / Поддръжка за приложения /MacFiles/известни хости"
+  },
+  "Library/Mobile Documents": {
+    "origin": "M2M100-418M-local",
+    "text": "Библиотека / Мобилни документи"
+  },
+  "Library/Mobile Documents/com~apple~CloudDocs": {
+    "origin": "M2M100-418M-local",
+    "text": "Библиотека/Мобилни документи/com~apple~CloudDocs"
+  },
+  "Light": {
+    "origin": "Files:LightTheme",
+    "text": "Светъл"
+  },
+  "Link target": {
+    "origin": "M2M100-418M-local",
+    "text": "Линк целта"
+  },
+  "List": {
+    "origin": "Files:List",
+    "text": "Списък"
+  },
+  "List folders before files": {
+    "origin": "M2M100-418M-local",
+    "text": "Списък на папки преди файловете"
+  },
+  "Loading…": {
+    "origin": "Files:Loading",
+    "text": "Зареждане..."
+  },
+  "Local": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Местни"
+  },
+  "Local download removal requested.": {
+    "origin": "M2M100-418M-local",
+    "text": "Изтегляне на локално изтегляне е поискано."
+  },
+  "Local file": {
+    "origin": "M2M100-418M-local",
+    "text": "Местни файлове"
+  },
+  "Location": {
+    "origin": "Files:Location",
+    "text": "Местоположение:"
+  },
+  "Lock screen and wallpaper settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Затваряне на екрана и настройки на тапети..."
+  },
+  "Locked": {
+    "origin": "M2M100-418M-local",
+    "text": "Затворени"
+  },
+  "Macintosh HD": {
+    "origin": "M2M100-418M-local",
+    "text": "Макинтош HD"
+  },
+  "Make alias": {
+    "origin": "M2M100-418M-local",
+    "text": "Направете алианс"
+  },
+  "Make alias…": {
+    "origin": "M2M100-418M-local",
+    "text": "Направете си алианс..."
+  },
+  "Manage account in provider app": {
+    "origin": "M2M100-418M-local",
+    "text": "Управление на акаунт в приложението на доставчика"
+  },
+  "Manage cloud accounts…": {
+    "origin": "M2M100-418M-local",
+    "text": "Управление на счетоводните сметки в облака."
+  },
+  "Manage tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Управление на таг"
+  },
+  "Maximum bytes": {
+    "origin": "M2M100-418M-local",
+    "text": "Максимален байт"
+  },
+  "Media export did not complete.": {
+    "origin": "M2M100-418M-local",
+    "text": "Износът на медии не е завършен."
+  },
+  "Media metadata is too large.": {
+    "origin": "M2M100-418M-local",
+    "text": "Медиите са твърде големи."
+  },
+  "Medium icons": {
+    "origin": "M2M100-418M-local",
+    "text": "Средни икони"
+  },
+  "Minimize": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Минимално"
+  },
+  "Minimum bytes": {
+    "origin": "M2M100-418M-local",
+    "text": "Минимални байтове"
+  },
+  "Minimum size exceeds maximum size.": {
+    "origin": "M2M100-418M-local",
+    "text": "Минималният размер надвишава максималния размер."
+  },
+  "Mode": {
+    "origin": "M2M100-418M-local",
+    "text": "Мода"
+  },
+  "Modified": {
+    "origin": "Files:Modified",
+    "text": "Променено"
+  },
+  "Modified after": {
+    "origin": "M2M100-418M-local",
+    "text": "Промени след"
+  },
+  "Month": {
+    "origin": "Files:Month",
+    "text": "Месец"
+  },
+  "More actions": {
+    "origin": "M2M100-418M-local",
+    "text": "Повече действия"
+  },
+  "Mount share…": {
+    "origin": "M2M100-418M-local",
+    "text": "Планината споделя..."
+  },
+  "Mounted network locations appear here. Connect to a server to browse another location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Намерени мрежови локации се появяват тук.Свържете се с сървър, за да прегледате друго място."
+  },
+  "Move %1$@ remote items to recovery?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Преместване %1$@ Отдалечени елементи за възстановяване?"
+  },
+  "Move %1$@ to Trash?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Преместване %1$@ За да се развалиш?"
+  },
+  "Move here": {
+    "origin": "Files:PinToSidebarByDraggingCaptionText",
+    "text": "Премести тук"
+  },
+  "Move nested files to this folder. Existing names and symbolic links are left in place. Empty subfolders go to Trash. You can undo this operation.": {
+    "origin": "M2M100-418M-local",
+    "text": "Преместете нанесените файлове в тази папка. съществуващи имена и символични връзки са оставени на място. Празни подточници отиват в Trash. Можете да отключите тази операция."
+  },
+  "Move to Trash": {
+    "origin": "M2M100-418M-local",
+    "text": "Преместване на трах"
+  },
+  "Move to Trash…": {
+    "origin": "M2M100-418M-local",
+    "text": "Да се движиш на трах..."
+  },
+  "Move to recovery": {
+    "origin": "M2M100-418M-local",
+    "text": "Преместване към възстановяване"
+  },
+  "Move to recovery folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Преместване към възстановяване на папката ..."
+  },
+  "Movies": {
+    "origin": "M2M100-418M-local",
+    "text": "Филми"
+  },
+  "Moving": {
+    "origin": "M2M100-418M-local",
+    "text": "Преместване"
+  },
+  "Moving files": {
+    "origin": "M2M100-418M-local",
+    "text": "Преместващи файлове"
+  },
+  "Moving to Trash": {
+    "origin": "M2M100-418M-local",
+    "text": "Преминаване към трас"
+  },
+  "Multiple items": {
+    "origin": "M2M100-418M-local",
+    "text": "Многобройни елементи"
+  },
+  "Music": {
+    "origin": "Files:Music",
+    "text": "Музика"
+  },
+  "My MacFiles theme": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Моята MacFiles Тема"
+  },
+  "My library": {
+    "origin": "M2M100-418M-local",
+    "text": "Моята библиотека"
+  },
+  "My search": {
+    "origin": "M2M100-418M-local",
+    "text": "Моето търсене"
+  },
+  "Name": {
+    "origin": "Files:NameWithColon",
+    "text": "Име:"
+  },
+  "Native macOS extended attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Родители macOS Разширени атрибути"
+  },
+  "Natural language search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Природни езици търсене"
+  },
+  "Navigate": {
+    "origin": "M2M100-418M-local",
+    "text": "Навигация"
+  },
+  "Network": {
+    "origin": "Files:Network",
+    "text": "Мрежа"
+  },
+  "New": {
+    "origin": "Files:BaseLayoutContextFlyoutNew.Label",
+    "text": "Създай"
+  },
+  "New archive file": {
+    "origin": "M2M100-418M-local",
+    "text": "Нов архивен файл"
+  },
+  "New archive folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Новият архивен папк"
+  },
+  "New branch": {
+    "origin": "Files:NewBranch",
+    "text": "Нов клон"
+  },
+  "New file from template": {
+    "origin": "M2M100-418M-local",
+    "text": "Нови файлове от шаблона"
+  },
+  "New folder": {
+    "origin": "Files:NewFolder",
+    "text": "Нова папка"
+  },
+  "New folder…": {
+    "origin": "Files:NewFolder",
+    "text": "Нова папка"
+  },
+  "New from template": {
+    "origin": "M2M100-418M-local",
+    "text": "Нов от храма"
+  },
+  "New from template…": {
+    "origin": "M2M100-418M-local",
+    "text": "Новото от храма..."
+  },
+  "New name": {
+    "origin": "M2M100-418M-local",
+    "text": "Ново име"
+  },
+  "New remote file": {
+    "origin": "M2M100-418M-local",
+    "text": "Нови отдалечени файлове"
+  },
+  "New remote folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Новият дистанционен папк"
+  },
+  "New tab": {
+    "origin": "Files:NewTab",
+    "text": "Нов раздел"
+  },
+  "New tab · ⌘T": {
+    "origin": "Files:NewTab",
+    "text": "Нов раздел · ⌘T"
+  },
+  "New text file": {
+    "origin": "M2M100-418M-local",
+    "text": "Нов текст файл"
+  },
+  "New text file…": {
+    "origin": "M2M100-418M-local",
+    "text": "Нови текстови файлове..."
+  },
+  "New window": {
+    "origin": "Files:NewWindow",
+    "text": "Нов прозорец"
+  },
+  "Next layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Следваща статияLayout"
+  },
+  "Next tab": {
+    "origin": "M2M100-418M-local",
+    "text": "Следваща статия Таб"
+  },
+  "No": {
+    "origin": "Files:No",
+    "text": "Не"
+  },
+  "No IDE selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Няма избрани"
+  },
+  "No application could open ‘%1$@’.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Никаква заявка не може да бъде отворена\"%1$@’."
+  },
+  "No archive entry was extracted.": {
+    "origin": "M2M100-418M-local",
+    "text": "Не са извлечени никакви архиви."
+  },
+  "No archive is open.": {
+    "origin": "M2M100-418M-local",
+    "text": "Архивът не е отворен."
+  },
+  "No archive was produced.": {
+    "origin": "M2M100-418M-local",
+    "text": "Не са създадени архиви."
+  },
+  "No commits yet": {
+    "origin": "M2M100-418M-local",
+    "text": "Не се ангажират още"
+  },
+  "No files were extracted.": {
+    "origin": "M2M100-418M-local",
+    "text": "Никакви файлове не са извлечени."
+  },
+  "No matching items": {
+    "origin": "M2M100-418M-local",
+    "text": "Не съвпадат елементи"
+  },
+  "No movie header was found.": {
+    "origin": "M2M100-418M-local",
+    "text": "Не са намерени филмови заглавия."
+  },
+  "No operations recorded.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Няма регистрирани операции."
+  },
+  "No readable macOS code signature.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Не може да се чете macOS Подпис на кода.\n\n"
+  },
+  "No selection": {
+    "origin": "M2M100-418M-local",
+    "text": "Няма селекция"
+  },
+  "No settings match your search.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Няма настройки, които да отговарят на търсенето ви."
+  },
+  "No tracked diff. New files appear after staging.": {
+    "origin": "M2M100-418M-local",
+    "text": "Няма проследени диф. Нови файлове се появяват след изтегляне."
+  },
+  "None": {
+    "origin": "Files:CompressionLevelNone",
+    "text": "Нищо"
+  },
+  "Not enough free space to finish extraction.": {
+    "origin": "M2M100-418M-local",
+    "text": "Няма достатъчно свободно пространство за завършване на екстракцията."
+  },
+  "Not managed by a detected cloud provider": {
+    "origin": "M2M100-418M-local",
+    "text": "Не се управлява от открит доставчик на облак"
+  },
+  "Not used": {
+    "origin": "M2M100-418M-local",
+    "text": "Не се използва"
+  },
+  "Numbered names": {
+    "origin": "M2M100-418M-local",
+    "text": "броене на имената"
+  },
+  "OK": {
+    "origin": "Files:OK",
+    "text": "Добре"
+  },
+  "Older": {
+    "origin": "M2M100-418M-local",
+    "text": "Стария"
+  },
+  "Online only": {
+    "origin": "M2M100-418M-local",
+    "text": "Само онлайн"
+  },
+  "Only an uploaded iCloud file without conflicts can have its local download removed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Само една изтеглена iCloud файл без конфликти може да има местно изтегляне е премахната."
+  },
+  "Only images can be rotated.": {
+    "origin": "M2M100-418M-local",
+    "text": "Само изображенията могат да се въртят."
+  },
+  "Open": {
+    "origin": "Files:Open",
+    "text": "Отвори"
+  },
+  "Open / Preview": {
+    "origin": "M2M100-418M-local",
+    "text": "Отворена / Преглед"
+  },
+  "Open Login Items settings": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Отворени настройки на елементи за влизане"
+  },
+  "Open MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Отвори MacFiles"
+  },
+  "Open System Settings for iCloud": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Отворени настройки за iCloud"
+  },
+  "Open a repository, initialize this folder, or clone a repository.": {
+    "origin": "M2M100-418M-local",
+    "text": "Отворете репозитория, стартирайте тази папка или клонирайте репозитория."
+  },
+  "Open all folders in tabs": {
+    "origin": "M2M100-418M-local",
+    "text": "Отворете всички папки в табчета"
+  },
+  "Open containing folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Отворена съдържаща папка"
+  },
+  "Open external folders in new windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Отворете външни папки в нови прозорци"
+  },
+  "Open file location": {
+    "origin": "Files:OpenFileLocation",
+    "text": "Отваряне местоположението на файла"
+  },
+  "Open folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Отворена папка"
+  },
+  "Open folders in new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Отворени папки в нови таблици"
+  },
+  "Open folder…": {
+    "origin": "M2M100-418M-local",
+    "text": "Отворена папка..."
+  },
+  "Open in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Отворено в IDE"
+  },
+  "Open in IDE uses the selected application. Open repository in IDE resolves the Git repository root first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open in IDE използва избраната програма. Open repository in IDE решава Git Първият корен на репозиториите."
+  },
+  "Open in Terminal": {
+    "origin": "M2M100-418M-local",
+    "text": "Отворени в терминал"
+  },
+  "Open in new tab": {
+    "origin": "Files:OpenInNewTab",
+    "text": "Отваряне в нов раздел"
+  },
+  "Open in new window": {
+    "origin": "Files:OpenInNewWindow",
+    "text": "Отваряне в нов прозорец"
+  },
+  "Open in other pane": {
+    "origin": "M2M100-418M-local",
+    "text": "Отворени в други панели"
+  },
+  "Open log file": {
+    "origin": "Files:OpenLogFile",
+    "text": "Open log file"
+  },
+  "Open new tabs with dual panes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Отворете нови табла с двойни панели"
+  },
+  "Open repository in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Отворени хранилища в IDE"
+  },
+  "Open selection": {
+    "origin": "M2M100-418M-local",
+    "text": "Отворена селекция"
+  },
+  "Open target folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Отворена целева папка"
+  },
+  "Open with": {
+    "origin": "Files:OpenWith",
+    "text": "Отваряне с"
+  },
+  "Open with application": {
+    "origin": "M2M100-418M-local",
+    "text": "Отворено с заявление"
+  },
+  "Open with application…": {
+    "origin": "M2M100-418M-local",
+    "text": "Отворено с приложение..."
+  },
+  "Open with…": {
+    "origin": "Files:OpenWith",
+    "text": "Отваряне с"
+  },
+  "Open-ended media atoms require remuxing before editing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Отворените медийни атоми изискват ремуксация преди редактиране."
+  },
+  "OpenAllTaggedItems": {
+    "origin": "Files:OpenAllTaggedItems",
+    "text": "Отваряне на всички"
+  },
+  "OpenLogFile": {
+    "origin": "Files:OpenLogFile",
+    "text": "Open log file"
+  },
+  "Operation completed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Операцията е завършена."
+  },
+  "Operation failed": {
+    "origin": "M2M100-418M-local",
+    "text": "Операцията се провали"
+  },
+  "Operations": {
+    "origin": "M2M100-418M-local",
+    "text": "Операции"
+  },
+  "Operations (%1$@ queued)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Операции (%1$@ Където)"
+  },
+  "Operations…": {
+    "origin": "M2M100-418M-local",
+    "text": "Операциите..."
+  },
+  "Orange": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Оранжево"
+  },
+  "Original location": {
+    "origin": "M2M100-418M-local",
+    "text": "Оригинално местоположение"
+  },
+  "Original locations are remembered for items deleted by MacFiles, including across launches.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Оригиналните обекти се запомнят за изтрити предмети от MacFilesВключително и на всички стартове."
+  },
+  "Original name": {
+    "origin": "M2M100-418M-local",
+    "text": "Оригинално име"
+  },
+  "Overcast": {
+    "origin": "Files:Overcast",
+    "text": "Облачно"
+  },
+  "Owner": {
+    "origin": "Files:PropertyFileOwner",
+    "text": "Собственик"
+  },
+  "Owner UID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Собственик UID"
+  },
+  "Ownership updated.": {
+    "origin": "M2M100-418M-local",
+    "text": "Актуализирана е собственост."
+  },
+  "POSIX permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "POSIX Позволения"
+  },
+  "Password": {
+    "origin": "Files:Password",
+    "text": "Парола"
+  },
+  "Password (optional, AES-256)": {
+    "origin": "M2M100-418M-local",
+    "text": "Парола (опционално, AES-256)"
+  },
+  "Password / key passphrase (optional)": {
+    "origin": "M2M100-418M-local",
+    "text": "Парола / ключова парола (опционално)"
+  },
+  "Password protection is supported for ZIP archives.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Защитата на паролата се поддържа за ZIP Архивът ."
+  },
+  "Paste": {
+    "origin": "Files:Paste",
+    "text": "Поставяне"
+  },
+  "Paste and drop transfers queue behind the current operation. Completed changes remain available through Undo. Copy cancellation stops the staged transfer before publishing it. Undo history is restored across launches.": {
+    "origin": "M2M100-418M-local",
+    "text": "Прехвърлянето на пасте и падане е зад текущата работа. Завършените промени остават на разположение чрез Undo. Отмяна на копиране спира прехвърлянето на етапа преди публикуването му. Историята на Undo се възстановява през пусканията."
+  },
+  "Paste files": {
+    "origin": "M2M100-418M-local",
+    "text": "Пастете файлове"
+  },
+  "Paste shortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "Paste shortcut"
+  },
+  "Paste the files into a permanent folder before creating aliases to them.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Поставете файловете в постоянна папка, преди да създадете алиази за тях."
+  },
+  "PasteItemToSelectionDescription": {
+    "origin": "Files:PasteItemToSelectionDescription",
+    "text": "Paste items to the selected folder"
+  },
+  "PasteShortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "Paste shortcut"
+  },
+  "Path": {
+    "origin": "Files:ExtractToPath",
+    "text": "Път"
+  },
+  "Pattern": {
+    "origin": "M2M100-418M-local",
+    "text": "моделът"
+  },
+  "Permanently delete %1$@ items?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Постоянно изтриване %1$@ Етикети ли ?"
+  },
+  "Permissions": {
+    "origin": "Files:Permissions",
+    "text": "Позволения"
+  },
+  "Permissions are enforced by the server. FTP servers must support SITE CHMOD; SFTP uses SSH permissions.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Разрешенията се прилагат от сървъра. FTP сървърите трябва да поддържат сайта CHMOD; SFTP Използване SSH Позволения"
+  },
+  "Permissions are stored in the archive. Changes rebuild it and support Undo.": {
+    "origin": "M2M100-418M-local",
+    "text": "Разрешенията се съхраняват в архива. Промените го възстановяват и поддържат Undo."
+  },
+  "Permissions updated.": {
+    "origin": "M2M100-418M-local",
+    "text": "Актуализирани са разрешенията."
+  },
+  "Permissions…": {
+    "origin": "Files:Permissions",
+    "text": "Позволения"
+  },
+  "Pick up where you left off": {
+    "origin": "M2M100-418M-local",
+    "text": "Изберете къде сте напуснали"
+  },
+  "Pictures": {
+    "origin": "Files:Pictures",
+    "text": "Картини"
+  },
+  "Pin this folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Пин тази папка"
+  },
+  "Pin to sidebar": {
+    "origin": "Files:PinFolderToSidebar",
+    "text": "Закачане към страничната лента"
+  },
+  "Pinned": {
+    "origin": "Files:Pinned",
+    "text": "Закачено"
+  },
+  "Pinned folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Пълен папка"
+  },
+  "Play All": {
+    "origin": "Files:PlayAll",
+    "text": "Play All"
+  },
+  "PlayAll": {
+    "origin": "Files:PlayAll",
+    "text": "Play All"
+  },
+  "Port": {
+    "origin": "M2M100-418M-local",
+    "text": "Портът"
+  },
+  "Preparing copy": {
+    "origin": "M2M100-418M-local",
+    "text": "Подготвяне на копие"
+  },
+  "Preparing move": {
+    "origin": "M2M100-418M-local",
+    "text": "Подготовка за движение"
+  },
+  "Presentation is saved with this virtual location.": {
+    "origin": "M2M100-418M-local",
+    "text": "Презентацията се съхранява с това виртуално място."
+  },
+  "Press the shortcut…": {
+    "origin": "M2M100-418M-local",
+    "text": "Натиснете накратко..."
+  },
+  "Preview": {
+    "origin": "Files:Preview",
+    "text": "Онагледяване"
+  },
+  "Previous layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Предишна статияLayout"
+  },
+  "Previous tab": {
+    "origin": "M2M100-418M-local",
+    "text": "Предишна Таб"
+  },
+  "Properties": {
+    "origin": "Files:OpenProperties",
+    "text": "Свойства"
+  },
+  "Properties…": {
+    "origin": "Files:OpenProperties",
+    "text": "Свойства"
+  },
+  "Property": {
+    "origin": "M2M100-418M-local",
+    "text": "Имотът"
+  },
+  "Protocol": {
+    "origin": "M2M100-418M-local",
+    "text": "Протокол"
+  },
+  "Provider controls in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Доставчикът контролира Finder"
+  },
+  "Pull": {
+    "origin": "M2M100-418M-local",
+    "text": "Пул"
+  },
+  "Purple": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Пурпур"
+  },
+  "Push": {
+    "origin": "M2M100-418M-local",
+    "text": "Пуш"
+  },
+  "Queued": {
+    "origin": "M2M100-418M-local",
+    "text": "Където"
+  },
+  "Quick access": {
+    "origin": "Files:QuickAccess",
+    "text": "Бърз достъп"
+  },
+  "Quit MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Напускане MacFiles"
+  },
+  "Readable": {
+    "origin": "M2M100-418M-local",
+    "text": "четене"
+  },
+  "Recent files": {
+    "origin": "Files:RecentFiles",
+    "text": "Скорошни файлове"
+  },
+  "Recent folders": {
+    "origin": "M2M100-418M-local",
+    "text": "Последни папки"
+  },
+  "Reconnect to the same server and account, then retry Undo. The remote recovery data remains in .MacFiles-Recovery.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Повторно се свържете към същия сървър и акаунт, след това се оттегля Undo. .MacFiles-Recovery."
+  },
+  "Record shortcut": {
+    "origin": "M2M100-418M-local",
+    "text": "Рекордни кратки"
+  },
+  "Red": {
+    "origin": "Files:Red",
+    "text": "Червено"
+  },
+  "Redo": {
+    "origin": "Files:Redo",
+    "text": "Повтаряне"
+  },
+  "Redo file operation": {
+    "origin": "M2M100-418M-local",
+    "text": "Редо файлове операция"
+  },
+  "Redoing": {
+    "origin": "M2M100-418M-local",
+    "text": "Редуциране"
+  },
+  "Refresh": {
+    "origin": "Files:Refresh",
+    "text": "Опресняване"
+  },
+  "Refresh · ⌘R": {
+    "origin": "Files:Refresh",
+    "text": "Опресняване · ⌘R"
+  },
+  "Regular expression": {
+    "origin": "M2M100-418M-local",
+    "text": "Редовна експресия"
+  },
+  "Release notes": {
+    "origin": "Files:ReleaseNotes",
+    "text": "Release Notes"
+  },
+  "Reload": {
+    "origin": "M2M100-418M-local",
+    "text": "Презареждане"
+  },
+  "Remember password in Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Спомнете си паролата в Keychain"
+  },
+  "Remote operation on %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "дистанционна операция на %1$@"
+  },
+  "Remote path": {
+    "origin": "M2M100-418M-local",
+    "text": "Отдалечен път"
+  },
+  "Remote paths cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Дългите пътища не могат да съдържат линии прекъсвания или NUL Личността на героите."
+  },
+  "Remotes": {
+    "origin": "Files:Remotes",
+    "text": "Отдалечени"
+  },
+  "Remove": {
+    "origin": "Files:Remove",
+    "text": "Премахни"
+  },
+  "Remove attribute…": {
+    "origin": "M2M100-418M-local",
+    "text": "Премахване на атрибути..."
+  },
+  "Remove background image": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Премахване на фонова картина"
+  },
+  "Remove download": {
+    "origin": "M2M100-418M-local",
+    "text": "Премахване на Download"
+  },
+  "Remove entries…": {
+    "origin": "M2M100-418M-local",
+    "text": "Премахване на вход..."
+  },
+  "Remove from archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Премахване от архивите"
+  },
+  "Remove library": {
+    "origin": "M2M100-418M-local",
+    "text": "Премахване на библиотеката"
+  },
+  "Remove local download…": {
+    "origin": "M2M100-418M-local",
+    "text": "Премахване на локално изтегляне..."
+  },
+  "Remove references": {
+    "origin": "M2M100-418M-local",
+    "text": "Премахване на референтни"
+  },
+  "Remove saved credentials": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Премахване на спасени поверителности"
+  },
+  "Remove saved folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Изтриване на спасени папки"
+  },
+  "Remove saved search": {
+    "origin": "M2M100-418M-local",
+    "text": "Премахване на спасеното търсене"
+  },
+  "Remove selected entries from the archive?": {
+    "origin": "M2M100-418M-local",
+    "text": "Изтриване на избрани записи от архива?"
+  },
+  "Remove tags": {
+    "origin": "Files:RemoveTags",
+    "text": "Remove tags"
+  },
+  "Remove the local download?": {
+    "origin": "M2M100-418M-local",
+    "text": "Премахване на локалното изтегляне?"
+  },
+  "Remove ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Премахване »%1$@’?"
+  },
+  "RemoveTags": {
+    "origin": "Files:RemoveTags",
+    "text": "Remove tags"
+  },
+  "Removing tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Премахване на таг"
+  },
+  "Rename": {
+    "origin": "Files:Rename",
+    "text": "Преименуване"
+  },
+  "Rename %1$@ items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Реноме %1$@ Етикети"
+  },
+  "Rename archive entry": {
+    "origin": "M2M100-418M-local",
+    "text": "Архив за въвеждане"
+  },
+  "Rename entry…": {
+    "origin": "M2M100-418M-local",
+    "text": "Входът на въвеждането..."
+  },
+  "Rename failed. Your item is preserved at %1$@. %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ренементът е провал. Вашият елемент е запазен в %1$@. %2$@"
+  },
+  "Rename remote item": {
+    "origin": "M2M100-418M-local",
+    "text": "Ремонт на отдалечен елемент"
+  },
+  "Rename…": {
+    "origin": "Files:Rename",
+    "text": "Преименуване"
+  },
+  "Renaming": {
+    "origin": "M2M100-418M-local",
+    "text": "Възстановяване"
+  },
+  "Renaming items": {
+    "origin": "M2M100-418M-local",
+    "text": "Реновиране на елементи"
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Finder uses the macOS palette; custom colors and stable IDs are retained by MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Реновиране или изтриване на архиви за актуализации, открити от SpotlightНеиндексирани или недостъпни файлове могат да запазят стария етикет. Finder Използвайте го macOS палет; персонализирани цветове и стабилни идентификатори се запазват от MacFiles."
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Tag colors use the macOS palette.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Реновиране или изтриване на архиви за актуализации, открити от SpotlightНеиндексирани или недостъпни файлове могат да запазят стария етикет. macOS Палетата"
+  },
+  "Reopen closed tab": {
+    "origin": "M2M100-418M-local",
+    "text": "Отваряне на затворената таб"
+  },
+  "Replace": {
+    "origin": "M2M100-418M-local",
+    "text": "замяна"
+  },
+  "Replace this item's ACL?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Заменете този елемент ACL?"
+  },
+  "Replace with": {
+    "origin": "M2M100-418M-local",
+    "text": "Заменяме с"
+  },
+  "Replace, keeping backup": {
+    "origin": "M2M100-418M-local",
+    "text": "Замяна, запазване на резервни копии"
+  },
+  "Report an issue": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Известие за въпрос"
+  },
+  "Repository": {
+    "origin": "M2M100-418M-local",
+    "text": "Репозитории"
+  },
+  "Repository URL": {
+    "origin": "M2M100-418M-local",
+    "text": "Репозитор URL"
+  },
+  "Requesting cloud download": {
+    "origin": "M2M100-418M-local",
+    "text": "Изтегляне на Cloud Download"
+  },
+  "Reset": {
+    "origin": "M2M100-418M-local",
+    "text": "Възстановяване"
+  },
+  "Reset all": {
+    "origin": "M2M100-418M-local",
+    "text": "Възстановяване на всички"
+  },
+  "Reset icon": {
+    "origin": "M2M100-418M-local",
+    "text": "Икониране икона"
+  },
+  "Reset pinned folders": {
+    "origin": "M2M100-418M-local",
+    "text": "Реставриране на папките"
+  },
+  "Restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Рестартиране MacFiles"
+  },
+  "Restore all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Възстановяване на всички"
+  },
+  "Restore command defaults": {
+    "origin": "M2M100-418M-local",
+    "text": "Възстановяване на дефекти"
+  },
+  "Restore here": {
+    "origin": "M2M100-418M-local",
+    "text": "Възстановяване тук"
+  },
+  "Restore original location": {
+    "origin": "M2M100-418M-local",
+    "text": "Възстановяване на първоначалното местоположение"
+  },
+  "Restore previous folder viewer": {
+    "origin": "M2M100-418M-local",
+    "text": "Възстановяване на предишния зрител на папката"
+  },
+  "Restore tabs at launch": {
+    "origin": "M2M100-418M-local",
+    "text": "Възстановяване на табчета при стартиране"
+  },
+  "Restore to…": {
+    "origin": "M2M100-418M-local",
+    "text": "Възстановяване на..."
+  },
+  "Restoring from Trash": {
+    "origin": "M2M100-418M-local",
+    "text": "Възстановяване от трас"
+  },
+  "Results come from the macOS Spotlight index. Unindexed folders are not included.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Резултатите идват от macOS Spotlight Неиндексирани папки не са включени."
+  },
+  "Results in this folder and subfolders": {
+    "origin": "M2M100-418M-local",
+    "text": "Резултати в този папката и подполовите"
+  },
+  "Retargeting shortcut": {
+    "origin": "M2M100-418M-local",
+    "text": "Ретаргиране на кратките"
+  },
+  "Retarget…": {
+    "origin": "M2M100-418M-local",
+    "text": "Повтаря..."
+  },
+  "Reveal": {
+    "origin": "M2M100-418M-local",
+    "text": "Откриване"
+  },
+  "Reveal in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Открийте в Finder"
+  },
+  "Reverse tab scroll direction": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Обратна табела Скрийна посока"
+  },
+  "Review server fingerprint…": {
+    "origin": "M2M100-418M-local",
+    "text": "Преглед на сървъра пръстови отпечатъци ..."
+  },
+  "Right": {
+    "origin": "Files:Right",
+    "text": "Надясно"
+  },
+  "Rotate left": {
+    "origin": "Files:RotateLeft",
+    "text": "Завърти наляво"
+  },
+  "Rotate right": {
+    "origin": "Files:RotateRight",
+    "text": "Завърти надясно"
+  },
+  "Rotating left": {
+    "origin": "M2M100-418M-local",
+    "text": "Отиване на ляво"
+  },
+  "Rotating right": {
+    "origin": "M2M100-418M-local",
+    "text": "въртене на дясно"
+  },
+  "Running": {
+    "origin": "M2M100-418M-local",
+    "text": "бягане"
+  },
+  "SFTP (SSH keys)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SFTP (SSH ключове )"
+  },
+  "SMB, AFP, or WebDAV share": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SMB, AFPили WebDAV Споделяне"
+  },
+  "SSH known-host verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH Проверка на познатите домакинства"
+  },
+  "SSH passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH паролите не могат да съдържат линии прекъсвания или NUL Личността на героите."
+  },
+  "Save": {
+    "origin": "Files:Save",
+    "text": "Запазване"
+  },
+  "Save attribute": {
+    "origin": "M2M100-418M-local",
+    "text": "Спасяване на атрибутите"
+  },
+  "Save folder layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Съхраняване на папката layout"
+  },
+  "Save metadata": {
+    "origin": "M2M100-418M-local",
+    "text": "Спасяване на метаданни"
+  },
+  "Save search": {
+    "origin": "M2M100-418M-local",
+    "text": "Спасете търсене"
+  },
+  "Save search…": {
+    "origin": "M2M100-418M-local",
+    "text": "Спаси търсенето..."
+  },
+  "Save to Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Спасете за Keychain"
+  },
+  "Saved connections": {
+    "origin": "M2M100-418M-local",
+    "text": "Спасени връзки"
+  },
+  "Saved searches": {
+    "origin": "M2M100-418M-local",
+    "text": "Спасени търсения"
+  },
+  "Saved. The token will be used for GitHub HTTPS operations.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Токенът ще се използва за операциите на GitHub HTTPS."
+  },
+  "Seafoam": {
+    "origin": "Files:Seafoam",
+    "text": "Морска пяна"
+  },
+  "Search": {
+    "origin": "Files:Key.BrowserSearch",
+    "text": "Търсене"
+  },
+  "Search %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Търсене %1$@"
+  },
+  "Search %1$@ · Return searches subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Търсене %1$@ • Повторно търсене на подполови"
+  },
+  "Search available actions": {
+    "origin": "M2M100-418M-local",
+    "text": "Търсене на налични действия"
+  },
+  "Search commands": {
+    "origin": "M2M100-418M-local",
+    "text": "Търсене на команди"
+  },
+  "Search folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Търсене на папката"
+  },
+  "Search settings": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Търсене на настройки"
+  },
+  "Search stopped.": {
+    "origin": "M2M100-418M-local",
+    "text": "Търсенето е спряно."
+  },
+  "Search subfolders": {
+    "origin": "M2M100-418M-local",
+    "text": "Търсене на подкопители"
+  },
+  "Security": {
+    "origin": "Files:Security",
+    "text": "Защита"
+  },
+  "Select": {
+    "origin": "Files:NavToolbarSelectionOptions.Label",
+    "text": "Маркирай"
+  },
+  "Select a file to view its diff.": {
+    "origin": "M2M100-418M-local",
+    "text": "Изберете файл, за да видите диф."
+  },
+  "Select a macOS alias or symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Изберете A macOS Или символичен или символичен линк."
+  },
+  "Select a regular media file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Изберете редовен медиен файл."
+  },
+  "Select all": {
+    "origin": "M2M100-418M-local",
+    "text": "Изберете всички"
+  },
+  "Select an archive": {
+    "origin": "M2M100-418M-local",
+    "text": "Изберете архива"
+  },
+  "Select an item to see its details.": {
+    "origin": "M2M100-418M-local",
+    "text": "Изберете елемент, за да видите подробностите му."
+  },
+  "Select archive entries to remove.": {
+    "origin": "M2M100-418M-local",
+    "text": "Изберете архиви за изтриване."
+  },
+  "Select on hover": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Изберете на Hover"
+  },
+  "Select previous folder when navigating up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Изберете предишния папката, когато навигацията"
+  },
+  "Select uniquely named items to archive.": {
+    "origin": "M2M100-418M-local",
+    "text": "Изберете уникално назовани елементи за архивиране."
+  },
+  "Selected items": {
+    "origin": "M2M100-418M-local",
+    "text": "Избрани елементи"
+  },
+  "Selected items have duplicate names. Archive them separately.": {
+    "origin": "M2M100-418M-local",
+    "text": "Избраните елементи имат дублирани имена. архивират ги отделно."
+  },
+  "Selection checkboxes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Избор на контролни кутии"
+  },
+  "Separate file and folder counts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Отделни файлове и папки броят"
+  },
+  "Separator": {
+    "origin": "M2M100-418M-local",
+    "text": "Разделяне"
+  },
+  "Server": {
+    "origin": "M2M100-418M-local",
+    "text": "сървър"
+  },
+  "Set as app background": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "Set as app background"
+  },
+  "Set as wallpaper": {
+    "origin": "M2M100-418M-local",
+    "text": "Изграждане като тапети"
+  },
+  "Set default": {
+    "origin": "M2M100-418M-local",
+    "text": "Създаване на дефолт"
+  },
+  "SetAsAppBackground": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "Set as app background"
+  },
+  "Settings": {
+    "origin": "Files:Settings",
+    "text": "Настройки"
+  },
+  "Settings file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "настройките на файла"
+  },
+  "Settings saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Настройките са спасени."
+  },
+  "Settings…": {
+    "origin": "Files:Settings",
+    "text": "Настройки"
+  },
+  "Share": {
+    "origin": "Files:Share",
+    "text": "Споделяне"
+  },
+  "Share…": {
+    "origin": "Files:Share",
+    "text": "Споделяне"
+  },
+  "Shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Шелф"
+  },
+  "Shortcut": {
+    "origin": "Files:Shortcut",
+    "text": "Пряк път"
+  },
+  "Shortcuts apply in the explorer. Text fields keep native editing behavior. Resolve duplicate assignments before applying.": {
+    "origin": "M2M100-418M-local",
+    "text": "Краткостите се прилагат в разследващия. текстовите полета запазват поведението на коренното редактиране. Решете дублиращите задания преди да кандидатствате."
+  },
+  "Show dotfiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Показване на дофили"
+  },
+  "Show hidden files": {
+    "origin": "M2M100-418M-local",
+    "text": "Покажи скрити файлове"
+  },
+  "Show in folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Покажи в папката"
+  },
+  "Show log in folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Показване на лог в папката"
+  },
+  "Show menu bar icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Показване на иконата на менюто"
+  },
+  "Show package contents": {
+    "origin": "M2M100-418M-local",
+    "text": "Покажи съдържание на пакета"
+  },
+  "Show shelf button": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Показване на бутона Shelf"
+  },
+  "Show staged diff": {
+    "origin": "M2M100-418M-local",
+    "text": "Излъчване на диф"
+  },
+  "Show status bar": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Показване на Status Bar"
+  },
+  "Show tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Показване на таб действия"
+  },
+  "Show thumbnails": {
+    "origin": "Files:SettingsFilesAndFoldersShowThumbnails",
+    "text": "Покажи миниатюри"
+  },
+  "ShowFileExtensions": {
+    "origin": "Files:ShowFileExtensions",
+    "text": "File extensions"
+  },
+  "Sidebar": {
+    "origin": "Files:Sidebar",
+    "text": "Странична лента"
+  },
+  "Signature": {
+    "origin": "M2M100-418M-local",
+    "text": "Подписване"
+  },
+  "Signature integrity verification failed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Проверката за целостта на подписването е провалила."
+  },
+  "Signature integrity verified. This does not constitute a notarization or malware assessment.": {
+    "origin": "M2M100-418M-local",
+    "text": "Проверява се целостта на подписването. това не представлява нотариализация или оценка на злонамерен софтуер."
+  },
+  "Signatures": {
+    "origin": "M2M100-418M-local",
+    "text": "Подписи"
+  },
+  "Single file": {
+    "origin": "M2M100-418M-local",
+    "text": "Единен файл"
+  },
+  "Single folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Единен папката"
+  },
+  "Single-click columns": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Едно кликване колони"
+  },
+  "Single-click files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Един клик файл"
+  },
+  "Single-click folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Еднокликови папки"
+  },
+  "Size": {
+    "origin": "Files:SizeLabel",
+    "text": "Размер:"
+  },
+  "Size units": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Размер на единиците"
+  },
+  "Skip": {
+    "origin": "Files:Skip",
+    "text": "Пропусни"
+  },
+  "Skip existing": {
+    "origin": "M2M100-418M-local",
+    "text": "Скипът съществуващ"
+  },
+  "Small icons": {
+    "origin": "M2M100-418M-local",
+    "text": "Малки икони"
+  },
+  "Smooth scrolling": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Мъчно скрулиране"
+  },
+  "Solid": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "твърдо"
+  },
+  "Some files could not be updated. The saved tag was retained so you can retry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Някои файлове не могат да бъдат актуализирани. съхраненият етикет е запазен, така че можете да се оттеглите."
+  },
+  "Some items could not be read.": {
+    "origin": "M2M100-418M-local",
+    "text": "Някои неща не могат да бъдат прочетени."
+  },
+  "Some items couldn’t be completed": {
+    "origin": "M2M100-418M-local",
+    "text": "Някои неща не могат да бъдат завършени"
+  },
+  "Some items have no recorded original location. Select them and use Restore to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Някои елементи нямат записано първоначално местоположение. Изберете ги и използвайте Възстановяване за..."
+  },
+  "Sort": {
+    "origin": "Files:Sort",
+    "text": "Подредба"
+  },
+  "Sort by": {
+    "origin": "Files:SortBy",
+    "text": "Сортиране по"
+  },
+  "SortFilesAndFoldersTogether": {
+    "origin": "Files:SortFilesAndFoldersTogether",
+    "text": "Сортиране на папките и файловете заедно"
+  },
+  "SortFilesFirst": {
+    "origin": "Files:SortFilesFirst",
+    "text": "Сортиране файловете отгоре"
+  },
+  "SortFoldersFirst": {
+    "origin": "Files:SortFoldersFirst",
+    "text": "Сортиране папките отгоре"
+  },
+  "Source code": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Източник код"
+  },
+  "Special device entries cannot be extracted: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Специални входни устройства не могат да бъдат извлечени: %1$@"
+  },
+  "Split archives use ZIP or 7z format.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Използване на разпределени архиви ZIP или 7z Формат"
+  },
+  "Split into volumes (MiB, optional)": {
+    "origin": "M2M100-418M-local",
+    "text": "Разделяне на обеми (MiB, опционално)"
+  },
+  "Stage all": {
+    "origin": "M2M100-418M-local",
+    "text": "Стадион всички"
+  },
+  "Stage selected": {
+    "origin": "M2M100-418M-local",
+    "text": "Избрани етапи"
+  },
+  "Staged all changes": {
+    "origin": "M2M100-418M-local",
+    "text": "Задължителни всички промени"
+  },
+  "Staged selected files": {
+    "origin": "M2M100-418M-local",
+    "text": "Изберете избрани файлове"
+  },
+  "Start": {
+    "origin": "Files:Start",
+    "text": "Start"
+  },
+  "Start folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Започнете папката"
+  },
+  "Startup": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Стартът"
+  },
+  "Startup and tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Старт и таб"
+  },
+  "Startup folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Стартът на папките"
+  },
+  "Startup folders are used when session restoration is disabled. An empty list opens Home.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Използва се папки за стартиране, когато сесията възстановяване е изключена. Празен списък отваря Home."
+  },
+  "Status": {
+    "origin": "M2M100-418M-local",
+    "text": "Статус"
+  },
+  "Stop": {
+    "origin": "M2M100-418M-local",
+    "text": "Спрете"
+  },
+  "Stopped before the next item. Completed items were kept.": {
+    "origin": "M2M100-418M-local",
+    "text": "Прекъснато преди следващия елемент. завършени елементи са запазени."
+  },
+  "Storage settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Настройки за съхранение..."
+  },
+  "Storm": {
+    "origin": "Files:Storm",
+    "text": "Буря"
+  },
+  "Stretch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Стрит"
+  },
+  "Switch to new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Свържете към нови табчета"
+  },
+  "Switched to %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Премествани към %1$@"
+  },
+  "Symbolic Link": {
+    "origin": "M2M100-418M-local",
+    "text": "Символичен линк"
+  },
+  "Symbolic link": {
+    "origin": "M2M100-418M-local",
+    "text": "Символичен линк"
+  },
+  "Sync": {
+    "origin": "Files:GitSync",
+    "text": "Синхр."
+  },
+  "Sync conflict": {
+    "origin": "M2M100-418M-local",
+    "text": "Синхронизиран конфликт"
+  },
+  "Sync error": {
+    "origin": "M2M100-418M-local",
+    "text": "грешка на синхронизацията"
+  },
+  "Synced": {
+    "origin": "M2M100-418M-local",
+    "text": "Синхронизирана"
+  },
+  "Synchronize folder preferences": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Синхронизиране на предпочитанията на папката"
+  },
+  "System": {
+    "origin": "Files:SystemTimeStyle",
+    "text": "Система"
+  },
+  "TLS certificate verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "TLS Сертификат за проверка"
+  },
+  "Tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Таб действия"
+  },
+  "Tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "таб"
+  },
+  "Tag": {
+    "origin": "Files:Tag",
+    "text": "Файлов етикет"
+  },
+  "Tag (blank = all tags)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Таг (бела = всички тагове)"
+  },
+  "Tag color": {
+    "origin": "Files:TagColor",
+    "text": "Цвят на етикета"
+  },
+  "Tag name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag име"
+  },
+  "Tag names must be unique.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Името трябва да е уникално."
+  },
+  "Tag update failed and original metadata could not be restored: ": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Тег актуализация провали и оригиналните метаданни не може да бъде възстановено: "
+  },
+  "Tagged items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Теглови елементи"
+  },
+  "Tags": {
+    "origin": "Files:FileTags",
+    "text": "Маркери"
+  },
+  "Tags, separated by commas": {
+    "origin": "M2M100-418M-local",
+    "text": "Тагове, разделени от Commas"
+  },
+  "Target": {
+    "origin": "Files:PropertyItemTarget",
+    "text": "Цел"
+  },
+  "Terminal": {
+    "origin": "M2M100-418M-local",
+    "text": "Терминалът"
+  },
+  "Test IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Тестът е тук"
+  },
+  "The ACL failed validation.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "и на ACL Неуспешна валидирана."
+  },
+  "The command failed (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Неуспехът на комисията (%1$@)."
+  },
+  "The custom icon and saved layout belong to the selected item.": {
+    "origin": "M2M100-418M-local",
+    "text": "Иконата и съхраненото оформление принадлежат към избрания елемент."
+  },
+  "The destination connection changed. Drop the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Изменена е връзката с дестинацията. изхвърлете файловете отново."
+  },
+  "The destination connection changed. Paste the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Изменена е връзката с дестинацията.Подкрепете отново файловете."
+  },
+  "The destination is not an accessible folder.": {
+    "origin": "M2M100-418M-local",
+    "text": "Целта не е достъпна папка."
+  },
+  "The icon could not be changed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Иконата не може да бъде променена."
+  },
+  "The icon could not be reset.": {
+    "origin": "M2M100-418M-local",
+    "text": "Иконата не може да бъде възстановена."
+  },
+  "The media container did not retain: ": {
+    "origin": "M2M100-418M-local",
+    "text": "Медийният контейнер не запазва: "
+  },
+  "The media tracks cannot be preserved in this container.": {
+    "origin": "M2M100-418M-local",
+    "text": "Не може да се съхраняват медийните трагове в този контейнер."
+  },
+  "The new shortcut target does not exist.": {
+    "origin": "M2M100-418M-local",
+    "text": "Новата цел за краткосрочно намаляване не съществува."
+  },
+  "The old shortcut is in Trash, but macOS did not return its location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Древен кратък е в траш, но macOS Не се върна мястото си."
+  },
+  "The original archive remains recoverable with Undo.": {
+    "origin": "M2M100-418M-local",
+    "text": "Оригиналният архив остава възстановяващ с Undo."
+  },
+  "The server did not return a valid host-key list.": {
+    "origin": "M2M100-418M-local",
+    "text": "Сървърът не връща валиден списък с ключови хостинг."
+  },
+  "The server recovery path is occupied by a file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Пътят за възстановяване на сървъра е зает от файл."
+  },
+  "The server returned an unsafe or unsupported filename.": {
+    "origin": "M2M100-418M-local",
+    "text": "Сървърът върна несигурно или неподходящо име на файла."
+  },
+  "The server returned an unsupported directory listing. No transfer was started.": {
+    "origin": "M2M100-418M-local",
+    "text": "Серверът върна списък с директории, който не е поддържан."
+  },
+  "The shortcut will point to %1$@. The target file itself is not modified.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Краткото изречение ще покаже %1$@Самият целеви файл не се променя."
+  },
+  "The slideshow changes desktop wallpaper while MacFiles is running. It resumes at launch when enabled. macOS controls the lock screen wallpaper separately.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Слайд-шоуът променя десктоп тапети, докато MacFiles Изтегляне: отново започва, когато е включен. macOS Контролирате тапета на екрана за затваряне отделно."
+  },
+  "The system script could not be compiled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Системният сценарий не може да бъде съставен."
+  },
+  "The system script could not be created.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Системният сценарий не може да бъде създаден."
+  },
+  "The transfer selection changed. Cut the items again.": {
+    "origin": "M2M100-418M-local",
+    "text": "Промени се изборът за прехвърляне.Срежете отново елементите."
+  },
+  "The uploaded data did not match its source. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "text": "Изтеглените данни не съответстват на източника му; източникът е запазен."
+  },
+  "The uploaded iCloud copy remains available. macOS will download it again when needed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Изтеглената iCloud Копията остава на разположение. macOS Ще го изтегли отново, когато е необходимо."
+  },
+  "Theme": {
+    "origin": "Files:SettingsAppearanceTheme",
+    "text": "Тема"
+  },
+  "These items will be removed from Trash. This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "text": "Тези елементи ще бъдат премахнати от Trash. това не може да бъде изключено."
+  },
+  "Third-party providers do not expose a common public sync-completion API. Available locally describes downloaded bytes, not upload completion. Download requests do not pin files permanently.": {
+    "origin": "M2M100-418M-local",
+    "text": "Провайдерите от трети страни не излагат обща обществена API за синхронизиране. На разположение локално описва изтеглените байтове, не изтегляне завършване. Заявления за изтегляне не пин файлове постоянно."
+  },
+  "This FTP server cannot create symbolic links. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Това FTP сървърът не може да създаде символични връзки. източникът е запазен."
+  },
+  "This Mac": {
+    "origin": "M2M100-418M-local",
+    "text": "Този Mac"
+  },
+  "This alias contains a target cycle.": {
+    "origin": "M2M100-418M-local",
+    "text": "Този алиас съдържа целен цикъл."
+  },
+  "This archive format is read-only. Extract it and create a ZIP or 7z archive to edit its contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Този формат на архива е само за четене.Извлечете го и създайте ZIP или 7z Архив за редактиране на съдържанието."
+  },
+  "This archive or server protocol does not expose macOS extended attributes. Extract or download the item to manage attributes on its local copy.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Този архив или протокол на сървъра не излага macOS Изтеглете или изтеглите елемента, за да управлявате атрибутите на местната му копия."
+  },
+  "This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Това не може да бъде отхвърлено."
+  },
+  "This changes the registered folder viewer. Finder still manages the desktop and macOS file dialogs. You can restore the previous viewer here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Това променя регистрирания зрител на папката. Finder Управлява десктопът и macOS Можете да възстановите предишния разглеждач тук."
+  },
+  "This changes which users can access the item. Export the existing ACL first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Тези промени, които потребителите могат да получат достъп до елемента. ACL Първо, ако имате нужда от резервна копия."
+  },
+  "This folder is empty": {
+    "origin": "Files:EmptyFolder.Text",
+    "text": "Тази папка е празна."
+  },
+  "This location is not ready for transfers.": {
+    "origin": "M2M100-418M-local",
+    "text": "Това място не е готово за трансфери."
+  },
+  "This media format cannot be edited by the native exporter.": {
+    "origin": "M2M100-418M-local",
+    "text": "Този медиен формат не може да бъде редактиран от местния износител."
+  },
+  "This metadata container uses indexed keys; edit it with its native media application.": {
+    "origin": "M2M100-418M-local",
+    "text": "Този контейнер за метаданни използва индексирани ключове; редактира го с приложението на местните медии."
+  },
+  "This operation cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "text": "Тази операция не може да бъде отменена."
+  },
+  "This removes the attribute from this file. Export its bytes first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "text": "Това премахва атрибута от този файл. Експортирайте неговите байтове първо, ако имате нужда от резервна копие."
+  },
+  "Thumbnail cache limit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ограничението на кашовете"
+  },
+  "Thumbnails": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Тъмница"
+  },
+  "Thumbnails are cached in memory. The limit applies to decoded images.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Тумбналите са скрити в паметта. ограничението се прилага за декодирани изображения."
+  },
+  "Tiles": {
+    "origin": "M2M100-418M-local",
+    "text": "Тили"
+  },
+  "Title": {
+    "origin": "Files:PropertyTitle",
+    "text": "Заглавие"
+  },
+  "Today": {
+    "origin": "Files:Today",
+    "text": "Днес"
+  },
+  "Toggle compact overlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "Toggle compact overlay"
+  },
+  "Toggle details pane": {
+    "origin": "M2M100-418M-local",
+    "text": "Разкажи подробности, пане"
+  },
+  "Toggle dual pane": {
+    "origin": "M2M100-418M-local",
+    "text": "Двойна пана"
+  },
+  "Toggle filter header": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "Toggle filter header"
+  },
+  "Toggle full screen": {
+    "origin": "M2M100-418M-local",
+    "text": "Свържете пълния екран"
+  },
+  "Toggle selection": {
+    "origin": "Files:ToggleSelect",
+    "text": "Toggle selection"
+  },
+  "ToggleCompactOverlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "Toggle compact overlay"
+  },
+  "ToggleFilterHeader": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "Toggle filter header"
+  },
+  "ToggleSelect": {
+    "origin": "Files:ToggleSelect",
+    "text": "Toggle selection"
+  },
+  "ToggleSidebar": {
+    "origin": "Files:ToggleSidebar",
+    "text": "Toggle the sidebar"
+  },
+  "ToggleToolbar": {
+    "origin": "Files:ToggleToolbar",
+    "text": "Toggle toolbar"
+  },
+  "Too many nested aliases.": {
+    "origin": "M2M100-418M-local",
+    "text": "Прекалено много настигнати алиаси."
+  },
+  "Tools": {
+    "origin": "M2M100-418M-local",
+    "text": "Инструменти"
+  },
+  "Top": {
+    "origin": "Files:Top",
+    "text": "Най-отгоре"
+  },
+  "Total size": {
+    "origin": "M2M100-418M-local",
+    "text": "Общо размери"
+  },
+  "Transfer failed": {
+    "origin": "M2M100-418M-local",
+    "text": "Трансферът е неуспешен"
+  },
+  "Trash": {
+    "origin": "Files:RecycleBin",
+    "text": "Кошче"
+  },
+  "Trash on this Mac and connected volumes": {
+    "origin": "M2M100-418M-local",
+    "text": "Разградете на този Mac и свързаните обеми"
+  },
+  "Trust": {
+    "origin": "M2M100-418M-local",
+    "text": "доверие"
+  },
+  "Trust this SSH server?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Вярвайте в това SSH Сървърът ?"
+  },
+  "Trust verified fingerprints": {
+    "origin": "M2M100-418M-local",
+    "text": "Проверяват се отпечатъци"
+  },
+  "Try again": {
+    "origin": "M2M100-418M-local",
+    "text": "Опитайте отново"
+  },
+  "Under window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Под прозореца"
+  },
+  "Undo": {
+    "origin": "Files:Undo",
+    "text": "Отмяна"
+  },
+  "Undo file operation": {
+    "origin": "M2M100-418M-local",
+    "text": "Използване на файлове"
+  },
+  "Undoing": {
+    "origin": "M2M100-418M-local",
+    "text": "Подходящ"
+  },
+  "Unencrypted FTP": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "без криптиране FTP"
+  },
+  "Universal": {
+    "origin": "Files:Universal",
+    "text": "Универсално"
+  },
+  "Unknown": {
+    "origin": "Files:Unknown",
+    "text": "Неизвестно"
+  },
+  "Unknown shortcut command.": {
+    "origin": "M2M100-418M-local",
+    "text": "Неизвестен кратък команд."
+  },
+  "Unpin": {
+    "origin": "M2M100-418M-local",
+    "text": "Непълен"
+  },
+  "Unsafe archive link target.": {
+    "origin": "M2M100-418M-local",
+    "text": "Несигурни архиви за целта."
+  },
+  "Unstage": {
+    "origin": "M2M100-418M-local",
+    "text": "Неустойчиви"
+  },
+  "Unstaged selected files": {
+    "origin": "M2M100-418M-local",
+    "text": "Изберете изтрити файлове"
+  },
+  "Unsupported Git action.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Неподдържан Git Действието е."
+  },
+  "Unsupported archive entry name or listing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Недостатъчно име за вход или списък на архивите."
+  },
+  "Unsupported file type in transfer.": {
+    "origin": "M2M100-418M-local",
+    "text": "Неподдържани файлови типове в прехвърляне."
+  },
+  "Unsupported metadata container version.": {
+    "origin": "M2M100-418M-local",
+    "text": "Недостатъчна версия на контейнера."
+  },
+  "Unsupported movie header.": {
+    "origin": "M2M100-418M-local",
+    "text": "Недостатъчен филм заглавие."
+  },
+  "Untagged": {
+    "origin": "Files:Untagged",
+    "text": "Неетикирано"
+  },
+  "Up": {
+    "origin": "Files:Key.Up",
+    "text": "Нагоре (Alt+Стрелка нагоре)"
+  },
+  "Up one level": {
+    "origin": "M2M100-418M-local",
+    "text": "На едно ниво"
+  },
+  "Up one level · ⌘↑": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "на едно ниво; ⌘↑"
+  },
+  "Updates native macOS tags for all selected items. Leave empty to remove tags.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Актуализиране на родното macOS Теги за всички избрани елементи. оставете празни, за да премахнете теги."
+  },
+  "Updating archive": {
+    "origin": "M2M100-418M-local",
+    "text": "Актуализиране на архивите"
+  },
+  "Updating media metadata": {
+    "origin": "M2M100-418M-local",
+    "text": "Актуализиране на медийните метаданни"
+  },
+  "Updating permissions": {
+    "origin": "M2M100-418M-local",
+    "text": "Актуализиране на разрешенията"
+  },
+  "Upload": {
+    "origin": "M2M100-418M-local",
+    "text": "Изтегляне"
+  },
+  "Upload failed. The original remains at %1$@; the pending upload is %2$@. %3$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Изтеглиха се. оригиналът остава на %1$@Изтеглянето на изтеглянето е %2$@. %3$@"
+  },
+  "Upload files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Изтегляне на файлове..."
+  },
+  "Upload regular files or folders; symbolic links are not followed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Изтегляне на редовни файлове или папки; символични връзки не се следват."
+  },
+  "Uploading": {
+    "origin": "M2M100-418M-local",
+    "text": "Изтегляне"
+  },
+  "Upstream Files issues": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Upstream файлове проблеми"
+  },
+  "Use Copy and Paste or Download to transfer remote items.": {
+    "origin": "M2M100-418M-local",
+    "text": "Използвайте Копиране и пастиране или изтегляне за прехвърляне на отдалечени елементи."
+  },
+  "Use Copy or Extract to transfer archive contents.": {
+    "origin": "M2M100-418M-local",
+    "text": "Използвайте Копиране или екстракция за прехвърляне на съдържанието на архивите."
+  },
+  "Use MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Използване MacFiles"
+  },
+  "Use MacFiles for folder URLs?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Използване MacFiles За URL файловете?"
+  },
+  "Use MacFiles for folder URLs…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Използване MacFiles За URL файловете..."
+  },
+  "User": {
+    "origin": "M2M100-418M-local",
+    "text": "Потребител"
+  },
+  "Username": {
+    "origin": "Files:CredentialDialogUserName.PlaceholderText",
+    "text": "Потребителско име"
+  },
+  "Uses SSH keys or the password above. Host-key verification remains enabled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Използване SSH ключове или паролата по-горе. хостинг ключ проверка остава включена."
+  },
+  "Uses the on-device Apple Intelligence model when available. Otherwise searches the words you entered. No file content is sent to a server.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Използвайте модела Apple Intelligence на устройството, когато е налице. В противен случай търсите думите, които въведете."
+  },
+  "Value": {
+    "origin": "M2M100-418M-local",
+    "text": "стойност"
+  },
+  "Verified host keys saved for MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Проверявани ключове за домакинство са спасени за MacFiles."
+  },
+  "Vertical alignment": {
+    "origin": "Files:VerticalAlignment",
+    "text": "Вертикално приравняване"
+  },
+  "Vertical split": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Вертикално разделяне"
+  },
+  "View": {
+    "origin": "M2M100-418M-local",
+    "text": "Виж"
+  },
+  "Volume": {
+    "origin": "M2M100-418M-local",
+    "text": "Обемът"
+  },
+  "Volume available": {
+    "origin": "M2M100-418M-local",
+    "text": "Обемът е наличен"
+  },
+  "Volume capacity": {
+    "origin": "M2M100-418M-local",
+    "text": "Капацитет за обем"
+  },
+  "Volume case sensitive": {
+    "origin": "M2M100-418M-local",
+    "text": "Броят на чувствителните случаи"
+  },
+  "Volume read only": {
+    "origin": "M2M100-418M-local",
+    "text": "Обемът чете само"
+  },
+  "Volumes must be at least 1 KiB.": {
+    "origin": "M2M100-418M-local",
+    "text": "Обемът трябва да бъде най-малко 1 киб."
+  },
+  "Waiting to sync": {
+    "origin": "M2M100-418M-local",
+    "text": "В очакване на синхронизацията"
+  },
+  "Wallpaper could not be changed": {
+    "origin": "M2M100-418M-local",
+    "text": "Тапети не могат да се променят"
+  },
+  "Wallpaper slideshow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Слайд шоу тапети"
+  },
+  "Wallpaper slideshow…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Слайдшоу на тапети..."
+  },
+  "Warn when changing file extensions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Внимание при промяна на разширения на файлове"
+  },
+  "When an item exists": {
+    "origin": "M2M100-418M-local",
+    "text": "Когато съществува елемент"
+  },
+  "When names conflict, choose Keep both, Replace, or Skip. Replaced versions and deleted items go to the macOS Trash. Undo and redo are retained across launches and shared by open windows.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Когато имената са в конфликт, изберете Дръжте и двете, замествайте или премахнете. macOS Undo и redo се запазват през стартирането и споделят от отворени прозорци."
+  },
+  "Working…": {
+    "origin": "M2M100-418M-local",
+    "text": "Работи..."
+  },
+  "Writable": {
+    "origin": "M2M100-418M-local",
+    "text": "Писмени"
+  },
+  "Writes embedded metadata. Image files may be re-encoded; the original remains recoverable with Undo. Audio and video edits preserve encoded tracks. Unsupported containers keep the original.": {
+    "origin": "M2M100-418M-local",
+    "text": "Вградени метаданни. изображенията могат да бъдат кодирани отново; оригиналът остава възстановяващ с Undo. аудио и видео редактиране запазва кодирани трагове. неподдържани контейнери запазват оригинала."
+  },
+  "Year": {
+    "origin": "Files:Year",
+    "text": "Година"
+  },
+  "Yellow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "жълт"
+  },
+  "Yes": {
+    "origin": "Files:Yes",
+    "text": "Да"
+  },
+  "Yesterday": {
+    "origin": "Files:Yesterday",
+    "text": "Вчера"
+  },
+  "You can restore these items with Undo or from the Trash.": {
+    "origin": "M2M100-418M-local",
+    "text": "Можете да възстановите тези елементи с Undo или от Trash."
+  },
+  "Your files, your way.": {
+    "origin": "M2M100-418M-local",
+    "text": "Вашите файлове, вашият път"
+  },
+  "Your pinned folders": {
+    "origin": "M2M100-418M-local",
+    "text": "Вашите запечатани папки"
+  },
+  "Zoom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Зом"
+  },
+  "macOS aliases and symbolic links refer to a target path. Windows shortcut arguments and Run as administrator flags do not have alias equivalents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Алиазите и символичните връзки се отнасят до целенасочен път. Windows Краткосрочните аргументи и Run като администратор флага нямат алайски еквиваленти."
+  },
+  "macOS integration": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS интеграция"
+  },
+  "macOS moved the previous version to Trash but did not return its location. The new version was not installed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Преместиха предишната версия на Trash, но не върнаха местоположението си."
+  },
+  "macOS returned %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS връща се %1$@."
+  },
+  "macOS uses Mach-O architectures and the application's minimum OS version. Windows compatibility modes, DPI overrides and administrator flags cannot be applied to a native Mac app.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Използване Mach-O Архитектура и минимална OS версия на приложението. Windows Съвместимостта на режимите, DPI прехвърлянията и знамената на администратора не могат да се прилагат към приложението за Mac."
+  }
+}

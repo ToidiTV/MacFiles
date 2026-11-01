@@ -1,0 +1,5179 @@
+{
+  "%1$@ MB": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ MB"
+  },
+  "%1$@ Trash location(s) could not be read. macOS may require Full Disk Access for Trash. Items listed here remain available to manage.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ 트래시 위치(s)는 읽을 수 없습니다. macOS Trash에 대한 Full Disk Access가 필요할 수 있습니다. 여기에서 나열된 항목은 관리할 수 있습니다."
+  },
+  "%1$@ destination name(s) already exist": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ 목적지 이름(s)은 이미 존재합니다."
+  },
+  "%1$@ entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ 입구"
+  },
+  "%1$@ folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ 폴더"
+  },
+  "%1$@ folders · %2$@ files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ 폴더 · %2$@ 파일"
+  },
+  "%1$@ folders · saves to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ 폴더 · Save to %2$@"
+  },
+  "%1$@ free of %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ 자유의 %2$@"
+  },
+  "%1$@ inaccessible": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ 접근 불가능"
+  },
+  "%1$@ is assigned more than once.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ 한 번 이상 할당되었습니다."
+  },
+  "%1$@ is reserved by macOS or the application window.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ 그것은 예약되어있다 macOS 또는 응용 프로그램 창."
+  },
+  "%1$@ is reserved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ 그것은 예약되어 있습니다."
+  },
+  "%1$@ item(s) ready to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ A(S)에 대한 준비가 되어있다 %2$@"
+  },
+  "%1$@ selected items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ 선택된 항목"
+  },
+  "%1$@. Sync completion is managed by the provider and is not reported through public file metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@Sync 완성은 공급자에 의해 관리되며 공공 파일 메타 데이터를 통해 보고되지 않습니다."
+  },
+  "A different key is already trusted for this host. Review the changed key with the server administrator before replacing it.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이 호스트에 대한 다른 키가 이미 신뢰됩니다.이 호스트를 대체하기 전에 서버 관리자와 함께 변경된 키를 검토합니다."
+  },
+  "A familiar place for everything.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "모든 것에 익숙한 장소입니다."
+  },
+  "A file operation is still running": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "파일 작업은 여전히 진행 중입니다."
+  },
+  "A folder cannot be copied or moved inside itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "폴더는 복사하거나 내부로 이동할 수 없습니다."
+  },
+  "A shortcut cannot target itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "단축은 스스로를 대상으로 할 수 없다."
+  },
+  "ACL updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ACL 업데이트 된"
+  },
+  "About": {
+    "origin": "Files:About",
+    "text": "정보"
+  },
+  "About MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "정보 MacFiles"
+  },
+  "Accent color (hex)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "색상 색상 (hex)"
+  },
+  "Access control list — native macOS syntax": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "액세스 컨트롤 리스트 - 원주민 macOS 합성"
+  },
+  "Access token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "액세스 토큰"
+  },
+  "Accounts, authentication and sync preferences are managed by each provider’s native app. Removing a saved folder here does not unlink its account or delete files.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "계정, 인증 및 동기화 선호도는 각 공급자의 원주민 응용 프로그램에 의해 관리됩니다. 여기에서 저장된 폴더를 제거하면 계정을 분리하거나 파일을 삭제하지 않습니다."
+  },
+  "Action unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "불가능한 행동"
+  },
+  "Actions": {
+    "origin": "Files:Actions",
+    "text": "동작"
+  },
+  "Adaptive": {
+    "origin": "Files:Adaptive",
+    "text": "적응 레이아웃"
+  },
+  "Adaptive layout": {
+    "origin": "Files:Adaptive",
+    "text": "적응 레이아웃"
+  },
+  "Add": {
+    "origin": "Files:Add",
+    "text": "추가"
+  },
+  "Add cloud folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "클라우드 폴더를 추가합니다."
+  },
+  "Add current selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "현재 선택을 추가"
+  },
+  "Add files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "파일 추가..."
+  },
+  "Add folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "폴더를 추가합니다."
+  },
+  "Add images…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "사진 추가..."
+  },
+  "Add prefix": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Prefix 추가하기"
+  },
+  "Add saved tag": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "저장된 태그 추가"
+  },
+  "Add selection to shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Shelf에 선택을 추가합니다."
+  },
+  "Add startup folders…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "스타트업 파일을 추가하십시오."
+  },
+  "Add suffix": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "소피스 추가"
+  },
+  "Add to library": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "도서관에 추가"
+  },
+  "Add to shelf": {
+    "origin": "Files:AddToShelf",
+    "text": "선반에 추가"
+  },
+  "Advanced": {
+    "origin": "Files:Advanced",
+    "text": "고급"
+  },
+  "Advanced search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "고급 검색"
+  },
+  "Advanced search…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "고급 검색..."
+  },
+  "Album": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "앨범"
+  },
+  "Allocated size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "할당된 크기"
+  },
+  "Already assigned to %1$@. Remove that assignment first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이미 맡겨진 %1$@먼저 그 임무를 제거하십시오."
+  },
+  "Always show operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "항상 작업을 보여주고 있습니다."
+  },
+  "Always visible": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "언제나 눈에 띄는"
+  },
+  "Always-visible items are combined with the current selection context. Cloud items add their own controls.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "항상 볼 수 있는 항목은 현재의 선택 맥락과 결합됩니다. 클라우드 항목은 자신의 컨트롤을 추가합니다."
+  },
+  "Ambiguous archive listing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "까다로운 아카이브 리스트"
+  },
+  "Ambiguous media metadata containers.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "미디어 메타데이터 컨테이너"
+  },
+  "Any": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "모든 것"
+  },
+  "App language (restart to apply)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "응용 프로그램 언어 (응용으로 다시 시작)"
+  },
+  "Appearance": {
+    "origin": "Files:Appearance",
+    "text": "모양"
+  },
+  "Application": {
+    "origin": "Files:Application",
+    "text": "프로그램"
+  },
+  "Application unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "응용 프로그램 불가능"
+  },
+  "Applies owner, group, and other permissions to the selected items only.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "소유자, 그룹 및 다른 허가를 선택한 항목에만 적용합니다."
+  },
+  "Apply": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "응용"
+  },
+  "Apply ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "응용 ACL…"
+  },
+  "Apply UID %1$@ and GID %2$@ to this item only.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "응용 UID %1$@ 그리고 GID %2$@ 이 부분에 대해서만."
+  },
+  "Apply attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아티스트를 적용하기"
+  },
+  "Apply file permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "파일 허가를 적용"
+  },
+  "Apply owner/group…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "소유자 / 그룹을 신청하십시오."
+  },
+  "Approve MacFiles in Login Items in System Settings.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "승인 MacFiles 시스템 설정에서 로그인 항목."
+  },
+  "Archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아카이브"
+  },
+  "Archive attempts to write through a link or file: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아카이브는 링크 또는 파일을 통해 작성하려고합니다 : %1$@"
+  },
+  "Archive contains an unsafe path: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아카이브에는 안전하지 않은 경로가 포함되어 있습니다 : %1$@"
+  },
+  "Archive contains an unsafe symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아카이브에는 불안정한 상징적 링크가 포함되어 있습니다."
+  },
+  "Archive editing cannot traverse symbolic links.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아카이브 편집은 상징적 링크를 통과 할 수 없습니다."
+  },
+  "Archive link escapes its destination.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "파일 링크는 목적지에서 탈출합니다."
+  },
+  "Archive link target is too long.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아카이브 링크 목표는 너무 길다."
+  },
+  "Archive operation failed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아카이브 작업이 실패했다."
+  },
+  "Archive password (if needed)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "파일 암호 (필요한 경우)"
+  },
+  "Archive password (leave blank if unencrypted)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "파일 암호 (암호화되지 않은 경우 흰색으로 남겨 두십시오)"
+  },
+  "Archive passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아카이브 암호는 라인 붕괴를 포함하지 않거나 NUL 그리고 캐릭터들"
+  },
+  "Archive path escapes the destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아카이브 경로는 목적지에서 탈출합니다 : %1$@"
+  },
+  "Archive root": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아카이브 라인"
+  },
+  "Archive symbolic link escapes the destination.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아카이브 상징적 링크는 목적지에서 탈출합니다."
+  },
+  "Arrange panes side by side": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "옆으로 을 정리하라"
+  },
+  "Arrange panes top and bottom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "위와 아래의 패널을 정리합니다."
+  },
+  "Artist": {
+    "origin": "Files:Artist",
+    "text": "아티스트"
+  },
+  "Artist / author": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아티스트 / 작가"
+  },
+  "Ascending": {
+    "origin": "Files:Ascending",
+    "text": "상승하는"
+  },
+  "Attribute name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아티스트 이름"
+  },
+  "Attributes": {
+    "origin": "Files:Attributes",
+    "text": "특성"
+  },
+  "Attributes updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "업데이트된 특성"
+  },
+  "Auto-fit columns": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "자동으로 적합한 열"
+  },
+  "AutoFitColumns": {
+    "origin": "Files:AutoFitColumns",
+    "text": "Auto-fit columns"
+  },
+  "Available locally": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "현지적으로 이용 가능"
+  },
+  "Back": {
+    "origin": "Files:Back",
+    "text": "뒤로 가기"
+  },
+  "Back · ⌘[": {
+    "origin": "Files:Back",
+    "text": "뒤로 가기 · ⌘["
+  },
+  "Backdrop material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "배경 재료"
+  },
+  "Backdrop materials use macOS visual effects. Standard system controls and monospaced content retain their system fonts.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "배경 재료 사용 macOS 표준 시스템 컨트롤 및 단일 공간 콘텐츠는 시스템 글꼴을 유지합니다."
+  },
+  "Background": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "배경"
+  },
+  "Background color (blank = system)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "배경 색상 (블랙 = 시스템)"
+  },
+  "Background image": {
+    "origin": "Files:BackgroundImage",
+    "text": "배경 이미지"
+  },
+  "Background image and status": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "배경 이미지 및 상태"
+  },
+  "Background image opacity": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "배경 이미지 오파시티"
+  },
+  "Background mode keeps the menu bar icon available so you can reopen MacFiles or quit it.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "배경 모드는 메뉴 바 아이콘을 사용할 수 있으므로 다시 열 수 있습니다. MacFiles 아니면 그것을 멈추게 한다."
+  },
+  "Background preset": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "배경 프레젠테이션"
+  },
+  "Base": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "기초"
+  },
+  "Base64": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "바이러스64"
+  },
+  "Based on the Files Community explorer’s shell, MVVM, command, and storage architecture. Built with Swift, AppKit, and SwiftUI.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "파일 커뮤니티 탐색기의 셔틀, MVVM, 명령 및 저장 아키텍처를 기반으로.Swift, AppKit 및 SwiftUI로 구축."
+  },
+  "Binary": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "바이너리"
+  },
+  "Blue": {
+    "origin": "Files:Blue",
+    "text": "파랑"
+  },
+  "Bottom": {
+    "origin": "Files:Bottom",
+    "text": "아래"
+  },
+  "Browse all tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "모든 태그 보기"
+  },
+  "Browse archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "브라우저 아카이브"
+  },
+  "Browse archive…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "브라우저 아카이브"
+  },
+  "Browse tagged items…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse 태그 항목..."
+  },
+  "Browsing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "브라우징"
+  },
+  "Browsing interactions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "브라우저 상호 작용"
+  },
+  "Bulk rename": {
+    "origin": "Files:BulkRename",
+    "text": "이름 일괄 바꾸기"
+  },
+  "Bulk rename requires items from one folder.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "대량 이름은 하나의 폴더에서 항목을 필요로합니다."
+  },
+  "Bulk rename…": {
+    "origin": "Files:BulkRename",
+    "text": "이름 일괄 바꾸기"
+  },
+  "Bytes": {
+    "origin": "Files:Bytes",
+    "text": "바이트"
+  },
+  "Cache thumbnails": {
+    "origin": "Files:CacheThumbnails",
+    "text": "섬네일 캐시"
+  },
+  "Calculate combined size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "컴파일 크기를 계산하기"
+  },
+  "Calculate folder size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "폴더 크기를 계산"
+  },
+  "Calculate folder sizes": {
+    "origin": "Files:CalculateFolderSizes",
+    "text": "폴더 크기 계산"
+  },
+  "Calculate hashes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "하시스 계산..."
+  },
+  "Calculate total size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "전체 크기를 계산하기"
+  },
+  "Calculating hashes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "하시스 계산..."
+  },
+  "Camouflage": {
+    "origin": "Files:Camouflage",
+    "text": "카모플라쥬"
+  },
+  "Cancel": {
+    "origin": "Files:Cancel",
+    "text": "취소"
+  },
+  "Cancel calculation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "계산 취소"
+  },
+  "Cancel operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "운영 취소"
+  },
+  "Cancel queued operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "퀴즈 운영 취소"
+  },
+  "Cancelled": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "취소"
+  },
+  "Cancelled before starting.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "시작하기 전에 취소."
+  },
+  "Cancelled before starting. No files were changed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "시작하기 전에 취소했습니다. 파일이 변경되지 않았습니다."
+  },
+  "Cancelling the current operation…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "현재 운영을 취소하는 ..."
+  },
+  "Cannot allocate archive entry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아카이브 입력을 할당할 수 없습니다."
+  },
+  "Cannot allocate archive reader.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아카이브 리더를 할당할 수 없습니다."
+  },
+  "Cannot allocate archive writer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아카이브 작가를 할당할 수 없습니다."
+  },
+  "Cannot archive special device: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "특수 장치를 아카이브 할 수 없습니다 : %1$@"
+  },
+  "Cannot create archive entry: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아카이브 입력을 만들 수 없습니다 : %1$@"
+  },
+  "Cannot create subprocess output file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "하위 프로세스 출력 파일을 만들 수 없습니다."
+  },
+  "Cannot decode image.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이미지를 삭제할 수 없습니다."
+  },
+  "Cannot prepare SSH authentication.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "준비할 수 없음 SSH 정체성에 대하여"
+  },
+  "Cannot prepare command input.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "명령 입력을 준비할 수 없습니다."
+  },
+  "Cannot read %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "읽을 수 없음 %1$@"
+  },
+  "Cannot read image metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이미지 메타 데이터를 읽을 수 없습니다."
+  },
+  "Cannot remove the archive root.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아카이브 뿌리를 제거할 수 없습니다."
+  },
+  "Cannot rename the archive root.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아카이브 뿌리를 다시 불러일으킬 수 없습니다."
+  },
+  "Cannot restore archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "하드 링크를 복구할 수 없습니다."
+  },
+  "Cannot rotate image.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "그림을 회전할 수 없습니다."
+  },
+  "Center": {
+    "origin": "Files:Center",
+    "text": "가운데"
+  },
+  "Change file extension?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "파일 확장 변경?"
+  },
+  "Change ownership?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "소유권 변경?"
+  },
+  "Change provider app…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "앱을 바꾸기 위해서..."
+  },
+  "Change the shortcut target?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "짧은 목표를 바꾸는 것일까?"
+  },
+  "Changes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "변화"
+  },
+  "Changing the extension may prevent the file from opening in its usual application.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "확장을 변경하면 파일이 일반적인 응용 프로그램에서 열리지 못하게 할 수 있습니다."
+  },
+  "Choose IDE…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "여기를 선택하라..."
+  },
+  "Choose a destination to restore": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "복구하기 위한 목적지를 선택합니다."
+  },
+  "Choose a file to calculate hashes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hash를 계산하기 위해 파일을 선택합니다."
+  },
+  "Choose a new destination and a repository URL.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "새로운 목적지와 리포트 URL을 선택합니다."
+  },
+  "Choose a regular cloud file to download.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "다운로드할 수 있는 일반적인 클라우드 파일을 선택합니다."
+  },
+  "Choose a single file or folder to customize its icon.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "단일 파일 또는 폴더를 선택하여 아이콘을 사용자 정의합니다."
+  },
+  "Choose a supported single-frame image (JPEG, PNG, TIFF or HEIC).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "지원되는 단일 프레임 이미지 (JPEG, PNG, TIFF 또는 HEIC)를 선택합니다."
+  },
+  "Choose a template file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "템플릿 파일 선택"
+  },
+  "Choose custom icon…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아이콘을 선택하십시오."
+  },
+  "Choose folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "폴더를 선택합니다."
+  },
+  "Choose one item to edit ownership or ACLs.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "소유권 또는 ACL을 편집하려면 하나의 항목을 선택합니다."
+  },
+  "Choose one item to view extended attributes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "확장된 속성을 볼 수 있는 항목 하나를 선택합니다."
+  },
+  "Choose provider app…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "앱 제공자 선택..."
+  },
+  "Clear": {
+    "origin": "Files:Key.Clear",
+    "text": "제거"
+  },
+  "Clear finished": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "명확한 완성"
+  },
+  "Clear selection": {
+    "origin": "Files:ClearSelection",
+    "text": "선택 취소"
+  },
+  "Clear thumbnail cache": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "분명한 템플릿 캐시"
+  },
+  "Clone": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "클론"
+  },
+  "Clone repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "클론 리포트"
+  },
+  "Clone…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "클론 ..."
+  },
+  "Close": {
+    "origin": "Files:Close",
+    "text": "닫기"
+  },
+  "Close details": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "가까운 세부 사항"
+  },
+  "Close other tabs": {
+    "origin": "Files:CloseOtherTabs",
+    "text": "다른 탭 닫기"
+  },
+  "Close tab": {
+    "origin": "Files:CloseTab",
+    "text": "탭 닫기"
+  },
+  "Close tabs to the left": {
+    "origin": "Files:CloseTabsToTheLeft",
+    "text": "왼쪽 탭 닫기"
+  },
+  "Close tabs to the right": {
+    "origin": "Files:CloseTabsToTheRight",
+    "text": "오른쪽 탭 닫기"
+  },
+  "Close window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "가까운 창문"
+  },
+  "Cloud": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "클라우드"
+  },
+  "Cloud accounts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "클라우드 계좌"
+  },
+  "Cloud accounts and folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "클라우드 계정 및 파일"
+  },
+  "Cloud availability and synchronization": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "클라우드 이용 가능성 및 동기화"
+  },
+  "Cloud folder name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "클라우드 파일 이름"
+  },
+  "Cloud items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "클라우드 항목"
+  },
+  "Cloud provider": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "클라우드 공급자"
+  },
+  "Cloud providers installed on this Mac appear in the sidebar through their native File Provider folders.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이 Mac에 설치된 클라우드 공급자는 원주민을 통해 측면 바에 나타납니다. File Provider 폴더"
+  },
+  "Cloud status": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "클라우드 상태"
+  },
+  "Cloud status…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "클라우드 상태"
+  },
+  "Cloud storage": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "클라우드 스토리지"
+  },
+  "Collapse folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "붕괴된 파일"
+  },
+  "Collapsed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "붕괴"
+  },
+  "Collect file references from different folders, then copy or move them together.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "다른 폴더에서 파일 참조를 수집하고 복사하거나 함께 이동합니다."
+  },
+  "Columns": {
+    "origin": "Files:Columns",
+    "text": "열"
+  },
+  "Columns layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "콜론 레이아웃"
+  },
+  "Command": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "명령"
+  },
+  "Command output exceeded 16 MiB; no truncated result was accepted.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "명령 출력은 16 MiB를 초과했으며, 흔들린 결과는 수락되지 않았습니다."
+  },
+  "Command palette": {
+    "origin": "Files:CommandPalette",
+    "text": "명령 팔레트"
+  },
+  "Command palette…": {
+    "origin": "Files:CommandPalette",
+    "text": "명령 팔레트"
+  },
+  "Commit created": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "창조된 의무"
+  },
+  "Commit message": {
+    "origin": "Files:CommitMessage",
+    "text": "커밋 메시지"
+  },
+  "Commit staged": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "의무가 펼쳐진"
+  },
+  "Compact file rows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "컴팩트 파일 라인"
+  },
+  "Compare these SHA-256 fingerprints with your server administrator before trusting %1$@:%2$@.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이들을 비교하라 SHA-256 신뢰하기 전에 서버 관리자와 손가락 지문 %1$@:%2$@.\n\n"
+  },
+  "Compatibility": {
+    "origin": "Files:Compatibility",
+    "text": "호환성"
+  },
+  "Completed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "완성된"
+  },
+  "Completed with errors": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "실수로 완성된"
+  },
+  "Compress": {
+    "origin": "Files:Compress",
+    "text": "압축"
+  },
+  "CompressIntoSevenZip": {
+    "origin": "Files:CompressIntoSevenZip",
+    "text": "7z 파일로 압축하기"
+  },
+  "CompressIntoZip": {
+    "origin": "Files:CompressIntoZip",
+    "text": "ZIP 파일로 압축하기"
+  },
+  "Compressed movie headers require remuxing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "압축 된 영화 헤드셋은 리무시링이 필요합니다."
+  },
+  "Compressing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "압축"
+  },
+  "Compress…": {
+    "origin": "Files:Compress",
+    "text": "압축"
+  },
+  "Confirm moving files to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "트래시로 이동하는 파일을 확인"
+  },
+  "Confirmations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "확인사항"
+  },
+  "Conflicts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "갈등"
+  },
+  "Connect": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "연결"
+  },
+  "Connect to server": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "서버에 연결"
+  },
+  "Connect to server…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "서버에 연결하는 ..."
+  },
+  "Connect to the server first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "먼저 서버에 연결하십시오."
+  },
+  "Connected folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "연결된 폴더"
+  },
+  "Connected to this Mac": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이 Mac에 연결"
+  },
+  "Contains UTF-8 text": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "콘텐츠 UTF-8 텍스트"
+  },
+  "Content search includes text, PDF, Office and OpenDocument files. Unsupported, locked and online-only files are counted as skipped.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "콘텐츠 검색에는 텍스트, PDF, Office 및 OpenDocument 파일이 포함되어 있습니다. 지원되지 않은, 잠겨 있고 온라인으로만 계산되는 파일은 스카이프로 계산됩니다."
+  },
+  "Content type": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "콘텐츠 유형"
+  },
+  "Contents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "콘텐츠"
+  },
+  "Context": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "컨텍스트"
+  },
+  "Context menu": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "컨텍스트 메뉴"
+  },
+  "Copy": {
+    "origin": "Files:Copy",
+    "text": "복사"
+  },
+  "Copy app version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "App 버전 복사"
+  },
+  "Copy hashes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "해시 복사본"
+  },
+  "Copy here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "여기서 복사"
+  },
+  "Copy macOS version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "복사 macOS 버전"
+  },
+  "Copy path": {
+    "origin": "Files:CopyPath",
+    "text": "경로 복사"
+  },
+  "Copy report": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "복사 보고서"
+  },
+  "Copy selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "선택된 복사본"
+  },
+  "CopyItemPathWithQuotes": {
+    "origin": "Files:CopyItemPathWithQuotes",
+    "text": "선택한 항목 경로를 따옴표로 복사"
+  },
+  "CopyPathDescription": {
+    "origin": "Files:CopyPathDescription",
+    "text": "현재 경로 복사"
+  },
+  "CopyPathWithQuotes": {
+    "origin": "Files:CopyPathWithQuotes",
+    "text": "따옴표로 경로 복사"
+  },
+  "Copying": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "복사본"
+  },
+  "Copying archive entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "파일 입력 복사"
+  },
+  "Copying files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "파일 복사"
+  },
+  "Copyright": {
+    "origin": "Files:PropertyCopyright",
+    "text": "저작권"
+  },
+  "Could not find an available filename.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "사용 가능한 파일 이름을 찾을 수 없습니다."
+  },
+  "Could not prepare archive contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아카이브 내용을 준비할 수 없었다."
+  },
+  "Could not remove GitHub credentials from Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub 인증서를 제거할 수 없을 것입니다. Keychain."
+  },
+  "Could not save GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub 인증서를 저장할 수 없습니다. Keychain."
+  },
+  "Could not save the edited image; the original was kept.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "편집된 이미지를 저장할 수 없었는데, 원본은 저장되었습니다."
+  },
+  "Could not save the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "암호를 저장할 수 없을 것 Keychain (%1$@)."
+  },
+  "Could not update GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub 인증서를 업데이트 할 수 없습니다. Keychain."
+  },
+  "Could not update the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "암호를 업데이트할 수 없음 Keychain (%1$@)."
+  },
+  "Couldn’t change the folder viewer": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "폴더 시청자를 변경할 수 없었다."
+  },
+  "Couldn’t eject volume": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "볼륨을 꺼낼 수 없었다."
+  },
+  "Couldn’t open files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "파일을 열 수 없었다."
+  },
+  "Couldn’t open folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "폴더를 열 수 없었다."
+  },
+  "Couldn’t open this file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이 파일을 열 수 없었다."
+  },
+  "Couldn’t open this location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이 위치를 열 수 없었다."
+  },
+  "Couldn’t resolve alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "알리오를 해결할 수 없었다."
+  },
+  "Couldn’t restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "다시 시작할 수는 없었다. MacFiles"
+  },
+  "Create": {
+    "origin": "Files:Create",
+    "text": "만들기"
+  },
+  "Create a GitHub token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub 토큰 만들기"
+  },
+  "Create alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "앨리스 만들기"
+  },
+  "Create archive": {
+    "origin": "Files:CreateArchive",
+    "text": "압축 파일 만들기"
+  },
+  "Create library…": {
+    "origin": "Files:FolderWidgetCreateNewLibraryDialogTitleText",
+    "text": "라이브러리 생성"
+  },
+  "Create shortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "바로 가기 만들기"
+  },
+  "Create zip archive": {
+    "origin": "Files:CompressIntoZip",
+    "text": "ZIP 파일로 압축하기"
+  },
+  "CreateFolderWithSelection": {
+    "origin": "Files:CreateFolderWithSelection",
+    "text": "선택한 항목으로 폴더 생성"
+  },
+  "CreateShortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "바로 가기 만들기"
+  },
+  "CreateShortcutFromDialogDescription": {
+    "origin": "Files:CreateShortcutFromDialogDescription",
+    "text": "새 바로 가기 만들기"
+  },
+  "Created": {
+    "origin": "Files:PropertiesCreated.Text",
+    "text": "만든 날짜:"
+  },
+  "Creating alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "릴리스 만들기"
+  },
+  "Creating from template": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "템플릿에서 만들어진"
+  },
+  "Custom": {
+    "origin": "Files:Custom",
+    "text": "사용자 지정"
+  },
+  "Custom icon applied.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "사용자 지정 아이콘이 적용됩니다."
+  },
+  "Custom tag color (hex, optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "사용자 지정 태그 색상 (hex, 선택)"
+  },
+  "Custom theme": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "사용자 지정 테마"
+  },
+  "Customization": {
+    "origin": "Files:Customization",
+    "text": "사용자 지정"
+  },
+  "Customize toolbar": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "사용자 정의 도구"
+  },
+  "Customize toolbar…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "사용자 정의 도구 ..."
+  },
+  "Cut": {
+    "origin": "Files:Cut",
+    "text": "잘라내기"
+  },
+  "Dark": {
+    "origin": "Files:DarkTheme",
+    "text": "어둡게"
+  },
+  "Date created": {
+    "origin": "Files:DateCreated",
+    "text": "만든 날짜"
+  },
+  "Date deleted": {
+    "origin": "Files:DateDeleted",
+    "text": "삭제된 날짜"
+  },
+  "Date format": {
+    "origin": "Files:DateFormat",
+    "text": "날짜 형식"
+  },
+  "Date modified": {
+    "origin": "Files:DateModifiedLowerCase",
+    "text": "수정한 날짜"
+  },
+  "Day": {
+    "origin": "Files:Day",
+    "text": "일"
+  },
+  "Decimal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "십일조"
+  },
+  "Decrease size": {
+    "origin": "Files:DecreaseSize",
+    "text": "크기 축소"
+  },
+  "Default": {
+    "origin": "Files:Default",
+    "text": "기본 값"
+  },
+  "Default folder layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "기본 포스터 레이아웃"
+  },
+  "Default grouping": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "가상 그룹화"
+  },
+  "Default save location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "위치를 저장하는 기본"
+  },
+  "Default sorting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "가상 분류"
+  },
+  "Delete": {
+    "origin": "Files:Delete",
+    "text": "삭제"
+  },
+  "Delete permanently": {
+    "origin": "Files:DeletePermanently",
+    "text": "영구적으로 삭제"
+  },
+  "Delete saved tag and remove it from indexed files?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "저장된 태그를 삭제하고 인덱스 된 파일에서 제거합니까?"
+  },
+  "Delete selected permanently…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "영구적으로 선택한 것을 삭제합니다."
+  },
+  "Deleting permanently": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "영구적으로 삭제"
+  },
+  "Description": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "설명"
+  },
+  "Desktop": {
+    "origin": "Files:Desktop",
+    "text": "바탕 화면"
+  },
+  "Destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "대상: %1$@"
+  },
+  "Detached HEAD": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "헤드 헤드"
+  },
+  "Details": {
+    "origin": "Files:Details",
+    "text": "자세히"
+  },
+  "Details layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "세부 사항 Layout"
+  },
+  "Details pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "자세한 내용은 Pane"
+  },
+  "Developer tools": {
+    "origin": "Files:DevTools",
+    "text": "개발자 도구"
+  },
+  "Development": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "개발"
+  },
+  "Diagnostics": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "진단"
+  },
+  "Diagnostics opened": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "진단이 열렸다"
+  },
+  "Disconnect": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "분리기"
+  },
+  "Documents": {
+    "origin": "Files:Documents",
+    "text": "문서"
+  },
+  "Done": {
+    "origin": "Files:Close",
+    "text": "닫기"
+  },
+  "Double-click empty space to go up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "빈 공간을 두 번 클릭하여 위로 올라갈 수 있습니다."
+  },
+  "Download": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "다운로드"
+  },
+  "Download files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "다운로드 파일..."
+  },
+  "Download here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "여기서 다운로드"
+  },
+  "Download requested. iCloud may complete it asynchronously.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "다운로드 요청 iCloud 그것은 무시무시하게 완성될 수 있습니다."
+  },
+  "Downloaded": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "다운로드"
+  },
+  "Downloading": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "다운로드"
+  },
+  "Downloads": {
+    "origin": "Files:Downloads",
+    "text": "다운로드"
+  },
+  "Drives": {
+    "origin": "Files:Drives",
+    "text": "드라이브"
+  },
+  "Dual pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "듀얼 패널"
+  },
+  "Duplicate": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "복제"
+  },
+  "Duplicate archive paths cannot be extracted safely.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "복제 파일 경로는 안전하게 추출되지 않습니다."
+  },
+  "Duplicate tab": {
+    "origin": "Files:DuplicateTab",
+    "text": "탭 복제"
+  },
+  "Edit": {
+    "origin": "Files:Edit",
+    "text": "편집"
+  },
+  "Edit POSIX permissions for selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "편집 POSIX 선택 허가"
+  },
+  "Edit address · ⌘L": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "에디트 주소 · ⌘L"
+  },
+  "Edit archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "에디트 아카이브"
+  },
+  "Edit in TextEdit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "에디트 텍스트"
+  },
+  "Edit media metadata": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "미디어 메타데이터 편집"
+  },
+  "Edit media metadata…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "미디어 메타데이터를 편집합니다."
+  },
+  "Edit or import the settings document, then Apply to validate and save. Language changes require a restart.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "설정 문서를 편집하거나 가져오고, 그 다음에 인증 및 저장에 적용합니다. 언어 변경은 다시 시작해야합니다."
+  },
+  "Edit permissions on the link's target instead.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "대신 링크의 목표에 대한 허가를 편집합니다."
+  },
+  "Edit settings file…": {
+    "origin": "Files:EditSettingsFile",
+    "text": "Files 설정 파일 수정"
+  },
+  "Edit tags": {
+    "origin": "Files:EditTags",
+    "text": "태그 수정"
+  },
+  "Edit tags…": {
+    "origin": "Files:EditTags",
+    "text": "태그 수정"
+  },
+  "Edit the archive target instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "상징적 링크 대신 파일 목표를 편집합니다."
+  },
+  "Edit the target's attributes instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "상징적 링크 대신 목표의 속성을 편집합니다."
+  },
+  "Edits apply to this item only. Ownership changes require existing system permission; MacFiles does not elevate itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "편집은 이 항목에만 적용됩니다. 소유권 변경에는 기존 시스템 허가가 필요합니다. MacFiles 스스로를 높이지 않는다."
+  },
+  "Eject": {
+    "origin": "Files:Eject",
+    "text": "꺼내기"
+  },
+  "Empty": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "텅 비어"
+  },
+  "Empty accessible Trash…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "빈 접근 트래시 ..."
+  },
+  "Empty archive entry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "공허한 아카이브 입장"
+  },
+  "Encoding": {
+    "origin": "Files:Encoding",
+    "text": "인코딩"
+  },
+  "Encrypted": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "암호화"
+  },
+  "Enter a GitHub username and a valid access token.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub 사용자 이름과 유효한 액세스 토큰을 입력합니다."
+  },
+  "Enter a commit message.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "약속 메시지를 입력합니다."
+  },
+  "Enter a name without a slash or colon. The name cannot be empty, ‘.’, or ‘..’.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "슬래시 또는 열이없는 이름을 입력합니다.이 이름은 텅 비어있을 수 없습니다, '.', 또는 '..'."
+  },
+  "Enter a size from 1 to 1,048,576 MiB.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "1에서 1,048,576 MiB 사이즈를 입력합니다."
+  },
+  "Enter a valid host, username, and port.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "유효한 호스트, 사용자 이름 및 포트를 입력합니다."
+  },
+  "Enter an SMB, AFP, or WebDAV address.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "들어오는 하나 SMB, AFP또는 WebDAV 주소"
+  },
+  "Enter an attribute name of 1–127 UTF-8 bytes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "1~127의 속성 이름을 입력합니다. UTF-8 바이트"
+  },
+  "Enter compact overlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "작은 오버레이 모드 시작"
+  },
+  "Enter numeric user and group IDs.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "숫자 사용자 및 그룹 ID를 입력합니다."
+  },
+  "Enter password:": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "암호를 입력하십시오 :"
+  },
+  "Enter permissions from 000 to 777.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "허가를 입력하십시오 000에서 777까지."
+  },
+  "Enter the archive password before editing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "편집하기 전에 파일 암호를 입력합니다."
+  },
+  "Enter three octal digits, for example 644 or 755.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "예를 들어 644 또는 755의 세 개의 옥탈 숫자를 입력합니다."
+  },
+  "Enter whole numbers for byte limits.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "바이트 제한에 대한 전체 숫자를 입력합니다."
+  },
+  "EnterCompactOverlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "작은 오버레이 모드 시작"
+  },
+  "Executable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "실행성"
+  },
+  "Executable format": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "실행 가능한 형식"
+  },
+  "Exit compact overlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "화면 크기 자동 조절 기능 종료"
+  },
+  "ExitCompactOverlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "화면 크기 자동 조절 기능 종료"
+  },
+  "Expand folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "폴더 확장"
+  },
+  "Expanded": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "확장"
+  },
+  "Export ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "수출 ACL…"
+  },
+  "Export bytes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "수출 비트 ..."
+  },
+  "Export theme…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "수출에 대한 주제..."
+  },
+  "Export…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "수출..."
+  },
+  "Extended attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "확장된 속성"
+  },
+  "Extended attributes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "확장된 속성..."
+  },
+  "Extensions are preserved. Conflicts stop the batch before any names change.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "확장은 보존됩니다. 갈등은 이름이 변경되기 전에 배치를 중지합니다."
+  },
+  "Extensions: txt, swift, pdf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "확장: txt, swift, pdf"
+  },
+  "Extra large icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "추가 큰 아이콘"
+  },
+  "Extract": {
+    "origin": "Files:Extract",
+    "text": "압축 해제"
+  },
+  "Extract all…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "모두 추출..."
+  },
+  "Extract here": {
+    "origin": "Files:ExtractHere",
+    "text": "여기에 압축 해제"
+  },
+  "Extract here (Smart)": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "여기에 압축 해제 (스마트)"
+  },
+  "Extract selected…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "선택한 엑스레이..."
+  },
+  "Extract to child folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아기 포스터에 대한 추출물"
+  },
+  "Extract to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "추출물은 ..."
+  },
+  "ExtractHere": {
+    "origin": "Files:ExtractHere",
+    "text": "여기에 압축 해제"
+  },
+  "ExtractHereSmart": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "여기에 압축 해제 (스마트)"
+  },
+  "Extracted entry size does not match its header.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "추출 된 입력 크기는 헤더와 일치하지 않습니다."
+  },
+  "Extracting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "추출"
+  },
+  "Extracts into a new folder; existing files are kept.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "새 폴더로 추출; 기존 파일이 저장됩니다."
+  },
+  "FTP over TLS": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "FTP 위의 TLS"
+  },
+  "Failed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "실패"
+  },
+  "Fetch": {
+    "origin": "Files:GitFetch",
+    "text": "패치"
+  },
+  "File": {
+    "origin": "Files:File",
+    "text": "파일"
+  },
+  "File actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "파일 액션"
+  },
+  "File hashes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "파일 하시스"
+  },
+  "File information": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "파일 정보"
+  },
+  "File operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "파일 운영"
+  },
+  "File operations in this window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이 창에서 파일 작업"
+  },
+  "File shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "파일 셰일프"
+  },
+  "File shelf…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "파일 셰일프"
+  },
+  "File size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "파일 크기"
+  },
+  "Files": {
+    "origin": "Files:SecurityAdvancedFlagsFilesLabel",
+    "text": "파일"
+  },
+  "Files size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "파일 크기"
+  },
+  "Files you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "당신이 열고 있는 파일은 여기에 나타납니다."
+  },
+  "Fill": {
+    "origin": "Files:Fill",
+    "text": "채우기"
+  },
+  "Filter entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "필터 입력"
+  },
+  "Find": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "찾기"
+  },
+  "Find and replace": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "찾고 대체하기"
+  },
+  "Finder Get Info unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder 정보가 없어지기"
+  },
+  "Finder Get Info…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder 정보를 얻으세요..."
+  },
+  "Finder's desktop and other apps' Open/Save dialogs remain managed by macOS.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder'Desktop and other apps' Open/Save 대화는 여전히 관리됩니다. macOS."
+  },
+  "First letter": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "첫 편지"
+  },
+  "Fit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "적합한"
+  },
+  "Flatten": {
+    "origin": "Files:Flatten",
+    "text": "평면"
+  },
+  "Flatten folder": {
+    "origin": "Files:FlattenFolder",
+    "text": "폴더 평면 설정"
+  },
+  "Flatten folder…": {
+    "origin": "Files:FlattenFolder",
+    "text": "폴더 평면 설정"
+  },
+  "Flatten ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "깔끔한 ‘%1$@’?"
+  },
+  "Flattening folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "플라스틱 폴더"
+  },
+  "Focus other pane": {
+    "origin": "Files:FocusOtherPane",
+    "text": "다른 패널에 포커스"
+  },
+  "Folder": {
+    "origin": "Files:Folder",
+    "text": "폴더"
+  },
+  "Folder contents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "폴더 콘텐츠"
+  },
+  "Folder contents are not included in this total.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "폴더 콘텐츠는 이 전체에 포함되지 않습니다."
+  },
+  "Folder layout saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "폴더 레이아웃이 저장되었습니다."
+  },
+  "Folder path": {
+    "origin": "Files:FolderPath",
+    "text": "폴더 경로"
+  },
+  "Folder presentation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "폴더 프레젠테이션"
+  },
+  "Folder sizes are calculated in the background after Refresh. Large or network folders may take longer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "폴더 크기는 재생 후 배경에서 계산됩니다.대형 또는 네트워크 폴더는 더 오래 걸릴 수 있습니다."
+  },
+  "Folder unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "불가능한 포스터"
+  },
+  "Folders": {
+    "origin": "Files:Folders",
+    "text": "폴더"
+  },
+  "Folders you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "당신이 열리는 파일은 여기에서 나타납니다."
+  },
+  "Font": {
+    "origin": "Files:Font",
+    "text": "글꼴"
+  },
+  "Font and material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "글꼴 및 재료"
+  },
+  "Forget saved": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "잊어버린 구원"
+  },
+  "Format": {
+    "origin": "Files:FormatDriveText",
+    "text": "포맷"
+  },
+  "Format drive in Disk Utility…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "디스크 유틸리티에서 디스크를 형성하는 방법..."
+  },
+  "Forward": {
+    "origin": "Files:Forward",
+    "text": "앞으로 가기"
+  },
+  "Forward · ⌘]": {
+    "origin": "Files:Forward",
+    "text": "앞으로 가기 · ⌘]"
+  },
+  "Fragmented media metadata cannot be edited without remuxing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "분해된 미디어 메타 데이터는 재구성 없이 편집할 수 없습니다."
+  },
+  "Gallery": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "갤러리"
+  },
+  "Gallery layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "갤러리 레이아웃"
+  },
+  "General": {
+    "origin": "Files:General",
+    "text": "일반"
+  },
+  "Git operation in %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git 운영에 대하여 %1$@"
+  },
+  "Git repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git 리포트리"
+  },
+  "Git repository…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git 저장소 ..."
+  },
+  "GitHub account": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub 계정"
+  },
+  "GitHub username": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub 사용자 이름"
+  },
+  "Go to path": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "길로 가라"
+  },
+  "Go to path…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "길을 가라..."
+  },
+  "Gray": {
+    "origin": "Files:Gray",
+    "text": "회색"
+  },
+  "Green": {
+    "origin": "Files:Green",
+    "text": "초록"
+  },
+  "Group": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "그룹"
+  },
+  "Group GID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "그룹 GID"
+  },
+  "Group ascending": {
+    "origin": "Files:GroupAscendingDescription",
+    "text": "오름차순으로 분류"
+  },
+  "Group by": {
+    "origin": "Files:GroupBy",
+    "text": "분류 기준"
+  },
+  "Group by date unit": {
+    "origin": "Files:GroupByDateUnit",
+    "text": "다음 날짜 단위로 분류"
+  },
+  "HTTPS Git operations can use a GitHub access token stored in your macOS Keychain. Choose the repositories and permissions when creating the token. Existing Git authentication remains in use when no MacFiles account is saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "HTTPS Git 작업은 귀하의 GitHub 액세스 토큰에 저장된 것을 사용할 수 있습니다. macOS Keychain. 토큰을 만들 때 저장소 및 허가를 선택합니다. Git 인증은 사용되지 않을 때 사용됩니다. MacFiles 계정이 저장되었습니다."
+  },
+  "Hard Link": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "하드 링크"
+  },
+  "Hashes": {
+    "origin": "Files:Hashes",
+    "text": "해시 진행"
+  },
+  "Hashes are available for a single file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hashes는 단일 파일을 위해 사용할 수 있습니다."
+  },
+  "Header": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "헤더"
+  },
+  "Help": {
+    "origin": "Files:Help",
+    "text": "도움말"
+  },
+  "Hidden": {
+    "origin": "Files:Hidden",
+    "text": "숨김"
+  },
+  "Hidden files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "숨겨진 파일"
+  },
+  "History": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "역사"
+  },
+  "Home": {
+    "origin": "Files:Key.Home",
+    "text": "홈"
+  },
+  "Horizontal alignment": {
+    "origin": "Files:HorizontalAlignment",
+    "text": "가로 정렬"
+  },
+  "IDE opened.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "여기에 열려있다."
+  },
+  "Icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아이콘"
+  },
+  "Icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아이콘"
+  },
+  "Icons layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아이콘 레이아웃"
+  },
+  "Image alignment": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이미지 조정"
+  },
+  "Image fit": {
+    "origin": "Files:ImageFit",
+    "text": "이미지 맞춤"
+  },
+  "Import theme…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "수입 주제는 ..."
+  },
+  "Imported. Apply to save.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "수입 - 저장하기 위한 응용 프로그램"
+  },
+  "Import…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "수입..."
+  },
+  "Incomplete archive listing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "불완전한 아카이브 목록"
+  },
+  "Increase size": {
+    "origin": "Files:IncreaseSize",
+    "text": "크기 확대"
+  },
+  "Indexed document, image, audio, video and filesystem metadata supplied by Spotlight. Tags can be edited with the Tags tool.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "인덱스 된 문서, 이미지, 오디오, 비디오 및 파일 시스템 메타 데이터에 의해 제공 Spotlight태그는 태그 도구를 사용하여 편집할 수 있습니다."
+  },
+  "Indexed files updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "업데이트된 인덱스 파일"
+  },
+  "Initialize": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "초기화"
+  },
+  "Initialize repository here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "여기서 저장소를 시작하세요."
+  },
+  "Install certificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "인증서 설치"
+  },
+  "Install font": {
+    "origin": "Files:InstallFont",
+    "text": "글꼴 설치"
+  },
+  "InstallCertificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "인증서 설치"
+  },
+  "InstallFont": {
+    "origin": "Files:InstallFont",
+    "text": "글꼴 설치"
+  },
+  "Interval in seconds": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "2초간의 간격"
+  },
+  "Invalid Base64 data.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "기본 데이터가 부적절한 Base64"
+  },
+  "Invalid SSH host or port.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "장애인 SSH 호스트 또는 항구"
+  },
+  "Invalid archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "무효한 하드 링크 파일"
+  },
+  "Invalid archive link target.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "무효 파일 링크 목표."
+  },
+  "Invalid extended media atom.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "장애 미디어 확장 원자."
+  },
+  "Invalid hard link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "무효한 하드 링크"
+  },
+  "Invalid key for %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "무효의 열쇠는 %1$@."
+  },
+  "Invalid macOS ACL text. Preserve the !#acl 1 header and use valid entries.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "장애인 macOS ACL 텍스트. #acl 1 헤드셋을 저장하고 유효한 입력을 사용합니다."
+  },
+  "Invalid media atom header.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "무효 미디어 원자 헤더."
+  },
+  "Invalid media atom size.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "무효 미디어 원자 크기"
+  },
+  "Invalid media atom.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "미디어의 무효 원자."
+  },
+  "Invalid media file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "무효 미디어 파일"
+  },
+  "Invalid name": {
+    "origin": "Files:InvalidTagNameWarning",
+    "text": "잘못된 이름"
+  },
+  "Invalid remote URL.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "무효 원격 URL"
+  },
+  "Invalid settings document.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "무효 설정 문서"
+  },
+  "Invalid tag metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "무효 메타데이터가 있습니다."
+  },
+  "Invalid tag name or color.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "무효 태그 이름 또는 색상."
+  },
+  "Invalid theme colors or appearance.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "무효 테마 색상 또는 외관."
+  },
+  "Invalid volume size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "무효량 크기"
+  },
+  "Invert selection": {
+    "origin": "Files:InvertSelection",
+    "text": "선택 반전"
+  },
+  "Item properties": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "항목 속성"
+  },
+  "Items move into .MacFiles-Recovery on this server, including folder contents. Use Undo remote to restore them during this session.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "항목이 들어가는 .MacFiles-Recovery 이 서버에서, 폴더 콘텐츠를 포함합니다. Undo 원격을 사용하여 이 세션 중에 복구합니다."
+  },
+  "Keep MacFiles open": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "유지하기 MacFiles 열기"
+  },
+  "Keep both": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "둘 다 유지"
+  },
+  "Keep both creates numbered names. Replace moves previous versions to Trash and supports Undo. Folders are replaced as a whole.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "둘 다 숫자 이름을 생성합니다. 대체 이전 버전을 Trash로 이동하고 Undo를 지원합니다."
+  },
+  "Keep running after closing windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "창문을 닫은 후 계속 실행하십시오."
+  },
+  "Keep window on top": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "창문을 위쪽에 두고"
+  },
+  "Keyboard shortcuts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "키보드 단축"
+  },
+  "Keyboard shortcuts…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "키보드 짧은 ..."
+  },
+  "Keywords (comma separated)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "키워드 (분리된 것처럼)"
+  },
+  "Kind": {
+    "origin": "Files:Type",
+    "text": "유형"
+  },
+  "Label": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "라벨"
+  },
+  "Language": {
+    "origin": "Files:PropertyLanguage",
+    "text": "언어"
+  },
+  "Large icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "큰 아이콘"
+  },
+  "Launch at login": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "로그인에서 시작하기"
+  },
+  "Layout": {
+    "origin": "Files:Layout",
+    "text": "레이아웃"
+  },
+  "Left": {
+    "origin": "Files:Left",
+    "text": "왼쪽"
+  },
+  "Let the current operation finish before quitting.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "현재 작업을 포기하기 전에 완료하십시오."
+  },
+  "Libraries": {
+    "origin": "Files:SidebarLibraries",
+    "text": "라이브러리"
+  },
+  "Library": {
+    "origin": "Files:Library",
+    "text": "라이브러리"
+  },
+  "Library name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "도서관 이름"
+  },
+  "Library properties…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "도서관 소유권..."
+  },
+  "Library/Application Support/MacFiles/known_hosts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "도서관 / 응용 프로그램 지원MacFiles/ 잘 알려진 호스트"
+  },
+  "Library/Mobile Documents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "도서관 / 모바일 문서"
+  },
+  "Library/Mobile Documents/com~apple~CloudDocs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "도서관/모바일 문서/com~apple~CloudDocs"
+  },
+  "Light": {
+    "origin": "Files:LightTheme",
+    "text": "밝게"
+  },
+  "Link target": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "링크 목표"
+  },
+  "List": {
+    "origin": "Files:List",
+    "text": "목록"
+  },
+  "List folders before files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "파일 전에 폴더 목록"
+  },
+  "Loading…": {
+    "origin": "Files:Loading",
+    "text": "불러오는 중…"
+  },
+  "Local": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "현지"
+  },
+  "Local download removal requested.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "로컬 다운로드 제거 요청."
+  },
+  "Local file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "지역 파일"
+  },
+  "Location": {
+    "origin": "Files:Location",
+    "text": "위치:"
+  },
+  "Lock screen and wallpaper settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "닫기 스크린 및 배경 화면 설정..."
+  },
+  "Locked": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "닫힌"
+  },
+  "Macintosh HD": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "마킨토시 HD"
+  },
+  "Make alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "알리오를 만들기"
+  },
+  "Make alias…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "알리오를 만들고..."
+  },
+  "Manage account in provider app": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "공급자 앱에서 계정 관리"
+  },
+  "Manage cloud accounts…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "클라우드 계좌 관리..."
+  },
+  "Manage tags": {
+    "origin": "Files:ManageTags",
+    "text": "태그 관리"
+  },
+  "Maximum bytes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "최대 바이트"
+  },
+  "Media export did not complete.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "미디어 수출은 완료되지 않았습니다."
+  },
+  "Media metadata is too large.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "미디어 메타데이터는 너무 크다."
+  },
+  "Medium icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "중간 아이콘"
+  },
+  "Minimize": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "최소화"
+  },
+  "Minimum bytes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "최소 바이트"
+  },
+  "Minimum size exceeds maximum size.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "최소 크기는 최대 크기를 초과합니다."
+  },
+  "Mode": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "모드"
+  },
+  "Modified": {
+    "origin": "Files:Modified",
+    "text": "수정됨"
+  },
+  "Modified after": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "변경 후"
+  },
+  "Month": {
+    "origin": "Files:Month",
+    "text": "월"
+  },
+  "More actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "더 많은 행동"
+  },
+  "Mount share…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "산은 공유하기..."
+  },
+  "Mounted network locations appear here. Connect to a server to browse another location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "계산된 네트워크 위치는 여기에서 나타납니다.다른 위치를 탐색하기 위해 서버에 연결합니다."
+  },
+  "Move %1$@ remote items to recovery?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이동 %1$@ 복구를 위한 원격 항목?"
+  },
+  "Move %1$@ to Trash?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이동 %1$@ 트래시를 하는 것인가?"
+  },
+  "Move here": {
+    "origin": "Files:PinToSidebarByDraggingCaptionText",
+    "text": "여기로 이동"
+  },
+  "Move nested files to this folder. Existing names and symbolic links are left in place. Empty subfolders go to Trash. You can undo this operation.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이 폴더로 둥근 파일을 이동합니다.존재하는 이름과 상징적 링크가 위치에 남아 있습니다.빈 하위 폴더가 트래시로 이동합니다.이 작업을 삭제할 수 있습니다."
+  },
+  "Move to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "트래시로 이동"
+  },
+  "Move to Trash…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "트래시를 움직이기 위해..."
+  },
+  "Move to recovery": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "회복을 향한 이동"
+  },
+  "Move to recovery folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "복구 폴더로 이동합니다."
+  },
+  "Movies": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "영화"
+  },
+  "Moving": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이동"
+  },
+  "Moving files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "움직이는 파일"
+  },
+  "Moving to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "트래시로 이동"
+  },
+  "Multiple items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "여러 항목"
+  },
+  "Music": {
+    "origin": "Files:Music",
+    "text": "음악"
+  },
+  "My MacFiles theme": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "나의 MacFiles 테마"
+  },
+  "My library": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "내 도서관"
+  },
+  "My search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "나의 검색"
+  },
+  "Name": {
+    "origin": "Files:NameWithColon",
+    "text": "이름:"
+  },
+  "Native macOS extended attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "원주민 macOS 확장된 속성"
+  },
+  "Natural language search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "자연 언어 검색"
+  },
+  "Navigate": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "항해"
+  },
+  "Network": {
+    "origin": "Files:Network",
+    "text": "네트워크"
+  },
+  "New": {
+    "origin": "Files:BaseLayoutContextFlyoutNew.Label",
+    "text": "새로 만들기"
+  },
+  "New archive file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "새로운 파일 파일"
+  },
+  "New archive folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "새로운 파일 파일"
+  },
+  "New branch": {
+    "origin": "Files:NewBranch",
+    "text": "새 분기"
+  },
+  "New file from template": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Template의 새로운 파일"
+  },
+  "New folder": {
+    "origin": "Files:NewFolder",
+    "text": "새 폴더"
+  },
+  "New folder…": {
+    "origin": "Files:NewFolder",
+    "text": "새 폴더"
+  },
+  "New from template": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "새로운 템플릿"
+  },
+  "New from template…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "새롭게 템플릿에서 ..."
+  },
+  "New name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "새로운 이름"
+  },
+  "New remote file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "새로운 원격 파일"
+  },
+  "New remote folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "새로운 원격 폴더"
+  },
+  "New tab": {
+    "origin": "Files:NewTab",
+    "text": "새 탭"
+  },
+  "New tab · ⌘T": {
+    "origin": "Files:NewTab",
+    "text": "새 탭 · ⌘T"
+  },
+  "New text file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "새로운 텍스트 파일"
+  },
+  "New text file…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "새로운 문서 파일..."
+  },
+  "New window": {
+    "origin": "Files:NewWindow",
+    "text": "새 창"
+  },
+  "Next layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "다음 레이아웃"
+  },
+  "Next tab": {
+    "origin": "Files:NextTab",
+    "text": "다음 탭"
+  },
+  "No": {
+    "origin": "Files:No",
+    "text": "아니오"
+  },
+  "No IDE selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "선택된 아이디어가 없습니다."
+  },
+  "No application could open ‘%1$@’.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "응용 프로그램이 열리지 않았다.”%1$@’."
+  },
+  "No archive entry was extracted.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아카이브 입력은 없었습니다."
+  },
+  "No archive is open.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아카이브는 열리지 않습니다."
+  },
+  "No archive was produced.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아카이브는 제작되지 않았습니다."
+  },
+  "No commits yet": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아직 약속하지 않음"
+  },
+  "No files were extracted.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "파일은 추출되지 않았습니다."
+  },
+  "No matching items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "일치하지 않는 항목"
+  },
+  "No movie header was found.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "영화 제목은 발견되지 않았다."
+  },
+  "No operations recorded.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "기록된 작업은 없습니다."
+  },
+  "No readable macOS code signature.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "읽을 수 없음 macOS 코드 서명\n\n"
+  },
+  "No selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "선택 없음"
+  },
+  "No settings match your search.": {
+    "origin": "Files:NoSearchResults",
+    "text": "검색어와 일치하는 설정이 없습니다."
+  },
+  "No tracked diff. New files appear after staging.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "추적되지 않음 diff. 새로운 파일은 스케치 후에 나타납니다."
+  },
+  "None": {
+    "origin": "Files:CompressionLevelNone",
+    "text": "압축하지 않음"
+  },
+  "Not enough free space to finish extraction.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "추출을 완료하기에 충분한 공간이 없습니다."
+  },
+  "Not managed by a detected cloud provider": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "탐지된 클라우드 공급자에 의해 관리되지 않은"
+  },
+  "Not used": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "사용하지 않은"
+  },
+  "Numbered names": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "숫자 이름"
+  },
+  "OK": {
+    "origin": "Files:OK",
+    "text": "확인"
+  },
+  "Older": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "오래된"
+  },
+  "Online only": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "온라인만으로"
+  },
+  "Only an uploaded iCloud file without conflicts can have its local download removed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "오직 업로드된 것만 iCloud 갈등없는 파일은 로컬 다운로드를 제거 할 수 있습니다."
+  },
+  "Only images can be rotated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "사진만 회전할 수 있습니다."
+  },
+  "Open": {
+    "origin": "Files:Open",
+    "text": "열기"
+  },
+  "Open / Preview": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "오픈 / 프레비전"
+  },
+  "Open Login Items settings": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "오픈 로그인 항목 설정"
+  },
+  "Open MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "열기 MacFiles"
+  },
+  "Open System Settings for iCloud": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "오픈 시스템 설정 iCloud"
+  },
+  "Open a repository, initialize this folder, or clone a repository.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "저장소를 열고, 이 폴더를 시작하거나, 저장소를 클론합니다."
+  },
+  "Open all folders in tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "탭에서 모든 폴더를 열기"
+  },
+  "Open containing folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "포스팅 포스팅 열기"
+  },
+  "Open external folders in new windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "새로운 창에서 외부 폴더를 열기"
+  },
+  "Open file location": {
+    "origin": "Files:OpenFileLocation",
+    "text": "파일 경로 열기"
+  },
+  "Open folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "개방된 폴더"
+  },
+  "Open folders in new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "새 탭에서 폴더를 열어보세요"
+  },
+  "Open folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "오픈 포스터 ..."
+  },
+  "Open in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "IDE에서 열립니다"
+  },
+  "Open in IDE uses the selected application. Open repository in IDE resolves the Git repository root first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open in IDE는 선택한 응용 프로그램을 사용합니다. Open repository in IDE는 선택한 응용 프로그램을 사용합니다. Git 뿌리 뿌리 먼저."
+  },
+  "Open in Terminal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "터미널에서 열려있다"
+  },
+  "Open in new tab": {
+    "origin": "Files:OpenInNewTab",
+    "text": "새 탭에서 열기"
+  },
+  "Open in new window": {
+    "origin": "Files:OpenInNewWindow",
+    "text": "새 창에서 열기"
+  },
+  "Open in other pane": {
+    "origin": "Files:OpenInOtherPane",
+    "text": "새 분할 화면에서 열기"
+  },
+  "Open log file": {
+    "origin": "Files:OpenLogFile",
+    "text": "Open log file"
+  },
+  "Open new tabs with dual panes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "더블 패널을 사용하여 새로운 탭을 열어보세요."
+  },
+  "Open repository in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "IDE에 있는 저장소 개방"
+  },
+  "Open selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "오픈 선택"
+  },
+  "Open target folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "개방된 목표 파일"
+  },
+  "Open with": {
+    "origin": "Files:OpenWith",
+    "text": "다른 프로그램으로 열기"
+  },
+  "Open with application": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "응용 프로그램으로 열려 있습니다"
+  },
+  "Open with application…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "응용 프로그램을 통해 열려 있습니다..."
+  },
+  "Open with…": {
+    "origin": "Files:OpenWith",
+    "text": "다른 프로그램으로 열기"
+  },
+  "Open-ended media atoms require remuxing before editing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "오픈 미디어 원자는 편집하기 전에 재구성해야합니다."
+  },
+  "OpenAllTaggedItems": {
+    "origin": "Files:OpenAllTaggedItems",
+    "text": "모두 열기"
+  },
+  "OpenLogFile": {
+    "origin": "Files:OpenLogFile",
+    "text": "Open log file"
+  },
+  "Operation completed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "작업이 완료되었습니다."
+  },
+  "Operation failed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "실패한 작전"
+  },
+  "Operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "운영"
+  },
+  "Operations (%1$@ queued)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "작업을 수행하기 (%1$@ 퀸즈)"
+  },
+  "Operations…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "운영..."
+  },
+  "Orange": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "오렌지"
+  },
+  "Original location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "원래 위치"
+  },
+  "Original locations are remembered for items deleted by MacFiles, including across launches.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "원래 위치는 삭제된 항목에 대해 기억됩니다. MacFiles또한 모든 출발점에서"
+  },
+  "Original name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "원래 이름"
+  },
+  "Overcast": {
+    "origin": "Files:Overcast",
+    "text": "흐린 회색"
+  },
+  "Owner": {
+    "origin": "Files:PropertyFileOwner",
+    "text": "소유자"
+  },
+  "Owner UID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "소유자 UID"
+  },
+  "Ownership updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "소유권 업데이트"
+  },
+  "POSIX permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "POSIX 권한"
+  },
+  "Password": {
+    "origin": "Files:Password",
+    "text": "비밀번호"
+  },
+  "Password (optional, AES-256)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "암호 (선택, AES-256)"
+  },
+  "Password / key passphrase (optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "암호 / 키 여권 (선택)"
+  },
+  "Password protection is supported for ZIP archives.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "암호 보호는 지원됩니다 ZIP 아카이브"
+  },
+  "Paste": {
+    "origin": "Files:Paste",
+    "text": "붙여 넣기"
+  },
+  "Paste and drop transfers queue behind the current operation. Completed changes remain available through Undo. Copy cancellation stops the staged transfer before publishing it. Undo history is restored across launches.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "패스트 및 드래프트 전송은 현재 운영 뒤에 있습니다. 완료된 변경 사항은 Undo를 통해 사용할 수 있습니다. 복사 취소는 게시하기 전에 단계 전송을 중단합니다. Undo 역사는 출시에 따라 복원됩니다."
+  },
+  "Paste files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "파스 파일"
+  },
+  "Paste shortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "바로 가기 붙여 넣기"
+  },
+  "Paste the files into a permanent folder before creating aliases to them.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "파일을 영구 폴더로 삽입 하 고 그들을 위해 동맹을 만들기 전에."
+  },
+  "PasteItemToSelectionDescription": {
+    "origin": "Files:PasteItemToSelectionDescription",
+    "text": "선택한 폴더에 붙여넣기"
+  },
+  "PasteShortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "바로 가기 붙여 넣기"
+  },
+  "Path": {
+    "origin": "Files:ExtractToPath",
+    "text": "경로"
+  },
+  "Pattern": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "패턴"
+  },
+  "Permanently delete %1$@ items?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "영구적 삭제 %1$@ 물건이 있나요?"
+  },
+  "Permissions": {
+    "origin": "Files:Permissions",
+    "text": "권한"
+  },
+  "Permissions are enforced by the server. FTP servers must support SITE CHMOD; SFTP uses SSH permissions.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "허가는 서버에 의해 적용됩니다. FTP 서버는 CHMOD 사이트를 지원해야합니다. SFTP 사용하기 SSH 권한"
+  },
+  "Permissions are stored in the archive. Changes rebuild it and support Undo.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "허가는 아카이브에 저장됩니다. 변경은 그것을 재건하고 Undo를 지원합니다."
+  },
+  "Permissions updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "허가 업데이트 되었습니다."
+  },
+  "Permissions…": {
+    "origin": "Files:Permissions",
+    "text": "권한"
+  },
+  "Pick up where you left off": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "당신이 떠난 곳을 선택하십시오."
+  },
+  "Pictures": {
+    "origin": "Files:Pictures",
+    "text": "사진"
+  },
+  "Pin this folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이 폴더를 핀"
+  },
+  "Pin to sidebar": {
+    "origin": "Files:PinFolderToSidebar",
+    "text": "사이드 바에 고정"
+  },
+  "Pinned": {
+    "origin": "Files:Pinned",
+    "text": "고정됨"
+  },
+  "Pinned folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "핀드 포스터"
+  },
+  "Play All": {
+    "origin": "Files:PlayAll",
+    "text": "모두 재생"
+  },
+  "PlayAll": {
+    "origin": "Files:PlayAll",
+    "text": "모두 재생"
+  },
+  "Port": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "항구"
+  },
+  "Preparing copy": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "복사본 준비"
+  },
+  "Preparing move": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "움직임 준비"
+  },
+  "Presentation is saved with this virtual location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "프레젠테이션은이 가상 위치로 저장됩니다."
+  },
+  "Press the shortcut…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "짧은 짧은 짧은 짧은 ..."
+  },
+  "Preview": {
+    "origin": "Files:Preview",
+    "text": "미리보기"
+  },
+  "Previous layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이전 레이아웃"
+  },
+  "Previous tab": {
+    "origin": "Files:PreviousTab",
+    "text": "이전 탭"
+  },
+  "Properties": {
+    "origin": "Files:OpenProperties",
+    "text": "속성"
+  },
+  "Properties…": {
+    "origin": "Files:OpenProperties",
+    "text": "속성"
+  },
+  "Property": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "부동산"
+  },
+  "Protocol": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "프로토콜"
+  },
+  "Provider controls in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "공급자들은 통제에 Finder"
+  },
+  "Pull": {
+    "origin": "Files:GitPull",
+    "text": "끌어오기"
+  },
+  "Purple": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "푸르트"
+  },
+  "Push": {
+    "origin": "Files:Push",
+    "text": "푸시"
+  },
+  "Queued": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "퀴즈"
+  },
+  "Quick access": {
+    "origin": "Files:QuickAccess",
+    "text": "바로 가기"
+  },
+  "Quit MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "나가기 MacFiles"
+  },
+  "Readable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "읽을 수"
+  },
+  "Recent files": {
+    "origin": "Files:RecentFiles",
+    "text": "최근 항목"
+  },
+  "Recent folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "최근의 파일"
+  },
+  "Reconnect to the same server and account, then retry Undo. The remote recovery data remains in .MacFiles-Recovery.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "동일한 서버와 계정으로 다시 연결하고 Undo를 철회합니다. .MacFiles-Recovery."
+  },
+  "Record shortcut": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "짧은 기록"
+  },
+  "Red": {
+    "origin": "Files:Red",
+    "text": "빨강"
+  },
+  "Redo": {
+    "origin": "Files:Redo",
+    "text": "다시 실행"
+  },
+  "Redo file operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "리드 파일 작동"
+  },
+  "Redoing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "삭감"
+  },
+  "Refresh": {
+    "origin": "Files:Refresh",
+    "text": "새로 고침"
+  },
+  "Refresh · ⌘R": {
+    "origin": "Files:Refresh",
+    "text": "새로 고침 · ⌘R"
+  },
+  "Regular expression": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "정기적 표현"
+  },
+  "Release notes": {
+    "origin": "Files:ReleaseNotes",
+    "text": "릴리즈 노트"
+  },
+  "Reload": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "리로드"
+  },
+  "Remember password in Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "암호를 기억하십시오 Keychain"
+  },
+  "Remote operation on %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "원격 작동에 대 한 %1$@"
+  },
+  "Remote path": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "멀리 길"
+  },
+  "Remote paths cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "원격 경로는 라인 붕괴를 포함하지 않거나 NUL 그리고 캐릭터들"
+  },
+  "Remotes": {
+    "origin": "Files:Remotes",
+    "text": "원격 저장소"
+  },
+  "Remove": {
+    "origin": "Files:Remove",
+    "text": "삭제"
+  },
+  "Remove attribute…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아티스트 삭제..."
+  },
+  "Remove background image": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "배경 이미지 삭제"
+  },
+  "Remove download": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "다운로드 삭제"
+  },
+  "Remove entries…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "입력 삭제..."
+  },
+  "Remove from archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive에서 삭제"
+  },
+  "Remove library": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "도서관 삭제"
+  },
+  "Remove local download…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "로컬 다운로드 삭제..."
+  },
+  "Remove references": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "참조 삭제"
+  },
+  "Remove saved credentials": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "저장된 인증서 삭제"
+  },
+  "Remove saved folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "저장된 폴더 삭제"
+  },
+  "Remove saved search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "저장된 검색 삭제"
+  },
+  "Remove selected entries from the archive?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "파일에서 선택된 항목을 제거합니까?"
+  },
+  "Remove tags": {
+    "origin": "Files:RemoveTags",
+    "text": "Remove tags"
+  },
+  "Remove the local download?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "로컬 다운로드 삭제?"
+  },
+  "Remove ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "제거 »%1$@’?"
+  },
+  "RemoveTags": {
+    "origin": "Files:RemoveTags",
+    "text": "Remove tags"
+  },
+  "Removing tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "태그 삭제"
+  },
+  "Rename": {
+    "origin": "Files:Rename",
+    "text": "이름 바꾸기"
+  },
+  "Rename %1$@ items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이름 바꾸기 %1$@ 항목"
+  },
+  "Rename archive entry": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이름 아카이브 입력"
+  },
+  "Rename entry…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "렌즈 입장..."
+  },
+  "Rename failed. Your item is preserved at %1$@. %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이름이 실패했습니다.당신의 항목은 보존되어 있습니다 %1$@. %2$@"
+  },
+  "Rename remote item": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Remote 항목 이름"
+  },
+  "Rename…": {
+    "origin": "Files:Rename",
+    "text": "이름 바꾸기"
+  },
+  "Renaming": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "르네상"
+  },
+  "Renaming items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "재구성 항목"
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Finder uses the macOS palette; custom colors and stable IDs are retained by MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "보존된 태그 업데이트 파일을 재구성하거나 삭제 Spotlight무인덱스 또는 접근 할 수없는 파일은 오래된 태그를 유지할 수 있습니다. Finder 사용하시는 분들 macOS 팔레트; 사용자 지정 색상 및 안정적인 ID가 유지됩니다. MacFiles."
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Tag colors use the macOS palette.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "보존된 태그 업데이트 파일을 재구성하거나 삭제 Spotlight무인덱스 또는 접근 할 수없는 파일은 오래된 태그를 유지할 수 있습니다. macOS 팔레트"
+  },
+  "Reopen closed tab": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "다시 열기 닫기 탭"
+  },
+  "Replace": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "교체하기"
+  },
+  "Replace this item's ACL?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이 항목의 대체 ACL?"
+  },
+  "Replace with": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "대신에 대신"
+  },
+  "Replace, keeping backup": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "교체, 백업 유지"
+  },
+  "Report an issue": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "문제를 보고하기"
+  },
+  "Repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "리포시토리"
+  },
+  "Repository URL": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "리포시터 URL"
+  },
+  "Requesting cloud download": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "클라우드 다운로드"
+  },
+  "Reset": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "재설정"
+  },
+  "Reset all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "모두 재설정"
+  },
+  "Reset icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아이콘 재설정"
+  },
+  "Reset pinned folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "재구성된 폴더"
+  },
+  "Restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "다시 시작하기 MacFiles"
+  },
+  "Restore all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "모두 복원"
+  },
+  "Restore command defaults": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "오류를 복구하는 명령"
+  },
+  "Restore here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "여기서 복원"
+  },
+  "Restore original location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "원래 위치를 복원"
+  },
+  "Restore previous folder viewer": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이전 폴더 시청자를 복원"
+  },
+  "Restore tabs at launch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "시작시 탭을 복원"
+  },
+  "Restore to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "회복을 위한 ..."
+  },
+  "Restoring from Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "트래시에서 복원"
+  },
+  "Results come from the macOS Spotlight index. Unindexed folders are not included.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "결과는 The macOS Spotlight 인덱스: 무인덱스된 폴더는 포함되지 않습니다."
+  },
+  "Results in this folder and subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이 폴더 및 subfolders의 결과"
+  },
+  "Retargeting shortcut": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "짧은 회복"
+  },
+  "Retarget…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "늦게..."
+  },
+  "Reveal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "드러내기"
+  },
+  "Reveal in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "드러내기 에 Finder"
+  },
+  "Reverse tab scroll direction": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "반대 탭 스크롤 방향"
+  },
+  "Review server fingerprint…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "서버 지문 검토"
+  },
+  "Right": {
+    "origin": "Files:Right",
+    "text": "오른쪽"
+  },
+  "Rotate left": {
+    "origin": "Files:RotateLeft",
+    "text": "왼쪽으로 회전"
+  },
+  "Rotate right": {
+    "origin": "Files:RotateRight",
+    "text": "오른쪽으로 회전"
+  },
+  "Rotating left": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "왼쪽 회전"
+  },
+  "Rotating right": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "오른쪽 회전"
+  },
+  "Running": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "달리기"
+  },
+  "SFTP (SSH keys)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SFTP (SSH 열쇠 )"
+  },
+  "SMB, AFP, or WebDAV share": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SMB, AFP또는 WebDAV 공유"
+  },
+  "SSH known-host verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH 호스트 확인"
+  },
+  "SSH passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH 암호는 라인 붕괴를 포함할 수 없거나 NUL 그리고 캐릭터들"
+  },
+  "Save": {
+    "origin": "Files:Save",
+    "text": "저장"
+  },
+  "Save attribute": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아티스트를 저장하기"
+  },
+  "Save folder layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "폴더 레이아웃 저장"
+  },
+  "Save metadata": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "메타데이터 저장"
+  },
+  "Save search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "검색을 저장하기"
+  },
+  "Save search…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "검색을 저장하라..."
+  },
+  "Save to Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "저장하기 위해 Keychain"
+  },
+  "Saved connections": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "저장된 연결"
+  },
+  "Saved searches": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "구원된 검색"
+  },
+  "Saved. The token will be used for GitHub HTTPS operations.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이 토큰은 GitHub HTTPS 운영에 사용됩니다."
+  },
+  "Seafoam": {
+    "origin": "Files:Seafoam",
+    "text": "씨폼"
+  },
+  "Search": {
+    "origin": "Files:Key.BrowserSearch",
+    "text": "검색"
+  },
+  "Search %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "검색 %1$@"
+  },
+  "Search %1$@ · Return searches subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "검색 %1$@ · 반환 검색 subfolders"
+  },
+  "Search available actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "사용 가능한 액션 검색"
+  },
+  "Search commands": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "검색 명령"
+  },
+  "Search folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "검색 파일"
+  },
+  "Search settings": {
+    "origin": "Files:SearchSettings",
+    "text": "검색 설정..."
+  },
+  "Search stopped.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "검색이 멈췄다."
+  },
+  "Search subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Subfolders 검색"
+  },
+  "Security": {
+    "origin": "Files:Security",
+    "text": "보안"
+  },
+  "Select": {
+    "origin": "Files:NavToolbarSelectionOptions.Label",
+    "text": "선택"
+  },
+  "Select a file to view its diff.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "그것의 diff를 볼 수 있는 파일을 선택합니다."
+  },
+  "Select a macOS alias or symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "선택 A macOS 링크 또는 상징적 링크"
+  },
+  "Select a regular media file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "정기적인 미디어 파일을 선택합니다."
+  },
+  "Select all": {
+    "origin": "Files:SelectAll",
+    "text": "모두 선택"
+  },
+  "Select an archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "파일 선택"
+  },
+  "Select an item to see its details.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "그것의 세부 사항을 볼 수있는 항목을 선택합니다."
+  },
+  "Select archive entries to remove.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "삭제하려면 파일 입력을 선택합니다."
+  },
+  "Select on hover": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hover에서 선택하기"
+  },
+  "Select previous folder when navigating up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이전 폴더를 선택할 때 위로 이동"
+  },
+  "Select uniquely named items to archive.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "유일하게 이름을 지정한 항목을 아카이브로 선택합니다."
+  },
+  "Selected items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "선택된 항목"
+  },
+  "Selected items have duplicate names. Archive them separately.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "선택된 항목에는 복제 이름이 있습니다.이 항목을 별도로 아카이브합니다."
+  },
+  "Selection checkboxes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "선택 체크 상자"
+  },
+  "Separate file and folder counts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "별도의 파일 및 폴더 계산"
+  },
+  "Separator": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "분리기"
+  },
+  "Server": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "서버"
+  },
+  "Set as app background": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "프로그램 배경 화면을 이것으로 설정"
+  },
+  "Set as wallpaper": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "벽지로 설정"
+  },
+  "Set default": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "세트 가짜"
+  },
+  "SetAsAppBackground": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "프로그램 배경 화면을 이것으로 설정"
+  },
+  "Settings": {
+    "origin": "Files:Settings",
+    "text": "설정"
+  },
+  "Settings file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "설정 파일"
+  },
+  "Settings saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "설정이 저장되었습니다"
+  },
+  "Settings…": {
+    "origin": "Files:Settings",
+    "text": "설정"
+  },
+  "Share": {
+    "origin": "Files:Share",
+    "text": "공유"
+  },
+  "Share…": {
+    "origin": "Files:Share",
+    "text": "공유"
+  },
+  "Shelf": {
+    "origin": "Files:Shelf",
+    "text": "선반"
+  },
+  "Shortcut": {
+    "origin": "Files:Shortcut",
+    "text": "바로 가기"
+  },
+  "Shortcuts apply in the explorer. Text fields keep native editing behavior. Resolve duplicate assignments before applying.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "짧은 단계는 탐색기에서 적용됩니다.텍스트 필드는 원주민 편집 행동을 유지합니다.사용하기 전에 복제 작업을 해결합니다."
+  },
+  "Show dotfiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "도트 파일 보기"
+  },
+  "Show hidden files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "숨겨진 파일 보기"
+  },
+  "Show in folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "폴더에 표시"
+  },
+  "Show log in folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "폴더에서 로그를 표시"
+  },
+  "Show menu bar icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "메뉴 바 아이콘 표시"
+  },
+  "Show package contents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "패키지 콘텐츠 보기"
+  },
+  "Show shelf button": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Shelf 버튼 표시"
+  },
+  "Show staged diff": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "스테이프 스테이프 diff"
+  },
+  "Show status bar": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "상태 바 표시"
+  },
+  "Show tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "탭 행동 표시"
+  },
+  "Show thumbnails": {
+    "origin": "Files:SettingsFilesAndFoldersShowThumbnails",
+    "text": "이미지 표지 표시"
+  },
+  "ShowFileExtensions": {
+    "origin": "Files:ShowFileExtensions",
+    "text": "파일 확장 프로그램"
+  },
+  "Sidebar": {
+    "origin": "Files:Sidebar",
+    "text": "측면 바"
+  },
+  "Signature": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "서명"
+  },
+  "Signature integrity verification failed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "서명 통합 확인이 실패했다."
+  },
+  "Signature integrity verified. This does not constitute a notarization or malware assessment.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "서명의 무결성 확인.이것은 노트북화 또는 악성 코드 평가를 나타내지 않습니다."
+  },
+  "Signatures": {
+    "origin": "Files:Signatures",
+    "text": "디지털 서명"
+  },
+  "Single file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "단일 파일"
+  },
+  "Single folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "단일 폴더"
+  },
+  "Single-click columns": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "단일 클릭 컬러"
+  },
+  "Single-click files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "단일 클릭 파일"
+  },
+  "Single-click folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "단일 클릭 파일"
+  },
+  "Size": {
+    "origin": "Files:SizeLabel",
+    "text": "크기:"
+  },
+  "Size units": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "크기 단위"
+  },
+  "Skip": {
+    "origin": "Files:Skip",
+    "text": "넘어가기"
+  },
+  "Skip existing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "기존 스키"
+  },
+  "Small icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "작은 아이콘"
+  },
+  "Smooth scrolling": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "부드러운 스크롤"
+  },
+  "Solid": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "견고한"
+  },
+  "Some files could not be updated. The saved tag was retained so you can retry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "일부 파일은 업데이트되지 않을 수 있습니다. 저장된 태그가 유지되었으므로 철회할 수 있습니다."
+  },
+  "Some items could not be read.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "일부 항목은 읽을 수 없었다."
+  },
+  "Some items couldn’t be completed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "일부 항목은 완료되지 않았습니다."
+  },
+  "Some items have no recorded original location. Select them and use Restore to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "일부 항목에는 기록된 원래 위치가 없습니다. 그들을 선택하고 사용하십시오 복구를..."
+  },
+  "Sort": {
+    "origin": "Files:Sort",
+    "text": "정렬"
+  },
+  "Sort by": {
+    "origin": "Files:SortBy",
+    "text": "정렬 기준"
+  },
+  "SortFilesAndFoldersTogether": {
+    "origin": "Files:SortFilesAndFoldersTogether",
+    "text": "파일과 폴더를 함께 정렬"
+  },
+  "SortFilesFirst": {
+    "origin": "Files:SortFilesFirst",
+    "text": "파일 우선 정렬"
+  },
+  "SortFoldersFirst": {
+    "origin": "Files:SortFoldersFirst",
+    "text": "폴더 우선 정렬"
+  },
+  "Source code": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "출처 코드"
+  },
+  "Special device entries cannot be extracted: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "특수 장치 입력은 추출 할 수 없습니다 : %1$@"
+  },
+  "Split archives use ZIP or 7z format.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "분할 파일 사용 ZIP 또는 7z 포맷"
+  },
+  "Split into volumes (MiB, optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "볼륨으로 분할 (MiB, 선택)"
+  },
+  "Stage all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "모든 단계"
+  },
+  "Stage selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "선택된 단계"
+  },
+  "Staged all changes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "모든 변화가 정기화되었습니다"
+  },
+  "Staged selected files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "선택된 파일을 정리"
+  },
+  "Start": {
+    "origin": "Files:Start",
+    "text": "Start"
+  },
+  "Start folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "폴더 시작"
+  },
+  "Startup": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "스타트업"
+  },
+  "Startup and tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup 및 Tabs"
+  },
+  "Startup folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup 파일"
+  },
+  "Startup folders are used when session restoration is disabled. An empty list opens Home.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "시작 폴더는 세션 복구가 비활성화되면 사용됩니다. 빈 목록은 홈을 열어줍니다."
+  },
+  "Status": {
+    "origin": "Files:StatusWithColon",
+    "text": "상태:"
+  },
+  "Stop": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "멈추기"
+  },
+  "Stopped before the next item. Completed items were kept.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "다음 항목 전에 중지되었습니다.완료 항목이 유지되었습니다."
+  },
+  "Storage settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "스토리지 설정..."
+  },
+  "Storm": {
+    "origin": "Files:Storm",
+    "text": "폭풍"
+  },
+  "Stretch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "스트레치"
+  },
+  "Switch to new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "새로운 탭으로 스위치"
+  },
+  "Switched to %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "교환하여 %1$@"
+  },
+  "Symbolic Link": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "상징적 링크"
+  },
+  "Symbolic link": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "상징적 링크"
+  },
+  "Sync": {
+    "origin": "Files:GitSync",
+    "text": "동기화"
+  },
+  "Sync conflict": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sync 분쟁"
+  },
+  "Sync error": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "동기화 오류"
+  },
+  "Synced": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "합성"
+  },
+  "Synchronize folder preferences": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "폴더 선호도 동기화"
+  },
+  "System": {
+    "origin": "Files:SystemTimeStyle",
+    "text": "시스템"
+  },
+  "TLS certificate verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "TLS 인증서 확인"
+  },
+  "Tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "탭 활동"
+  },
+  "Tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "탭"
+  },
+  "Tag": {
+    "origin": "Files:Tag",
+    "text": "파일 태그"
+  },
+  "Tag (blank = all tags)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "태그 (블랙 = 모든 태그)"
+  },
+  "Tag color": {
+    "origin": "Files:TagColor",
+    "text": "태그 색상"
+  },
+  "Tag name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag 이름"
+  },
+  "Tag names must be unique.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이름은 독특해야 합니다."
+  },
+  "Tag update failed and original metadata could not be restored: ": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "태그 업데이트 실패하고 원래 메타 데이터를 복구 할 수 없었다 : "
+  },
+  "Tagged items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "태그 항목"
+  },
+  "Tags": {
+    "origin": "Files:FileTags",
+    "text": "태그"
+  },
+  "Tags, separated by commas": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "태그, Commas에 의해 분리"
+  },
+  "Target": {
+    "origin": "Files:PropertyItemTarget",
+    "text": "대상"
+  },
+  "Terminal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "터미널"
+  },
+  "Test IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "테스트 아이디어"
+  },
+  "The ACL failed validation.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "그들의 ACL 실패한 인증"
+  },
+  "The command failed (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이 명령은 실패했다(%1$@)."
+  },
+  "The custom icon and saved layout belong to the selected item.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "사용자 지정 아이콘과 저장된 레이아웃은 선택한 항목에 속합니다."
+  },
+  "The destination connection changed. Drop the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "목적지 연결이 변경되었습니다. 다시 파일을 던져."
+  },
+  "The destination connection changed. Paste the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "목적지 연결이 변경되었습니다. 파일을 다시 붙여 넣으십시오."
+  },
+  "The destination is not an accessible folder.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "목적지는 접근 가능한 파일이 아닙니다."
+  },
+  "The icon could not be changed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아이콘은 바꿀 수 없었다."
+  },
+  "The icon could not be reset.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "아이콘은 다시 설정할 수 없었다."
+  },
+  "The media container did not retain: ": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "미디어 컨테이너는 보관하지 않았다 : "
+  },
+  "The media tracks cannot be preserved in this container.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "미디어 트랙은 이 컨테이너에 보관할 수 없습니다."
+  },
+  "The new shortcut target does not exist.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "새로운 짧은 목표는 존재하지 않는다."
+  },
+  "The old shortcut is in Trash, but macOS did not return its location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "오래된 짧은 것은 트래시에 있지만, macOS 그는 자신의 위치를 돌려주지 않았다."
+  },
+  "The original archive remains recoverable with Undo.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "원본 아카이브는 Undo로 복구할 수 있습니다."
+  },
+  "The server did not return a valid host-key list.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "서버는 유효한 호스트 키 목록을 반환하지 않았습니다."
+  },
+  "The server recovery path is occupied by a file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "서버 복구 경로는 파일에 의해 점령됩니다."
+  },
+  "The server returned an unsafe or unsupported filename.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "서버는 불안정하거나 지원되지 않은 파일 이름을 반환했습니다."
+  },
+  "The server returned an unsupported directory listing. No transfer was started.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "서버는 지원되지 않은 디렉토리 목록을 반환했습니다.이 전송은 시작되지 않았습니다."
+  },
+  "The shortcut will point to %1$@. The target file itself is not modified.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "짧은 짧은 짧은 짧은 짧은 %1$@목표 파일 자체는 변경되지 않습니다."
+  },
+  "The slideshow changes desktop wallpaper while MacFiles is running. It resumes at launch when enabled. macOS controls the lock screen wallpaper separately.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "슬라이드 스크립트는 데스크톱 배경 화면을 변경하는 동안 MacFiles 다시 시작합니다.이 기능이 활성화되면 다시 시작합니다. macOS 잠금 화면 배경 화면을 별도로 제어합니다."
+  },
+  "The system script could not be compiled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "시스템 스크립트는 작성할 수 없었다."
+  },
+  "The system script could not be created.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "시스템 스크립트는 만들 수 없었다."
+  },
+  "The transfer selection changed. Cut the items again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "전송 선택이 변경되었습니다. 항목을 다시 절단합니다."
+  },
+  "The uploaded data did not match its source. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "업로드된 데이터는 그 출처와 일치하지 않았습니다.이 출처는 유지되었습니다."
+  },
+  "The uploaded iCloud copy remains available. macOS will download it again when needed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "업로드된 것 iCloud 복사본은 여전히 사용할 수 있습니다. macOS 필요할 때 다시 다운로드합니다."
+  },
+  "Theme": {
+    "origin": "Files:SettingsAppearanceTheme",
+    "text": "테마"
+  },
+  "These items will be removed from Trash. This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이 항목은 트래시에서 제거 될 것입니다.이것은 무시할 수 없습니다."
+  },
+  "Third-party providers do not expose a common public sync-completion API. Available locally describes downloaded bytes, not upload completion. Download requests do not pin files permanently.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "제 3 자 공급자는 일반적인 공공 동기화 완성 API를 표시하지 않습니다. 현지적으로 사용할 수 있는 다운로드 바이트를 설명하고, 업로드 완성되지 않습니다. 다운로드 요청은 영구적으로 파일을 핀하지 않습니다."
+  },
+  "This FTP server cannot create symbolic links. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이게 FTP 서버는 상징적 링크를 만들 수 없습니다.이 소스가 유지되었습니다."
+  },
+  "This Mac": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이 Mac"
+  },
+  "This alias contains a target cycle.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이 앨리스에는 목표 사이클이 포함되어 있습니다."
+  },
+  "This archive format is read-only. Extract it and create a ZIP or 7z archive to edit its contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이 아카이브 형식은 읽기만 합니다.그것을 추출하고 만들기 ZIP 또는 7z 그것의 내용을 편집하기 위해 아카이브."
+  },
+  "This archive or server protocol does not expose macOS extended attributes. Extract or download the item to manage attributes on its local copy.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이 파일 또는 서버 프로토콜은 표시되지 않습니다. macOS 확장된 속성: 항목을 추출하거나 다운로드하여 지역 복사본의 속성을 관리합니다."
+  },
+  "This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이것은 무시할 수 없다."
+  },
+  "This changes the registered folder viewer. Finder still manages the desktop and macOS file dialogs. You can restore the previous viewer here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이것은 등록된 폴더 시청자를 변경합니다. Finder 아직도 데스크톱을 관리하고 macOS 파일 대화: 이전 뷰어를 여기에서 복구할 수 있습니다."
+  },
+  "This changes which users can access the item. Export the existing ACL first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이 변경 사항 사용자가 항목에 액세스 할 수 있습니다. ACL 먼저 백업이 필요한 경우"
+  },
+  "This folder is empty": {
+    "origin": "Files:EmptyFolder.Text",
+    "text": "이 폴더는 비어있습니다."
+  },
+  "This location is not ready for transfers.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이 위치는 전송을 위해 준비되지 않습니다."
+  },
+  "This media format cannot be edited by the native exporter.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이 미디어 형식은 원주민 수출자에 의해 편집되지 않습니다."
+  },
+  "This metadata container uses indexed keys; edit it with its native media application.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이 메타데이터 컨테이너는 인덱스 된 키를 사용합니다; 그것의 원주민 미디어 응용 프로그램으로 편집합니다."
+  },
+  "This operation cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이 작업은 무시할 수 없습니다."
+  },
+  "This removes the attribute from this file. Export its bytes first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이 파일에서 속성을 제거합니다.이 파일의 바이트를 먼저 수출하면 백업이 필요합니다."
+  },
+  "Thumbnail cache limit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "튜브나일 캐시 제한"
+  },
+  "Thumbnails": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "토마토"
+  },
+  "Thumbnails are cached in memory. The limit applies to decoded images.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "템플릿은 메모리에 숨겨져 있습니다.이 제한은 해독 된 이미지에 적용됩니다."
+  },
+  "Tiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "타일"
+  },
+  "Title": {
+    "origin": "Files:PropertyTitle",
+    "text": "제목"
+  },
+  "Today": {
+    "origin": "Files:Today",
+    "text": "오늘"
+  },
+  "Toggle compact overlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "컴팩트 오버레이 전환"
+  },
+  "Toggle details pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "자세한 내용은 Pane"
+  },
+  "Toggle dual pane": {
+    "origin": "Files:ToggleDualPane",
+    "text": "듀얼 창 사용"
+  },
+  "Toggle filter header": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "필터 헤더 사용"
+  },
+  "Toggle full screen": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "완전한 화면을 모으기"
+  },
+  "Toggle selection": {
+    "origin": "Files:ToggleSelect",
+    "text": "선택 토글"
+  },
+  "ToggleCompactOverlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "컴팩트 오버레이 전환"
+  },
+  "ToggleFilterHeader": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "필터 헤더 사용"
+  },
+  "ToggleSelect": {
+    "origin": "Files:ToggleSelect",
+    "text": "선택 토글"
+  },
+  "ToggleSidebar": {
+    "origin": "Files:ToggleSidebar",
+    "text": "측면 바 전환"
+  },
+  "ToggleToolbar": {
+    "origin": "Files:ToggleToolbar",
+    "text": "툴바 사용"
+  },
+  "Too many nested aliases.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "너무 많은 이 이 다."
+  },
+  "Tools": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "도구"
+  },
+  "Top": {
+    "origin": "Files:Top",
+    "text": "위"
+  },
+  "Total size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "전체 크기"
+  },
+  "Transfer failed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "전송 실패"
+  },
+  "Trash": {
+    "origin": "Files:RecycleBin",
+    "text": "휴지통"
+  },
+  "Trash on this Mac and connected volumes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이 Mac에서 흔들리고 연결된 볼륨"
+  },
+  "Trust": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "신뢰"
+  },
+  "Trust this SSH server?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이것을 믿어 SSH 서버 는?"
+  },
+  "Trust verified fingerprints": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "신뢰할 수 있는 인증된 지문"
+  },
+  "Try again": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "다시 시도해 보세요"
+  },
+  "Under window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "창문 아래에서"
+  },
+  "Undo": {
+    "origin": "Files:Undo",
+    "text": "실행 취소"
+  },
+  "Undo file operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "파일 운영"
+  },
+  "Undoing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "밑에"
+  },
+  "Unencrypted FTP": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "암호화되지 않음 FTP"
+  },
+  "Universal": {
+    "origin": "Files:Universal",
+    "text": "일반적인"
+  },
+  "Unknown": {
+    "origin": "Files:Unknown",
+    "text": "알 수 없음"
+  },
+  "Unknown shortcut command.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "알려지지 않은 짧은 명령"
+  },
+  "Unpin": {
+    "origin": "Files:Unpin",
+    "text": "고정 해제"
+  },
+  "Unsafe archive link target.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "불안정한 파일 링크 목표."
+  },
+  "Unstage": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "무지개"
+  },
+  "Unstaged selected files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "선택된 파일을 삭제"
+  },
+  "Unsupported Git action.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "지원되지 않은 Git 동작"
+  },
+  "Unsupported archive entry name or listing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "지원되지 않은 아카이브 입력 이름 또는 목록."
+  },
+  "Unsupported file type in transfer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "지원되지 않은 파일 형식이 전송됩니다."
+  },
+  "Unsupported metadata container version.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "지원되지 않은 메타데이터 컨테이너 버전."
+  },
+  "Unsupported movie header.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "지원되지 않은 영화 헤더"
+  },
+  "Untagged": {
+    "origin": "Files:Untagged",
+    "text": "태그 지정 안함"
+  },
+  "Up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "위로"
+  },
+  "Up one level": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "1 레벨 위로"
+  },
+  "Up one level · ⌘↑": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "1 레벨 위로 ⌘↑"
+  },
+  "Updates native macOS tags for all selected items. Leave empty to remove tags.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "애국 업데이트 macOS 모든 선택된 항목에 대한 태그. 태그를 제거하려면 빈 것을 남겨 두십시오."
+  },
+  "Updating archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive 업데이트"
+  },
+  "Updating media metadata": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "미디어 메타데이터 업데이트"
+  },
+  "Updating permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "허가 업데이트"
+  },
+  "Upload": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "업로드"
+  },
+  "Upload failed. The original remains at %1$@; the pending upload is %2$@. %3$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "업로드 실패. 원본이 남아있다 %1$@· 업로드하는 옵션은 %2$@. %3$@"
+  },
+  "Upload files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "파일 업로드..."
+  },
+  "Upload regular files or folders; symbolic links are not followed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "정기적인 파일이나 폴더를 업로드; 상징적 링크가 따르지 않습니다."
+  },
+  "Uploading": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "업로드"
+  },
+  "Upstream Files issues": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Upstream 파일 문제"
+  },
+  "Use Copy and Paste or Download to transfer remote items.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "복사 및 패스트 또는 다운로드를 사용하여 원격 항목을 전송합니다."
+  },
+  "Use Copy or Extract to transfer archive contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "복사 또는 추출을 사용하여 아카이브 콘텐츠를 전송합니다."
+  },
+  "Use MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "사용하기 MacFiles"
+  },
+  "Use MacFiles for folder URLs?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "사용하기 MacFiles 폴더 URL에 대 한?"
+  },
+  "Use MacFiles for folder URLs…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "사용하기 MacFiles 폴더 URL에 대해서는 ..."
+  },
+  "User": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "사용자"
+  },
+  "Username": {
+    "origin": "Files:CredentialDialogUserName.PlaceholderText",
+    "text": "사용자 명"
+  },
+  "Uses SSH keys or the password above. Host-key verification remains enabled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "사용자 SSH 키 또는 위의 암호. 호스트 키 확인은 여전히 활성화됩니다."
+  },
+  "Uses the on-device Apple Intelligence model when available. Otherwise searches the words you entered. No file content is sent to a server.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "사용할 때 장치에 있는 Apple Intelligence 모델을 사용합니다.그렇지 않으면 입력한 단어를 검색합니다.파일 콘텐츠가 서버에 보내지 않습니다."
+  },
+  "Value": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "가치"
+  },
+  "Verified host keys saved for MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "확인된 호스트 키가 저장되었습니다 MacFiles."
+  },
+  "Vertical alignment": {
+    "origin": "Files:VerticalAlignment",
+    "text": "세로 정렬"
+  },
+  "Vertical split": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vertical 분할"
+  },
+  "View": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "보기"
+  },
+  "Volume": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "볼륨"
+  },
+  "Volume available": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "사용 가능량"
+  },
+  "Volume capacity": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Volume 용량"
+  },
+  "Volume case sensitive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "부족한 경우 민감한 경우"
+  },
+  "Volume read only": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "볼륨만 읽기"
+  },
+  "Volumes must be at least 1 KiB.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "볼륨은 적어도 1 KiB이어야 합니다."
+  },
+  "Waiting to sync": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sync를 기다리고 있습니다."
+  },
+  "Wallpaper could not be changed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "배경 화면은 바꿀 수 없었다."
+  },
+  "Wallpaper slideshow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "벽지 슬라이드쇼"
+  },
+  "Wallpaper slideshow…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "벽지 슬라이드 쇼"
+  },
+  "Warn when changing file extensions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "파일 확장 프로그램을 변경할 때 경고"
+  },
+  "When an item exists": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "물건이 존재할 때"
+  },
+  "When names conflict, choose Keep both, Replace, or Skip. Replaced versions and deleted items go to the macOS Trash. Undo and redo are retained across launches and shared by open windows.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "이름 갈등이 발생하면 두 개를 유지, 교체 또는 스키를 선택합니다. macOS Undo 및 redo는 발사 중에 보존되고 열린 창으로 공유됩니다."
+  },
+  "Working…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "일하는 ..."
+  },
+  "Writable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "글쓰기"
+  },
+  "Writes embedded metadata. Image files may be re-encoded; the original remains recoverable with Undo. Audio and video edits preserve encoded tracks. Unsupported containers keep the original.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "삽입 된 메타 데이터를 작성합니다. 이미지 파일은 다시 암호화 될 수 있습니다; 원본은 Undo로 복구 할 수 있습니다. 오디오 및 비디오 편집은 암호화 된 트랙을 저장합니다. 지원되지 않은 컨테이너는 원본을 저장합니다."
+  },
+  "Year": {
+    "origin": "Files:Year",
+    "text": "연도"
+  },
+  "Yellow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "노란색"
+  },
+  "Yes": {
+    "origin": "Files:Yes",
+    "text": "예"
+  },
+  "Yesterday": {
+    "origin": "Files:Yesterday",
+    "text": "어제"
+  },
+  "You can restore these items with Undo or from the Trash.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "당신은 Undo 또는 Trash에서 이러한 항목을 복구 할 수 있습니다."
+  },
+  "Your files, your way.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "당신의 파일, 당신의 길"
+  },
+  "Your pinned folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "귀하의 팽창된 파일"
+  },
+  "Zoom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "조미"
+  },
+  "macOS aliases and symbolic links refer to a target path. Windows shortcut arguments and Run as administrator flags do not have alias equivalents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS 알리아사와 상징적 링크는 목표 경로를 나타냅니다. Windows 짧은 주장과 관리자 깃발으로 실행하면 알리오 동등한 점이 없습니다."
+  },
+  "macOS integration": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS 통합"
+  },
+  "macOS moved the previous version to Trash but did not return its location. The new version was not installed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS 이전 버전을 Trash로 이동했지만 위치를 되찾지 못했습니다.새 버전은 설치되지 않았습니다."
+  },
+  "macOS returned %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS 돌아오는 %1$@."
+  },
+  "macOS uses Mach-O architectures and the application's minimum OS version. Windows compatibility modes, DPI overrides and administrator flags cannot be applied to a native Mac app.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS 사용하기 Mach-O 아키텍처 및 응용 프로그램의 최소 OS 버전. Windows 호환성 모드, DPI 오버리드 및 관리자 깃발은 원주민 Mac 앱에 적용되지 않습니다."
+  }
+}

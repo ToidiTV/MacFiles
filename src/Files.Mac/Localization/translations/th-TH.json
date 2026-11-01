@@ -1,0 +1,5224 @@
+{
+  "%1$@ MB": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ MB"
+  },
+  "%1$@ Trash location(s) could not be read. macOS may require Full Disk Access for Trash. Items listed here remain available to manage.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ สถานะของแร่(s) ไม่สามารถอ่านได้ macOS อาจจําเป็นต้องใช้ Full Disk Access สําหรับ Trash รายการที่ระบุไว้ที่นี่จะยังคงใช้ในการจัดการ"
+  },
+  "%1$@ destination name(s) already exist": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ ชื่อปลายทาง(s) มีอยู่"
+  },
+  "%1$@ entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ การเข้าถึง"
+  },
+  "%1$@ folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ โพสต์"
+  },
+  "%1$@ folders · %2$@ files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ โพสต์ %2$@ ไฟล์"
+  },
+  "%1$@ folders · saves to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ โพสต์ · เก็บเพื่อ %2$@"
+  },
+  "%1$@ free of %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ ฟรี %2$@"
+  },
+  "%1$@ inaccessible": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ ไม่สามารถเข้าถึงได้"
+  },
+  "%1$@ is assigned more than once.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ ได้รับการกําหนดมากกว่าหนึ่งครั้ง"
+  },
+  "%1$@ is reserved by macOS or the application window.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ ได้รับการจัดเก็บโดย macOS หรือหน้าต่างการใช้งาน"
+  },
+  "%1$@ is reserved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ เก็บไว้"
+  },
+  "%1$@ item(s) ready to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ รายการ(s) พร้อมที่จะ %2$@"
+  },
+  "%1$@ selected items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ รายการที่เลือก"
+  },
+  "%1$@. Sync completion is managed by the provider and is not reported through public file metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@การเสร็จสิ้นการซิงค์จะถูกจัดการโดยผู้ให้บริการและไม่ได้รับรายงานผ่าน metadata ไฟล์สาธารณะ"
+  },
+  "A different key is already trusted for this host. Review the changed key with the server administrator before replacing it.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คีย์ที่แตกต่างกันจะได้รับการเชื่อถือได้สําหรับโฮสต์นี้ ตรวจสอบคีย์ที่เปลี่ยนแปลงด้วยเซิร์ฟเวอร์ผู้ดูแลระบบก่อนที่จะเปลี่ยนมัน"
+  },
+  "A familiar place for everything.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สถานที่ที่คุ้นเคยสําหรับทุกอย่าง"
+  },
+  "A file operation is still running": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การดําเนินการไฟล์ยังคงทํางาน"
+  },
+  "A folder cannot be copied or moved inside itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "โพสต์ไม่สามารถคัดลอกหรือย้ายภายในตัวตนได้"
+  },
+  "A shortcut cannot target itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ระยะสั้นไม่สามารถเป้าหมายตัวเองได้"
+  },
+  "ACL updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ACL ปรับปรุง"
+  },
+  "About": {
+    "origin": "Files:About",
+    "text": "เกี่ยวกับ"
+  },
+  "About MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เกี่ยวกับ MacFiles"
+  },
+  "Accent color (hex)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สีแรงดึง (hex)"
+  },
+  "Access control list — native macOS syntax": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รายการควบคุมการเข้าถึง - สัตว์ประหลาด macOS ซินเท็กซ์"
+  },
+  "Access token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเข้าถึง token"
+  },
+  "Accounts, authentication and sync preferences are managed by each provider’s native app. Removing a saved folder here does not unlink its account or delete files.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "บัญชีการรับรองและการตั้งค่าการซิงค์จะถูกจัดการโดยแอปพลิเคชันที่ตั้งของแต่ละผู้ให้บริการ การลบโฟลเดอร์ที่บันทึกไว้ที่นี่ไม่ลบบัญชีหรือลบไฟล์"
+  },
+  "Action unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การกระทําที่ไม่สามารถใช้ได้"
+  },
+  "Actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การกระทํา"
+  },
+  "Adaptive": {
+    "origin": "Files:Adaptive",
+    "text": "เลือกเค้าโครงที่ดีที่สุดโดยอัตโนมัติ"
+  },
+  "Adaptive layout": {
+    "origin": "Files:Adaptive",
+    "text": "เลือกเค้าโครงที่ดีที่สุดโดยอัตโนมัติ"
+  },
+  "Add": {
+    "origin": "Files:Add",
+    "text": "เพิ่ม"
+  },
+  "Add cloud folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เพิ่มโฟลเดอร์ Cloud"
+  },
+  "Add current selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เพิ่มตัวเลือกปัจจุบัน"
+  },
+  "Add files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เพิ่มไฟล์"
+  },
+  "Add folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เพิ่มโฟลเดอร์"
+  },
+  "Add images…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เพิ่มรูปภาพ"
+  },
+  "Add prefix": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เพิ่ม Prefix"
+  },
+  "Add saved tag": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เพิ่ม Tag ที่บันทึก"
+  },
+  "Add selection to shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เพิ่มตัวเลือกไปยัง Shelf"
+  },
+  "Add startup folders…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เพิ่มโฟลเดอร์เริ่มต้น"
+  },
+  "Add suffix": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เพิ่ม suffix"
+  },
+  "Add to library": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เพิ่มไปยังห้องสมุด"
+  },
+  "Add to shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เพิ่มใน Shelf"
+  },
+  "Advanced": {
+    "origin": "Files:Advanced",
+    "text": "ขั้นสูง"
+  },
+  "Advanced search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ค้นหาขั้นสูง"
+  },
+  "Advanced search…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การค้นหาขั้นสูง"
+  },
+  "Album": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "อัลบั้ม"
+  },
+  "Allocated size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ขนาดที่กําหนด"
+  },
+  "Already assigned to %1$@. Remove that assignment first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ได้รับการกําหนดไว้สําหรับ %1$@. ลบคําสั่งนี้ก่อน"
+  },
+  "Always show operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แสดงการดําเนินงานเสมอ"
+  },
+  "Always visible": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เห็นได้เสมอ"
+  },
+  "Always-visible items are combined with the current selection context. Cloud items add their own controls.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รายการที่มองเห็นเสมอจะรวมกับแถบการเลือกปัจจุบัน รายการคลาวด์เพิ่มควบคุมของตัวเอง"
+  },
+  "Ambiguous archive listing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รายชื่อเอกสารที่สม่ําเสมอ"
+  },
+  "Ambiguous media metadata containers.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ตัวเก็บข้อมูลเมตตาข่ายที่กว้างขวาง"
+  },
+  "Any": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ใด ๆ"
+  },
+  "App language (restart to apply)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ภาษาแอป (เริ่มต้นใหม่เพื่อใช้งาน)"
+  },
+  "Appearance": {
+    "origin": "Files:Appearance",
+    "text": "ตกแต่ง"
+  },
+  "Application": {
+    "origin": "Files:Application",
+    "text": "โปรแกรมประยุกต์"
+  },
+  "Application unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การใช้งานไม่สามารถใช้ได้"
+  },
+  "Applies owner, group, and other permissions to the selected items only.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ใช้เจ้าของกลุ่มและอนุญาตอื่น ๆ สําหรับรายการที่เลือกเท่านั้น"
+  },
+  "Apply": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ใบสมัคร"
+  },
+  "Apply ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ใบสมัคร ACL…"
+  },
+  "Apply UID %1$@ and GID %2$@ to this item only.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ใบสมัคร UID %1$@ และ GID %2$@ สําหรับรายการนี้เท่านั้น"
+  },
+  "Apply attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ใช้คุณสมบัติ"
+  },
+  "Apply file permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ใบอนุญาตไฟล์"
+  },
+  "Apply owner/group…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ใบสมัครเจ้าของ / กลุ่ม ..."
+  },
+  "Approve MacFiles in Login Items in System Settings.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การอนุมัติ MacFiles ในรายการ Login ใน การตั้งค่าระบบ"
+  },
+  "Archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "อะคริฟต์"
+  },
+  "Archive attempts to write through a link or file: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive ทองที่จะเขียนผ่านลิงก์หรือไฟล์: %1$@"
+  },
+  "Archive contains an unsafe path: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive มีเส้นทางที่ไม่ปลอดภัย: %1$@"
+  },
+  "Archive contains an unsafe symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไฟล์มีลิงค์สัญลักษณ์ไม่ปลอดภัย"
+  },
+  "Archive editing cannot traverse symbolic links.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การแก้ไขไฟล์ไม่สามารถผ่านลิงค์สัญลักษณ์"
+  },
+  "Archive link escapes its destination.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ลิงค์ของ Archive เหล่านี้ไปปลายทาง"
+  },
+  "Archive link target is too long.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ลิงค์ Archive วัตถุประสงค์เป็นระยะยาวเกินไป"
+  },
+  "Archive operation failed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การดําเนินงานของสถาปัตยกรรมล้มเหลว"
+  },
+  "Archive password (if needed)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "บันทึกรหัสผ่าน (ถ้าจําเป็น)"
+  },
+  "Archive password (leave blank if unencrypted)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รหัสผ่านของ Archive (ปล่อยให้สีขาวถ้าไม่ได้เข้ารหัส)"
+  },
+  "Archive passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "บัญชีรหัสผ่านไม่สามารถรวมช่องว่างหรือ NUL ตัวละคร"
+  },
+  "Archive path escapes the destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เหล่านี้เส้นทาง Archive Escape ไปที่ปลายทาง: %1$@"
+  },
+  "Archive root": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ราก Archive"
+  },
+  "Archive symbolic link escapes the destination.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ลิงค์สัญลักษณ์ของ Archive เหล่าไปปลายทาง"
+  },
+  "Arrange panes side by side": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "จัดการแผงด้านข้าง"
+  },
+  "Arrange panes top and bottom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แผงที่จัดขึ้นและล่าง"
+  },
+  "Artist": {
+    "origin": "Files:Artist",
+    "text": "ศิลปิน"
+  },
+  "Artist / author": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "นักแสดง / ผู้เขียน"
+  },
+  "Ascending": {
+    "origin": "Files:Ascending",
+    "text": "จากน้อยไปหามาก"
+  },
+  "Attribute name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หมายเลข atribute"
+  },
+  "Attributes": {
+    "origin": "Files:Attributes",
+    "text": "คุณสมบัติ"
+  },
+  "Attributes updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คุณสมบัติที่ปรับปรุง"
+  },
+  "Auto-fit columns": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คอลัมน์อัตโนมัติ"
+  },
+  "AutoFitColumns": {
+    "origin": "Files:AutoFitColumns",
+    "text": "Auto-fit columns"
+  },
+  "Available locally": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "มีอยู่ในท้องถิ่น"
+  },
+  "Back": {
+    "origin": "Files:Back",
+    "text": "ย้อนกลับ (Alt + ลูกศรซ้าย)"
+  },
+  "Back · ⌘[": {
+    "origin": "Files:Back",
+    "text": "ย้อนกลับ (Alt + ลูกศรซ้าย) · ⌘["
+  },
+  "Backdrop material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "วัสดุ Backdrop"
+  },
+  "Backdrop materials use macOS visual effects. Standard system controls and monospaced content retain their system fonts.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การใช้วัสดุหลังคา macOS การควบคุมระบบมาตรฐานและเนื้อหาแบบสากลเก็บรวบรวมตัวอักษรของระบบ"
+  },
+  "Background": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ลักษณะ"
+  },
+  "Background color (blank = system)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สีพื้นหลัง (สีขาว = ระบบ)"
+  },
+  "Background image": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รูปภาพพื้นหลัง"
+  },
+  "Background image and status": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รูปภาพพื้นหลังและสถานะ"
+  },
+  "Background image opacity": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ภาพพื้นหลังความไม่เห็นได้ชัด"
+  },
+  "Background mode keeps the menu bar icon available so you can reopen MacFiles or quit it.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "โหมดพื้นหลังทําให้ไอคอนแถบเมนูพร้อมใช้งานเพื่อให้คุณสามารถเปิดใหม่ได้ MacFiles หรือหยุด"
+  },
+  "Background preset": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ลักษณะพื้นหลัง"
+  },
+  "Base": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ฐาน"
+  },
+  "Base64": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "พื้นฐาน64"
+  },
+  "Based on the Files Community explorer’s shell, MVVM, command, and storage architecture. Built with Swift, AppKit, and SwiftUI.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ขึ้นอยู่กับ shell, MVVM, Command, and Storage Architecture ของ File Community Explorer สร้างด้วย Swift, AppKit และ SwiftUI"
+  },
+  "Binary": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "บินเนียร์"
+  },
+  "Blue": {
+    "origin": "Files:Blue",
+    "text": "น้ำเงิน"
+  },
+  "Bottom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ภายใต้"
+  },
+  "Browse all tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ดูแท็กทั้งหมด"
+  },
+  "Browse archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "บล็อกไฟล์"
+  },
+  "Browse archive…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "บราว์เซอร์ไฟล์"
+  },
+  "Browse tagged items…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse แท็กรายการ..."
+  },
+  "Browsing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "บราซิล"
+  },
+  "Browsing interactions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเข้าชมการโต้ตอบ"
+  },
+  "Bulk rename": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หมายเลขรุ่น: Bulk Rename"
+  },
+  "Bulk rename requires items from one folder.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หมายเลขจํานวนมากต้องการรายการจากโฟลเดอร์เดียว"
+  },
+  "Bulk rename…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หมายเลขรุ่น: หมายเลขรุ่น:"
+  },
+  "Bytes": {
+    "origin": "Files:Bytes",
+    "text": "ไบต์"
+  },
+  "Cache thumbnails": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ลองหลุมมอง"
+  },
+  "Calculate combined size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การคํานวณขนาดรวม"
+  },
+  "Calculate folder size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ขนาดโฟลเดอร์คํานวณ"
+  },
+  "Calculate folder sizes": {
+    "origin": "Files:CalculateFolderSizes",
+    "text": "คำนวณขนาดของโฟลเดอร์"
+  },
+  "Calculate hashes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การคํานวณ hashes"
+  },
+  "Calculate total size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การคํานวณขนาดรวม"
+  },
+  "Calculating hashes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การคํานวณ hashes"
+  },
+  "Camouflage": {
+    "origin": "Files:Camouflage",
+    "text": "ลายพราง"
+  },
+  "Cancel": {
+    "origin": "Files:Cancel",
+    "text": "ยกเลิก"
+  },
+  "Cancel calculation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การยกเลิกการคํานวณ"
+  },
+  "Cancel operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การยกเลิกการดําเนินการ"
+  },
+  "Cancel queued operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ปล่อยการดําเนินงาน Queued"
+  },
+  "Cancelled": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ปล่อย"
+  },
+  "Cancelled before starting.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ปล่อยก่อนที่จะเริ่มต้น"
+  },
+  "Cancelled before starting. No files were changed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ปล่อยก่อนเริ่มต้น ไม่มีการเปลี่ยนแปลงไฟล์"
+  },
+  "Cancelling the current operation…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การยกเลิกการดําเนินงานปัจจุบัน ..."
+  },
+  "Cannot allocate archive entry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถจัดเก็บข้อมูลเข้าสู่ระบบ"
+  },
+  "Cannot allocate archive reader.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถจัดหาผู้อ่านไฟล์"
+  },
+  "Cannot allocate archive writer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถจัดเก็บเอกสารได้"
+  },
+  "Cannot archive special device: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถจัดเก็บอุปกรณ์พิเศษ: %1$@"
+  },
+  "Cannot create archive entry: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถสร้างการเข้าสู่ระบบไฟล์: %1$@"
+  },
+  "Cannot create subprocess output file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถสร้างไฟล์การส่งออกของซอฟต์แวร์"
+  },
+  "Cannot decode image.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถ decoding รูปภาพ"
+  },
+  "Cannot prepare SSH authentication.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถเตรียม SSH การรับรอง"
+  },
+  "Cannot prepare command input.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถเตรียมการเข้าคําสั่ง"
+  },
+  "Cannot read %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถอ่านได้ %1$@"
+  },
+  "Cannot read image metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถอ่านข้อมูลรูปภาพ"
+  },
+  "Cannot remove the archive root.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถลบรากไฟล์"
+  },
+  "Cannot rename the archive root.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถเปลี่ยนชื่อของรากไฟล์"
+  },
+  "Cannot restore archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถกู้คืนลิงก์ที่แข็งของไฟล์"
+  },
+  "Cannot rotate image.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถหมุนรูปภาพ"
+  },
+  "Center": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ศูนย์"
+  },
+  "Change file extension?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เปลี่ยนไฟล์ขยาย"
+  },
+  "Change ownership?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เปลี่ยนทรัพย์สิน"
+  },
+  "Change provider app…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เปลี่ยนแอปพลิเคชันผู้ให้บริการ"
+  },
+  "Change the shortcut target?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เปลี่ยนเป้าหมายสั้น ๆ"
+  },
+  "Changes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเปลี่ยนแปลง"
+  },
+  "Changing the extension may prevent the file from opening in its usual application.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเปลี่ยนแปลงการขยายอาจป้องกันไม่ให้ไฟล์เปิดในแอปพลิเคชันปกติ"
+  },
+  "Choose IDE…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เลือก IDE"
+  },
+  "Choose a destination to restore": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เลือกจุดหมายปลายทางที่จะกู้คืน"
+  },
+  "Choose a file to calculate hashes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เลือกไฟล์เพื่อคํานวณ hashes"
+  },
+  "Choose a new destination and a repository URL.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เลือกจุดหมายปลายทางใหม่และ URL ที่เก็บไว้"
+  },
+  "Choose a regular cloud file to download.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เลือกไฟล์คลาวด์ปกติที่จะดาวน์โหลด"
+  },
+  "Choose a single file or folder to customize its icon.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เลือกไฟล์หรือโฟลเดอร์เดียวเพื่อกําหนดค่าไอคอน"
+  },
+  "Choose a supported single-frame image (JPEG, PNG, TIFF or HEIC).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เลือกภาพแบบสกรูเดียวที่ได้รับการสนับสนุน (JPEG, PNG, TIFF หรือ HEIC)"
+  },
+  "Choose a template file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เลือกไฟล์ template"
+  },
+  "Choose custom icon…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เลือกไอคอนที่กําหนดเอง"
+  },
+  "Choose folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เลือกโฟลเดอร์"
+  },
+  "Choose one item to edit ownership or ACLs.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เลือกรายการหนึ่งในการแก้ไขการเป็นเจ้าของหรือ ACLs"
+  },
+  "Choose one item to view extended attributes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เลือกรายการหนึ่งเพื่อดูคุณสมบัติที่ขยาย"
+  },
+  "Choose provider app…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เลือกแอปพลิเคชันผู้ให้บริการ"
+  },
+  "Clear": {
+    "origin": "Files:Key.Clear",
+    "text": "ล้าง"
+  },
+  "Clear finished": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เสร็จสิ้นที่ชัดเจน"
+  },
+  "Clear selection": {
+    "origin": "Files:ClearSelection",
+    "text": "ล้างส่วนที่เลือก"
+  },
+  "Clear thumbnail cache": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไฟเบอร์กลาส Cache"
+  },
+  "Clone": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คลอน"
+  },
+  "Clone repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คลอนตู้เก็บ"
+  },
+  "Clone…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คลอน"
+  },
+  "Close": {
+    "origin": "Files:Close",
+    "text": "ปิด"
+  },
+  "Close details": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รายละเอียดใกล้เคียง"
+  },
+  "Close other tabs": {
+    "origin": "Files:CloseOtherTabs",
+    "text": "ปิดแท็บอื่น ๆ ทั้งหมด"
+  },
+  "Close tab": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แท็บใกล้"
+  },
+  "Close tabs to the left": {
+    "origin": "Files:CloseTabsToTheLeft",
+    "text": "ปิดแท็บทั้งหมดที่อยู่ด้านซ้าย"
+  },
+  "Close tabs to the right": {
+    "origin": "Files:CloseTabsToTheRight",
+    "text": "ปิดแท็บทั้งหมดที่อยู่ด้านขวา"
+  },
+  "Close window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หน้าต่างใกล้"
+  },
+  "Cloud": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ดอกไม้"
+  },
+  "Cloud accounts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "บัญชี Cloud"
+  },
+  "Cloud accounts and folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "บัญชีคลาวด์และโฟลเดอร์"
+  },
+  "Cloud availability and synchronization": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ความสามารถในการใช้งานคลาวด์และการซิงค์"
+  },
+  "Cloud folder name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ชื่อโฟลเดอร์ Cloud"
+  },
+  "Cloud items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รายการคลาวด์"
+  },
+  "Cloud provider": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ผู้ให้บริการคลาวด์"
+  },
+  "Cloud providers installed on this Mac appear in the sidebar through their native File Provider folders.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ซัพพลายเออร์คลาวด์ที่ติดตั้งบน Mac นี้จะปรากฏในแถบด้านข้างผ่านประเทศของพวกเขา File Provider กระดาษ"
+  },
+  "Cloud status": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ภาวะคลาวด์"
+  },
+  "Cloud status…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สภาพคลาวด์"
+  },
+  "Cloud storage": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การจัดเก็บ Cloud"
+  },
+  "Collapse folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "โพสต์การล้มเหลว"
+  },
+  "Collapsed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ระเบิด"
+  },
+  "Collect file references from different folders, then copy or move them together.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเก็บรวบรวมคําแนะนําไฟล์จากโฟลเดอร์ที่แตกต่างกันแล้วคัดลอกหรือย้ายพวกเขาเข้ากัน"
+  },
+  "Columns": {
+    "origin": "Files:Columns",
+    "text": "คอลัมน์"
+  },
+  "Columns layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "โลหะการจัดตั้ง"
+  },
+  "Command": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คอมเมนต์"
+  },
+  "Command output exceeded 16 MiB; no truncated result was accepted.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การส่งออกคําสั่งเกิน 16 MiB; ผลลัพธ์ที่ไม่มีรอยต่อไม่ได้รับการยอมรับ"
+  },
+  "Command palette": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แพทช์"
+  },
+  "Command palette…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แพคเกจ"
+  },
+  "Commit created": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "องค์ประกอบสร้างขึ้น"
+  },
+  "Commit message": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ข้อความ"
+  },
+  "Commit staged": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การรับผิดชอบ"
+  },
+  "Compact file rows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คอมเพรสตารางไฟล์"
+  },
+  "Compare these SHA-256 fingerprints with your server administrator before trusting %1$@:%2$@.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เปรียบเทียบเหล่านี้ SHA-256 การพิมพ์นิ้วมือกับเซิร์ฟเวอร์ของคุณก่อนที่จะเชื่อมั่น %1$@:%2$@.\n\n"
+  },
+  "Compatibility": {
+    "origin": "Files:Compatibility",
+    "text": "ความเข้ากันได้"
+  },
+  "Completed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เสร็จสิ้น"
+  },
+  "Completed with errors": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ปล่อยด้วยข้อผิดพลาด"
+  },
+  "Compress": {
+    "origin": "Files:Compress",
+    "text": "บีดอัด"
+  },
+  "CompressIntoSevenZip": {
+    "origin": "Files:CompressIntoSevenZip",
+    "text": "Create 7z archive"
+  },
+  "CompressIntoZip": {
+    "origin": "Files:CompressIntoZip",
+    "text": "Create zip archive"
+  },
+  "Compressed movie headers require remuxing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หัวหน้าฟิล์มที่บีบอัดต้องการรีโมชัน"
+  },
+  "Compressing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การบีบอัด"
+  },
+  "Compress…": {
+    "origin": "Files:Compress",
+    "text": "บีดอัด"
+  },
+  "Confirm moving files to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ตรวจสอบการย้ายไฟล์ไปยัง Trash"
+  },
+  "Confirmations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การยืนยัน"
+  },
+  "Conflicts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ความขัดแย้ง"
+  },
+  "Connect": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเชื่อมต่อ"
+  },
+  "Connect to server": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเชื่อมต่อกับเซิร์ฟเวอร์"
+  },
+  "Connect to server…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเชื่อมต่อกับเซิร์ฟเวอร์"
+  },
+  "Connect to the server first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เชื่อมต่อกับเซิร์ฟเวอร์ก่อน"
+  },
+  "Connected folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "โพสต์ที่เชื่อมต่อ"
+  },
+  "Connected to this Mac": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เชื่อมต่อกับ Mac"
+  },
+  "Contains UTF-8 text": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "บรรจุภัณฑ์ UTF-8 ข้อความ"
+  },
+  "Content search includes text, PDF, Office and OpenDocument files. Unsupported, locked and online-only files are counted as skipped.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การค้นหาเนื้อหารวมถึงไฟล์ข้อความ PDF, Office และ OpenDocument ไม่สนับสนุนไฟล์ล็อคและไฟล์ออนไลน์เท่านั้นจะถูกคํานวณเป็นไฟล์ที่ล้มเหลว"
+  },
+  "Content type": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ประเภทเนื้อหา"
+  },
+  "Contents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เนื้อหา"
+  },
+  "Context": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แถลงการณ์"
+  },
+  "Context menu": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "โมนเมนต์"
+  },
+  "Copy": {
+    "origin": "Files:Copy",
+    "text": "คัดลอก"
+  },
+  "Copy app version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แอปพลิเคชันการคัดลอก"
+  },
+  "Copy hashes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คัดลอก hashes"
+  },
+  "Copy here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คัดลอกที่นี่"
+  },
+  "Copy macOS version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คัดลอก macOS เวอร์ชั่น"
+  },
+  "Copy path": {
+    "origin": "Files:CopyPath",
+    "text": "คัดลอกเส้นทาง"
+  },
+  "Copy report": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คัดลอกรายงาน"
+  },
+  "Copy selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การคัดลอกที่เลือก"
+  },
+  "CopyItemPathWithQuotes": {
+    "origin": "Files:CopyItemPathWithQuotes",
+    "text": "Copy selected item path with quotes"
+  },
+  "CopyPathDescription": {
+    "origin": "Files:CopyPathDescription",
+    "text": "Copy path of the current directory"
+  },
+  "CopyPathWithQuotes": {
+    "origin": "Files:CopyPathWithQuotes",
+    "text": "คัดลอกเส้นทางพร้อมกับอัญประกาศ"
+  },
+  "Copying": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การคัดลอก"
+  },
+  "Copying archive entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การคัดลอกเข้าสู่ระบบไฟล์"
+  },
+  "Copying files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การคัดลอกไฟล์"
+  },
+  "Copyright": {
+    "origin": "Files:PropertyCopyright",
+    "text": "ลิขสิทธื์"
+  },
+  "Could not find an available filename.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถหาชื่อไฟล์ที่มีอยู่"
+  },
+  "Could not prepare archive contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถเตรียมเนื้อหาเอกสาร"
+  },
+  "Could not remove GitHub credentials from Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถลบ GitHub การรับรองจาก Keychain."
+  },
+  "Could not save GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถบันทึกข้อมูล GitHub ใน Keychain."
+  },
+  "Could not save the edited image; the original was kept.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถบันทึกภาพที่แก้ไขได้; ภาพเดิมถูกเก็บไว้"
+  },
+  "Could not save the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถบันทึกรหัสผ่านใน Keychain (%1$@)."
+  },
+  "Could not update GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถปรับปรุงการรับรอง GitHub ใน Keychain."
+  },
+  "Could not update the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถปรับปรุงรหัสผ่านใน Keychain (%1$@)."
+  },
+  "Couldn’t change the folder viewer": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถเปลี่ยนโฟลเดอร์ดูได้"
+  },
+  "Couldn’t eject volume": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถปล่อยปริมาณ"
+  },
+  "Couldn’t open files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถเปิดไฟล์"
+  },
+  "Couldn’t open folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถเปิดโฟลเดอร์"
+  },
+  "Couldn’t open this file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถเปิดไฟล์นี้ได้"
+  },
+  "Couldn’t open this location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถเปิดสถานที่นี้ได้"
+  },
+  "Couldn’t resolve alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถแก้ไข alias"
+  },
+  "Couldn’t restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถเริ่มต้นใหม่ได้ MacFiles"
+  },
+  "Create": {
+    "origin": "Files:Create",
+    "text": "สร้าง"
+  },
+  "Create a GitHub token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สร้าง token GitHub"
+  },
+  "Create alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สร้าง alias"
+  },
+  "Create archive": {
+    "origin": "Files:CreateArchive",
+    "text": "สร้างไฟล์จัดเก็บ"
+  },
+  "Create library…": {
+    "origin": "Files:FolderWidgetCreateNewLibraryDialogTitleText",
+    "text": "สร้างคลัง"
+  },
+  "Create shortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "สร้างทางลัด"
+  },
+  "Create zip archive": {
+    "origin": "Files:CompressIntoZip",
+    "text": "Create zip archive"
+  },
+  "CreateFolderWithSelection": {
+    "origin": "Files:CreateFolderWithSelection",
+    "text": "สร้างโฟลเดอร์จากส่วนที่เลือก"
+  },
+  "CreateShortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "สร้างทางลัด"
+  },
+  "CreateShortcutFromDialogDescription": {
+    "origin": "Files:CreateShortcutFromDialogDescription",
+    "text": "Create new shortcut to any item"
+  },
+  "Created": {
+    "origin": "Files:PropertiesCreated.Text",
+    "text": "สร้างเมื่อ:"
+  },
+  "Creating alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การสร้าง alias"
+  },
+  "Creating from template": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สร้างจาก template"
+  },
+  "Custom": {
+    "origin": "Files:Custom",
+    "text": "กำหนดเอง"
+  },
+  "Custom icon applied.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ปรับแต่งไอคอน"
+  },
+  "Custom tag color (hex, optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สีแท็กที่กําหนดเอง ( hex, ตัวเลือก)"
+  },
+  "Custom theme": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ธีมที่กําหนดเอง"
+  },
+  "Customization": {
+    "origin": "Files:Customization",
+    "text": "ปรับแต่ง"
+  },
+  "Customize toolbar": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เครื่องมือปรับแต่ง"
+  },
+  "Customize toolbar…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "บาร์เครื่องมือปรับแต่ง"
+  },
+  "Cut": {
+    "origin": "Files:Cut",
+    "text": "ตัด"
+  },
+  "Dark": {
+    "origin": "Files:DarkTheme",
+    "text": "มืด"
+  },
+  "Date created": {
+    "origin": "Files:DateCreated",
+    "text": "สร้างเมื่อ"
+  },
+  "Date deleted": {
+    "origin": "Files:DateDeleted",
+    "text": "วันที่ลบ"
+  },
+  "Date format": {
+    "origin": "Files:DateFormat",
+    "text": "รูปแบบวันที่"
+  },
+  "Date modified": {
+    "origin": "Files:DateModifiedLowerCase",
+    "text": "วันที่ปรับเปลี่ยน"
+  },
+  "Day": {
+    "origin": "Files:Day",
+    "text": "วัน"
+  },
+  "Decimal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หมายเลข"
+  },
+  "Decrease size": {
+    "origin": "Files:DecreaseSize",
+    "text": "ลดขนาด"
+  },
+  "Default": {
+    "origin": "Files:Default",
+    "text": "ค่าเริ่มต้น"
+  },
+  "Default folder layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "โลกวางแผนแบบ default"
+  },
+  "Default grouping": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การจัดกลุ่มแบบกําหนดเอง"
+  },
+  "Default save location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การบันทึกตําแหน่งแบบกําหนดเอง"
+  },
+  "Default sorting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การจัดอันดับแบบกําหนดเอง"
+  },
+  "Delete": {
+    "origin": "Files:Delete",
+    "text": "ลบ"
+  },
+  "Delete permanently": {
+    "origin": "Files:DeletePermanently",
+    "text": "ลบอย่างถาวร"
+  },
+  "Delete saved tag and remove it from indexed files?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ลบแท็กที่บันทึกไว้และลบจากไฟล์ indexed?"
+  },
+  "Delete selected permanently…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ลบเลือกอย่างต่อเนื่อง..."
+  },
+  "Deleting permanently": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ลบอย่างต่อเนื่อง"
+  },
+  "Description": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คําอธิบาย"
+  },
+  "Desktop": {
+    "origin": "Files:Desktop",
+    "text": "เดสก์ท็อป"
+  },
+  "Destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เป้าหมาย: %1$@"
+  },
+  "Detached HEAD": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ปิดหัว"
+  },
+  "Details": {
+    "origin": "Files:Details",
+    "text": "รายละเอียด"
+  },
+  "Details layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ลักษณะ layout"
+  },
+  "Details pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รายละเอียด"
+  },
+  "Developer tools": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เครื่องมือผู้พัฒนา"
+  },
+  "Development": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การพัฒนา"
+  },
+  "Diagnostics": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การวินิจฉัย"
+  },
+  "Diagnostics opened": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การวินิจฉัยเปิด"
+  },
+  "Disconnect": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเชื่อมต่อ"
+  },
+  "Documents": {
+    "origin": "Files:Documents",
+    "text": "เอกสาร"
+  },
+  "Done": {
+    "origin": "Files:Close",
+    "text": "ปิด"
+  },
+  "Double-click empty space to go up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คลิกคู่พื้นที่ว่างเปล่าที่จะไปขึ้น"
+  },
+  "Download": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ดาวน์โหลด"
+  },
+  "Download files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ดาวน์โหลดไฟล์"
+  },
+  "Download here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ดาวน์โหลดที่นี่"
+  },
+  "Download requested. iCloud may complete it asynchronously.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ดาวน์โหลดที่ต้องการ iCloud สามารถเสร็จสมบูรณ์ได้โดยไม่ซิงโครน"
+  },
+  "Downloaded": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ดาวน์โหลด"
+  },
+  "Downloading": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ดาวน์โหลด"
+  },
+  "Downloads": {
+    "origin": "Files:Downloads",
+    "text": "ดาวน์โหลด"
+  },
+  "Drives": {
+    "origin": "Files:Drives",
+    "text": "ไดร์ฟ"
+  },
+  "Dual pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คู่ปาน"
+  },
+  "Duplicate": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คู่มือ"
+  },
+  "Duplicate archive paths cannot be extracted safely.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เส้นทางเอกสารคู่ไม่สามารถสกัดได้อย่างปลอดภัย"
+  },
+  "Duplicate tab": {
+    "origin": "Files:DuplicateTab",
+    "text": "ทำซ้ำแท็บ"
+  },
+  "Edit": {
+    "origin": "Files:Edit",
+    "text": "แก้ไข"
+  },
+  "Edit POSIX permissions for selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แก้ไข POSIX อนุญาตในการเลือก"
+  },
+  "Edit address · ⌘L": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "โพสต์ Edit ⌘L"
+  },
+  "Edit archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การแก้ไขไฟล์"
+  },
+  "Edit in TextEdit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit ใน TextEdit"
+  },
+  "Edit media metadata": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การแก้ไขข้อมูลสื่อ"
+  },
+  "Edit media metadata…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การแก้ไขข้อมูลเมตตา..."
+  },
+  "Edit or import the settings document, then Apply to validate and save. Language changes require a restart.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit หรือ import the settings document, แล้ว Apply to validate and save. การเปลี่ยนแปลงภาษาต้องเริ่มต้นใหม่"
+  },
+  "Edit permissions on the link's target instead.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit permissions on the link's target instead."
+  },
+  "Edit settings file…": {
+    "origin": "Files:EditSettingsFile",
+    "text": "แก้ไขไฟล์ตั้งค่า"
+  },
+  "Edit tags": {
+    "origin": "Files:EditTags",
+    "text": "แก้ไขแท็ก"
+  },
+  "Edit tags…": {
+    "origin": "Files:EditTags",
+    "text": "แก้ไขแท็ก"
+  },
+  "Edit the archive target instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit the archive target instead of a symbolic link. การแก้ไขเป้าหมายของเอกสารแทนที่ลิงค์สัญลักษณ์"
+  },
+  "Edit the target's attributes instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แก้ไขคุณสมบัติของเป้าหมายแทนการเชื่อมโยงสัญลักษณ์"
+  },
+  "Edits apply to this item only. Ownership changes require existing system permission; MacFiles does not elevate itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การแก้ไขมีผลต่อรายการนี้เท่านั้น การเปลี่ยนแปลงของเจ้าของต้องมีการอนุญาตระบบที่มีอยู่ MacFiles ไม่ได้ยกตัวเอง"
+  },
+  "Eject": {
+    "origin": "Files:Eject",
+    "text": "ถอด"
+  },
+  "Empty": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ว่างเปล่า"
+  },
+  "Empty accessible Trash…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ว่างเปล่าเข้าถึง Trash ..."
+  },
+  "Empty archive entry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเข้าสู่ระบบอิสระ"
+  },
+  "Encoding": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเข้ารหัส"
+  },
+  "Encrypted": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ซอฟต์แวร์"
+  },
+  "Enter a GitHub username and a valid access token.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ใส่ชื่อผู้ใช้ GitHub และ token การเข้าถึงที่ถูกต้อง"
+  },
+  "Enter a commit message.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ใส่ข้อความที่มุ่งมั่น"
+  },
+  "Enter a name without a slash or colon. The name cannot be empty, ‘.’, or ‘..’.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ใส่ชื่อโดยไม่มีรอยขีดข่วนหรือ colon ชื่อไม่สามารถว่างเปล่า, '.', หรือ '..'."
+  },
+  "Enter a size from 1 to 1,048,576 MiB.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ใส่ขนาด 1 ถึง 1,048,576 MiB"
+  },
+  "Enter a valid host, username, and port.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ใส่โฮสต์ที่ถูกต้องชื่อผู้ใช้และพอร์ต"
+  },
+  "Enter an SMB, AFP, or WebDAV address.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เข้าสู่ระบบ SMB, AFPหรือ WebDAV ที่ตั้ง"
+  },
+  "Enter an attribute name of 1–127 UTF-8 bytes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ใส่ชื่อของคุณสมบัติ 1–127 UTF-8 ไบต์"
+  },
+  "Enter compact overlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "เปิดใช้งานหน้าต่างย่อ"
+  },
+  "Enter numeric user and group IDs.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หมายเลขผู้ใช้และ ID กลุ่ม"
+  },
+  "Enter password:": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ใส่รหัสผ่าน:"
+  },
+  "Enter permissions from 000 to 777.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ใบอนุญาตเข้าถึงจาก 000 ถึง 777"
+  },
+  "Enter the archive password before editing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ใส่รหัสผ่านไฟล์ก่อนการแก้ไข"
+  },
+  "Enter three octal digits, for example 644 or 755.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ใส่สามดิจิทัลอคติเช่น 644 หรือ 755"
+  },
+  "Enter whole numbers for byte limits.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หมายเลขทั้งหมดสําหรับขีด จํากัด byte"
+  },
+  "EnterCompactOverlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "เปิดใช้งานหน้าต่างย่อ"
+  },
+  "Executable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การดําเนินการ"
+  },
+  "Executable format": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รูปแบบการดําเนินการ"
+  },
+  "Exit compact overlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "ออกจากหน้าต่างย่อ"
+  },
+  "ExitCompactOverlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "ออกจากหน้าต่างย่อ"
+  },
+  "Expand folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "โพสต์ขยาย"
+  },
+  "Expanded": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แปลด"
+  },
+  "Export ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การส่งออก ACL…"
+  },
+  "Export bytes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การส่งออกแบตเตอรี่"
+  },
+  "Export theme…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การส่งออก..."
+  },
+  "Export…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การส่งออก"
+  },
+  "Extended attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คุณสมบัติที่ขยาย"
+  },
+  "Extended attributes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ความหมายที่ขยาย ..."
+  },
+  "Extensions are preserved. Conflicts stop the batch before any names change.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การขยายจะถูกเก็บไว้ การต่อสู้หยุดการจัดเก็บก่อนที่จะเปลี่ยนชื่อใด ๆ"
+  },
+  "Extensions: txt, swift, pdf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การขยายตัว: txt, swift, pdf"
+  },
+  "Extra large icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หมายเลขไอคอนขนาดใหญ่"
+  },
+  "Extract": {
+    "origin": "Files:Extract",
+    "text": "แยกไฟล์"
+  },
+  "Extract all…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สกัดทั้งหมด..."
+  },
+  "Extract here": {
+    "origin": "Files:ExtractHere",
+    "text": "แยกไฟล์ที่นี่"
+  },
+  "Extract here (Smart)": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "แยกไฟล์ที่นี้ (อัจฉริยะ)"
+  },
+  "Extract selected…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สารสกัดที่เลือก"
+  },
+  "Extract to child folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สารสกัดจากโฟลเดอร์เด็ก"
+  },
+  "Extract to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สารสกัดจาก..."
+  },
+  "ExtractHere": {
+    "origin": "Files:ExtractHere",
+    "text": "แยกไฟล์ที่นี่"
+  },
+  "ExtractHereSmart": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "แยกไฟล์ที่นี้ (อัจฉริยะ)"
+  },
+  "Extracted entry size does not match its header.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ขนาดการส่งออกไม่ตรงกับหัวของมัน"
+  },
+  "Extracting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การสกัด"
+  },
+  "Extracts into a new folder; existing files are kept.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สารสกัดไปยังโฟลเดอร์ใหม่; ไฟล์ที่มีอยู่จะถูกเก็บไว้"
+  },
+  "FTP over TLS": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "FTP ทั่ว TLS"
+  },
+  "Failed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ความล้มเหลว"
+  },
+  "Fetch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ฟิล์ม"
+  },
+  "File": {
+    "origin": "Files:File",
+    "text": "ไฟล์"
+  },
+  "File actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การกระทําไฟล์"
+  },
+  "File hashes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไฟล์ hashes"
+  },
+  "File information": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ข้อมูลไฟล์"
+  },
+  "File operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การดําเนินงานไฟล์"
+  },
+  "File operations in this window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การดําเนินการไฟล์ในหน้าต่างนี้"
+  },
+  "File shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไฟล์ Shelf"
+  },
+  "File shelf…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไฟล์ Shelf"
+  },
+  "File size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ขนาดไฟล์"
+  },
+  "Files": {
+    "origin": "Files:SecurityAdvancedFlagsFilesLabel",
+    "text": "ไฟล์"
+  },
+  "Files size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ขนาดไฟล์"
+  },
+  "Files you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไฟล์ที่คุณเปิดจะปรากฏที่นี่"
+  },
+  "Fill": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คู่มือ"
+  },
+  "Filter entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ฟิล์มเข้า"
+  },
+  "Find": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ค้นหา"
+  },
+  "Find and replace": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ค้นหาและแทนที่"
+  },
+  "Finder Get Info unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder รับข้อมูลไม่สามารถใช้ได้"
+  },
+  "Finder Get Info…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder รับข้อมูล"
+  },
+  "Finder's desktop and other apps' Open/Save dialogs remain managed by macOS.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder'Desktop และแอปอื่น ๆ' Open/Save คู่มือยังคงจัดการโดย macOS."
+  },
+  "First letter": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แพสต์แรก"
+  },
+  "Fit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สอดคล้อง"
+  },
+  "Flatten": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แรง"
+  },
+  "Flatten folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แผงที่เรียบ"
+  },
+  "Flatten folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แผงที่เรียบ..."
+  },
+  "Flatten ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ปล่อย »%1$@’?"
+  },
+  "Flattening folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "โพสต์"
+  },
+  "Focus other pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "มุ่งเน้นที่อื่น ๆ pane"
+  },
+  "Folder": {
+    "origin": "Files:Folder",
+    "text": "โฟลเดอร์"
+  },
+  "Folder contents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "โฟลเดอร์เนื้อหา"
+  },
+  "Folder contents are not included in this total.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เนื้อหาโฟลเดอร์ไม่ได้รวมอยู่ในจํานวนนี้"
+  },
+  "Folder layout saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "โพสต์โฟลเดอร์ได้รับการบันทึก"
+  },
+  "Folder path": {
+    "origin": "Files:FolderPath",
+    "text": "เส้นทางโฟลเดอร์"
+  },
+  "Folder presentation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แสดงโฟลเดอร์"
+  },
+  "Folder sizes are calculated in the background after Refresh. Large or network folders may take longer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ขนาดโฟลเดอร์จะถูกคํานวณในพื้นหลังหลังจากฟื้นฟูโฟลเดอร์ขนาดใหญ่หรือเครือข่ายอาจใช้เวลานาน"
+  },
+  "Folder unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แผงที่ไม่พร้อมใช้งาน"
+  },
+  "Folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "กระดาษ"
+  },
+  "Folders you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "กล่องที่คุณเปิดจะปรากฏที่นี่"
+  },
+  "Font": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หมายเลข"
+  },
+  "Font and material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หมายเลขและวัสดุ"
+  },
+  "Forget saved": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ลืมบันทึก"
+  },
+  "Format": {
+    "origin": "Files:FormatDriveText",
+    "text": "รูปแบบ"
+  },
+  "Format drive in Disk Utility…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การกําหนดค่าไดรฟ์ใน Disk Utility ..."
+  },
+  "Forward": {
+    "origin": "Files:Forward",
+    "text": "ไปข้างหน้า (Alt + ลูกศรขวา)"
+  },
+  "Forward · ⌘]": {
+    "origin": "Files:Forward",
+    "text": "ไปข้างหน้า (Alt + ลูกศรขวา) · ⌘]"
+  },
+  "Fragmented media metadata cannot be edited without remuxing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ข้อมูลเมตตาสื่อที่แบ่งออกไม่สามารถแก้ไขได้โดยไม่ต้องรีโมชัน"
+  },
+  "Gallery": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แกลเลอรี่"
+  },
+  "Gallery layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แกลเลอรี่ layout"
+  },
+  "General": {
+    "origin": "Files:General",
+    "text": "ทั่วไป"
+  },
+  "Git operation in %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git การดําเนินงานใน %1$@"
+  },
+  "Git repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git โพสต์"
+  },
+  "Git repository…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git การจัดเก็บ..."
+  },
+  "GitHub account": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "บัญชี GitHub"
+  },
+  "GitHub username": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ชื่อผู้ใช้ GitHub"
+  },
+  "Go to path": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไปทาง"
+  },
+  "Go to path…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไปทาง..."
+  },
+  "Gray": {
+    "origin": "Files:Gray",
+    "text": "เทา"
+  },
+  "Green": {
+    "origin": "Files:Green",
+    "text": "เขียว"
+  },
+  "Group": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "กลุ่ม"
+  },
+  "Group GID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "กลุ่ม GID"
+  },
+  "Group ascending": {
+    "origin": "Files:GroupAscendingDescription",
+    "text": "เรียงกลุ่มจากน้อยไปมาก"
+  },
+  "Group by": {
+    "origin": "Files:GroupBy",
+    "text": "จัดกลุ่มโดย"
+  },
+  "Group by date unit": {
+    "origin": "Files:GroupByDateUnit",
+    "text": "Group by date unit"
+  },
+  "HTTPS Git operations can use a GitHub access token stored in your macOS Keychain. Choose the repositories and permissions when creating the token. Existing Git authentication remains in use when no MacFiles account is saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "HTTPS Git การดําเนินงานสามารถใช้ GitHub access token ที่เก็บไว้ในของคุณ macOS Keychain. เลือกจัดเก็บและอนุญาตเมื่อสร้าง token. มี Git การยืนยันยังคงใช้เมื่อไม่มี MacFiles บัญชีจะถูกบันทึก"
+  },
+  "Hard Link": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ลิงค์หนัก"
+  },
+  "Hashes": {
+    "origin": "Files:Hashes",
+    "text": "แฮช"
+  },
+  "Hashes are available for a single file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hashes มีสําหรับไฟล์เดียว"
+  },
+  "Header": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หัวหน้า"
+  },
+  "Help": {
+    "origin": "Files:Help",
+    "text": "ช่วยเหลือ"
+  },
+  "Hidden": {
+    "origin": "Files:Hidden",
+    "text": "ซ่อน"
+  },
+  "Hidden files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไฟล์ที่ซ่อนอยู่"
+  },
+  "History": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ประวัติศาสตร์"
+  },
+  "Home": {
+    "origin": "Files:Key.Home",
+    "text": "หน้าแรก"
+  },
+  "Horizontal alignment": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การปรับแนวนอน"
+  },
+  "IDE opened.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "IDE เปิด"
+  },
+  "Icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สัญลักษณ์"
+  },
+  "Icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หมายเลข"
+  },
+  "Icons layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หมายเลขรุ่น: Icons"
+  },
+  "Image alignment": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รูปภาพการปรับแต่ง"
+  },
+  "Image fit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รูปภาพที่เหมาะสม"
+  },
+  "Import theme…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "วัตถุประสงค์การนําเข้า"
+  },
+  "Imported. Apply to save.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "นําเข้าใช้เพื่อบันทึก"
+  },
+  "Import…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การนําเข้า..."
+  },
+  "Incomplete archive listing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รายชื่อเอกสารที่ไม่สมบูรณ์"
+  },
+  "Increase size": {
+    "origin": "Files:IncreaseSize",
+    "text": "เพิ่มขนาด"
+  },
+  "Indexed document, image, audio, video and filesystem metadata supplied by Spotlight. Tags can be edited with the Tags tool.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หมายเลขเอกสารภาพเสียงวิดีโอและระบบไฟล์ข้อมูลโลหะที่จัดหาโดย Spotlightแท็กสามารถแก้ไขได้โดยใช้เครื่องมือ แท็ก"
+  },
+  "Indexed files updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ข้อมูลจําเพาะอัปเดต"
+  },
+  "Initialize": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเริ่มต้น"
+  },
+  "Initialize repository here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เริ่มต้นการจัดเก็บข้อมูลที่นี่"
+  },
+  "Install certificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "Install certificate"
+  },
+  "Install font": {
+    "origin": "Files:InstallFont",
+    "text": "Install font"
+  },
+  "InstallCertificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "Install certificate"
+  },
+  "InstallFont": {
+    "origin": "Files:InstallFont",
+    "text": "Install font"
+  },
+  "Interval in seconds": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ระยะเวลาในวินาที"
+  },
+  "Invalid Base64 data.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ข้อมูล Base64 ไม่ถูกต้อง"
+  },
+  "Invalid SSH host or port.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "น้องที่มีความเสี่ยง SSH โฮสต์หรือพอร์ต"
+  },
+  "Invalid archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไฟล์ไม่ถูกต้อง ลิงค์ที่แข็ง"
+  },
+  "Invalid archive link target.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หมายเลขที่กําหนดไว้ใน Archive Link Target"
+  },
+  "Invalid extended media atom.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid อะต้าสื่อขยาย"
+  },
+  "Invalid hard link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเชื่อมโยงที่แข็งแกร่ง"
+  },
+  "Invalid key for %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คีย์ invalid สําหรับ %1$@."
+  },
+  "Invalid macOS ACL text. Preserve the !#acl 1 header and use valid entries.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "น้องที่มีความเสี่ยง macOS ACL บันทึกชื่อ !#acl 1 และใช้รายการที่ถูกต้อง"
+  },
+  "Invalid media atom header.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid Media Atom Header"
+  },
+  "Invalid media atom size.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ขนาดอัตโนมัติของสื่อที่ไม่ถูกต้อง"
+  },
+  "Invalid media atom.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "อะตินของสื่อที่ผิดพลาด"
+  },
+  "Invalid media file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไฟล์สื่อที่ไม่ถูกต้อง"
+  },
+  "Invalid name": {
+    "origin": "Files:InvalidTagNameWarning",
+    "text": "ชื่อไม่ถูกต้อง"
+  },
+  "Invalid remote URL.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "URL ระยะไกลที่ไม่ถูกต้อง"
+  },
+  "Invalid settings document.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ใบรับรองการตั้งค่าที่ไม่ถูกต้อง"
+  },
+  "Invalid tag metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แท็ก metadata ไม่ถูกต้อง"
+  },
+  "Invalid tag name or color.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แท็กที่ผิดพลาดชื่อหรือสี"
+  },
+  "Invalid theme colors or appearance.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สีธีมที่ไม่ถูกต้องหรือลักษณะ"
+  },
+  "Invalid volume size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ขนาดปริมาณที่ผิดพลาด"
+  },
+  "Invert selection": {
+    "origin": "Files:InvertSelection",
+    "text": "สลับการเลือก"
+  },
+  "Item properties": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คุณสมบัติของวัตถุ"
+  },
+  "Items move into .MacFiles-Recovery on this server, including folder contents. Use Undo remote to restore them during this session.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รายการย้ายไป .MacFiles-Recovery บนเซิร์ฟเวอร์นี้รวมถึงเนื้อหาโฟลเดอร์ ใช้ Undo Remote เพื่อกู้คืนพวกเขาในระหว่างการประชุมนี้"
+  },
+  "Keep MacFiles open": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ปกติ MacFiles เปิด"
+  },
+  "Keep both": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เก็บทั้งสอง"
+  },
+  "Keep both creates numbered names. Replace moves previous versions to Trash and supports Undo. Folders are replaced as a whole.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ปล่อยทั้งสองสร้างชื่อที่หมายเลข การเปลี่ยนย้ายรุ่นก่อนหน้านี้ไปยัง Trash และสนับสนุน Undo. ไฟล์จะถูกแทนที่เป็นทั้งหมด"
+  },
+  "Keep running after closing windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ทํางานต่อไปหลังจากปิดหน้าต่าง"
+  },
+  "Keep window on top": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เก็บหน้าต่างด้านบน"
+  },
+  "Keyboard shortcuts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คีย์บอร์ดสั้น"
+  },
+  "Keyboard shortcuts…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คีย์บอร์ดสั้น ๆ"
+  },
+  "Keywords (comma separated)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คําหลัก (เหมือนแยก)"
+  },
+  "Kind": {
+    "origin": "Files:Type",
+    "text": "ประเภท"
+  },
+  "Label": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แท็ก"
+  },
+  "Language": {
+    "origin": "Files:PropertyLanguage",
+    "text": "ภาษา"
+  },
+  "Large icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หมายเลข Icon"
+  },
+  "Launch at login": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เริ่มต้นใน login"
+  },
+  "Layout": {
+    "origin": "Files:Layout",
+    "text": "เค้าโครง"
+  },
+  "Left": {
+    "origin": "Files:Left",
+    "text": "ลูกศรซ้าย"
+  },
+  "Let the current operation finish before quitting.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ให้การดําเนินงานปัจจุบันเสร็จสิ้นก่อนที่จะออก"
+  },
+  "Libraries": {
+    "origin": "Files:SidebarLibraries",
+    "text": "คลัง"
+  },
+  "Library": {
+    "origin": "Files:Library",
+    "text": "คลัง"
+  },
+  "Library name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ชื่อห้องสมุด"
+  },
+  "Library properties…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คุณสมบัติของห้องสมุด"
+  },
+  "Library/Application Support/MacFiles/known_hosts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ห้องสมุด / การสนับสนุนการใช้งาน /MacFiles/ที่รู้จัก_โฮสต์"
+  },
+  "Library/Mobile Documents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ห้องสมุด / เอกสารมือถือ"
+  },
+  "Library/Mobile Documents/com~apple~CloudDocs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ห้องสมุด/เอกสารมือถือ/com~apple~CloudDocs"
+  },
+  "Light": {
+    "origin": "Files:LightTheme",
+    "text": "สว่าง"
+  },
+  "Link target": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ลิงค์เป้าหมาย"
+  },
+  "List": {
+    "origin": "Files:List",
+    "text": "รายการ"
+  },
+  "List folders before files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รายการโฟลเดอร์ก่อนไฟล์"
+  },
+  "Loading…": {
+    "origin": "Files:Loading",
+    "text": "กำลังโหลด..."
+  },
+  "Local": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ภูมิภาค"
+  },
+  "Local download removal requested.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การดาวน์โหลดท้องถิ่นที่ต้องการ"
+  },
+  "Local file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไฟล์ท้องถิ่น"
+  },
+  "Location": {
+    "origin": "Files:Location",
+    "text": "ที่ตั้ง:"
+  },
+  "Lock screen and wallpaper settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ล็อคหน้าจอและการตั้งค่า wallpaper ..."
+  },
+  "Locked": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ล็อค"
+  },
+  "Macintosh HD": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Macintosh เอชดี"
+  },
+  "Make alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ทํา alias"
+  },
+  "Make alias…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ทํา alias ..."
+  },
+  "Manage account in provider app": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การจัดการบัญชีในแอปซัพพลายเออร์"
+  },
+  "Manage cloud accounts…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การจัดการบัญชี Cloud"
+  },
+  "Manage tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การจัดการแท็ก"
+  },
+  "Maximum bytes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "บิตสูงสุด"
+  },
+  "Media export did not complete.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การส่งออกสื่อไม่ได้เสร็จสิ้น"
+  },
+  "Media metadata is too large.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Metadata ของสื่อเป็นขนาดใหญ่เกินไป"
+  },
+  "Medium icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หมายเลข Icon"
+  },
+  "Minimize": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หมายเลข"
+  },
+  "Minimum bytes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "บิตต่ําสุด"
+  },
+  "Minimum size exceeds maximum size.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ขนาดขั้นต่ําเกินขนาดสูงสุด"
+  },
+  "Mode": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "โหมด"
+  },
+  "Modified": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเปลี่ยนแปลง"
+  },
+  "Modified after": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เปลี่ยนหลังจาก"
+  },
+  "Month": {
+    "origin": "Files:Month",
+    "text": "เดือน"
+  },
+  "More actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การกระทําเพิ่มเติม"
+  },
+  "Mount share…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ภูเขาแบ่งปัน"
+  },
+  "Mounted network locations appear here. Connect to a server to browse another location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สถานที่เครือข่ายที่ติดตั้งจะปรากฏที่นี่ เชื่อมต่อกับเซิร์ฟเวอร์เพื่อดูสถานที่อื่น ๆ"
+  },
+  "Move %1$@ remote items to recovery?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ย้าย %1$@ วัตถุดิบระยะไกลสําหรับการกู้คืน?"
+  },
+  "Move %1$@ to Trash?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ย้าย %1$@ เพื่อลบ?"
+  },
+  "Move here": {
+    "origin": "Files:PinToSidebarByDraggingCaptionText",
+    "text": "ย้ายมาที่นี่"
+  },
+  "Move nested files to this folder. Existing names and symbolic links are left in place. Empty subfolders go to Trash. You can undo this operation.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แปลงไฟล์ที่จดหมายไปยังโฟลเดอร์นี้ ชื่อที่มีอยู่และลิงค์สัญลักษณ์จะถูกปล่อยให้อยู่ในสถานที่ ซอฟฟลเดอร์ที่ว่างเปล่าจะไป Trash คุณสามารถลบการดําเนินการนี้ได้"
+  },
+  "Move to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเคลื่อนไหวเพื่อลาก"
+  },
+  "Move to Trash…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเคลื่อนไหวเพื่อล้อ..."
+  },
+  "Move to recovery": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเคลื่อนไหวเพื่อการกู้คืน"
+  },
+  "Move to recovery folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การย้ายไปยังโฟลเดอร์การกู้คืน"
+  },
+  "Movies": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ภาพยนตร์"
+  },
+  "Moving": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเคลื่อนไหว"
+  },
+  "Moving files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไฟล์เคลื่อนที่"
+  },
+  "Moving to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การย้ายไปยัง Trash"
+  },
+  "Multiple items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หลายรายการ"
+  },
+  "Music": {
+    "origin": "Files:Music",
+    "text": "เพลง"
+  },
+  "My MacFiles theme": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ของฉัน MacFiles ชุดรูปแบบ"
+  },
+  "My library": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ห้องสมุดของฉัน"
+  },
+  "My search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ค้นหาของฉัน"
+  },
+  "Name": {
+    "origin": "Files:NameWithColon",
+    "text": "ชื่อ:"
+  },
+  "Native macOS extended attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สัตว์เลี้ยง macOS คุณสมบัติที่ขยาย"
+  },
+  "Natural language search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ค้นหาภาษาธรรมชาติ"
+  },
+  "Navigate": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สะดาน"
+  },
+  "Network": {
+    "origin": "Files:Network",
+    "text": "เครือข่าย"
+  },
+  "New": {
+    "origin": "Files:BaseLayoutContextFlyoutNew.Label",
+    "text": "สร้าง"
+  },
+  "New archive file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไฟล์ไฟล์ใหม่"
+  },
+  "New archive folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แผงไฟล์ใหม่"
+  },
+  "New branch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ช่องใหม่"
+  },
+  "New file from template": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไฟล์ใหม่จาก template"
+  },
+  "New folder": {
+    "origin": "Files:NewFolder",
+    "text": "โฟลเดอร์ใหม่"
+  },
+  "New folder…": {
+    "origin": "Files:NewFolder",
+    "text": "โฟลเดอร์ใหม่"
+  },
+  "New from template": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ใหม่จาก template"
+  },
+  "New from template…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ใหม่จาก template"
+  },
+  "New name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ชื่อใหม่"
+  },
+  "New remote file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไฟล์ระยะไกลใหม่"
+  },
+  "New remote folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "โพสต์ระยะไกลใหม่"
+  },
+  "New tab": {
+    "origin": "Files:NewTab",
+    "text": "แท็บใหม่"
+  },
+  "New tab · ⌘T": {
+    "origin": "Files:NewTab",
+    "text": "แท็บใหม่ · ⌘T"
+  },
+  "New text file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไฟล์ข้อความใหม่"
+  },
+  "New text file…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไฟล์ข้อความใหม่"
+  },
+  "New window": {
+    "origin": "Files:NewWindow",
+    "text": "เปิดในหน้าต่างใหม่"
+  },
+  "Next layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "โลหะต่อไป"
+  },
+  "Next tab": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ถัดไปแท็บ"
+  },
+  "No": {
+    "origin": "Files:No",
+    "text": "ไม่"
+  },
+  "No IDE selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่เลือก IDE"
+  },
+  "No application could open ‘%1$@’.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถเปิดใช้งานได้”%1$@’."
+  },
+  "No archive entry was extracted.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่ได้ถูกดึงเข้าของไฟล์"
+  },
+  "No archive is open.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่มีการเปิดไฟล์"
+  },
+  "No archive was produced.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่มีการจัดเก็บเอกสาร"
+  },
+  "No commits yet": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่มีข้อตกลง"
+  },
+  "No files were extracted.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่มีการสกัดไฟล์"
+  },
+  "No matching items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่มีรายการที่เกี่ยวข้อง"
+  },
+  "No movie header was found.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่พบหัวหน้าภาพยนตร์"
+  },
+  "No operations recorded.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่มีการบันทึกการดําเนินงาน"
+  },
+  "No readable macOS code signature.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สามารถอ่านได้ macOS รหัสการลงนาม\n\n"
+  },
+  "No selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่เลือก"
+  },
+  "No settings match your search.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่มีการตั้งค่าที่ตรงกับการค้นหาของคุณ"
+  },
+  "No tracked diff. New files appear after staging.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่มีการติดตาม diff. ไฟล์ใหม่จะปรากฏขึ้นหลังจากการติดตาม"
+  },
+  "None": {
+    "origin": "Files:CompressionLevelNone",
+    "text": "ไม่มี"
+  },
+  "Not enough free space to finish extraction.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่เพียงพอพื้นที่ฟรีเพื่อเสร็จสิ้นการสกัด"
+  },
+  "Not managed by a detected cloud provider": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่จัดการโดยผู้ให้บริการคลาวด์ที่ได้รับการตรวจพบ"
+  },
+  "Not used": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่ใช้"
+  },
+  "Numbered names": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หมายเลขชื่อ"
+  },
+  "OK": {
+    "origin": "Files:OK",
+    "text": "ตกลง"
+  },
+  "Older": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เก่า"
+  },
+  "Online only": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ออนไลน์เท่านั้น"
+  },
+  "Only an uploaded iCloud file without conflicts can have its local download removed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เท่านั้นอัปโหลด iCloud ไฟล์ที่ไม่มีข้อต่ออาจมีการดาวน์โหลดในท้องถิ่นที่ถอดออก"
+  },
+  "Only images can be rotated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รูปภาพเท่านั้นที่สามารถหมุนได้"
+  },
+  "Open": {
+    "origin": "Files:Open",
+    "text": "เปิด"
+  },
+  "Open / Preview": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เปิด / Preview"
+  },
+  "Open Login Items settings": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เปิด Login รายการการตั้งค่า"
+  },
+  "Open MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เปิด MacFiles"
+  },
+  "Open System Settings for iCloud": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เปิดระบบตั้งค่าสําหรับ iCloud"
+  },
+  "Open a repository, initialize this folder, or clone a repository.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เปิดตู้เก็บ, initialize นี้โฟลเดอร์, หรือ clone a repository."
+  },
+  "Open all folders in tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เปิดโฟลเดอร์ทั้งหมดในแท็บ"
+  },
+  "Open containing folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ปิดโฟลเดอร์ที่มีเนื้อหา"
+  },
+  "Open external folders in new windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เปิดโฟลเดอร์ภายนอกในหน้าต่างใหม่"
+  },
+  "Open file location": {
+    "origin": "Files:OpenFileLocation",
+    "text": "เปิดตำแหน่งที่ตั้งไฟล์"
+  },
+  "Open folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "โพสต์เปิด"
+  },
+  "Open folders in new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เปิดโฟลเดอร์ในแท็บใหม่"
+  },
+  "Open folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "โพสต์เปิด"
+  },
+  "Open in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เปิดใน IDE"
+  },
+  "Open in IDE uses the selected application. Open repository in IDE resolves the Git repository root first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เปิดใน IDE ใช้แอพที่เลือก โพสต์เปิดใน IDE ปลั๊กอิน Git โซฟีรากแรก"
+  },
+  "Open in Terminal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เปิดใน Terminal"
+  },
+  "Open in new tab": {
+    "origin": "Files:OpenInNewTab",
+    "text": "เปิดในแท็บใหม่"
+  },
+  "Open in new window": {
+    "origin": "Files:OpenInNewWindow",
+    "text": "เปิดในหน้าต่างใหม่"
+  },
+  "Open in other pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เปิดในแผงอื่น ๆ"
+  },
+  "Open log file": {
+    "origin": "Files:OpenLogFile",
+    "text": "Open log file"
+  },
+  "Open new tabs with dual panes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เปิดแท็บใหม่ด้วยแผงคู่"
+  },
+  "Open repository in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "โพสต์เปิดใน IDE"
+  },
+  "Open selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเลือกเปิด"
+  },
+  "Open target folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ปั๊มเป้าหมายเปิด"
+  },
+  "Open with": {
+    "origin": "Files:OpenWith",
+    "text": "เปิดด้วย"
+  },
+  "Open with application": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เปิดใช้งาน"
+  },
+  "Open with application…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เปิดใช้งานด้วย..."
+  },
+  "Open with…": {
+    "origin": "Files:OpenWith",
+    "text": "เปิดด้วย"
+  },
+  "Open-ended media atoms require remuxing before editing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "อะตอมสื่อเปิดต้องรีโมชันก่อนการแก้ไข"
+  },
+  "OpenAllTaggedItems": {
+    "origin": "Files:OpenAllTaggedItems",
+    "text": "Open all"
+  },
+  "OpenLogFile": {
+    "origin": "Files:OpenLogFile",
+    "text": "Open log file"
+  },
+  "Operation completed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การดําเนินงานเสร็จสิ้น"
+  },
+  "Operation failed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การดําเนินงานล้มเหลว"
+  },
+  "Operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การดําเนินงาน"
+  },
+  "Operations (%1$@ queued)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การดําเนินงาน (%1$@ ภาษาไทย"
+  },
+  "Operations…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การดําเนินงาน"
+  },
+  "Orange": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สีเขียว"
+  },
+  "Original location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สถานที่ตั้งต้นฉบับ"
+  },
+  "Original locations are remembered for items deleted by MacFiles, including across launches.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สถานที่เดิมจะถูกจําไว้สําหรับรายการที่ลบโดย MacFilesรวมทั้งการเปิดตัว"
+  },
+  "Original name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ชื่อเดิม"
+  },
+  "Overcast": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "อะไหล่"
+  },
+  "Owner": {
+    "origin": "Files:PropertyFileOwner",
+    "text": "เจ้าของ"
+  },
+  "Owner UID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เจ้าของ UID"
+  },
+  "Ownership updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "อัปเดตของเจ้าของ"
+  },
+  "POSIX permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "POSIX รายการสิทธิ"
+  },
+  "Password": {
+    "origin": "Files:Password",
+    "text": "รหัสผ่าน"
+  },
+  "Password (optional, AES-256)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รหัสผ่าน (ตัวเลือก, AES-256)"
+  },
+  "Password / key passphrase (optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Password / Key Password (ตัวเลือก)"
+  },
+  "Password protection is supported for ZIP archives.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การป้องกันรหัสผ่านได้รับการสนับสนุนสําหรับ ZIP ไฟล์"
+  },
+  "Paste": {
+    "origin": "Files:Paste",
+    "text": "วาง"
+  },
+  "Paste and drop transfers queue behind the current operation. Completed changes remain available through Undo. Copy cancellation stops the staged transfer before publishing it. Undo history is restored across launches.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แพสต์และ drop การถ่ายโอนอยู่หลังการดําเนินงานปัจจุบัน การเปลี่ยนแปลงที่เสร็จสมบูรณ์ยังคงมีอยู่ผ่าน Undo การยกเลิกการคัดลอกจะหยุดการถ่ายโอนขั้นตอนก่อนที่จะเผยแพร่ประวัติ Undo จะถูกกู้คืนระหว่างการเปิดตัว"
+  },
+  "Paste files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ปล่อยไฟล์"
+  },
+  "Paste shortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "Paste shortcut"
+  },
+  "Paste the files into a permanent folder before creating aliases to them.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แพสต์ไฟล์ในโฟลเดอร์ที่คงที่ก่อนที่จะสร้างพันธมิตรกับพวกเขา"
+  },
+  "PasteItemToSelectionDescription": {
+    "origin": "Files:PasteItemToSelectionDescription",
+    "text": "Paste items to the selected folder"
+  },
+  "PasteShortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "Paste shortcut"
+  },
+  "Path": {
+    "origin": "Files:ExtractToPath",
+    "text": "แยกไปที่"
+  },
+  "Pattern": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รูปแบบ"
+  },
+  "Permanently delete %1$@ items?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ลบถาวร %1$@ รายการ"
+  },
+  "Permissions": {
+    "origin": "Files:Permissions",
+    "text": "รายการสิทธิ"
+  },
+  "Permissions are enforced by the server. FTP servers must support SITE CHMOD; SFTP uses SSH permissions.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การอนุญาตจะถูกบังคับใช้โดยเซิร์ฟเวอร์ FTP เซิร์ฟเวอร์จะต้องสนับสนุนเว็บไซต์ CHMOD SFTP ใช้ SSH รายการสิทธิ"
+  },
+  "Permissions are stored in the archive. Changes rebuild it and support Undo.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "อนุญาตจะถูกเก็บไว้ในไฟล์ การเปลี่ยนแปลงจะสร้างใหม่และสนับสนุน Undo"
+  },
+  "Permissions updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "อัพเดทใบอนุญาต"
+  },
+  "Permissions…": {
+    "origin": "Files:Permissions",
+    "text": "รายการสิทธิ"
+  },
+  "Pick up where you left off": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เลือกที่คุณออกจาก"
+  },
+  "Pictures": {
+    "origin": "Files:Pictures",
+    "text": "รูปภาพ"
+  },
+  "Pin this folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pin โพสต์นี้"
+  },
+  "Pin to sidebar": {
+    "origin": "Files:PinFolderToSidebar",
+    "text": "ปักไว้ที่แถบด้านข้าง"
+  },
+  "Pinned": {
+    "origin": "Files:Pinned",
+    "text": "ปักหมุดไว้"
+  },
+  "Pinned folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "โพสต์"
+  },
+  "Play All": {
+    "origin": "Files:PlayAll",
+    "text": "Play All"
+  },
+  "PlayAll": {
+    "origin": "Files:PlayAll",
+    "text": "Play All"
+  },
+  "Port": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "พอร์ต"
+  },
+  "Preparing copy": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเตรียมสําเนา"
+  },
+  "Preparing move": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเตรียมการเคลื่อนไหว"
+  },
+  "Presentation is saved with this virtual location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แสดงจะถูกบันทึกด้วยสถานที่เสมือนนี้"
+  },
+  "Press the shortcut…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แรงดันที่สั้น ๆ"
+  },
+  "Preview": {
+    "origin": "Files:Preview",
+    "text": "ตัวอย่าง"
+  },
+  "Previous layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "โลหะก่อนหน้า"
+  },
+  "Previous tab": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แท็บก่อนหน้านี้"
+  },
+  "Properties": {
+    "origin": "Files:OpenProperties",
+    "text": "คุณสมบัติ"
+  },
+  "Properties…": {
+    "origin": "Files:OpenProperties",
+    "text": "คุณสมบัติ"
+  },
+  "Property": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คุณสมบัติ"
+  },
+  "Protocol": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "โปรโตคอล"
+  },
+  "Provider controls in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ผู้ให้บริการควบคุมใน Finder"
+  },
+  "Pull": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ปลั๊ก"
+  },
+  "Purple": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สีน้ําตาล"
+  },
+  "Push": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ปั๊ม"
+  },
+  "Queued": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คู่มือ"
+  },
+  "Quick access": {
+    "origin": "Files:QuickAccess",
+    "text": "การเข้าถึงด่วน"
+  },
+  "Quit MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ออก MacFiles"
+  },
+  "Readable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "อ่านได้"
+  },
+  "Recent files": {
+    "origin": "Files:RecentFiles",
+    "text": "ไฟล์ล่าสุด"
+  },
+  "Recent folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แผ่นล่าสุด"
+  },
+  "Reconnect to the same server and account, then retry Undo. The remote recovery data remains in .MacFiles-Recovery.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเชื่อมต่อใหม่ไปยังเซิร์ฟเวอร์และบัญชีเดียวกันแล้วรีด Undo ข้อมูลการกู้คืนระยะไกลยังคงอยู่ใน .MacFiles-Recovery."
+  },
+  "Record shortcut": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "บันทึกสั้น"
+  },
+  "Red": {
+    "origin": "Files:Red",
+    "text": "แดง"
+  },
+  "Redo": {
+    "origin": "Files:Redo",
+    "text": "ทำใหม่"
+  },
+  "Redo file operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การทํางานของไฟล์"
+  },
+  "Redoing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การลด"
+  },
+  "Refresh": {
+    "origin": "Files:Refresh",
+    "text": "รีเฟรช"
+  },
+  "Refresh · ⌘R": {
+    "origin": "Files:Refresh",
+    "text": "รีเฟรช · ⌘R"
+  },
+  "Regular expression": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คําอธิบายปกติ"
+  },
+  "Release notes": {
+    "origin": "Files:ReleaseNotes",
+    "text": "Release Notes"
+  },
+  "Reload": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การโหลด"
+  },
+  "Remember password in Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "บันทึกรหัสผ่านใน Keychain"
+  },
+  "Remote operation on %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การดําเนินงานระยะไกล %1$@"
+  },
+  "Remote path": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เส้นทางไกล"
+  },
+  "Remote paths cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เส้นทางระยะไกลไม่สามารถมีเส้นผ่าศูนย์กลางหรือ NUL ตัวละคร"
+  },
+  "Remotes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ระยะไกล"
+  },
+  "Remove": {
+    "origin": "Files:Remove",
+    "text": "ลบ"
+  },
+  "Remove attribute…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ลบคุณสมบัติ ..."
+  },
+  "Remove background image": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ลบภาพพื้นหลัง"
+  },
+  "Remove download": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ดาวน์โหลด"
+  },
+  "Remove entries…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ลบรายการ..."
+  },
+  "Remove from archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ลบออกจากไฟล์"
+  },
+  "Remove library": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ลบห้องสมุด"
+  },
+  "Remove local download…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ลบดาวน์โหลดท้องถิ่น"
+  },
+  "Remove references": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ลบคําอธิบาย"
+  },
+  "Remove saved credentials": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ลบข้อมูลที่บันทึกไว้"
+  },
+  "Remove saved folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ลบโฟลเดอร์ที่บันทึก"
+  },
+  "Remove saved search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ลบค้นหาที่บันทึกไว้"
+  },
+  "Remove selected entries from the archive?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ลบรายการที่เลือกจากเอกสารหรือไม่"
+  },
+  "Remove tags": {
+    "origin": "Files:RemoveTags",
+    "text": "Remove tags"
+  },
+  "Remove the local download?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ลบดาวน์โหลดในท้องถิ่น"
+  },
+  "Remove ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ลบ »%1$@’?"
+  },
+  "RemoveTags": {
+    "origin": "Files:RemoveTags",
+    "text": "Remove tags"
+  },
+  "Removing tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การลบแท็ก"
+  },
+  "Rename": {
+    "origin": "Files:Rename",
+    "text": "เปลี่ยนชื่อ"
+  },
+  "Rename %1$@ items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เปลี่ยนชื่อ %1$@ รายการ"
+  },
+  "Rename archive entry": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ชื่อของ Archive entry"
+  },
+  "Rename entry…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเข้าสู่ระบบ"
+  },
+  "Rename failed. Your item is preserved at %1$@. %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rename ไม่ได้สําเร็จ รายการของคุณจะถูกเก็บไว้ใน %1$@. %2$@"
+  },
+  "Rename remote item": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ชื่อรายการระยะไกล"
+  },
+  "Rename…": {
+    "origin": "Files:Rename",
+    "text": "เปลี่ยนชื่อ"
+  },
+  "Renaming": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การปรับปรุง"
+  },
+  "Renaming items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "วัตถุดิบ"
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Finder uses the macOS palette; custom colors and stable IDs are retained by MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การรีไซเคิลหรือลบไฟล์ที่บันทึกถังอัปเดตพบโดย Spotlight. ไฟล์ที่ไม่ระบุหรือไม่สามารถเข้าถึงได้อาจเก็บแท็กเก่า Finder ใช้ macOS palette; สีที่กําหนดเองและ ID ที่มั่นคงจะถูกเก็บไว้โดย MacFiles."
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Tag colors use the macOS palette.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การรีไซเคิลหรือลบไฟล์ที่บันทึกถังอัปเดตพบโดย Spotlight. ไฟล์ที่ไม่ระบุหรือไม่สามารถเข้าถึงได้สามารถเก็บแท็กเก่า แท็กสีใช้แท็ก macOS แพลิเคชัน"
+  },
+  "Reopen closed tab": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ปิดแท็บอีกครั้ง"
+  },
+  "Replace": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การแทนที่"
+  },
+  "Replace this item's ACL?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เปลี่ยนรายการนี้ ACL?"
+  },
+  "Replace with": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เปลี่ยนด้วย"
+  },
+  "Replace, keeping backup": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เปลี่ยน, การรักษา backup"
+  },
+  "Report an issue": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รายงานปัญหา"
+  },
+  "Repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "โพสต์"
+  },
+  "Repository URL": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ใบรับรอง URL"
+  },
+  "Requesting cloud download": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ดาวน์โหลด Cloud"
+  },
+  "Reset": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รีเซ็ต"
+  },
+  "Reset all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รีเซ็ตทั้งหมด"
+  },
+  "Reset icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ใหม่ Icon"
+  },
+  "Reset pinned folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "กล่องที่กําหนดเอง"
+  },
+  "Restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เริ่มต้นใหม่ MacFiles"
+  },
+  "Restore all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การกู้คืนทั้งหมด"
+  },
+  "Restore command defaults": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การฟื้นฟูคําสั่งข้อผิดพลาด"
+  },
+  "Restore here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การกู้คืนที่นี่"
+  },
+  "Restore original location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การกู้คืนตําแหน่งเดิม"
+  },
+  "Restore previous folder viewer": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การกู้คืนโฟลเดอร์ก่อนหน้านี้"
+  },
+  "Restore tabs at launch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การกู้คืนแท็บเมื่อเปิดตัว"
+  },
+  "Restore to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การฟื้นฟูเพื่อ..."
+  },
+  "Restoring from Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การกู้คืนจาก Trash"
+  },
+  "Results come from the macOS Spotlight index. Unindexed folders are not included.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ผลมาจาก macOS Spotlight index. ไม่รวมโฟลเดอร์ที่ไม่ได้ระบุไว้"
+  },
+  "Results in this folder and subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ผลลัพธ์ในโฟลเดอร์และ subfolders"
+  },
+  "Retargeting shortcut": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ระยะเวลาสั้น"
+  },
+  "Retarget…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การลด..."
+  },
+  "Reveal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเปิดเผย"
+  },
+  "Reveal in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แสดงใน Finder"
+  },
+  "Reverse tab scroll direction": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "กลับ tab scroll direction"
+  },
+  "Review server fingerprint…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รีวิวเซิร์ฟเวอร์ fingerprint"
+  },
+  "Right": {
+    "origin": "Files:Right",
+    "text": "ลูกศรขวา"
+  },
+  "Rotate left": {
+    "origin": "Files:RotateLeft",
+    "text": "หมุน​ไปทางซ้าย"
+  },
+  "Rotate right": {
+    "origin": "Files:RotateRight",
+    "text": "หมุน​ไปทางขวา"
+  },
+  "Rotating left": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รูตเตอร์ซ้าย"
+  },
+  "Rotating right": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รูตเตอร์ขวา"
+  },
+  "Running": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การวิ่ง"
+  },
+  "SFTP (SSH keys)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SFTP (SSH คีย์"
+  },
+  "SMB, AFP, or WebDAV share": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SMB, AFPหรือ WebDAV ใช้ร่วมกัน"
+  },
+  "SSH known-host verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH ตรวจสอบโฮสต์ที่รู้จักกันดี"
+  },
+  "SSH passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH บัตรรหัสผ่านไม่สามารถรวมช่องว่างหรือ NUL ตัวละคร"
+  },
+  "Save": {
+    "origin": "Files:Save",
+    "text": "บันทึก"
+  },
+  "Save attribute": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การบันทึกคุณสมบัติ"
+  },
+  "Save folder layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เก็บโฟลเดอร์ layout"
+  },
+  "Save metadata": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การบันทึกข้อมูล"
+  },
+  "Save search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ค้นหาบันทึก"
+  },
+  "Save search…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ค้นหาการบันทึก"
+  },
+  "Save to Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การบันทึก Keychain"
+  },
+  "Saved connections": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเชื่อมต่อที่บันทึก"
+  },
+  "Saved searches": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ค้นหาที่บันทึก"
+  },
+  "Saved. The token will be used for GitHub HTTPS operations.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การประหยัด token จะใช้สําหรับการดําเนินการ GitHub HTTPS"
+  },
+  "Seafoam": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "มือสมัครเล่น"
+  },
+  "Search": {
+    "origin": "Files:Key.BrowserSearch",
+    "text": "ค้นหา"
+  },
+  "Search %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ค้นหา %1$@"
+  },
+  "Search %1$@ · Return searches subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ค้นหา %1$@ · การค้นหาการกลับมา Subfolders"
+  },
+  "Search available actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ค้นหากิจกรรมที่มีอยู่"
+  },
+  "Search commands": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ค้นหาคําสั่ง"
+  },
+  "Search folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "โพสต์ค้นหา"
+  },
+  "Search settings": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การตั้งค่าค้นหา"
+  },
+  "Search stopped.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การค้นหาหยุด"
+  },
+  "Search subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ค้นหา Subfolders"
+  },
+  "Security": {
+    "origin": "Files:Security",
+    "text": "ความปลอดภัย"
+  },
+  "Select": {
+    "origin": "Files:NavToolbarSelectionOptions.Label",
+    "text": "เลือก"
+  },
+  "Select a file to view its diff.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เลือกไฟล์เพื่อดู diff ของมัน"
+  },
+  "Select a macOS alias or symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เลือก A macOS alias หรือลิงค์สัญลักษณ์"
+  },
+  "Select a regular media file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เลือกไฟล์สื่อปกติ"
+  },
+  "Select all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เลือกทั้งหมด"
+  },
+  "Select an archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เลือกไฟล์"
+  },
+  "Select an item to see its details.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เลือกรายการเพื่อดูรายละเอียด"
+  },
+  "Select archive entries to remove.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เลือกไฟล์เข้าสู่ระบบเพื่อลบ"
+  },
+  "Select on hover": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เลือก Hover"
+  },
+  "Select previous folder when navigating up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เลือกโฟลเดอร์ก่อนหน้านี้เมื่อ navigating up"
+  },
+  "Select uniquely named items to archive.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เลือกรายการที่มีชื่อเดี่ยวเพื่อเก็บข้อมูล"
+  },
+  "Selected items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รายการที่เลือก"
+  },
+  "Selected items have duplicate names. Archive them separately.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รายการที่เลือกมีชื่อแบบซ้ํา Archive them separately"
+  },
+  "Selection checkboxes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "กล่องตรวจสอบ"
+  },
+  "Separate file and folder counts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไฟล์แยกและโฟลเดอร์คํานวณ"
+  },
+  "Separator": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "อะไหล่"
+  },
+  "Server": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "บริการ"
+  },
+  "Set as app background": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "Set as app background"
+  },
+  "Set as wallpaper": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การตั้งค่าเป็น wallpaper"
+  },
+  "Set default": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หมายเลขรุ่น: Default"
+  },
+  "SetAsAppBackground": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "Set as app background"
+  },
+  "Settings": {
+    "origin": "Files:Settings",
+    "text": "ตั้งค่า"
+  },
+  "Settings file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การตั้งค่าไฟล์"
+  },
+  "Settings saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การตั้งค่าบันทึก"
+  },
+  "Settings…": {
+    "origin": "Files:Settings",
+    "text": "ตั้งค่า"
+  },
+  "Share": {
+    "origin": "Files:Share",
+    "text": "ใช้ร่วมกัน"
+  },
+  "Share…": {
+    "origin": "Files:Share",
+    "text": "ใช้ร่วมกัน"
+  },
+  "Shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เซลล์"
+  },
+  "Shortcut": {
+    "origin": "Files:Shortcut",
+    "text": "ทางลัด"
+  },
+  "Shortcuts apply in the explorer. Text fields keep native editing behavior. Resolve duplicate assignments before applying.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ระยะสั้นจะใช้ในตัวอักษร ตารางข้อความรักษาพฤติกรรมการแก้ไขแบบดั้งเดิม การแก้ปัญหาการกําหนดค่าแบบคู่ก่อนที่จะใช้"
+  },
+  "Show dotfiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แสดงไฟล์"
+  },
+  "Show hidden files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แสดงไฟล์ที่ซ่อนอยู่"
+  },
+  "Show in folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แสดงในโฟลเดอร์"
+  },
+  "Show log in folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แสดงโลโก้ในโฟลเดอร์"
+  },
+  "Show menu bar icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แสดง menu bar icon"
+  },
+  "Show package contents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แสดงเนื้อหาแพคเกจ"
+  },
+  "Show shelf button": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แสดงปุ่ม Shelf"
+  },
+  "Show staged diff": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แสดง Staged diff"
+  },
+  "Show status bar": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แสดงแถบสถานะ"
+  },
+  "Show tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แสดงการกระทําแท็บ"
+  },
+  "Show thumbnails": {
+    "origin": "Files:SettingsFilesAndFoldersShowThumbnails",
+    "text": "แสดงภาพขนาดย่อ"
+  },
+  "ShowFileExtensions": {
+    "origin": "Files:ShowFileExtensions",
+    "text": "File extensions"
+  },
+  "Sidebar": {
+    "origin": "Files:Sidebar",
+    "text": "แถบด้านข้าง"
+  },
+  "Signature": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การลงนาม"
+  },
+  "Signature integrity verification failed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การยืนยันความสมบูรณ์ของสัญญาล้มเหลว"
+  },
+  "Signature integrity verified. This does not constitute a notarization or malware assessment.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การยืนยันความสมบูรณ์ของสัญญา นี่ไม่ใช่การประเมินหรือการประเมินซอฟต์แวร์ที่ไม่ดี"
+  },
+  "Signatures": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การลงนาม"
+  },
+  "Single file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไฟล์เดียว"
+  },
+  "Single folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "โพสต์เดียว"
+  },
+  "Single-click columns": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คลิกเดียวคอลัมน์"
+  },
+  "Single-click files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไฟล์คลิกเดียว"
+  },
+  "Single-click folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คลิกเดียวโฟลเดอร์"
+  },
+  "Size": {
+    "origin": "Files:SizeLabel",
+    "text": "ขนาด:"
+  },
+  "Size units": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หน่วยขนาด"
+  },
+  "Skip": {
+    "origin": "Files:Skip",
+    "text": "ข้าม "
+  },
+  "Skip existing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Skip มีอยู่"
+  },
+  "Small icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สัญลักษณ์ขนาดเล็ก"
+  },
+  "Smooth scrolling": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สกรูอ่อน"
+  },
+  "Solid": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ความแข็งแรง"
+  },
+  "Some files could not be updated. The saved tag was retained so you can retry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "บางไฟล์ไม่สามารถปรับปรุงได้ แท็กที่บันทึกไว้จะถูกเก็บไว้เพื่อให้คุณสามารถลบได้"
+  },
+  "Some items could not be read.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "บางรายการไม่สามารถอ่านได้"
+  },
+  "Some items couldn’t be completed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "บางรายการไม่สามารถเสร็จสิ้นได้"
+  },
+  "Some items have no recorded original location. Select them and use Restore to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "บางรายการไม่มีตําแหน่งเดิมที่บันทึก เลือกพวกเขาและใช้ การกู้คืนเพื่อ..."
+  },
+  "Sort": {
+    "origin": "Files:Sort",
+    "text": "เรียง"
+  },
+  "Sort by": {
+    "origin": "Files:SortBy",
+    "text": "เรียงลำดับตาม"
+  },
+  "SortFilesAndFoldersTogether": {
+    "origin": "Files:SortFilesAndFoldersTogether",
+    "text": "เรียงไฟล์และโฟลเดอร์เข้าด้วยกัน"
+  },
+  "SortFilesFirst": {
+    "origin": "Files:SortFilesFirst",
+    "text": "เรียงไฟล์ก่อน"
+  },
+  "SortFoldersFirst": {
+    "origin": "Files:SortFoldersFirst",
+    "text": "เรียงโฟลเดอร์ก่อน"
+  },
+  "Source code": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รหัสแหล่งที่มา"
+  },
+  "Special device entries cannot be extracted: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเข้าถึงอุปกรณ์พิเศษไม่สามารถนําเข้าได้: %1$@"
+  },
+  "Split archives use ZIP or 7z format.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การใช้ไฟล์แยก ZIP หรือ 7z รูปแบบ"
+  },
+  "Split into volumes (MiB, optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ส่วนแบ่งเป็นปริมาณ (MiB, ตัวเลือก)"
+  },
+  "Stage all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เฟสทั้งหมด"
+  },
+  "Stage selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ขั้นตอนที่เลือก"
+  },
+  "Staged all changes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ปรับปรุงการเปลี่ยนแปลงทั้งหมด"
+  },
+  "Staged selected files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไฟล์ที่กําหนดเอง"
+  },
+  "Start": {
+    "origin": "Files:Start",
+    "text": "Start"
+  },
+  "Start folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หลักสูตร"
+  },
+  "Startup": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเริ่มต้น"
+  },
+  "Startup and tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup และแท็บ"
+  },
+  "Startup folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แผงเริ่มต้น"
+  },
+  "Startup folders are used when session restoration is disabled. An empty list opens Home.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "กล่องเริ่มต้นจะถูกใช้เมื่อการกู้คืนเซสชั่นถูกปิดใช้งาน รายการว่างเปล่าเปิด Home"
+  },
+  "Status": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สถานะ"
+  },
+  "Stop": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หยุด"
+  },
+  "Stopped before the next item. Completed items were kept.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หยุดก่อนรายการต่อไป รายการที่เสร็จสิ้นถูกเก็บไว้"
+  },
+  "Storage settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การจัดเก็บ..."
+  },
+  "Storm": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ร้อนแรง"
+  },
+  "Stretch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ความเครียด"
+  },
+  "Switch to new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สวิทช์ไปยังแท็บใหม่"
+  },
+  "Switched to %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เปลี่ยนไป %1$@"
+  },
+  "Symbolic Link": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ลิงค์สัญลักษณ์"
+  },
+  "Symbolic link": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ลิงค์สัญลักษณ์"
+  },
+  "Sync": {
+    "origin": "Files:GitSync",
+    "text": "Sync"
+  },
+  "Sync conflict": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การต่อสู้ Sync"
+  },
+  "Sync error": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ข้อผิดพลาด Sync"
+  },
+  "Synced": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การจัดเรียง"
+  },
+  "Synchronize folder preferences": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การซิงค์ตัวเลือกโฟลเดอร์"
+  },
+  "System": {
+    "origin": "Files:SystemTimeStyle",
+    "text": "ตามระบบ"
+  },
+  "TLS certificate verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "TLS การตรวจสอบใบรับรอง"
+  },
+  "Tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การกระทําแท็บ"
+  },
+  "Tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แท็บ"
+  },
+  "Tag": {
+    "origin": "Files:Tag",
+    "text": "แท็ก"
+  },
+  "Tag (blank = all tags)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag (สีขาว = แท็กทั้งหมด)"
+  },
+  "Tag color": {
+    "origin": "Files:TagColor",
+    "text": "สีแท็ก"
+  },
+  "Tag name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag ชื่อ"
+  },
+  "Tag names must be unique.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แท็กชื่อจะต้องเป็นเอกลักษณ์"
+  },
+  "Tag update failed and original metadata could not be restored: ": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แท็กการปรับปรุงที่ล้มเหลวและ metadata หลักไม่สามารถรับคืนได้: "
+  },
+  "Tagged items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แท็กรายการ"
+  },
+  "Tags": {
+    "origin": "Files:FileTags",
+    "text": "แท็ก"
+  },
+  "Tags, separated by commas": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แท็กที่แยกโดย commas"
+  },
+  "Target": {
+    "origin": "Files:PropertyItemTarget",
+    "text": "เป้าหมาย"
+  },
+  "Terminal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "โตฟอร์ม"
+  },
+  "Test IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การทดสอบ IDE"
+  },
+  "The ACL failed validation.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ภาษาไทย ACL การยืนยันที่ล้มเหลว"
+  },
+  "The command failed (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คําสั่งที่ผิดพลาด (%1$@)."
+  },
+  "The custom icon and saved layout belong to the selected item.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สัญลักษณ์ที่กําหนดเองและ layout ที่บันทึกอยู่ในรายการที่เลือก"
+  },
+  "The destination connection changed. Drop the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเชื่อมต่อปลายทางได้เปลี่ยนแปลง ลบไฟล์อีกครั้ง"
+  },
+  "The destination connection changed. Paste the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเชื่อมต่อปลายทางได้เปลี่ยนแปลง ปลั๊กไฟล์อีกครั้ง"
+  },
+  "The destination is not an accessible folder.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "จุดหมายปลายทางไม่ใช่โฟลเดอร์ที่เข้าถึงได้"
+  },
+  "The icon could not be changed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไอคอนไม่สามารถเปลี่ยนได้"
+  },
+  "The icon could not be reset.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไอคอนไม่สามารถตั้งค่าใหม่ได้"
+  },
+  "The media container did not retain: ": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ภาชนะสื่อไม่ได้เก็บไว้: "
+  },
+  "The media tracks cannot be preserved in this container.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หมายเลขสื่อไม่สามารถเก็บไว้ในภาชนะนี้"
+  },
+  "The new shortcut target does not exist.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "วัตถุประสงค์สั้น ๆ ใหม่ไม่ได้มีอยู่"
+  },
+  "The old shortcut is in Trash, but macOS did not return its location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เก่า shortcut เป็น ใน Trash, แต่ macOS ไม่ได้คืนตําแหน่งของพวกเขา"
+  },
+  "The original archive remains recoverable with Undo.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไฟล์เดิมยังคงสามารถกู้คืนได้ด้วย Undo"
+  },
+  "The server did not return a valid host-key list.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เซิร์ฟเวอร์ไม่ได้คืนรายการโฮสต์ที่ถูกต้อง"
+  },
+  "The server recovery path is occupied by a file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เส้นทางการกู้คืนเซิร์ฟเวอร์จะถูกครอบครองโดยไฟล์"
+  },
+  "The server returned an unsafe or unsupported filename.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เซิร์ฟเวอร์กลับชื่อไฟล์ที่ไม่ปลอดภัยหรือไม่ได้สนับสนุน"
+  },
+  "The server returned an unsupported directory listing. No transfer was started.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เซิร์ฟเวอร์ได้คืนรายการไดเรกทอรีที่ไม่ได้รับการสนับสนุน ไม่มีการถ่ายโอนเริ่ม"
+  },
+  "The shortcut will point to %1$@. The target file itself is not modified.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ความสั้น ๆ จะแสดงให้เห็นถึง %1$@. ไฟล์เป้าหมายตัวเองไม่ได้มีการเปลี่ยนแปลง"
+  },
+  "The slideshow changes desktop wallpaper while MacFiles is running. It resumes at launch when enabled. macOS controls the lock screen wallpaper separately.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "แสดงสไลด์เปลี่ยนหน้าจอโต๊ะในขณะที่ MacFiles ทํางานแล้ว มันเปิดตัวอีกครั้งเมื่อเปิดใช้งานแล้ว macOS ตรวจสอบหน้าจอล็อค wallpaper โดยแยกต่างหาก"
+  },
+  "The system script could not be compiled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สคริปต์ของระบบไม่สามารถประกอบได้"
+  },
+  "The system script could not be created.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สคริปต์ระบบไม่สามารถสร้างได้"
+  },
+  "The transfer selection changed. Cut the items again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ตัวเลือกการถ่ายโอนได้เปลี่ยนแปลง ตัดรายการอีกครั้ง"
+  },
+  "The uploaded data did not match its source. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ข้อมูลที่อัปโหลดไม่ตรงกับแหล่งของมันแหล่งที่ถูกเก็บไว้"
+  },
+  "The uploaded iCloud copy remains available. macOS will download it again when needed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "อัปโหลด iCloud คูปองยังคงมีอยู่ macOS ดาวน์โหลดอีกครั้งเมื่อจําเป็น"
+  },
+  "Theme": {
+    "origin": "Files:SettingsAppearanceTheme",
+    "text": "ชุดรูปแบบ"
+  },
+  "These items will be removed from Trash. This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รายการเหล่านี้จะถูกกําจัดจาก Trash สิ่งนี้ไม่สามารถปฏิเสธได้"
+  },
+  "Third-party providers do not expose a common public sync-completion API. Available locally describes downloaded bytes, not upload completion. Download requests do not pin files permanently.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ผู้ให้บริการของบุคคลที่สามไม่แสดงให้เห็น API การซิงค์เสร็จสมบูรณ์สาธารณะทั่วไป ที่ใช้ในท้องถิ่นอธิบายไทม์ที่ดาวน์โหลดไม่อัพโหลดเสร็จสมบูรณ์ คําขอการดาวน์โหลดไม่สกรูไฟล์อย่างถาวร"
+  },
+  "This FTP server cannot create symbolic links. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "นี่ FTP เซิร์ฟเวอร์ไม่สามารถสร้างลิงค์สัญลักษณ์ แหล่งถูกเก็บไว้"
+  },
+  "This Mac": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "นี้ Mac"
+  },
+  "This alias contains a target cycle.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "อะลิซี้นี้มีวงจรเป้าหมาย"
+  },
+  "This archive format is read-only. Extract it and create a ZIP or 7z archive to edit its contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รูปแบบไฟล์นี้เป็นอ่านเท่านั้น สารสกัดและสร้างไฟล์ ZIP หรือ 7z ไฟล์เพื่อแก้ไขเนื้อหาของมัน"
+  },
+  "This archive or server protocol does not expose macOS extended attributes. Extract or download the item to manage attributes on its local copy.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไฟล์หรือโปรโตคอลเซิร์ฟเวอร์นี้ไม่แสดงให้เห็น macOS เพิ่มคุณสมบัติ extract หรือดาวน์โหลดรายการเพื่อจัดการคุณสมบัติบนสําเนาในท้องถิ่น"
+  },
+  "This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สิ่งนี้ไม่สามารถปฏิเสธได้"
+  },
+  "This changes the registered folder viewer. Finder still manages the desktop and macOS file dialogs. You can restore the previous viewer here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "นี่คือการเปลี่ยนแปลงตัวดูโฟลเดอร์ที่ลงทะเบียน Finder ยังคงจัดการ desktop และ macOS คู่มือไฟล์ คุณสามารถกู้คืนตัวดูก่อนหน้านี้ได้ที่นี่"
+  },
+  "This changes which users can access the item. Export the existing ACL first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเปลี่ยนแปลงนี้ซึ่งผู้ใช้สามารถเข้าถึงรายการ การส่งออกของรายการที่มีอยู่ ACL ก่อนอื่นถ้าคุณต้องการการรับรอง"
+  },
+  "This folder is empty": {
+    "origin": "Files:EmptyFolder.Text",
+    "text": "โฟลเดอร์นี้ว่างเปล่า"
+  },
+  "This location is not ready for transfers.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สถานที่นี้ไม่ได้เตรียมสําหรับการถ่ายโอน"
+  },
+  "This media format cannot be edited by the native exporter.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รูปแบบสื่อนี้ไม่สามารถแก้ไขได้โดยผู้ส่งออกในประเทศ"
+  },
+  "This metadata container uses indexed keys; edit it with its native media application.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ภาชนะ metadata นี้ใช้คีย์ที่ระบุและแก้ไขด้วยแอปพลิเคชันสื่อในประเทศ"
+  },
+  "This operation cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การดําเนินการนี้ไม่สามารถปฏิเสธได้"
+  },
+  "This removes the attribute from this file. Export its bytes first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "นี่จะลบคุณสมบัติจากไฟล์นี้ ส่งออกไบต์ของมันก่อนถ้าคุณต้องการการสํารองข้อมูล"
+  },
+  "Thumbnail cache limit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รหัสบรอนซ์ จํากัด"
+  },
+  "Thumbnails": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "วินเทจ"
+  },
+  "Thumbnails are cached in memory. The limit applies to decoded images.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thumbnails จะถูก cached ในหน่วยความจํา ข้อ จํากัด ใช้สําหรับภาพที่ decoded"
+  },
+  "Tiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ตุ๊กตา"
+  },
+  "Title": {
+    "origin": "Files:PropertyTitle",
+    "text": "ชื่อเรื่อง"
+  },
+  "Today": {
+    "origin": "Files:Today",
+    "text": "วันนี้"
+  },
+  "Toggle compact overlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "Toggle compact overlay"
+  },
+  "Toggle details pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ข้อมูลจําเพาะ pane"
+  },
+  "Toggle dual pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คู่เดี่ยว Pan"
+  },
+  "Toggle filter header": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "Toggle filter header"
+  },
+  "Toggle full screen": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รวมหน้าจอเต็มรูปแบบ"
+  },
+  "Toggle selection": {
+    "origin": "Files:ToggleSelect",
+    "text": "Toggle selection"
+  },
+  "ToggleCompactOverlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "Toggle compact overlay"
+  },
+  "ToggleFilterHeader": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "Toggle filter header"
+  },
+  "ToggleSelect": {
+    "origin": "Files:ToggleSelect",
+    "text": "Toggle selection"
+  },
+  "ToggleSidebar": {
+    "origin": "Files:ToggleSidebar",
+    "text": "Toggle the sidebar"
+  },
+  "ToggleToolbar": {
+    "origin": "Files:ToggleToolbar",
+    "text": "Toggle toolbar"
+  },
+  "Too many nested aliases.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "อลูมิเนียมจํานวนมาก"
+  },
+  "Tools": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เครื่องมือ"
+  },
+  "Top": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หลัก"
+  },
+  "Total size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ขนาดทั้งหมด"
+  },
+  "Transfer failed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การถ่ายโอนล้มเหลว"
+  },
+  "Trash": {
+    "origin": "Files:RecycleBin",
+    "text": "ถังขยะ"
+  },
+  "Trash on this Mac and connected volumes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ละลายบน Mac นี้และปริมาณที่เชื่อมต่อ"
+  },
+  "Trust": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ความเชื่อมั่น"
+  },
+  "Trust this SSH server?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ความเชื่อมั่นนี้ SSH บริการ"
+  },
+  "Trust verified fingerprints": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ความเชื่อถือการตรวจสอบนิ้วมือ"
+  },
+  "Try again": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "พยายามอีกครั้ง"
+  },
+  "Under window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ภายใต้หน้าต่าง"
+  },
+  "Undo": {
+    "origin": "Files:Undo",
+    "text": "เลิกทำ"
+  },
+  "Undo file operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การดําเนินงานของไฟล์"
+  },
+  "Undoing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ระยํา"
+  },
+  "Unencrypted FTP": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่เข้ารหัส FTP"
+  },
+  "Universal": {
+    "origin": "Files:Universal",
+    "text": "สากล"
+  },
+  "Unknown": {
+    "origin": "Files:Unknown",
+    "text": "ไม่ทราบ"
+  },
+  "Unknown shortcut command.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คําสั่งสั้นที่ไม่ทราบ"
+  },
+  "Unpin": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ปริมาณ"
+  },
+  "Unsafe archive link target.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่ปลอดภัยของลิงค์ที่กําหนดเป้าหมาย"
+  },
+  "Unstage": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หมายเลขรุ่น"
+  },
+  "Unstaged selected files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไฟล์ที่เลือก"
+  },
+  "Unsupported Git action.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไม่สนับสนุน Git การกระทํา"
+  },
+  "Unsupported archive entry name or listing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ชื่อเข้าสู่ระบบหรือรายการที่ไม่ได้สนับสนุน"
+  },
+  "Unsupported file type in transfer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ประเภทไฟล์ที่ไม่ได้รับการสนับสนุนในการถ่ายโอน"
+  },
+  "Unsupported metadata container version.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "รุ่นคอนเทนเนอร์ metadata ไม่สนับสนุน"
+  },
+  "Unsupported movie header.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หัวหน้าฟิล์มที่ไม่ได้สนับสนุน"
+  },
+  "Untagged": {
+    "origin": "Files:Untagged",
+    "text": "ไม่​ได้​แท็ก"
+  },
+  "Up": {
+    "origin": "Files:Key.Up",
+    "text": "ขึ้นไป (Alt+Up Arrow)"
+  },
+  "Up one level": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ขึ้นระดับหนึ่ง"
+  },
+  "Up one level · ⌘↑": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ขึ้นระดับหนึ่ง ⌘↑"
+  },
+  "Updates native macOS tags for all selected items. Leave empty to remove tags.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ปรับปรุงภาษาไทย macOS แท็กสําหรับรายการที่เลือกทั้งหมด ปล่อยให้ว่างเปล่าเพื่อลบแท็ก"
+  },
+  "Updating archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "อัพเดทไฟล์"
+  },
+  "Updating media metadata": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การปรับปรุงข้อมูลสื่อ"
+  },
+  "Updating permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ปรับปรุงใบอนุญาต"
+  },
+  "Upload": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "อัปโหลด"
+  },
+  "Upload failed. The original remains at %1$@; the pending upload is %2$@. %3$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ดาวน์โหลดล้มเหลว ออนไลน์ยังคงอยู่ %1$@; อัตราการอัพโหลด %2$@. %3$@"
+  },
+  "Upload files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "บันทึกไฟล์"
+  },
+  "Upload regular files or folders; symbolic links are not followed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ดาวน์โหลดไฟล์หรือโฟลเดอร์ปกติลิงค์สัญลักษณ์ไม่ได้ติดตาม"
+  },
+  "Uploading": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "โหลด"
+  },
+  "Upstream Files issues": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ปัญหาไฟล์ Upstream"
+  },
+  "Use Copy and Paste or Download to transfer remote items.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ใช้คัดลอกและวางหรือดาวน์โหลดเพื่อถ่ายโอนรายการระยะไกล"
+  },
+  "Use Copy or Extract to transfer archive contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ใช้การคัดลอกหรือสกัดเพื่อถ่ายโอนเนื้อหาเอกสาร"
+  },
+  "Use MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ใช้ MacFiles"
+  },
+  "Use MacFiles for folder URLs?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ใช้ MacFiles สําหรับโฟลเดอร์ URL"
+  },
+  "Use MacFiles for folder URLs…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ใช้ MacFiles สําหรับโฟลเดอร์ URLs ..."
+  },
+  "User": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ผู้ใช้"
+  },
+  "Username": {
+    "origin": "Files:CredentialDialogUserName.PlaceholderText",
+    "text": "ชื่อผู้ใช้"
+  },
+  "Uses SSH keys or the password above. Host-key verification remains enabled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การใช้ SSH คีย์หรือรหัสผ่านข้างต้น การตรวจสอบคีย์โฮสต์ยังคงเปิดใช้งาน"
+  },
+  "Uses the on-device Apple Intelligence model when available. Otherwise searches the words you entered. No file content is sent to a server.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ใช้รูปแบบ Apple Intelligence บนอุปกรณ์เมื่อมีอยู่ ไม่ว่าคุณจะค้นหาคําที่คุณใส่ ไม่มีเนื้อหาไฟล์จะถูกส่งไปยังเซิร์ฟเวอร์"
+  },
+  "Value": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หมายเลข"
+  },
+  "Verified host keys saved for MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คีย์โฮสต์ที่ได้รับการตรวจสอบถูกบันทึกสําหรับ MacFiles."
+  },
+  "Vertical alignment": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การปรับแนวตั้ง"
+  },
+  "Vertical split": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คู่มือการแบ่ง"
+  },
+  "View": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ดู"
+  },
+  "Volume": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หมายเลข"
+  },
+  "Volume available": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "จํานวนที่พร้อมใช้งาน"
+  },
+  "Volume capacity": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ความจุขนาด"
+  },
+  "Volume case sensitive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "กรณีความไวปริมาณ"
+  },
+  "Volume read only": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หมายเลขที่อ่านเพียง"
+  },
+  "Volumes must be at least 1 KiB.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ขนาดควรเป็นอย่างน้อย 1 กิเบิ้ล"
+  },
+  "Waiting to sync": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การรอ Sync"
+  },
+  "Wallpaper could not be changed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Wallpaper ไม่สามารถเปลี่ยนได้"
+  },
+  "Wallpaper slideshow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "หน้าจอ Slideshow"
+  },
+  "Wallpaper slideshow…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Wallpaper slideshow..."
+  },
+  "Warn when changing file extensions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "บันทึกเมื่อเปลี่ยนไฟล์ขยาย"
+  },
+  "When an item exists": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เมื่อมีรายการ"
+  },
+  "When names conflict, choose Keep both, Replace, or Skip. Replaced versions and deleted items go to the macOS Trash. Undo and redo are retained across launches and shared by open windows.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เมื่อชื่อข้อตกลงเลือกเก็บทั้งการแทนที่หรือ Skip. รุ่นที่ถูกแทนที่และรายการที่ลบไปสู่ macOS Trash. Undo และ redo จะถูกเก็บไว้ตลอดการเปิดและแบ่งปันโดยหน้าต่างที่เปิด"
+  },
+  "Working…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การทํางาน..."
+  },
+  "Writable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "การเขียน"
+  },
+  "Writes embedded metadata. Image files may be re-encoded; the original remains recoverable with Undo. Audio and video edits preserve encoded tracks. Unsupported containers keep the original.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "เขียน metadata ที่รวม. ไฟล์ภาพสามารถเข้ารหัสได้อีกครั้ง; ไฟล์เดิมยังคงสามารถกู้คืนได้ด้วย Undo. การแก้ไขเสียงและวิดีโอจะเก็บร่องเข้ารหัส. ภาชนะที่ไม่มีการสนับสนุนจะเก็บรหัสเดิม"
+  },
+  "Year": {
+    "origin": "Files:Year",
+    "text": "ปี"
+  },
+  "Yellow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "สีเหลือง"
+  },
+  "Yes": {
+    "origin": "Files:Yes",
+    "text": "ใช่"
+  },
+  "Yesterday": {
+    "origin": "Files:Yesterday",
+    "text": "เมื่อวาน"
+  },
+  "You can restore these items with Undo or from the Trash.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "คุณสามารถกู้คืนรายการเหล่านี้ด้วย Undo หรือจาก Trash"
+  },
+  "Your files, your way.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ไฟล์ของคุณทางของคุณ"
+  },
+  "Your pinned folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "กระดาษของคุณ"
+  },
+  "Zoom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "โซม"
+  },
+  "macOS aliases and symbolic links refer to a target path. Windows shortcut arguments and Run as administrator flags do not have alias equivalents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS aliases และลิงค์สัญลักษณ์หมายถึงเส้นทางเป้าหมาย Windows สัญญาสั้นและ Run ในฐานะผู้ดูแลระบบ ปลั๊กไม่มีแถบ alias"
+  },
+  "macOS integration": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS การรวมกัน"
+  },
+  "macOS moved the previous version to Trash but did not return its location. The new version was not installed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS แปลงเวอร์ชันก่อนหน้านี้ไปยัง Trash แต่ไม่ได้คืนตําแหน่งใหม่เวอร์ชันใหม่ไม่ได้ติดตั้ง"
+  },
+  "macOS returned %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS กลับ %1$@."
+  },
+  "macOS uses Mach-O architectures and the application's minimum OS version. Windows compatibility modes, DPI overrides and administrator flags cannot be applied to a native Mac app.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS ใช้ Mach-O การออกแบบและเวอร์ชัน OS minimum ของแอพ Windows โหมดการเข้ากันได้ DPI overrides และป้ายผู้ดูแลระบบไม่สามารถนําไปใช้กับแอพ Mac ที่เกิด"
+  }
+}

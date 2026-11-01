@@ -1,0 +1,5162 @@
+{
+  "%1$@ MB": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ MB"
+  },
+  "%1$@ Trash location(s) could not be read. macOS may require Full Disk Access for Trash. Items listed here remain available to manage.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Çerçeve yerleri (s) okumak mümkün değil. macOS Tam Disk erişimi gerekebilir. burada listelenen öğeler yönetilebilir kalır."
+  },
+  "%1$@ destination name(s) already exist": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Adı (s) zaten mevcut"
+  },
+  "%1$@ entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ girişler"
+  },
+  "%1$@ folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Klasörler"
+  },
+  "%1$@ folders · %2$@ files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Dosyaları · %2$@ dosyalar"
+  },
+  "%1$@ folders · saves to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ • Dosyaları kaydetmek için %2$@"
+  },
+  "%1$@ free of %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Ücretsiz %2$@"
+  },
+  "%1$@ inaccessible": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ erişilemez"
+  },
+  "%1$@ is assigned more than once.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Birden fazla kez verilmiştir."
+  },
+  "%1$@ is reserved by macOS or the application window.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ rezervasyon yapılır macOS veya uygulama penceresi."
+  },
+  "%1$@ is reserved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ rezervasyon yapılmıştır."
+  },
+  "%1$@ item(s) ready to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ A) Hazırlık için hazır %2$@"
+  },
+  "%1$@ selected items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ seçilmiş öğeler"
+  },
+  "%1$@. Sync completion is managed by the provider and is not reported through public file metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@Sync tamamlanması sağlayıcı tarafından yönetilir ve kamu dosya metadata aracılığıyla bildirilmez."
+  },
+  "A different key is already trusted for this host. Review the changed key with the server administrator before replacing it.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu ana için farklı bir anahtar zaten güvenilir. değiştirilmiş anahtarı değiştirmeden önce sunucu yöneticisi ile inceleyin."
+  },
+  "A familiar place for everything.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Her şey için tanıdık bir yer."
+  },
+  "A file operation is still running": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bir dosya operasyonu hala devam ediyor"
+  },
+  "A folder cannot be copied or moved inside itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bir klasör kopyalanamaz veya içeride taşınamaz."
+  },
+  "A shortcut cannot target itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bir kısaltma kendisini hedefleyemez."
+  },
+  "ACL updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ACL Güncelleştirilmiş"
+  },
+  "About": {
+    "origin": "Files:About",
+    "text": "Hakkında"
+  },
+  "About MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hakkında MacFiles"
+  },
+  "Accent color (hex)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Aksent Renk ( hex )"
+  },
+  "Access control list — native macOS syntax": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Giriş kontrol listesi - yerli macOS Syntax için"
+  },
+  "Access token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Akses token"
+  },
+  "Accounts, authentication and sync preferences are managed by each provider’s native app. Removing a saved folder here does not unlink its account or delete files.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hesaplar, kimlik doğrulama ve senkronizasyon tercihleri her sağlayıcının yerli uygulaması tarafından yönetilir. burada kaydedilen bir klasörü kaldırmak hesabını bağlamaz veya dosyaları silemez."
+  },
+  "Action unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Aksiyon mevcut değil"
+  },
+  "Actions": {
+    "origin": "Files:Actions",
+    "text": "Eylemler"
+  },
+  "Adaptive": {
+    "origin": "Files:Adaptive",
+    "text": "Uyarlanabilir düzen"
+  },
+  "Adaptive layout": {
+    "origin": "Files:Adaptive",
+    "text": "Uyarlanabilir düzen"
+  },
+  "Add": {
+    "origin": "Files:Add",
+    "text": "Ekle"
+  },
+  "Add cloud folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bulut dosyası eklemek için..."
+  },
+  "Add current selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mevcut Seçim Ekle"
+  },
+  "Add files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosyaları ekleyin..."
+  },
+  "Add folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosya ekleme..."
+  },
+  "Add images…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Resimleri ekleyin..."
+  },
+  "Add prefix": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Prefix ekleme"
+  },
+  "Add saved tag": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kurtarılmış etiket ekle"
+  },
+  "Add selection to shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Shelf'e seçenek ekleyin"
+  },
+  "Add startup folders…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup dosyalarını eklemek için..."
+  },
+  "Add suffix": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "suffix ekleyin"
+  },
+  "Add to library": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kütüphaneye ekleyin"
+  },
+  "Add to shelf": {
+    "origin": "Files:AddToShelf",
+    "text": "Rafa ekle"
+  },
+  "Advanced": {
+    "origin": "Files:Advanced",
+    "text": "Gelişmiş"
+  },
+  "Advanced search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gelişmiş arama"
+  },
+  "Advanced search…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gelişmiş arama..."
+  },
+  "Album": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Albüm"
+  },
+  "Allocated size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Özel boyut"
+  },
+  "Already assigned to %1$@. Remove that assignment first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Şimdiye kadar emanet edilen %1$@Bu görevden önce çıkarın."
+  },
+  "Always show operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Her zaman operasyon göstermek"
+  },
+  "Always visible": {
+    "origin": "Files:AlwaysVisible",
+    "text": "Her zaman görünür"
+  },
+  "Always-visible items are combined with the current selection context. Cloud items add their own controls.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Her zaman görünür öğeler mevcut seçim bağlamı ile birleştirilir. bulut öğeleri kendi kontrollerini ekler."
+  },
+  "Ambiguous archive listing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ambigu arşiv listesi."
+  },
+  "Ambiguous media metadata containers.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Metadata konteynerleri ile ilgili detaylı bilgi."
+  },
+  "Any": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Herhangi"
+  },
+  "App language (restart to apply)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Uygulama Dili (Yeni Başlangıç)"
+  },
+  "Appearance": {
+    "origin": "Files:Appearance",
+    "text": "Görünüm"
+  },
+  "Application": {
+    "origin": "Files:Application",
+    "text": "Uygulama"
+  },
+  "Application unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Uygulama mevcut değil"
+  },
+  "Applies owner, group, and other permissions to the selected items only.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sahibi, grup ve diğer izinler yalnızca seçilen öğeler için geçerlidir."
+  },
+  "Apply": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Uygulama"
+  },
+  "Apply ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Uygulama ACL…"
+  },
+  "Apply UID %1$@ and GID %2$@ to this item only.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Uygulama UID %1$@ ve GID %2$@ Sadece bu madde için."
+  },
+  "Apply attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atribüel uygulama"
+  },
+  "Apply file permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosya izinleri uygulayın"
+  },
+  "Apply owner/group…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mülkiyeti / Grubu..."
+  },
+  "Approve MacFiles in Login Items in System Settings.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Onaylama MacFiles Sistem ayarlarında Login öğeleri."
+  },
+  "Archive": {
+    "origin": "Files:Archive",
+    "text": "Arşiv"
+  },
+  "Archive attempts to write through a link or file: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv, bir bağlantı veya dosya aracılığıyla yazmaya çalışır: %1$@"
+  },
+  "Archive contains an unsafe path: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv güvenli olmayan bir yol içerir: %1$@"
+  },
+  "Archive contains an unsafe symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv güvenli olmayan bir sembolik bağlantı içerir."
+  },
+  "Archive editing cannot traverse symbolic links.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv düzenlemesi sembolik bağlantıları geçemez."
+  },
+  "Archive link escapes its destination.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv bağlantısı hedefinden kaçırılır."
+  },
+  "Archive link target is too long.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv bağlantısı hedefi çok uzun."
+  },
+  "Archive operation failed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv operasyonu başarısız oldu."
+  },
+  "Archive password (if needed)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv şifresi (gerekirse)"
+  },
+  "Archive password (leave blank if unencrypted)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv şifresi (kripto olmadan beyaz bırakın)"
+  },
+  "Archive passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv şifreleri çizgi boşlukları içermez veya NUL Karakterler için."
+  },
+  "Archive path escapes the destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv yolu hedefi kaçırır: %1$@"
+  },
+  "Archive root": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv kökü"
+  },
+  "Archive symbolic link escapes the destination.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv sembolik bağlantı hedefi kaçırır."
+  },
+  "Arrange panes side by side": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yüzü tarafı ile düzeltin"
+  },
+  "Arrange panes top and bottom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yukarı ve aşağı panoları düzenleyin"
+  },
+  "Artist": {
+    "origin": "Files:Artist",
+    "text": "Sanatçı"
+  },
+  "Artist / author": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sanatçı / Yazar"
+  },
+  "Ascending": {
+    "origin": "Files:Ascending",
+    "text": "Artan"
+  },
+  "Attribute name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atribut Adı"
+  },
+  "Attributes": {
+    "origin": "Files:Attributes",
+    "text": "Öznitelikler"
+  },
+  "Attributes updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Güncellenmiş özellikler"
+  },
+  "Auto-fit columns": {
+    "origin": "Files:AutoFitColumns",
+    "text": "Sütunları otomatik sığdır"
+  },
+  "AutoFitColumns": {
+    "origin": "Files:AutoFitColumns",
+    "text": "Sütunları otomatik sığdır"
+  },
+  "Available locally": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yerel olarak mevcut"
+  },
+  "Back": {
+    "origin": "Files:Back",
+    "text": "Geri"
+  },
+  "Back · ⌘[": {
+    "origin": "Files:Back",
+    "text": "Geri · ⌘["
+  },
+  "Backdrop material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "arka plan malzemesi"
+  },
+  "Backdrop materials use macOS visual effects. Standard system controls and monospaced content retain their system fonts.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "arka plan malzemeleri kullanımı macOS Standart sistem kontrolleri ve monospace içeriği, sistem yazı tiplerini korur."
+  },
+  "Background": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "arka plan"
+  },
+  "Background color (blank = system)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arka plan rengi (beyaz = sistem)"
+  },
+  "Background image": {
+    "origin": "Files:BackgroundImage",
+    "text": "Arka plan resmi"
+  },
+  "Background image and status": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arka plan görüntüsü ve durumu"
+  },
+  "Background image opacity": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Görüntüleme arka plan opacity"
+  },
+  "Background mode keeps the menu bar icon available so you can reopen MacFiles or quit it.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arka plan modu, menü çubuğu simgesini mevcut tutar, böylece yeniden açabilirsiniz. MacFiles ya da bırakın."
+  },
+  "Background preset": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "arka plan öncesi"
+  },
+  "Base": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Temel"
+  },
+  "Base64": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bask64"
+  },
+  "Based on the Files Community explorer’s shell, MVVM, command, and storage architecture. Built with Swift, AppKit, and SwiftUI.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosya Topluluk keşifçisinin şelale, MVVM, komut ve depolama mimarisine dayanmaktadır. Swift, AppKit ve SwiftUI ile inşa edilmiştir."
+  },
+  "Binary": {
+    "origin": "Files:Binary",
+    "text": "İkili"
+  },
+  "Blue": {
+    "origin": "Files:Blue",
+    "text": "Mavi"
+  },
+  "Bottom": {
+    "origin": "Files:Bottom",
+    "text": "Alt"
+  },
+  "Browse all tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tüm etiketleri görüntüle"
+  },
+  "Browse archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse Arşivi"
+  },
+  "Browse archive…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse Arşivi..."
+  },
+  "Browse tagged items…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse etiketli öğeler..."
+  },
+  "Browsing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Broşür"
+  },
+  "Browsing interactions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browsing etkileşimleri"
+  },
+  "Bulk rename": {
+    "origin": "Files:BulkRename",
+    "text": "Toplu yeniden adlandırma"
+  },
+  "Bulk rename requires items from one folder.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bulk rename tek bir klasörden öğeleri gerektirir."
+  },
+  "Bulk rename…": {
+    "origin": "Files:BulkRename",
+    "text": "Toplu yeniden adlandırma"
+  },
+  "Bytes": {
+    "origin": "Files:Bytes",
+    "text": "Bayt"
+  },
+  "Cache thumbnails": {
+    "origin": "Files:CacheThumbnails",
+    "text": "Küçük resimleri önbellekte sakla"
+  },
+  "Calculate combined size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kombine boyutları hesaplayın"
+  },
+  "Calculate folder size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosya boyutunu hesaplayın"
+  },
+  "Calculate folder sizes": {
+    "origin": "Files:CalculateFolderSizes",
+    "text": "Klasör boyutlarını hesapla"
+  },
+  "Calculate hashes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hesaplama Hashes..."
+  },
+  "Calculate total size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Toplam Boyut Hesaplama"
+  },
+  "Calculating hashes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hesaplama hashes..."
+  },
+  "Camouflage": {
+    "origin": "Files:Camouflage",
+    "text": "Kamuflaj"
+  },
+  "Cancel": {
+    "origin": "Files:Cancel",
+    "text": "İptal"
+  },
+  "Cancel calculation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hesaplama iptal"
+  },
+  "Cancel operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Operasyon iptal"
+  },
+  "Cancel queued operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Queued Operasyonu İptal Etme"
+  },
+  "Cancelled": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "iptal"
+  },
+  "Cancelled before starting.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Başlamadan önce iptal edilir."
+  },
+  "Cancelled before starting. No files were changed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Başlamadan önce iptal edildi. dosya değiştirilmedi."
+  },
+  "Cancelling the current operation…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Şimdiki operasyonun iptal edilmesi..."
+  },
+  "Cannot allocate archive entry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv girişleri yapılamaz."
+  },
+  "Cannot allocate archive reader.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv okuyucu kullanamazsınız."
+  },
+  "Cannot allocate archive writer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv yazarını seçemezsiniz."
+  },
+  "Cannot archive special device: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Özel cihazı arşivleyemezsiniz: %1$@"
+  },
+  "Cannot create archive entry: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv içeriği oluşturulamaz: %1$@"
+  },
+  "Cannot create subprocess output file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Subprocess çıkış dosyası oluşturulamaz."
+  },
+  "Cannot decode image.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Görüntüleri dekore edemezsiniz."
+  },
+  "Cannot prepare SSH authentication.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hazırlanamıyor SSH Doğrulama için ."
+  },
+  "Cannot prepare command input.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Komut girişini hazırlayamazsınız."
+  },
+  "Cannot read %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Okumamıyorum %1$@"
+  },
+  "Cannot read image metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Fotoğraf metadata okumak mümkün değil."
+  },
+  "Cannot remove the archive root.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv kökünü kaldıramazsınız."
+  },
+  "Cannot rename the archive root.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv kökünü yeniden adlandıramazsınız."
+  },
+  "Cannot restore archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv sert bağlantı kurulamaz."
+  },
+  "Cannot rotate image.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Görüntüyi döndüremez."
+  },
+  "Center": {
+    "origin": "Files:Center",
+    "text": "Merkez"
+  },
+  "Change file extension?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosya uzantısını değiştirmek mi?"
+  },
+  "Change ownership?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mülkiyet Değişimi ?"
+  },
+  "Change provider app…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Uygulamayı değiştirmek için..."
+  },
+  "Change the shortcut target?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kısa hedef değiştirmek mi?"
+  },
+  "Changes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Değişiklikler"
+  },
+  "Changing the extension may prevent the file from opening in its usual application.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Uzantıyı değiştirmek, dosyayı normal uygulamasında açılmasını engelleyebilir."
+  },
+  "Choose IDE…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "IDE seçin..."
+  },
+  "Choose a destination to restore": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kurtarmak için bir yer seçin"
+  },
+  "Choose a file to calculate hashes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hesapları hesaplamak için bir dosya seçin."
+  },
+  "Choose a new destination and a repository URL.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yeni bir varış noktası ve bir depolama URL seçin."
+  },
+  "Choose a regular cloud file to download.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "İndirmek için düzenli bir bulut dosyasını seçin."
+  },
+  "Choose a single file or folder to customize its icon.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ikonunu özelleştirmek için tek bir dosya veya klasör seçin."
+  },
+  "Choose a supported single-frame image (JPEG, PNG, TIFF or HEIC).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Desteklenen tek çerçeve görüntüsü (JPEG, PNG, TIFF veya HEIC) seçin."
+  },
+  "Choose a template file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Şablon dosyası seçin"
+  },
+  "Choose custom icon…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Özel İkon Seçimi..."
+  },
+  "Choose folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Seçim dosyası..."
+  },
+  "Choose one item to edit ownership or ACLs.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sahiplik veya ACL'leri düzenlemek için bir öğe seçin."
+  },
+  "Choose one item to view extended attributes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Genişletilmiş özellikleri görmek için bir öğe seçin."
+  },
+  "Choose provider app…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Uygulama sağlayıcısı seçin..."
+  },
+  "Clear": {
+    "origin": "Files:Key.Clear",
+    "text": "Temizle"
+  },
+  "Clear finished": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Açık bitti"
+  },
+  "Clear selection": {
+    "origin": "Files:ClearSelection",
+    "text": "Seçimi temizle"
+  },
+  "Clear thumbnail cache": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Temiz Küçük Kaynaklar"
+  },
+  "Clone": {
+    "origin": "Files:Clone",
+    "text": "Klonla"
+  },
+  "Clone repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Klon depolama alanı"
+  },
+  "Clone…": {
+    "origin": "Files:Clone",
+    "text": "Klonla"
+  },
+  "Close": {
+    "origin": "Files:Close",
+    "text": "Kapat"
+  },
+  "Close details": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "yakın ayrıntılar"
+  },
+  "Close other tabs": {
+    "origin": "Files:CloseOtherTabs",
+    "text": "Diğer Sekmeleri Kapat"
+  },
+  "Close tab": {
+    "origin": "Files:CloseTab",
+    "text": "Sekmeyi kapat"
+  },
+  "Close tabs to the left": {
+    "origin": "Files:CloseTabsToTheLeft",
+    "text": "Soldaki sekmeleri kapat"
+  },
+  "Close tabs to the right": {
+    "origin": "Files:CloseTabsToTheRight",
+    "text": "Sağdaki sekmeleri kapat"
+  },
+  "Close window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yakın pencere"
+  },
+  "Cloud": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bulut"
+  },
+  "Cloud accounts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bulut Hesapları"
+  },
+  "Cloud accounts and folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bulut Hesapları ve Dosyalar"
+  },
+  "Cloud availability and synchronization": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bulut kullanılabilirliği ve senkronizasyonu"
+  },
+  "Cloud folder name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bulut Dosya Adı"
+  },
+  "Cloud items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bulut Ürünleri"
+  },
+  "Cloud provider": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bulut sağlayıcısı"
+  },
+  "Cloud providers installed on this Mac appear in the sidebar through their native File Provider folders.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu Mac'te yüklenen bulut sağlayıcıları, yerli üzerinden yan çubuğunda görünür. File Provider Klasörler"
+  },
+  "Cloud status": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bulut Durumu"
+  },
+  "Cloud status…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bulut Durumu..."
+  },
+  "Cloud storage": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "bulut depolama"
+  },
+  "Collapse folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "çökme dosyası"
+  },
+  "Collapsed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "çöktü"
+  },
+  "Collect file references from different folders, then copy or move them together.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Farklı klasörlerden dosya referanslarını toplayın, sonra kopyalayın veya bir araya getirin."
+  },
+  "Columns": {
+    "origin": "Files:Columns",
+    "text": "Sütunlar"
+  },
+  "Columns layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sütunlar Layout"
+  },
+  "Command": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Komutanlık"
+  },
+  "Command output exceeded 16 MiB; no truncated result was accepted.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Komut çıkışı 16 MiB'yi aştı; hiçbir çarpışma sonucu kabul edilmedi."
+  },
+  "Command palette": {
+    "origin": "Files:CommandPalette",
+    "text": "Komut Paleti"
+  },
+  "Command palette…": {
+    "origin": "Files:CommandPalette",
+    "text": "Komut Paleti"
+  },
+  "Commit created": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yaratılan komite"
+  },
+  "Commit message": {
+    "origin": "Files:CommitMessage",
+    "text": "Commit mesajı"
+  },
+  "Commit staged": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Komite Sınavı"
+  },
+  "Compact file rows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kompakt Dosya Çizgisi"
+  },
+  "Compare these SHA-256 fingerprints with your server administrator before trusting %1$@:%2$@.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bunları karşılaştırın SHA-256 Sunucu yöneticinizle parmak izi yapmadan önce %1$@:%2$@.\n\n"
+  },
+  "Compatibility": {
+    "origin": "Files:Compatibility",
+    "text": "Uyumluluk"
+  },
+  "Completed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "tamamlandı"
+  },
+  "Completed with errors": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hatalarla doldurulmuş"
+  },
+  "Compress": {
+    "origin": "Files:Compress",
+    "text": "Sıkıştır"
+  },
+  "CompressIntoSevenZip": {
+    "origin": "Files:CompressIntoSevenZip",
+    "text": "7z arşivi oluştur"
+  },
+  "CompressIntoZip": {
+    "origin": "Files:CompressIntoZip",
+    "text": "Zip arşivi oluştur"
+  },
+  "Compressed movie headers require remuxing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kompres film başlıkları remuxing gerektirir."
+  },
+  "Compressing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kompresyon"
+  },
+  "Compress…": {
+    "origin": "Files:Compress",
+    "text": "Sıkıştır"
+  },
+  "Confirm moving files to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosyaları Trash'a taşımayı doğrulayın"
+  },
+  "Confirmations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Onaylar"
+  },
+  "Conflicts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "çatışmalar"
+  },
+  "Connect": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bağlantı"
+  },
+  "Connect to server": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Server ile Bağlantı"
+  },
+  "Connect to server…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Server ile bağlantı kurmak..."
+  },
+  "Connect to the server first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Öncelikle sunucuyla bağlantı kurun."
+  },
+  "Connected folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bağlantılı Dosya"
+  },
+  "Connected to this Mac": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu Mac ile bağlantılı"
+  },
+  "Contains UTF-8 text": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "içeriği UTF-8 Yazı"
+  },
+  "Content search includes text, PDF, Office and OpenDocument files. Unsupported, locked and online-only files are counted as skipped.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "İçerik arama metin, PDF, Office ve OpenDocument dosyalarını içerir. desteklenmemiş, kilitlenmiş ve sadece çevrimiçi dosyalar kayıp olarak sayılır."
+  },
+  "Content type": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "içerik türü"
+  },
+  "Contents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "içerikler"
+  },
+  "Context": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Konteyner"
+  },
+  "Context menu": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Konteyner Menüsü"
+  },
+  "Copy": {
+    "origin": "Files:Copy",
+    "text": "Kopyala"
+  },
+  "Copy app version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "App versiyonu kopyası"
+  },
+  "Copy hashes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "hashes kopyalamak"
+  },
+  "Copy here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "kopyaları buraya"
+  },
+  "Copy macOS version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kopyala macOS Sürüm"
+  },
+  "Copy path": {
+    "origin": "Files:CopyPath",
+    "text": "Yolu kopyala"
+  },
+  "Copy report": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rapor kopyası"
+  },
+  "Copy selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Seçilen kopyaları"
+  },
+  "CopyItemPathWithQuotes": {
+    "origin": "Files:CopyItemPathWithQuotes",
+    "text": "Seçilen konum tırnak işaretleri ile kopyala"
+  },
+  "CopyPathDescription": {
+    "origin": "Files:CopyPathDescription",
+    "text": "Geçerli dizin yolunu kopyala"
+  },
+  "CopyPathWithQuotes": {
+    "origin": "Files:CopyPathWithQuotes",
+    "text": "Tırnak işaretleriyle yolu kopyala"
+  },
+  "Copying": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "kopyalanma"
+  },
+  "Copying archive entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv içeriği kopyalamak"
+  },
+  "Copying files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosyaları kopyalamak"
+  },
+  "Copyright": {
+    "origin": "Files:PropertyCopyright",
+    "text": "Telif Hakkı"
+  },
+  "Could not find an available filename.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mevcut bir fil adı bulamıyorum."
+  },
+  "Could not prepare archive contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv içeriği hazırlayamaz."
+  },
+  "Could not remove GitHub credentials from Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub kimliklerini kaldıramazdım Keychain."
+  },
+  "Could not save GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub kimliklerini kaydedemezsiniz Keychain."
+  },
+  "Could not save the edited image; the original was kept.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Orijinal resim kaydedilemezdi; orijinal kaydedildi."
+  },
+  "Could not save the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Şifreyi kaydetmek mümkün değil Keychain (%1$@)."
+  },
+  "Could not update GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub kimliklerini güncelleyemezsiniz Keychain."
+  },
+  "Could not update the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Şifreyi güncelleyemezsiniz Keychain (%1$@)."
+  },
+  "Couldn’t change the folder viewer": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosya Görüntüsü Değiştirilemez"
+  },
+  "Couldn’t eject volume": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Volume çıkamazdı"
+  },
+  "Couldn’t open files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosyaları açamıyorum"
+  },
+  "Couldn’t open folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosya açılamaz"
+  },
+  "Couldn’t open this file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu dosyayı açamıyorum"
+  },
+  "Couldn’t open this location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu yer açılamazdı"
+  },
+  "Couldn’t resolve alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Aliya'yı çözemedi"
+  },
+  "Couldn’t restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "yeniden başlatılamaz MacFiles"
+  },
+  "Create": {
+    "origin": "Files:Create",
+    "text": "Oluştur"
+  },
+  "Create a GitHub token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bir GitHub token oluşturun"
+  },
+  "Create alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Aliye oluşturma"
+  },
+  "Create archive": {
+    "origin": "Files:CreateArchive",
+    "text": "Arşiv oluştur"
+  },
+  "Create library…": {
+    "origin": "Files:FolderWidgetCreateNewLibraryDialogTitleText",
+    "text": "Kütüphane oluştur"
+  },
+  "Create shortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "Kısayol oluştur"
+  },
+  "Create zip archive": {
+    "origin": "Files:CompressIntoZip",
+    "text": "Zip arşivi oluştur"
+  },
+  "CreateFolderWithSelection": {
+    "origin": "Files:CreateFolderWithSelection",
+    "text": "Seçimle klasör oluştur"
+  },
+  "CreateShortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "Kısayol oluştur"
+  },
+  "CreateShortcutFromDialogDescription": {
+    "origin": "Files:CreateShortcutFromDialogDescription",
+    "text": "Herhangi bir ögeye yeni kısayol oluştur"
+  },
+  "Created": {
+    "origin": "Files:PropertiesCreated.Text",
+    "text": "Oluşturuldu:"
+  },
+  "Creating alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Alias oluşturma"
+  },
+  "Creating from template": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Template’den yaratma"
+  },
+  "Custom": {
+    "origin": "Files:Custom",
+    "text": "Özel"
+  },
+  "Custom icon applied.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Custom icon uygulandı."
+  },
+  "Custom tag color (hex, optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Özelleştirilmiş etiket rengi (hex, seçmeli)"
+  },
+  "Custom theme": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Özel temalar"
+  },
+  "Customization": {
+    "origin": "Files:Customization",
+    "text": "Kişiselleştirme"
+  },
+  "Customize toolbar": {
+    "origin": "Files:CustomizeToolbar",
+    "text": "Araç çubuğunu özelleştir"
+  },
+  "Customize toolbar…": {
+    "origin": "Files:CustomizeToolbar",
+    "text": "Araç çubuğunu özelleştir"
+  },
+  "Cut": {
+    "origin": "Files:Cut",
+    "text": "Kes"
+  },
+  "Dark": {
+    "origin": "Files:DarkTheme",
+    "text": "Koyu"
+  },
+  "Date created": {
+    "origin": "Files:DateCreated",
+    "text": "Oluşturma tarihi"
+  },
+  "Date deleted": {
+    "origin": "Files:DateDeleted",
+    "text": "Silinme tarihi"
+  },
+  "Date format": {
+    "origin": "Files:DateFormat",
+    "text": "Tarih biçimi"
+  },
+  "Date modified": {
+    "origin": "Files:DateModifiedLowerCase",
+    "text": "Değiştirilme tarihi"
+  },
+  "Day": {
+    "origin": "Files:Day",
+    "text": "Gün"
+  },
+  "Decimal": {
+    "origin": "Files:Decimal",
+    "text": "Ondalık"
+  },
+  "Decrease size": {
+    "origin": "Files:DecreaseSize",
+    "text": "Boyutu küçült"
+  },
+  "Default": {
+    "origin": "Files:Default",
+    "text": "Varsayılan"
+  },
+  "Default folder layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Default folder layout için"
+  },
+  "Default grouping": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Default gruplandırma"
+  },
+  "Default save location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Default yer kaydetme"
+  },
+  "Default sorting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Default Sınıflandırma"
+  },
+  "Delete": {
+    "origin": "Files:Delete",
+    "text": "Sil"
+  },
+  "Delete permanently": {
+    "origin": "Files:DeletePermanently",
+    "text": "Kalıcı olarak sil"
+  },
+  "Delete saved tag and remove it from indexed files?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kaydetmiş etiketleri silin ve indekslenen dosyalarından kaldırın?"
+  },
+  "Delete selected permanently…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sürekli seçilmiş silin..."
+  },
+  "Deleting permanently": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sürekli Kaldırma"
+  },
+  "Description": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Açıklama"
+  },
+  "Desktop": {
+    "origin": "Files:Desktop",
+    "text": "Masaüstü"
+  },
+  "Destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hedef: %1$@"
+  },
+  "Detached HEAD": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Düşük Baş"
+  },
+  "Details": {
+    "origin": "Files:Details",
+    "text": "Ayrıntılar"
+  },
+  "Details layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Detaylı layout"
+  },
+  "Details pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Detaylı Sayın"
+  },
+  "Developer tools": {
+    "origin": "Files:DevTools",
+    "text": "Geliştirici araçları"
+  },
+  "Development": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Geliştirme"
+  },
+  "Diagnostics": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Diagnostik"
+  },
+  "Diagnostics opened": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Diagnostik açıldı"
+  },
+  "Disconnect": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bağlantı"
+  },
+  "Documents": {
+    "origin": "Files:Documents",
+    "text": "Belgeler"
+  },
+  "Done": {
+    "origin": "Files:Close",
+    "text": "Kapat"
+  },
+  "Double-click empty space to go up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yukarı çıkmak için boş alan iki tıklama"
+  },
+  "Download": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "İndirmek"
+  },
+  "Download files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosyaları indirin..."
+  },
+  "Download here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "buraya indir"
+  },
+  "Download requested. iCloud may complete it asynchronously.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "İndirmek istendi. iCloud Bunu asinkron bir şekilde tamamlayabilir."
+  },
+  "Downloaded": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "İndirilmiş"
+  },
+  "Downloading": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "İndirme"
+  },
+  "Downloads": {
+    "origin": "Files:Downloads",
+    "text": "İndirilenler"
+  },
+  "Drives": {
+    "origin": "Files:Drives",
+    "text": "Sürücüler"
+  },
+  "Dual pane": {
+    "origin": "Files:DualPaneCategory",
+    "text": "Çift Bölme"
+  },
+  "Duplicate": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Duplikat"
+  },
+  "Duplicate archive paths cannot be extracted safely.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Çoğaltılmış arşiv yolları güvenli bir şekilde çıkarılamaz."
+  },
+  "Duplicate tab": {
+    "origin": "Files:DuplicateTab",
+    "text": "Sekmeyi kopyala"
+  },
+  "Edit": {
+    "origin": "Files:Edit",
+    "text": "Düzenle"
+  },
+  "Edit POSIX permissions for selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Düzenle POSIX Seçim için izinler"
+  },
+  "Edit address · ⌘L": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit Adresi · ⌘L"
+  },
+  "Edit archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit Arşivi"
+  },
+  "Edit in TextEdit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit in Yazılar"
+  },
+  "Edit media metadata": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Media Metadata Yayınları"
+  },
+  "Edit media metadata…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Metadata Medya Yayınları..."
+  },
+  "Edit or import the settings document, then Apply to validate and save. Language changes require a restart.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ayarlar belgesini düzenleyin veya ithal edin, sonra doğrulamak ve kaydetmek için uygulayın. dil değişiklikleri yeniden başlatılmalıdır."
+  },
+  "Edit permissions on the link's target instead.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bunun yerine bağlantının hedefinde izinleri düzenleyin."
+  },
+  "Edit settings file…": {
+    "origin": "Files:EditSettingsFile",
+    "text": "Ayar dosyasını düzenle"
+  },
+  "Edit tags": {
+    "origin": "Files:EditTags",
+    "text": "Dosya etiketlerini düzenle"
+  },
+  "Edit tags…": {
+    "origin": "Files:EditTags",
+    "text": "Dosya etiketlerini düzenle"
+  },
+  "Edit the archive target instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv hedefini bir sembolik bağlantı yerine düzenleyin."
+  },
+  "Edit the target's attributes instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bir sembolik bağlantı yerine hedefin özelliklerini düzenleyin."
+  },
+  "Edits apply to this item only. Ownership changes require existing system permission; MacFiles does not elevate itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu madde için düzenlemeler yalnızca geçerlidir. mülkiyet değişiklikleri mevcut sistem izni gerektirir; MacFiles Kendini yükseltmiyor."
+  },
+  "Eject": {
+    "origin": "Files:Eject",
+    "text": "Çıkar"
+  },
+  "Empty": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "boş"
+  },
+  "Empty accessible Trash…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Boş erişilebilir Trash..."
+  },
+  "Empty archive entry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "boş arşiv girişleri."
+  },
+  "Encoding": {
+    "origin": "Files:Encoding",
+    "text": "Kodlama"
+  },
+  "Encrypted": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Şifreleme"
+  },
+  "Enter a GitHub username and a valid access token.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bir GitHub kullanıcı adı ve geçerli bir erişim token girin."
+  },
+  "Enter a commit message.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bir komplo mesajı girin."
+  },
+  "Enter a name without a slash or colon. The name cannot be empty, ‘.’, or ‘..’.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bir kalem veya sütun olmadan bir isim girin. adı boş olamaz, ‘.’, ya da ‘..’."
+  },
+  "Enter a size from 1 to 1,048,576 MiB.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "1 ile 1.048,576 MiB arasındaki bir boyut girin."
+  },
+  "Enter a valid host, username, and port.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Geçerli bir ev sahibi, kullanıcı adı ve port girin."
+  },
+  "Enter an SMB, AFP, or WebDAV address.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Giriş A SMB, AFPya da WebDAV Adres"
+  },
+  "Enter an attribute name of 1–127 UTF-8 bytes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "1-127 sayılı bir özellik adı girin UTF-8 Bayt"
+  },
+  "Enter compact overlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "Kompakt yer paylaşımına gir"
+  },
+  "Enter numeric user and group IDs.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Numerik kullanıcı ve grup kimliklerini girin."
+  },
+  "Enter password:": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Şifre girin :"
+  },
+  "Enter permissions from 000 to 777.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "1000 ile 777 arasındaki izinleri girin."
+  },
+  "Enter the archive password before editing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv şifresini düzenlemeden önce girin."
+  },
+  "Enter three octal digits, for example 644 or 755.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Örneğin, 644 veya 755 gibi üç oktal sayı girin."
+  },
+  "Enter whole numbers for byte limits.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tüm sayılar byte sınırları için girin."
+  },
+  "EnterCompactOverlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "Kompakt yer paylaşımına gir"
+  },
+  "Executable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yürütülebilir"
+  },
+  "Executable format": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yürütülebilir format"
+  },
+  "Exit compact overlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "Kompakt yer paylaşımından çık"
+  },
+  "ExitCompactOverlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "Kompakt yer paylaşımından çık"
+  },
+  "Expand folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosya Genişletme"
+  },
+  "Expanded": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Genişletilmiş"
+  },
+  "Export ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ihracat ACL…"
+  },
+  "Export bytes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "İhracat bütçesi..."
+  },
+  "Export theme…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "İhracat teması..."
+  },
+  "Export…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "İhracat..."
+  },
+  "Extended attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Genişletilmiş özellikler"
+  },
+  "Extended attributes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Genişletilmiş özellikler..."
+  },
+  "Extensions are preserved. Conflicts stop the batch before any names change.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Çatışmalar, herhangi bir isim değişikliğinden önce çubuğu durdurur."
+  },
+  "Extensions: txt, swift, pdf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Uzantılar: txt, swift, pdf"
+  },
+  "Extra large icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Büyük Ikonlar"
+  },
+  "Extract": {
+    "origin": "Files:Extract",
+    "text": "Ayıkla"
+  },
+  "Extract all…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Her şeyi çıkarın..."
+  },
+  "Extract here": {
+    "origin": "Files:ExtractHere",
+    "text": "Buraya ayıkla"
+  },
+  "Extract here (Smart)": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "Buraya çıkart (Akıllı)"
+  },
+  "Extract selected…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Seçilen Ekstrakt..."
+  },
+  "Extract to child folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Çocuk dosyasına ekleyin"
+  },
+  "Extract to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ekstrakt için..."
+  },
+  "ExtractHere": {
+    "origin": "Files:ExtractHere",
+    "text": "Buraya ayıkla"
+  },
+  "ExtractHereSmart": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "Buraya çıkart (Akıllı)"
+  },
+  "Extracted entry size does not match its header.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Çekilen giriş büyüklüğü başlıklarına uymuyor."
+  },
+  "Extracting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ekstraksiyon"
+  },
+  "Extracts into a new folder; existing files are kept.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yeni bir klasöre sürülür; mevcut dosyalar saklanır."
+  },
+  "FTP over TLS": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "FTP Üzerine TLS"
+  },
+  "Failed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Başarısız"
+  },
+  "Fetch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Fetç"
+  },
+  "File": {
+    "origin": "Files:File",
+    "text": "Dosya"
+  },
+  "File actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosya eylemleri"
+  },
+  "File hashes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosya Hashes"
+  },
+  "File information": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosya Bilgileri"
+  },
+  "File operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosya Operasyonları"
+  },
+  "File operations in this window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu pencerede dosya işlemleri"
+  },
+  "File shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosya Shelf"
+  },
+  "File shelf…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosya Şelalesi..."
+  },
+  "File size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosya boyutu"
+  },
+  "Files": {
+    "origin": "Files:SecurityAdvancedFlagsFilesLabel",
+    "text": "dosyalar"
+  },
+  "Files size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosya boyutu"
+  },
+  "Files you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Açtığınız dosyalar burada görünür."
+  },
+  "Fill": {
+    "origin": "Files:Fill",
+    "text": "Doldur"
+  },
+  "Filter entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Filtre girişleri"
+  },
+  "Find": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "bulmak"
+  },
+  "Find and replace": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arama ve değiştirme"
+  },
+  "Finder Get Info unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder Bilgiyi erişilemez hale getirin"
+  },
+  "Finder Get Info…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder Bilgilendirme..."
+  },
+  "Finder's desktop and other apps' Open/Save dialogs remain managed by macOS.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder'Desktop ve Diğer Uygulamalar' Open/Save diyalogları yönetiliyor macOS."
+  },
+  "First letter": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "İlk mektup"
+  },
+  "Fit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "uygun"
+  },
+  "Flatten": {
+    "origin": "Files:Flatten",
+    "text": "Düzleştir"
+  },
+  "Flatten folder": {
+    "origin": "Files:FlattenFolder",
+    "text": "Klasörü düzleştir"
+  },
+  "Flatten folder…": {
+    "origin": "Files:FlattenFolder",
+    "text": "Klasörü düzleştir"
+  },
+  "Flatten ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yumuşak »%1$@’?"
+  },
+  "Flattening folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Flattening dosyası"
+  },
+  "Focus other pane": {
+    "origin": "Files:FocusOtherPane",
+    "text": "Diğer bölmeye odaklan"
+  },
+  "Folder": {
+    "origin": "Files:Folder",
+    "text": "Klasör"
+  },
+  "Folder contents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Folder içeriği"
+  },
+  "Folder contents are not included in this total.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Folder içeriği bu toplamda dahil değildir."
+  },
+  "Folder layout saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Folder layout kurtarıldı."
+  },
+  "Folder path": {
+    "origin": "Files:FolderPath",
+    "text": "Klasör yolu"
+  },
+  "Folder presentation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Folder sunumu"
+  },
+  "Folder sizes are calculated in the background after Refresh. Large or network folders may take longer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosya boyutları, Refresh'ten sonra arka planda hesaplanır.Büyük veya ağ dosyaları daha uzun sürebilir."
+  },
+  "Folder unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosya mevcut değil"
+  },
+  "Folders": {
+    "origin": "Files:Folders",
+    "text": "Klasörler"
+  },
+  "Folders you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Açtığınız dosyalar burada görünür."
+  },
+  "Font": {
+    "origin": "Files:Font",
+    "text": "Yazı Tipi"
+  },
+  "Font and material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yazı ve Malzeme"
+  },
+  "Forget saved": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Unutulmuş kurtarıldı"
+  },
+  "Format": {
+    "origin": "Files:FormatDriveText",
+    "text": "Biçim"
+  },
+  "Format drive in Disk Utility…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Disk Utility'de Disk Kullanımını Yapma..."
+  },
+  "Forward": {
+    "origin": "Files:Forward",
+    "text": "İleri"
+  },
+  "Forward · ⌘]": {
+    "origin": "Files:Forward",
+    "text": "İleri · ⌘]"
+  },
+  "Fragmented media metadata cannot be edited without remuxing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Fragmented media metadata remuxing olmadan düzenlenemez."
+  },
+  "Gallery": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Galeri"
+  },
+  "Gallery layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Galeriler Layout"
+  },
+  "General": {
+    "origin": "Files:General",
+    "text": "Genel"
+  },
+  "Git operation in %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git Operasyon içinde %1$@"
+  },
+  "Git repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git depoları"
+  },
+  "Git repository…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git Depolama..."
+  },
+  "GitHub account": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub Hesabı"
+  },
+  "GitHub username": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub kullanıcı adı"
+  },
+  "Go to path": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yürüyüşe Git"
+  },
+  "Go to path…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yürüyüşe çıkın..."
+  },
+  "Gray": {
+    "origin": "Files:Gray",
+    "text": "Gri"
+  },
+  "Green": {
+    "origin": "Files:Green",
+    "text": "Yeşil"
+  },
+  "Group": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Grup"
+  },
+  "Group GID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Grup GID"
+  },
+  "Group ascending": {
+    "origin": "Files:GroupAscendingDescription",
+    "text": "Grupları artan düzende sırala"
+  },
+  "Group by": {
+    "origin": "Files:GroupBy",
+    "text": "Gruplandır"
+  },
+  "Group by date unit": {
+    "origin": "Files:GroupByDateUnit",
+    "text": "Tarih birimine göre grupla"
+  },
+  "HTTPS Git operations can use a GitHub access token stored in your macOS Keychain. Choose the repositories and permissions when creating the token. Existing Git authentication remains in use when no MacFiles account is saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "HTTPS Git İşlemler, GitHub erişim tokenini kullanabilir macOS Keychain. Token oluştururken depoları ve izinleri seçin. mevcut Git Doğrulama kullanılmazsa devam eder. MacFiles Hesabı kurtarıldı"
+  },
+  "Hard Link": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sert bağlantı"
+  },
+  "Hashes": {
+    "origin": "Files:Hashes",
+    "text": "Hashler"
+  },
+  "Hashes are available for a single file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hashler tek bir dosya için mevcuttur."
+  },
+  "Header": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Başlık"
+  },
+  "Help": {
+    "origin": "Files:Help",
+    "text": "Yardım"
+  },
+  "Hidden": {
+    "origin": "Files:Hidden",
+    "text": "Gizli"
+  },
+  "Hidden files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gizli dosyalar"
+  },
+  "History": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tarih"
+  },
+  "Home": {
+    "origin": "Files:Key.Home",
+    "text": "Ev"
+  },
+  "Horizontal alignment": {
+    "origin": "Files:HorizontalAlignment",
+    "text": "Yatay hizalama"
+  },
+  "IDE opened.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "IDE açıldı"
+  },
+  "Icon": {
+    "origin": "Files:Icon",
+    "text": "Simge"
+  },
+  "Icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ikonlar"
+  },
+  "Icons layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ikonlar Layout"
+  },
+  "Image alignment": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Görüntü Alignment"
+  },
+  "Image fit": {
+    "origin": "Files:ImageFit",
+    "text": "Fotoğraf Sığdırma"
+  },
+  "Import theme…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "İhracat teması..."
+  },
+  "Imported. Apply to save.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "İhracat yaptırımları: Tasarruf için başvuru yapın."
+  },
+  "Import…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "İhracat..."
+  },
+  "Incomplete archive listing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tamamlanmamış arşiv listesi."
+  },
+  "Increase size": {
+    "origin": "Files:IncreaseSize",
+    "text": "Boyutu büyüt"
+  },
+  "Indexed document, image, audio, video and filesystem metadata supplied by Spotlight. Tags can be edited with the Tags tool.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "indekslenmiş belge, görüntü, ses, video ve dosya sistem metadata tarafından sağlanan SpotlightEtiketler etiketleri ile düzenlenebilir."
+  },
+  "Indexed files updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Index dosyaları güncellenmiştir."
+  },
+  "Initialize": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Başlangıç"
+  },
+  "Initialize repository here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rezervasyonunuzu buradan başlatın"
+  },
+  "Install certificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "Sertifika kur"
+  },
+  "Install font": {
+    "origin": "Files:InstallFont",
+    "text": "Yazı tipi kur"
+  },
+  "InstallCertificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "Sertifika kur"
+  },
+  "InstallFont": {
+    "origin": "Files:InstallFont",
+    "text": "Yazı tipi kur"
+  },
+  "Interval in seconds": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Saniyelerde aralıklar"
+  },
+  "Invalid Base64 data.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bas64 verileri geçersizdir."
+  },
+  "Invalid SSH host or port.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Engelli SSH Misafir veya liman."
+  },
+  "Invalid archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ağır arşiv bağlantısı."
+  },
+  "Invalid archive link target.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv Arşivi Hedefleri."
+  },
+  "Invalid extended media atom.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Medya Atomları Genişletilmiş Medya Atomları"
+  },
+  "Invalid hard link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ağır bağlantı bozukluğu."
+  },
+  "Invalid key for %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Anahtarı Engelli %1$@."
+  },
+  "Invalid macOS ACL text. Preserve the !#acl 1 header and use valid entries.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Engelli macOS ACL #acl 1 başlığı saklayın ve geçerli girişleri kullanın."
+  },
+  "Invalid media atom header.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Anonim Medya Atom Başlıkları"
+  },
+  "Invalid media atom size.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Anatom boyutları ile medya boyutları."
+  },
+  "Invalid media atom.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Medya atomları bozulur."
+  },
+  "Invalid media file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Medya dosyası geçersizdir."
+  },
+  "Invalid name": {
+    "origin": "Files:InvalidTagNameWarning",
+    "text": "Geçersiz isim"
+  },
+  "Invalid remote URL.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Remote URL’ler geçersizdir."
+  },
+  "Invalid settings document.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Geçersiz düzenleme belgesi."
+  },
+  "Invalid tag metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Metatötik Metatötik Metatötik Metatötik"
+  },
+  "Invalid tag name or color.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kötü renk veya isim."
+  },
+  "Invalid theme colors or appearance.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Temalı renk veya görünüm bozukluğu."
+  },
+  "Invalid volume size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sınırsız hacim boyutu"
+  },
+  "Invert selection": {
+    "origin": "Files:InvertSelection",
+    "text": "Seçimi tersine çevir"
+  },
+  "Item properties": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ürün Özellikleri"
+  },
+  "Items move into .MacFiles-Recovery on this server, including folder contents. Use Undo remote to restore them during this session.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Elemanlar içeri girer .MacFiles-Recovery Bu sunucu, klasör içeriği de dahil olmak üzere. Undo uzaktan bunları bu oturum sırasında kurtarmak için kullanın."
+  },
+  "Keep MacFiles open": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "tutun MacFiles Aç"
+  },
+  "Keep both": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "İkisi de tut"
+  },
+  "Keep both creates numbered names. Replace moves previous versions to Trash and supports Undo. Folders are replaced as a whole.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Her ikisini de sayılan isimler oluşturur. değiştirme önceki sürümleri Trash'a taşıyor ve Undo'yu destekliyor."
+  },
+  "Keep running after closing windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "pencereleri kapattıktan sonra çalışmaya devam edin"
+  },
+  "Keep window on top": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yukarıdaki pencereyi tutun"
+  },
+  "Keyboard shortcuts": {
+    "origin": "Files:KeyboardShortcuts",
+    "text": "Klavye kısayolları"
+  },
+  "Keyboard shortcuts…": {
+    "origin": "Files:KeyboardShortcuts",
+    "text": "Klavye kısayolları"
+  },
+  "Keywords (comma separated)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Anahtar Kelimeler (Kaynak olarak ayrılmıştır)"
+  },
+  "Kind": {
+    "origin": "Files:Type",
+    "text": "Tür"
+  },
+  "Label": {
+    "origin": "Files:Label",
+    "text": "Etiket"
+  },
+  "Language": {
+    "origin": "Files:PropertyLanguage",
+    "text": "Dil"
+  },
+  "Large icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Büyük Ikonlar"
+  },
+  "Launch at login": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Login ile başlatın"
+  },
+  "Layout": {
+    "origin": "Files:Layout",
+    "text": "Sayfa düzeni"
+  },
+  "Left": {
+    "origin": "Files:Left",
+    "text": "Sol"
+  },
+  "Let the current operation finish before quitting.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Geçerli işlemi bırakmadan önce bitirin."
+  },
+  "Libraries": {
+    "origin": "Files:SidebarLibraries",
+    "text": "Kitaplıklar"
+  },
+  "Library": {
+    "origin": "Files:Library",
+    "text": "Kütüphane"
+  },
+  "Library name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kütüphane adı"
+  },
+  "Library properties…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kütüphane mülkiyeti..."
+  },
+  "Library/Application Support/MacFiles/known_hosts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kitap / Uygulama Desteği /MacFiles/ tanıdık_hosts"
+  },
+  "Library/Mobile Documents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kütüphane / Mobil Belgeler"
+  },
+  "Library/Mobile Documents/com~apple~CloudDocs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kütüphane/Mobil Belgeler/com~apple~CloudDocs"
+  },
+  "Light": {
+    "origin": "Files:LightTheme",
+    "text": "Açık"
+  },
+  "Link target": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Link hedef"
+  },
+  "List": {
+    "origin": "Files:List",
+    "text": "Liste"
+  },
+  "List folders before files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosyaların önünde dosyaları listeleyin"
+  },
+  "Loading…": {
+    "origin": "Files:Loading",
+    "text": "Yükleniyor..."
+  },
+  "Local": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yerel"
+  },
+  "Local download removal requested.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yerel indirme kaldırma isteği."
+  },
+  "Local file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yerel Dosya"
+  },
+  "Location": {
+    "origin": "Files:Location",
+    "text": "Konum:"
+  },
+  "Lock screen and wallpaper settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ekran ve duvar kağıdı ayarları..."
+  },
+  "Locked": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "kilitli"
+  },
+  "Macintosh HD": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Macintosh HD için"
+  },
+  "Make alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Aliye Yap"
+  },
+  "Make alias…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Aliye yapın..."
+  },
+  "Manage account in provider app": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hizmet Sağlayıcısı Uygulaması'nda Hesap Yönetimi"
+  },
+  "Manage cloud accounts…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bulut Hesapları Yönetimi..."
+  },
+  "Manage tags": {
+    "origin": "Files:ManageTags",
+    "text": "Etiketleri yönet"
+  },
+  "Maximum bytes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Maksimum byte"
+  },
+  "Media export did not complete.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Medya ihracatı tamamlanmadı."
+  },
+  "Media metadata is too large.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Medya metadata çok büyük."
+  },
+  "Medium icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ortalama ikonu"
+  },
+  "Minimize": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Minimizasyon"
+  },
+  "Minimum bytes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Minimum baht"
+  },
+  "Minimum size exceeds maximum size.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Minimum boyutu maksimum boyutunu aşmaktadır."
+  },
+  "Mode": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Moda"
+  },
+  "Modified": {
+    "origin": "Files:Modified",
+    "text": "Düzenlenen"
+  },
+  "Modified after": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sonrasında Değiştirilmiş"
+  },
+  "Month": {
+    "origin": "Files:Month",
+    "text": "Ay"
+  },
+  "More actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Daha fazla eylem"
+  },
+  "Mount share…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dağ payı..."
+  },
+  "Mounted network locations appear here. Connect to a server to browse another location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bir sunucuya bağlanın ve başka bir konuma bakın."
+  },
+  "Move %1$@ remote items to recovery?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hareket %1$@ İyileşmek için uzaktan ürünler?"
+  },
+  "Move %1$@ to Trash?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hareket %1$@ Çıkarmak için mi?"
+  },
+  "Move here": {
+    "origin": "Files:PinToSidebarByDraggingCaptionText",
+    "text": "Buraya taşı"
+  },
+  "Move nested files to this folder. Existing names and symbolic links are left in place. Empty subfolders go to Trash. You can undo this operation.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu klasöre kaydırılmış dosyaları aktarın. mevcut isimler ve sembolik bağlantılar yerinde bırakılır. Boş alt klasörler Trash'a gidin. Bu işlemden vazgeçebilirsiniz."
+  },
+  "Move to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Çarpışma için hareket"
+  },
+  "Move to Trash…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Çıkış için hareket..."
+  },
+  "Move to recovery": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "İyileşme için hareket"
+  },
+  "Move to recovery folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "İyileştirme dosyasına gidin..."
+  },
+  "Movies": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Filmler"
+  },
+  "Moving": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "hareket etmek"
+  },
+  "Moving files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "hareketli dosyalar"
+  },
+  "Moving to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Trash’a geçmek"
+  },
+  "Multiple items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Çeşitli öğeler"
+  },
+  "Music": {
+    "origin": "Files:Music",
+    "text": "Müzik"
+  },
+  "My MacFiles theme": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Benim MacFiles Tema"
+  },
+  "My library": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kütüphanem"
+  },
+  "My search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arama Benim"
+  },
+  "Name": {
+    "origin": "Files:NameWithColon",
+    "text": "İsim:"
+  },
+  "Native macOS extended attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yerli macOS Genişletilmiş özellikler"
+  },
+  "Natural language search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Doğal dil arama"
+  },
+  "Navigate": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Navigasyon"
+  },
+  "Network": {
+    "origin": "Files:Network",
+    "text": "Ağ"
+  },
+  "New": {
+    "origin": "Files:BaseLayoutContextFlyoutNew.Label",
+    "text": "Yeni"
+  },
+  "New archive file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yeni arşiv dosyası"
+  },
+  "New archive folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yeni arşiv dosyası"
+  },
+  "New branch": {
+    "origin": "Files:NewBranch",
+    "text": "Yeni branch"
+  },
+  "New file from template": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Template'den yeni dosyalar"
+  },
+  "New folder": {
+    "origin": "Files:NewFolder",
+    "text": "Yeni klasör"
+  },
+  "New folder…": {
+    "origin": "Files:NewFolder",
+    "text": "Yeni klasör"
+  },
+  "New from template": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Template'den Yeni"
+  },
+  "New from template…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Temelden yeni..."
+  },
+  "New name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yeni Adı"
+  },
+  "New remote file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yeni uzaktan dosya"
+  },
+  "New remote folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yeni uzaktan dosya"
+  },
+  "New tab": {
+    "origin": "Files:NewTab",
+    "text": "Yeni sekme"
+  },
+  "New tab · ⌘T": {
+    "origin": "Files:NewTab",
+    "text": "Yeni sekme · ⌘T"
+  },
+  "New text file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yeni metin dosyası"
+  },
+  "New text file…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yeni metin dosyası..."
+  },
+  "New window": {
+    "origin": "Files:NewWindow",
+    "text": "Yeni pencere"
+  },
+  "Next layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sonraki Layout"
+  },
+  "Next tab": {
+    "origin": "Files:NextTab",
+    "text": "Sonraki sekme"
+  },
+  "No": {
+    "origin": "Files:No",
+    "text": "Hayır"
+  },
+  "No IDE selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "seçilmemiş"
+  },
+  "No application could open ‘%1$@’.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Başvuru açılamaz”%1$@’."
+  },
+  "No archive entry was extracted.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hiçbir arşiv girişleri alınmadı."
+  },
+  "No archive is open.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hiçbir arşiv açılmıyor."
+  },
+  "No archive was produced.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv üretilmemiştir."
+  },
+  "No commits yet": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "henüz sözleşme yok"
+  },
+  "No files were extracted.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hiçbir dosya çıkarılmadı."
+  },
+  "No matching items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "eşleşen maddeler yok"
+  },
+  "No movie header was found.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Film başlığı bulunamadı."
+  },
+  "No operations recorded.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hiçbir operasyon kaydedilmemiştir."
+  },
+  "No readable macOS code signature.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Okunamaz macOS Kodu imzası için.\n\n"
+  },
+  "No selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Seçim yok"
+  },
+  "No settings match your search.": {
+    "origin": "Files:NoSearchResults",
+    "text": "Aramanızla eşleşen ayar yok."
+  },
+  "No tracked diff. New files appear after staging.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hiçbir izlenmemiş diff. yeni dosyalar sıralanmadan sonra görünür."
+  },
+  "None": {
+    "origin": "Files:CompressionLevelNone",
+    "text": "Hiçbiri"
+  },
+  "Not enough free space to finish extraction.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ekstraksiyonu tamamlamak için yeterli boş alan yoktur."
+  },
+  "Not managed by a detected cloud provider": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bulut sağlayıcısı tarafından tespit edilmemiş"
+  },
+  "Not used": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kullanılmamış"
+  },
+  "Numbered names": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Numaralı isimler"
+  },
+  "OK": {
+    "origin": "Files:OK",
+    "text": "Tamam"
+  },
+  "Older": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yaşlı"
+  },
+  "Online only": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sadece online"
+  },
+  "Only an uploaded iCloud file without conflicts can have its local download removed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sadece bir yükleme iCloud Çatışmalar olmadan dosya yerel indirme kaldırılabilir."
+  },
+  "Only images can be rotated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sadece resimler döndürülebilir."
+  },
+  "Open": {
+    "origin": "Files:Open",
+    "text": "Aç"
+  },
+  "Open / Preview": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Açılım / Preview"
+  },
+  "Open Login Items settings": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open Login öğeleri ayarları"
+  },
+  "Open MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Aç MacFiles"
+  },
+  "Open System Settings for iCloud": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open System Settings için iCloud"
+  },
+  "Open a repository, initialize this folder, or clone a repository.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bir depolama alanı açın, bu klasörü başlatın veya bir depolama alanı klonlayın."
+  },
+  "Open all folders in tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tüm klasörleri tablarda açın"
+  },
+  "Open containing folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Açık içerikli dosya"
+  },
+  "Open external folders in new windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yeni pencerelerde dış dosyaları açın"
+  },
+  "Open file location": {
+    "origin": "Files:OpenFileLocation",
+    "text": "Dosya konumunu aç"
+  },
+  "Open folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "açık dosya"
+  },
+  "Open folders in new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yeni tablarda dosyaları açın"
+  },
+  "Open folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Açık dosya..."
+  },
+  "Open in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "IDE'de açılım"
+  },
+  "Open in IDE uses the selected application. Open repository in IDE resolves the Git repository root first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "IDE'de açılır, seçilen uygulama kullanılır. IDE'de açık depolama alanı çözülür Git Öncelikle root depoları."
+  },
+  "Open in Terminal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Terminal açılımı"
+  },
+  "Open in new tab": {
+    "origin": "Files:OpenInNewTab",
+    "text": "Yeni sekmede aç"
+  },
+  "Open in new window": {
+    "origin": "Files:OpenInNewWindow",
+    "text": "Yeni pencerede aç"
+  },
+  "Open in other pane": {
+    "origin": "Files:OpenInOtherPane",
+    "text": "Diğer bölmede aç"
+  },
+  "Open log file": {
+    "origin": "Files:OpenLogFile",
+    "text": "Günlük dosyasını aç"
+  },
+  "Open new tabs with dual panes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Çift panellerle yeni sekmeleri açın"
+  },
+  "Open repository in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "IDE'de açık depolama alanı"
+  },
+  "Open selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Açık Seçim"
+  },
+  "Open target folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Açık hedef dosyası"
+  },
+  "Open with": {
+    "origin": "Files:OpenWith",
+    "text": "Şununla aç:"
+  },
+  "Open with application": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Başvuru ile açık"
+  },
+  "Open with application…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Başvuru ile açık..."
+  },
+  "Open with…": {
+    "origin": "Files:OpenWith",
+    "text": "Şununla aç:"
+  },
+  "Open-ended media atoms require remuxing before editing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Açık açılan medya atomları, düzenleme öncesi remuxing gerektirir."
+  },
+  "OpenAllTaggedItems": {
+    "origin": "Files:OpenAllTaggedItems",
+    "text": "Tümünü aç"
+  },
+  "OpenLogFile": {
+    "origin": "Files:OpenLogFile",
+    "text": "Günlük dosyasını aç"
+  },
+  "Operation completed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Operasyon tamamlandı"
+  },
+  "Operation failed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Operasyon başarısız oldu"
+  },
+  "Operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Operasyonlar"
+  },
+  "Operations (%1$@ queued)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "İşlemler (%1$@ Çıktı )"
+  },
+  "Operations…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Operasyonlar..."
+  },
+  "Orange": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Portakal"
+  },
+  "Original location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Orijinal Konumu"
+  },
+  "Original locations are remembered for items deleted by MacFiles, including across launches.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Orijinal yerler silinmiş öğeler için hatırlanır MacFilesAyrıca başlangıçlarda da dahil."
+  },
+  "Original name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Orijinal Adı"
+  },
+  "Overcast": {
+    "origin": "Files:Overcast",
+    "text": "Kapalı"
+  },
+  "Owner": {
+    "origin": "Files:PropertyFileOwner",
+    "text": "Sahip"
+  },
+  "Owner UID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sahip UID"
+  },
+  "Ownership updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mülkiyet güncellenmiştir."
+  },
+  "POSIX permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "POSIX İzinler"
+  },
+  "Password": {
+    "origin": "Files:Password",
+    "text": "Parola"
+  },
+  "Password (optional, AES-256)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Şifre (seçmeli, AES-256)"
+  },
+  "Password / key passphrase (optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Anahtar Kelimeler / Anahtar Kelimeler (Seçmeli)"
+  },
+  "Password protection is supported for ZIP archives.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Şifre koruması desteklenir ZIP Arşivler için"
+  },
+  "Paste": {
+    "origin": "Files:Paste",
+    "text": "Yapıştır"
+  },
+  "Paste and drop transfers queue behind the current operation. Completed changes remain available through Undo. Copy cancellation stops the staged transfer before publishing it. Undo history is restored across launches.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Paste ve drop transferleri mevcut işleyişin arkasında kaydırır. tamamlanmış değişiklikler Undo aracılığıyla mevcut kalır. kopyalanma, yayınlanmadan önce aşamalı transferleri durdurur. Undo geçmişi başlatma sırasında geri dönüştürülür."
+  },
+  "Paste files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosyaları tutun"
+  },
+  "Paste shortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "Kısayol yapıştır"
+  },
+  "Paste the files into a permanent folder before creating aliases to them.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosyaları onlara aliaz oluşturmadan önce kalıcı bir klasöre yerleştirin."
+  },
+  "PasteItemToSelectionDescription": {
+    "origin": "Files:PasteItemToSelectionDescription",
+    "text": "Öğeleri seçilen klasöre yapıştır"
+  },
+  "PasteShortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "Kısayol yapıştır"
+  },
+  "Path": {
+    "origin": "Files:ExtractToPath",
+    "text": "Yol"
+  },
+  "Pattern": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Şekil"
+  },
+  "Permanently delete %1$@ items?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kalıcı olarak sil %1$@ Ürünler mi ?"
+  },
+  "Permissions": {
+    "origin": "Files:Permissions",
+    "text": "İzinler"
+  },
+  "Permissions are enforced by the server. FTP servers must support SITE CHMOD; SFTP uses SSH permissions.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Servis tarafından izinler verilmektedir. FTP Sunucu CHMOD Sitesini desteklemeli; SFTP Kullanımı SSH İzinler"
+  },
+  "Permissions are stored in the archive. Changes rebuild it and support Undo.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "İzinler arşivde kaydedilir. değişiklikler yeniden yapılandırılır ve Undo'yu destekler."
+  },
+  "Permissions updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "izinler güncellenmiştir."
+  },
+  "Permissions…": {
+    "origin": "Files:Permissions",
+    "text": "İzinler"
+  },
+  "Pick up where you left off": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nerede bıraktığınızı seçin"
+  },
+  "Pictures": {
+    "origin": "Files:Pictures",
+    "text": "Resimler"
+  },
+  "Pin this folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu dosyayı Pin"
+  },
+  "Pin to sidebar": {
+    "origin": "Files:PinFolderToSidebar",
+    "text": "Hızlı erişime sabitle"
+  },
+  "Pinned": {
+    "origin": "Files:Pinned",
+    "text": "Sabitlendi"
+  },
+  "Pinned folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pinned Dosyası"
+  },
+  "Play All": {
+    "origin": "Files:PlayAll",
+    "text": "Hepsini Oynat"
+  },
+  "PlayAll": {
+    "origin": "Files:PlayAll",
+    "text": "Hepsini Oynat"
+  },
+  "Port": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "liman"
+  },
+  "Preparing copy": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "kopyayı hazırlamak"
+  },
+  "Preparing move": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hareket için hazırlık"
+  },
+  "Presentation is saved with this virtual location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Görüntüleme bu sanal konumda kaydedilir."
+  },
+  "Press the shortcut…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kısa süreli basın..."
+  },
+  "Preview": {
+    "origin": "Files:Preview",
+    "text": "Önizleme"
+  },
+  "Previous layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Önceki Layout"
+  },
+  "Previous tab": {
+    "origin": "Files:PreviousTab",
+    "text": "Önceki sekme"
+  },
+  "Properties": {
+    "origin": "Files:OpenProperties",
+    "text": "Özellikler"
+  },
+  "Properties…": {
+    "origin": "Files:OpenProperties",
+    "text": "Özellikler"
+  },
+  "Property": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mülkiyet"
+  },
+  "Protocol": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Protokol"
+  },
+  "Provider controls in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tedarikçi kontrolü içinde Finder"
+  },
+  "Pull": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pull için"
+  },
+  "Purple": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Purple için"
+  },
+  "Push": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Push için"
+  },
+  "Queued": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Şikayetçi"
+  },
+  "Quick access": {
+    "origin": "Files:QuickAccess",
+    "text": "Hızlı erişim"
+  },
+  "Quit MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Çık MacFiles"
+  },
+  "Readable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Okunabilir"
+  },
+  "Recent files": {
+    "origin": "Files:RecentFiles",
+    "text": "Son dosyalar"
+  },
+  "Recent folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Son Dosyalar"
+  },
+  "Reconnect to the same server and account, then retry Undo. The remote recovery data remains in .MacFiles-Recovery.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Aynı sunucu ve hesabı yeniden bağlayın, sonra Undo'yu geri çekin. uzaktan kurtarma verileri .MacFiles-Recovery."
+  },
+  "Record shortcut": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rekor Kısa"
+  },
+  "Red": {
+    "origin": "Files:Red",
+    "text": "Kırmızı"
+  },
+  "Redo": {
+    "origin": "Files:Redo",
+    "text": "Tekrarla"
+  },
+  "Redo file operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Redo Dosya İşlemleri"
+  },
+  "Redoing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Redoya"
+  },
+  "Refresh": {
+    "origin": "Files:Refresh",
+    "text": "Yenile"
+  },
+  "Refresh · ⌘R": {
+    "origin": "Files:Refresh",
+    "text": "Yenile · ⌘R"
+  },
+  "Regular expression": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Düzenli ifade"
+  },
+  "Release notes": {
+    "origin": "Files:ReleaseNotes",
+    "text": "Sürüm Notları"
+  },
+  "Reload": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yükleme"
+  },
+  "Remember password in Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Şifreyi hatırlayın Keychain"
+  },
+  "Remote operation on %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "uzaktan operasyon %1$@"
+  },
+  "Remote path": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "uzaktan yol"
+  },
+  "Remote paths cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Uzaktan yollar çizgi boşlukları içermez veya NUL Karakterler için."
+  },
+  "Remotes": {
+    "origin": "Files:Remotes",
+    "text": "Uzak Bağlantılar"
+  },
+  "Remove": {
+    "origin": "Files:Remove",
+    "text": "Kaldır"
+  },
+  "Remove attribute…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atribut kaldırma..."
+  },
+  "Remove background image": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "arka plan görüntüsü kaldırma"
+  },
+  "Remove download": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Download İndir"
+  },
+  "Remove entries…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Girişleri Kaldır..."
+  },
+  "Remove from archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşivden kaldırma"
+  },
+  "Remove library": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kütüphane kaldırma"
+  },
+  "Remove local download…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yerel indirimleri kaldırın..."
+  },
+  "Remove references": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Referansları kaldırın"
+  },
+  "Remove saved credentials": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kurtarılan kimliklerin kaldırılması"
+  },
+  "Remove saved folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "kaydedilen dosyayı kaldırın"
+  },
+  "Remove saved search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kurtarılmış arama kaldırma"
+  },
+  "Remove selected entries from the archive?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşivden seçilmiş girişleri kaldırır mısınız?"
+  },
+  "Remove tags": {
+    "origin": "Files:RemoveTags",
+    "text": "Etiketleri kaldır"
+  },
+  "Remove the local download?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yerel indirmeyi kaldırır mısınız?"
+  },
+  "Remove ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "kaldırma »%1$@’?"
+  },
+  "RemoveTags": {
+    "origin": "Files:RemoveTags",
+    "text": "Etiketleri kaldır"
+  },
+  "Removing tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Etiket kaldırma"
+  },
+  "Rename": {
+    "origin": "Files:Rename",
+    "text": "Yeniden adlandır"
+  },
+  "Rename %1$@ items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yeniden adlandır %1$@ öğe"
+  },
+  "Rename archive entry": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv Adı Giriş"
+  },
+  "Rename entry…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Giriş Adı..."
+  },
+  "Rename failed. Your item is preserved at %1$@. %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Adınız başarısız oldu. öğeniniz kaydedildi %1$@. %2$@"
+  },
+  "Rename remote item": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Remote öğeleri rename"
+  },
+  "Rename…": {
+    "origin": "Files:Rename",
+    "text": "Yeniden adlandır"
+  },
+  "Renaming": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yeniden Yapılandırma"
+  },
+  "Renaming items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yeniden Yapılandırma Ürünleri"
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Finder uses the macOS palette; custom colors and stable IDs are retained by MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "kaydedilen etiket güncelleştirme dosyalarını yeniden düzenlemek veya silmek SpotlightIndeksiz veya erişilemez dosyalar eski etiketini koruyabilir. Finder Kullanmak için macOS palet; özelleştirilmiş renkler ve istikrarlı kimlikler MacFiles."
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Tag colors use the macOS palette.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "kaydedilen etiket güncelleştirme dosyalarını yeniden düzenlemek veya silmek Spotlightindekslenmemiş veya erişilemez dosyalar eski etiketini saklayabilir. macOS Palet için."
+  },
+  "Reopen closed tab": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kapatılan tab yeniden açılır"
+  },
+  "Replace": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Değiştirme"
+  },
+  "Replace this item's ACL?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu öğeyi değiştirin ACL?"
+  },
+  "Replace with": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Değiştirme ile"
+  },
+  "Replace, keeping backup": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yükleme, yedekleme tutma"
+  },
+  "Report an issue": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bir konu raporu"
+  },
+  "Repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Repositorya"
+  },
+  "Repository URL": {
+    "origin": "Files:RepositoryURL",
+    "text": "Depo URL'si"
+  },
+  "Requesting cloud download": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud Download İsteği"
+  },
+  "Reset": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yeniden kurun"
+  },
+  "Reset all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Her Şey Yeniden"
+  },
+  "Reset icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "İkon Yorumları"
+  },
+  "Reset pinned folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yıkılmış dosyaları yeniden düzenleyin"
+  },
+  "Restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yeniden Başlat MacFiles"
+  },
+  "Restore all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Her Şeyi Geri Dönüştür"
+  },
+  "Restore command defaults": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Komut defektleri kurtarma"
+  },
+  "Restore here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Buraya geri dön"
+  },
+  "Restore original location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Orijinal Konumu Geri Dönüştür"
+  },
+  "Restore previous folder viewer": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Önceki Dosya Görüntüleri Kurtarma"
+  },
+  "Restore tabs at launch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Başlangıçta tabları geri yükleme"
+  },
+  "Restore to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Geri dönüşüm için..."
+  },
+  "Restoring from Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Trash'tan kurtarma"
+  },
+  "Results come from the macOS Spotlight index. Unindexed folders are not included.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sonuçlar T’den geliyor macOS Spotlight indeksleme: indeksleme olmayan dosyalar dahil değildir."
+  },
+  "Results in this folder and subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu klasörde ve alt klasörlerde sonuçlar"
+  },
+  "Retargeting shortcut": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Retarget Shortcut İndirimleri"
+  },
+  "Retarget…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Geri dönüş..."
+  },
+  "Reveal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Açıklama"
+  },
+  "Reveal in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Açıklama içinde Finder"
+  },
+  "Reverse tab scroll direction": {
+    "origin": "Files:ReverseTabScrollDirection",
+    "text": "Sekme kaydırma yönünü tersine çevir"
+  },
+  "Review server fingerprint…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Servis parmak izi..."
+  },
+  "Right": {
+    "origin": "Files:Right",
+    "text": "Sağ"
+  },
+  "Rotate left": {
+    "origin": "Files:RotateLeft",
+    "text": "Sola Döndür"
+  },
+  "Rotate right": {
+    "origin": "Files:RotateRight",
+    "text": "Sağa Döndür"
+  },
+  "Rotating left": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "sol döndürme"
+  },
+  "Rotating right": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Doğru döndürme"
+  },
+  "Running": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "koşu"
+  },
+  "SFTP (SSH keys)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SFTP (SSH Anahtarlar )"
+  },
+  "SMB, AFP, or WebDAV share": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SMB, AFPya da WebDAV Paylaş"
+  },
+  "SSH known-host verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH Konuk kontrolü"
+  },
+  "SSH passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH Şifre çizgi boşlukları içermez veya NUL Karakterler için."
+  },
+  "Save": {
+    "origin": "Files:Save",
+    "text": "Kaydet"
+  },
+  "Save attribute": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atribüel kurtarma"
+  },
+  "Save folder layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "folder layout kurtarma"
+  },
+  "Save metadata": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Metadata kurtarma"
+  },
+  "Save search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "arama kurtarma"
+  },
+  "Save search…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arama kurtarma..."
+  },
+  "Save to Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "kurtarmak için Keychain"
+  },
+  "Saved connections": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "kurtarılan bağlantılar"
+  },
+  "Saved searches": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "kurtarılan arama"
+  },
+  "Saved. The token will be used for GitHub HTTPS operations.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu token, GitHub HTTPS işlemleri için kullanılacaktır."
+  },
+  "Seafoam": {
+    "origin": "Files:Seafoam",
+    "text": "Deniz Köpüğü"
+  },
+  "Search": {
+    "origin": "Files:Key.BrowserSearch",
+    "text": "Ara"
+  },
+  "Search %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ara %1$@"
+  },
+  "Search %1$@ · Return searches subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ara %1$@ · Arama subfolders geri"
+  },
+  "Search available actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mevcut eylemleri arayın"
+  },
+  "Search commands": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "arama komutları"
+  },
+  "Search folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "arama dosyası"
+  },
+  "Search settings": {
+    "origin": "Files:SearchSettings",
+    "text": "Ayarlarda ara..."
+  },
+  "Search stopped.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arama durdu"
+  },
+  "Search subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Subfolders arama"
+  },
+  "Security": {
+    "origin": "Files:Security",
+    "text": "Güvenlik"
+  },
+  "Select": {
+    "origin": "Files:NavToolbarSelectionOptions.Label",
+    "text": "Seç"
+  },
+  "Select a file to view its diff.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bir dosyayı seçin ve diff'ini görüntüleyin."
+  },
+  "Select a macOS alias or symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "A seçeneği macOS Alias veya sembolik bağlantı."
+  },
+  "Select a regular media file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Düzenli bir medya dosyasını seçin."
+  },
+  "Select all": {
+    "origin": "Files:SelectAll",
+    "text": "Tümünü seç"
+  },
+  "Select an archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bir arşiv seçin"
+  },
+  "Select an item to see its details.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Detaylarını görmek için bir öğe seçin."
+  },
+  "Select archive entries to remove.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kaldırmak için arşiv girişleri seçin."
+  },
+  "Select on hover": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hover için seçin"
+  },
+  "Select previous folder when navigating up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yukarıda gezerken önceki klasörü seçin"
+  },
+  "Select uniquely named items to archive.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv için benzersiz isimli öğeleri seçin."
+  },
+  "Selected items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Seçilen öğeler"
+  },
+  "Selected items have duplicate names. Archive them separately.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Seçilen öğeler çift isimler içerir. ayrı arşivlenir."
+  },
+  "Selection checkboxes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "kontrol kutuları seçimi"
+  },
+  "Separate file and folder counts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Farklı dosya ve klasör sayısı"
+  },
+  "Separator": {
+    "origin": "Files:Separator",
+    "text": "Ayraç"
+  },
+  "Server": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Serverler"
+  },
+  "Set as app background": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "Uygulama arka planı olarak ayarla"
+  },
+  "Set as wallpaper": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Duvar kağıdı olarak ayarlanır"
+  },
+  "Set default": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "default ayarları"
+  },
+  "SetAsAppBackground": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "Uygulama arka planı olarak ayarla"
+  },
+  "Settings": {
+    "origin": "Files:Settings",
+    "text": "Ayarlar"
+  },
+  "Settings file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Settings dosyaları"
+  },
+  "Settings saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ayarları kurtarıldı."
+  },
+  "Settings…": {
+    "origin": "Files:Settings",
+    "text": "Ayarlar"
+  },
+  "Share": {
+    "origin": "Files:Share",
+    "text": "Paylaş"
+  },
+  "Share…": {
+    "origin": "Files:Share",
+    "text": "Paylaş"
+  },
+  "Shelf": {
+    "origin": "Files:Shelf",
+    "text": "Raf"
+  },
+  "Shortcut": {
+    "origin": "Files:Shortcut",
+    "text": "Kısayol"
+  },
+  "Shortcuts apply in the explorer. Text fields keep native editing behavior. Resolve duplicate assignments before applying.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kısaltmalar tarayıcıda uygulanır. metin alanları yerli düzenleme davranışını korur. uygulama yapmadan önce çifte görevleri çözün."
+  },
+  "Show dotfiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "dokunmatik gösterim"
+  },
+  "Show hidden files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gizli dosyaları göster"
+  },
+  "Show in folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Folder içinde göster"
+  },
+  "Show log in folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Log dosyasında göster"
+  },
+  "Show menu bar icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Icon Menü Barı"
+  },
+  "Show package contents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Paket içeriği göster"
+  },
+  "Show shelf button": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Shelf düğmesi göster"
+  },
+  "Show staged diff": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gösterim DIF"
+  },
+  "Show status bar": {
+    "origin": "Files:ShowStatusBar",
+    "text": "Durum çubuğunu göster"
+  },
+  "Show tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tab Etkinlikleri Göster"
+  },
+  "Show thumbnails": {
+    "origin": "Files:SettingsFilesAndFoldersShowThumbnails",
+    "text": "Küçük resimleri göster"
+  },
+  "ShowFileExtensions": {
+    "origin": "Files:ShowFileExtensions",
+    "text": "Dosya uzantıları"
+  },
+  "Sidebar": {
+    "origin": "Files:Sidebar",
+    "text": "Kenar Çubuğu"
+  },
+  "Signature": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "İmza"
+  },
+  "Signature integrity verification failed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "İmza doğrulama başarısız oldu."
+  },
+  "Signature integrity verified. This does not constitute a notarization or malware assessment.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "İmza bütünlüğü doğrulanmıştır. Bu bir noterlik veya kötü amaçlı yazılım değerlendirmesi oluşturmaz."
+  },
+  "Signatures": {
+    "origin": "Files:Signatures",
+    "text": "İmzalar"
+  },
+  "Single file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tek Dosya"
+  },
+  "Single folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tek Dosya"
+  },
+  "Single-click columns": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "tek tıklama sütunları"
+  },
+  "Single-click files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "tek tıklama dosyaları"
+  },
+  "Single-click folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "tek tıklama dosyaları"
+  },
+  "Size": {
+    "origin": "Files:SizeLabel",
+    "text": "Boyut:"
+  },
+  "Size units": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "boyut birimleri"
+  },
+  "Skip": {
+    "origin": "Files:Skip",
+    "text": "Atla"
+  },
+  "Skip existing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kayak var"
+  },
+  "Small icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Küçük İkonlar"
+  },
+  "Smooth scrolling": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yumuşak kaydırma"
+  },
+  "Solid": {
+    "origin": "Files:Solid",
+    "text": "Katı"
+  },
+  "Some files could not be updated. The saved tag was retained so you can retry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bazı dosyalar güncellenemezdi. kaydedilen etiket saklandı, böylece geri çekilebilir."
+  },
+  "Some items could not be read.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bazı konular okunamaz."
+  },
+  "Some items couldn’t be completed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bir kısmı tamamlanamıyordu"
+  },
+  "Some items have no recorded original location. Select them and use Restore to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bazı öğeler kaydedilmemiş orijinal konuma sahip değildir. Onları seçin ve kullanın..."
+  },
+  "Sort": {
+    "origin": "Files:Sort",
+    "text": "Sırala"
+  },
+  "Sort by": {
+    "origin": "Files:SortBy",
+    "text": "Sırala"
+  },
+  "SortFilesAndFoldersTogether": {
+    "origin": "Files:SortFilesAndFoldersTogether",
+    "text": "Dosyaları ve klasörleri birlikte sırala"
+  },
+  "SortFilesFirst": {
+    "origin": "Files:SortFilesFirst",
+    "text": "Önce dosyaları sırala"
+  },
+  "SortFoldersFirst": {
+    "origin": "Files:SortFoldersFirst",
+    "text": "Önce klasörleri sırala"
+  },
+  "Source code": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kaynak kodu"
+  },
+  "Special device entries cannot be extracted: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Özel cihaz girişleri çıkarılamaz: %1$@"
+  },
+  "Split archives use ZIP or 7z format.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşivleri Paylaşım ZIP veya 7z Biçim"
+  },
+  "Split into volumes (MiB, optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Toplamda bölünür (MiB, seçmeli)"
+  },
+  "Stage all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tüm aşamalar"
+  },
+  "Stage selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Seçilen aşamalar"
+  },
+  "Staged all changes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tüm değişiklikleri durdurmak"
+  },
+  "Staged selected files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Seçilen dosyaları seçin"
+  },
+  "Start": {
+    "origin": "Files:Start",
+    "text": "Başlat"
+  },
+  "Start folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "başlangıç dosyası"
+  },
+  "Startup": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Başlangıç"
+  },
+  "Startup and tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup ve Tabs"
+  },
+  "Startup folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup Dosyaları"
+  },
+  "Startup folders are used when session restoration is disabled. An empty list opens Home.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Başlangıç klasörleri oturum restorasyonu devre dışı bırakıldığında kullanılır. boş bir liste Ev açılır."
+  },
+  "Status": {
+    "origin": "Files:StatusWithColon",
+    "text": "Durum:"
+  },
+  "Stop": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "durdurma"
+  },
+  "Stopped before the next item. Completed items were kept.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sonraki yazı Sonraki yazı Sonraki yazı Sonraki yazı Sonraki yazı Sonraki yazı Sonraki yazı Sonraki yazı Sonraki yazı Sonraki yazı Sonraki yazı Sonraki yazı Sonraki yazı Sonraki yazı Sonraki yazı Sonraki yazı Sonraki yazı Sonraki yazı Sonraki yazı Sonraki yazı Sonraki yazı"
+  },
+  "Storage settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Depolama ayarları..."
+  },
+  "Storm": {
+    "origin": "Files:Storm",
+    "text": "Fırtına"
+  },
+  "Stretch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Stretch"
+  },
+  "Switch to new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yeni tablara geçiş yapın"
+  },
+  "Switched to %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Değişen %1$@"
+  },
+  "Symbolic Link": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "sembolik bağlantı"
+  },
+  "Symbolic link": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "sembolik bağlantı"
+  },
+  "Sync": {
+    "origin": "Files:GitSync",
+    "text": "Eşitle"
+  },
+  "Sync conflict": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sync çatışması"
+  },
+  "Sync error": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sync Hatası"
+  },
+  "Synced": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sünnet"
+  },
+  "Synchronize folder preferences": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosya tercihlerini senkronize edin"
+  },
+  "System": {
+    "origin": "Files:SystemTimeStyle",
+    "text": "Sistem"
+  },
+  "TLS certificate verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "TLS Sertifika Kontrolü"
+  },
+  "Tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tab Etkinlikleri"
+  },
+  "Tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tabs"
+  },
+  "Tag": {
+    "origin": "Files:Tag",
+    "text": "Dosya etiketi"
+  },
+  "Tag (blank = all tags)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag (beyaz = tüm etiketler)"
+  },
+  "Tag color": {
+    "origin": "Files:TagColor",
+    "text": "Etiket rengi"
+  },
+  "Tag name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag Adı"
+  },
+  "Tag names must be unique.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Etiket isimleri benzersiz olmalıdır."
+  },
+  "Tag update failed and original metadata could not be restored: ": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag güncelleştirme başarısız ve orijinal metadata kurtarılamaz: "
+  },
+  "Tagged items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Etiketli öğeler"
+  },
+  "Tags": {
+    "origin": "Files:FileTags",
+    "text": "Etiketler"
+  },
+  "Tags, separated by commas": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Etiketler, Commas tarafından ayrılmış"
+  },
+  "Target": {
+    "origin": "Files:PropertyItemTarget",
+    "text": "Hedef"
+  },
+  "Terminal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Terminal"
+  },
+  "Test IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Test IDE"
+  },
+  "The ACL failed validation.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu ACL Validasyon başarısız oldu."
+  },
+  "The command failed (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Komutanlık başarısız oldu (%1$@)."
+  },
+  "The custom icon and saved layout belong to the selected item.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Özelleştirilmiş simge ve kaydedilen düzen seçilen öğeye aittir."
+  },
+  "The destination connection changed. Drop the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hedef bağlantısı değiştirildi. dosyaları tekrar atın."
+  },
+  "The destination connection changed. Paste the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hedef bağlantısı değiştirildi. dosyaları tekrar ekleyin."
+  },
+  "The destination is not an accessible folder.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Amaç, erişilebilir bir klasör değildir."
+  },
+  "The icon could not be changed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "İkon değiştirilemezdi."
+  },
+  "The icon could not be reset.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "İkon yeniden ayarlanamaz."
+  },
+  "The media container did not retain: ": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Medya konteynerleri şunları saklamadı: "
+  },
+  "The media tracks cannot be preserved in this container.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu konteynerde medya izleri saklanamaz."
+  },
+  "The new shortcut target does not exist.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kısa vadeli hedefimiz yok."
+  },
+  "The old shortcut is in Trash, but macOS did not return its location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "eski kısımlar çürük, ama macOS Yerini geri getirmedi."
+  },
+  "The original archive remains recoverable with Undo.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Orijinal arşiv, Undo ile geri dönüştürülebilir kalır."
+  },
+  "The server did not return a valid host-key list.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sunucu geçerli bir barındırma anahtarı listesini iade etmedi."
+  },
+  "The server recovery path is occupied by a file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Server kurtarma yolu bir dosya tarafından işgal edilir."
+  },
+  "The server returned an unsafe or unsupported filename.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sunucu güvenli veya desteklenmemiş bir dosya adı iade etti."
+  },
+  "The server returned an unsupported directory listing. No transfer was started.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sunucu desteklenmemiş bir dizin listesini iade etti. transfer başlatılmadı."
+  },
+  "The shortcut will point to %1$@. The target file itself is not modified.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kısaltma işareti gösterecek %1$@Hedef dosyası değiştirilmemiştir."
+  },
+  "The slideshow changes desktop wallpaper while MacFiles is running. It resumes at launch when enabled. macOS controls the lock screen wallpaper separately.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Slideshow, masaüstü duvar kağıdı değiştirirken MacFiles Yürüyüş yapılır. etkin olduğunda yeniden başlatılır. macOS Kilit ekran duvar kağıdı ayrı kontrol eder."
+  },
+  "The system script could not be compiled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sistem senaryosunu hazırlamak mümkün değildi."
+  },
+  "The system script could not be created.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sistem senaryosu oluşturulamazdı."
+  },
+  "The transfer selection changed. Cut the items again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Transfer seçeneği değiştirildi. öğeleri yeniden kesin."
+  },
+  "The uploaded data did not match its source. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gönderilen veriler kaynağına uygun değildi. kaynağı saklandı."
+  },
+  "The uploaded iCloud copy remains available. macOS will download it again when needed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yüklenmiş iCloud kopyası mevcuttur. macOS İhtiyaç duyulduğunda tekrar indirilecektir."
+  },
+  "Theme": {
+    "origin": "Files:SettingsAppearanceTheme",
+    "text": "Tema"
+  },
+  "These items will be removed from Trash. This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu maddeler Trash'tan kaldırılacaktır. bu vazgeçilmez."
+  },
+  "Third-party providers do not expose a common public sync-completion API. Available locally describes downloaded bytes, not upload completion. Download requests do not pin files permanently.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Üçüncü taraf sağlayıcılar ortak bir toplu senkronizasyon tamamlama API'sini göstermez. yerel olarak mevcut indirilmiş byteyi, yükleme tamamlanmasını tanımlar. indirme istekleri dosyaları kalıcı olarak pin etmez."
+  },
+  "This FTP server cannot create symbolic links. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu FTP Sunucu sembolik bağlantılar oluşturamaz. kaynak korunmuştur."
+  },
+  "This Mac": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu Mac"
+  },
+  "This alias contains a target cycle.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu alias bir hedef döngüsü içerir."
+  },
+  "This archive format is read-only. Extract it and create a ZIP or 7z archive to edit its contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu arşiv biçimi sadece okunan. çıkarın ve bir ZIP veya 7z Arşiv içeriğini düzenlemek için."
+  },
+  "This archive or server protocol does not expose macOS extended attributes. Extract or download the item to manage attributes on its local copy.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu arşiv veya sunucu protokolü ortaya koymuyor macOS Genişletilmiş özellikler. öğeyi yerel kopyasındaki özellikleri yönetmek için çıkarın veya indirin."
+  },
+  "This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu durum kaçınılmaz değildir."
+  },
+  "This changes the registered folder viewer. Finder still manages the desktop and macOS file dialogs. You can restore the previous viewer here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu, kayıtlı klasör izleyiciyi değiştirir. Finder Oturma alanı da yönetiyor ve macOS Dosya diyalogları. önceki tarayıcıyı burada geri getirebilirsiniz."
+  },
+  "This changes which users can access the item. Export the existing ACL first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu değişiklikler kullanıcıların öğeye erişebileceği. mevcut öğeyi ihraç etmek ACL Öncelikle bir yedeklemeye ihtiyacınız varsa."
+  },
+  "This folder is empty": {
+    "origin": "Files:EmptyFolder.Text",
+    "text": "Bu klasör boş."
+  },
+  "This location is not ready for transfers.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu yer transferler için hazır değildir."
+  },
+  "This media format cannot be edited by the native exporter.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu medya biçimi yerli ihracatçı tarafından düzenlenemez."
+  },
+  "This metadata container uses indexed keys; edit it with its native media application.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu metadata konteynerinde indeksli anahtarlar kullanılır; yerli medya uygulamasıyla düzenlenir."
+  },
+  "This operation cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu operasyon reddedilemez."
+  },
+  "This removes the attribute from this file. Export its bytes first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu, bu dosyadan atribüt kaldırır. öncelikle bir yedekleme ihtiyacınız varsa byteyi ihraç edin."
+  },
+  "Thumbnail cache limit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Temizleme limiti"
+  },
+  "Thumbnails": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thumbnail"
+  },
+  "Thumbnails are cached in memory. The limit applies to decoded images.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tombnails hafızada gizlenir. sınırı dekodlanmış görüntüler için geçerlidir."
+  },
+  "Tiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "TİLLİ"
+  },
+  "Title": {
+    "origin": "Files:PropertyTitle",
+    "text": "Başlık"
+  },
+  "Today": {
+    "origin": "Files:Today",
+    "text": "Bugün"
+  },
+  "Toggle compact overlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "Kompakt üstyazımı aç / kapa"
+  },
+  "Toggle details pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Detaylı Bilgiler Pan"
+  },
+  "Toggle dual pane": {
+    "origin": "Files:ToggleDualPane",
+    "text": "Çift bölmeyi değiştir"
+  },
+  "Toggle filter header": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "Filtre başlığını değiştir"
+  },
+  "Toggle full screen": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tam Ekranı Birleştirin"
+  },
+  "Toggle selection": {
+    "origin": "Files:ToggleSelect",
+    "text": "Seçimi Değiştir"
+  },
+  "ToggleCompactOverlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "Kompakt üstyazımı aç / kapa"
+  },
+  "ToggleFilterHeader": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "Filtre başlığını değiştir"
+  },
+  "ToggleSelect": {
+    "origin": "Files:ToggleSelect",
+    "text": "Seçimi Değiştir"
+  },
+  "ToggleSidebar": {
+    "origin": "Files:ToggleSidebar",
+    "text": "Kenar çubuğunu değiştir"
+  },
+  "ToggleToolbar": {
+    "origin": "Files:ToggleToolbar",
+    "text": "Araç çubuğunu değiştir"
+  },
+  "Too many nested aliases.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Çok fazla alüminyum var."
+  },
+  "Tools": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Araçlar"
+  },
+  "Top": {
+    "origin": "Files:Top",
+    "text": "Üst"
+  },
+  "Total size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Toplam boyut"
+  },
+  "Transfer failed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Transfer başarısız oldu"
+  },
+  "Trash": {
+    "origin": "Files:RecycleBin",
+    "text": "Geri Dönüşüm Kutusu"
+  },
+  "Trash on this Mac and connected volumes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu Mac'te ve bağlantılı hacimlerde çarpışma"
+  },
+  "Trust": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Güven"
+  },
+  "Trust this SSH server?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu konuda güven SSH Sunucu mı ?"
+  },
+  "Trust verified fingerprints": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Doğrulanmış parmak izleri"
+  },
+  "Try again": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "tekrar deneyin"
+  },
+  "Under window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "pencerede"
+  },
+  "Undo": {
+    "origin": "Files:Undo",
+    "text": "Geri al"
+  },
+  "Undo file operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosya Operasyonu"
+  },
+  "Undoing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dışarıda"
+  },
+  "Unencrypted FTP": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Şifrelenmemiş FTP"
+  },
+  "Universal": {
+    "origin": "Files:Universal",
+    "text": "Evrensel"
+  },
+  "Unknown": {
+    "origin": "Files:Unknown",
+    "text": "Bilinmeyen"
+  },
+  "Unknown shortcut command.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bilinmeyen kısaltma komutu."
+  },
+  "Unpin": {
+    "origin": "Files:Unpin",
+    "text": "Sabitlemeyi Kaldır"
+  },
+  "Unsafe archive link target.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Güvenli olmayan arşiv bağlantısı hedef."
+  },
+  "Unstage": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sınav"
+  },
+  "Unstaged selected files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Seçilen dosyaları kaydetme"
+  },
+  "Unsupported Git action.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Destekleme Git Eylem"
+  },
+  "Unsupported archive entry name or listing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Desteklenmemiş arşiv giriş adı veya listeleme."
+  },
+  "Unsupported file type in transfer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Transferde desteklenmemiş dosya türü."
+  },
+  "Unsupported metadata container version.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Konteyner metadata versiyonu desteklenmiyor."
+  },
+  "Unsupported movie header.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Desteklemeyen film başlığı."
+  },
+  "Untagged": {
+    "origin": "Files:Untagged",
+    "text": "Etiketlenmemiş"
+  },
+  "Up": {
+    "origin": "Files:Key.Up",
+    "text": "Yukarı"
+  },
+  "Up one level": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bir seviye yukarı"
+  },
+  "Up one level · ⌘↑": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bir seviyeye yükselir; ⌘↑"
+  },
+  "Updates native macOS tags for all selected items. Leave empty to remove tags.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Native Güncellemeleri macOS Tüm seçilen öğeler için etiketler. etiketleri kaldırmak için boş bırakın."
+  },
+  "Updating archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv Güncellemesi"
+  },
+  "Updating media metadata": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Media Metadata Güncellemesi"
+  },
+  "Updating permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "izinleri güncelleştirmek"
+  },
+  "Upload": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yükseltme"
+  },
+  "Upload failed. The original remains at %1$@; the pending upload is %2$@. %3$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yükleme başarısız oldu. orijinal kalır %1$@Yükseltme süresi devam ediyor %2$@. %3$@"
+  },
+  "Upload files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosyaları yüklemek..."
+  },
+  "Upload regular files or folders; symbolic links are not followed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Düzenli dosyaları veya klasörleri yükleyin; sembolik bağlantılar takip edilmez."
+  },
+  "Uploading": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yükleme"
+  },
+  "Upstream Files issues": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Upstream Dosya Sorunları"
+  },
+  "Use Copy and Paste or Download to transfer remote items.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kopyayı ve Pastayı veya İndir'i kullanarak uzaktan öğeleri aktarabilirsiniz."
+  },
+  "Use Copy or Extract to transfer archive contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Arşiv içeriğini aktarmak için Kopyalama veya Ekstrakt kullanın."
+  },
+  "Use MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kullanım MacFiles"
+  },
+  "Use MacFiles for folder URLs?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kullanım MacFiles URL’ler için mi?"
+  },
+  "Use MacFiles for folder URLs…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kullanım MacFiles URL dosyaları için..."
+  },
+  "User": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kullanıcı"
+  },
+  "Username": {
+    "origin": "Files:CredentialDialogUserName.PlaceholderText",
+    "text": "Kullanıcı adı"
+  },
+  "Uses SSH keys or the password above. Host-key verification remains enabled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kullanım SSH Anahtarlar veya şifre yukarıda. Host-key doğrulama hala etkin kalır."
+  },
+  "Uses the on-device Apple Intelligence model when available. Otherwise searches the words you entered. No file content is sent to a server.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kullanılan Apple Intelligence modelini kullanır. aksi takdirde girdiğiniz kelimeleri arar. dosya içeriği bir sunucuya gönderilmez."
+  },
+  "Value": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Değer"
+  },
+  "Verified host keys saved for MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Doğrulanmış ev sahipliği anahtarları kaydedildi MacFiles."
+  },
+  "Vertical alignment": {
+    "origin": "Files:VerticalAlignment",
+    "text": "Dikey hizalama"
+  },
+  "Vertical split": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vertikal bölünme"
+  },
+  "View": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Görüş"
+  },
+  "Volume": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Volume için"
+  },
+  "Volume available": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mevcut hacim"
+  },
+  "Volume capacity": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Volume Kapasitesi"
+  },
+  "Volume case sensitive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Volume sensitive durumları"
+  },
+  "Volume read only": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Volume sadece okuma"
+  },
+  "Volumes must be at least 1 KiB.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Boyutlar en az 1 KiB olmalıdır."
+  },
+  "Waiting to sync": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sync için bekleyin"
+  },
+  "Wallpaper could not be changed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Duvar kağıdı değiştirilemez"
+  },
+  "Wallpaper slideshow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Wallpaper slideshow"
+  },
+  "Wallpaper slideshow…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Wallpaper slideshow..."
+  },
+  "Warn when changing file extensions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosya uzantılarını değiştirirken uyarın"
+  },
+  "When an item exists": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bir öğe varsa"
+  },
+  "When names conflict, choose Keep both, Replace, or Skip. Replaced versions and deleted items go to the macOS Trash. Undo and redo are retained across launches and shared by open windows.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "İsimler çelişiyorsa, Her ikisini de tut, Değiştir veya Kaydır'ı seçin. macOS Undo ve redo, başlangıçlar boyunca saklanır ve açık pencereler tarafından paylaşılır."
+  },
+  "Working…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Çalışma..."
+  },
+  "Writable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yazılı"
+  },
+  "Writes embedded metadata. Image files may be re-encoded; the original remains recoverable with Undo. Audio and video edits preserve encoded tracks. Unsupported containers keep the original.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Metadata içerir. görüntü dosyaları yeniden şifrelenebilir; orijinal Undo ile geri dönüştürülebilir kalır. ses ve video düzenlemeleri şifrelenmiş izleri korur. desteklenmemiş konteynerler orijinal tutar."
+  },
+  "Year": {
+    "origin": "Files:Year",
+    "text": "Yıl"
+  },
+  "Yellow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sarı"
+  },
+  "Yes": {
+    "origin": "Files:Yes",
+    "text": "Evet"
+  },
+  "Yesterday": {
+    "origin": "Files:Yesterday",
+    "text": "Dün"
+  },
+  "You can restore these items with Undo or from the Trash.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bu öğeleri Undo ile veya Trash'tan kurtarabilirsiniz."
+  },
+  "Your files, your way.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dosyalarınız ve yolunuz."
+  },
+  "Your pinned folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yüzüklerinizdeki dosyalarınız"
+  },
+  "Zoom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "zoom"
+  },
+  "macOS aliases and symbolic links refer to a target path. Windows shortcut arguments and Run as administrator flags do not have alias equivalents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Aliaslar ve sembolik bağlantılar bir hedef yolu ifade eder. Windows Kısa süreli argümanlar ve yönetici bayrakları olarak çalıştırma alias eşdeğerleri yoktur."
+  },
+  "macOS integration": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS bütünleşme"
+  },
+  "macOS moved the previous version to Trash but did not return its location. The new version was not installed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Önceki versiyonu Trash'a taşındı ama yerini geri getirmedi."
+  },
+  "macOS returned %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS geri döndü %1$@."
+  },
+  "macOS uses Mach-O architectures and the application's minimum OS version. Windows compatibility modes, DPI overrides and administrator flags cannot be applied to a native Mac app.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Kullanımı Mach-O Arşitektürler ve uygulamanın minimum OS versiyonu. Windows Uyumluluk modları, DPI aşırıları ve yönetici bayrakları yerli bir Mac uygulamasına uygulanamaz."
+  }
+}

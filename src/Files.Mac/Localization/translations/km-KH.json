@@ -1,0 +1,5244 @@
+{
+  "%1$@ MB": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ មេកាបៃ"
+  },
+  "%1$@ Trash location(s) could not be read. macOS may require Full Disk Access for Trash. Items listed here remain available to manage.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ សាកលវិទ្យាល័យ (សាកលវិទ្យាល័យ) មិនអាចរកបាន។ macOS អ្នកអាចត្រូវការចូលទៅក្នុងការបណ្តាញទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យ."
+  },
+  "%1$@ destination name(s) already exist": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ សាកលវិទ្យាល័យ (s) ដែលមានទីតាំងស្ថិតនៅលើ"
+  },
+  "%1$@ entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ សាកល្បង"
+  },
+  "%1$@ folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ ថតឯកសារ"
+  },
+  "%1$@ folders · %2$@ files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ កុំព្យូទ័រ %2$@ ឯកសារ"
+  },
+  "%1$@ folders · saves to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ កម្រិតកម្រិតកម្រិតកម្រិតកម្រិត %2$@"
+  },
+  "%1$@ free of %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ សាកលវិទ្យាល័យ %2$@"
+  },
+  "%1$@ inaccessible": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ មិនមែន"
+  },
+  "%1$@ is assigned more than once.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ ការផ្តល់ជូនច្រើនជាងមួយថ្ងៃ។"
+  },
+  "%1$@ is reserved by macOS or the application window.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ មានការពារដោយ macOS ឬការអនុវត្តកំណត់។"
+  },
+  "%1$@ is reserved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ សាកលវិទ្យាល័យ"
+  },
+  "%1$@ item(s) ready to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ សម្ភារៈ(s) បានរចនាឡើងដើម្បី %2$@"
+  },
+  "%1$@ selected items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ ការជ្រើសរើស"
+  },
+  "%1$@. Sync completion is managed by the provider and is not reported through public file metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@Sync completion ត្រូវបានគ្រប់គ្រងដោយអ្នកផ្គត់ផ្គង់និងមិនត្រូវបានបញ្ជូនដោយសារតែទិន្នន័យប្រវត្តិឯកសារសាកលវិទ្យាល័យ។"
+  },
+  "A different key is already trusted for this host. Review the changed key with the server administrator before replacing it.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅផ្សេងទៀតគឺជាការបញ្ជាក់សម្រាប់សៀវភៅនេះ។ ការបញ្ជាក់សៀវភៅផ្សេងទៀតជាមួយអ្នកគ្រប់គ្រងserver បន្ទាប់ពីការផ្លាស់ប្តូរវា។"
+  },
+  "A familiar place for everything.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យសាកលវិទ្យាល័យសម្រាប់ទាំងអស់។"
+  },
+  "A file operation is still running": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការធ្វើដំណើរការទិន្នន័យនៅតែធ្វើដំណើរ"
+  },
+  "A folder cannot be copied or moved inside itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិតនេះមិនអាចត្រូវបានកំណត់ឬរក្សាទុកនៅក្នុងខ្លួនឯង។"
+  },
+  "A shortcut cannot target itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការកាត់បន្ថយមិនអាចជួយខ្លួនឯង។"
+  },
+  "ACL updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ACL សាកលវិទ្យាល័យ"
+  },
+  "About": {
+    "origin": "Files:About",
+    "text": "អំពី"
+  },
+  "About MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អំពី MacFiles"
+  },
+  "Accent color (hex)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ស្លាកស្លាកស្លាកស្លាក (hex)"
+  },
+  "Access control list — native macOS syntax": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការត្រួតពិនិត្យអតិថិជន - Native macOS សាកលវិទ្យាល័យ"
+  },
+  "Access token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋាន token"
+  },
+  "Accounts, authentication and sync preferences are managed by each provider’s native app. Removing a saved folder here does not unlink its account or delete files.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ជាទិន្នន័យ, ការបញ្ជាទិន្នន័យនិងការបញ្ជាទិន្នន័យត្រូវបានគ្រប់គ្រងដោយកម្មវិធីអ៊ីណុករបស់អ្នកផ្គត់ផ្គង់។ ការបិទឯកសារដែលបានកំណត់នៅទីនេះ មិនបិទការបញ្ជាទិន្នន័យឬការបិទឯកសារ។"
+  },
+  "Action unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការធ្វើដំណើរមិនអាចរកបាន"
+  },
+  "Actions": {
+    "origin": "Files:Actions",
+    "text": "សកម្មភាព"
+  },
+  "Adaptive": {
+    "origin": "Files:Adaptive",
+    "text": "ប្លង់​បត់បែន"
+  },
+  "Adaptive layout": {
+    "origin": "Files:Adaptive",
+    "text": "ប្លង់​បត់បែន"
+  },
+  "Add": {
+    "origin": "Files:Add",
+    "text": "បន្ថែម"
+  },
+  "Add cloud folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទិន្នន័យទិន្នន័យទិន្នន័យ Cloud..."
+  },
+  "Add current selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបន្ថែមការជ្រើសរើសនៅពេលនេះ"
+  },
+  "Add files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទិន្នន័យទិន្នន័យ..."
+  },
+  "Add folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទិន្នន័យទូទៅ..."
+  },
+  "Add images…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "រូបថតបន្ថែម..."
+  },
+  "Add prefix": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "បន្ថែម Prefix"
+  },
+  "Add saved tag": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "បន្ថែម Tags ការពារ"
+  },
+  "Add selection to shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបន្ថែមការជ្រើសរើសទៅ Shelf"
+  },
+  "Add startup folders…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបន្ថែម Startup Folders..."
+  },
+  "Add suffix": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "បន្ថែម suffix"
+  },
+  "Add to library": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "បន្ថែមទៅក្នុងសៀវភៅ"
+  },
+  "Add to shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "បន្ថែមទៅ Shelf"
+  },
+  "Advanced": {
+    "origin": "Files:Advanced",
+    "text": "កម្រិតខ្ពស់"
+  },
+  "Advanced search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការស្វែងរកខ្ពស់"
+  },
+  "Advanced search…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការស្វែងរកខ្ពស់..."
+  },
+  "Album": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅ"
+  },
+  "Allocated size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទំហំទូលាយ"
+  },
+  "Already assigned to %1$@. Remove that assignment first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យនេះត្រូវបានផ្តល់ជូននូវ %1$@បិទការបញ្ជូននេះដំបូង។"
+  },
+  "Always show operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកល្បងបច្ចេកទេស"
+  },
+  "Always visible": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកល្បងទាំងអស់"
+  },
+  "Always-visible items are combined with the current selection context. Cloud items add their own controls.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សម្ភារៈដែលអាចរកបាននៅពេលវេលាត្រូវបានបណ្តប់ជាមួយនឹងសម្ភារៈការជ្រើសរើសនៅពេលវេលា។ សម្ភារៈបន្លឺផ្តល់ជូននូវការគ្រប់គ្រងរបស់ខ្លួន។"
+  },
+  "Ambiguous archive listing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅអាសយដ្ឋានពិសេស។"
+  },
+  "Ambiguous media metadata containers.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ម៉ាស៊ីនធាតុទិន្នន័យពន្លឺពន្លឺ។"
+  },
+  "Any": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាក្រក់"
+  },
+  "App language (restart to apply)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អំណាចអំណាច (បណ្តាញអំណាចអំណាច)"
+  },
+  "Appearance": {
+    "origin": "Files:Appearance",
+    "text": "រូបរាង"
+  },
+  "Application": {
+    "origin": "Files:Application",
+    "text": "កម្មវិធី"
+  },
+  "Application unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការអនុវត្តមិនអាចរកបាន"
+  },
+  "Applies owner, group, and other permissions to the selected items only.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រតិបត្តិការអតិថិជន, Group, និងអតិថិជនផ្សេងទៀតសម្រាប់ប្រតិបត្តិការផ្សេងទៀតដែលបានជ្រើសរើស។"
+  },
+  "Apply": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Apply ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ ACL…"
+  },
+  "Apply UID %1$@ and GID %2$@ to this item only.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ UID %1$@ និង GID %2$@ នៅលើទីនេះតែមួយ។"
+  },
+  "Apply attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការអនុវត្ត atribute"
+  },
+  "Apply file permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការអនុញ្ញាតឯកសារ"
+  },
+  "Apply owner/group…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អតិថិជន / Group..."
+  },
+  "Approve MacFiles in Login Items in System Settings.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អំណោយ MacFiles នៅលើ Login សម្ភារៈនៅក្នុងការរៀបចំប្រព័ន្ធ។"
+  },
+  "Archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅ"
+  },
+  "Archive attempts to write through a link or file: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យ %1$@"
+  },
+  "Archive contains an unsafe path: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យនេះមានសាកលវិទ្យាល័យដែលមានសាកលវិទ្យាល័យដែលមានសាកលវិទ្យាល័យដែលមានសាកលវិទ្យាល័យដែលមានសាកលវិទ្យាល័យដែលមានសាកលវិទ្យាល័យដែលមានសាកលវិទ្យាល័យដែលមានសាកលវិទ្យាល័យ។ %1$@"
+  },
+  "Archive contains an unsafe symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យនេះមានការរក្សាទុកសាកលវិទ្យាល័យដែលមានការរក្សាទុកសាកលវិទ្យាល័យដែលមានការរក្សាទុកសាកលវិទ្យាល័យ។"
+  },
+  "Archive editing cannot traverse symbolic links.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបណ្តាញអាសយដ្ឋានមិនអាចដំណើរទៅលើការបណ្តុះបណ្តាលអាសយដ្ឋាន។"
+  },
+  "Archive link escapes its destination.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រហែលជាអាកាសធឺណិតបានកាត់បន្ថយដំណោះស្រាយរបស់ខ្លួន។"
+  },
+  "Archive link target is too long.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យ"
+  },
+  "Archive operation failed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការធ្វើដំណើរការអាសយដ្ឋាន មិនបានធ្វើដំណើរ។"
+  },
+  "Archive password (if needed)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ"
+  },
+  "Archive password (leave blank if unencrypted)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រតិបត្តិការ (Lave white if unencrypted)"
+  },
+  "Archive passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ NUL ប្រភេទ។"
+  },
+  "Archive path escapes the destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រហែលអាកាសធម្មតានឹងរស់ស្អាតពីទីតាំងស្ថិត: %1$@"
+  },
+  "Archive root": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅ root"
+  },
+  "Archive symbolic link escapes the destination.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រហែលអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋាន"
+  },
+  "Arrange panes side by side": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ចម្លងកាត់បន្ថយមែនទីផ្សារនៅទីផ្សារ"
+  },
+  "Arrange panes top and bottom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "បង្ហោះបណ្តុះបណ្តាលនៅលើខ្ពស់និងខាងក្រោម"
+  },
+  "Artist": {
+    "origin": "Files:Artist",
+    "text": "សិល្បករ"
+  },
+  "Artist / author": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅ / សៀវភៅ"
+  },
+  "Ascending": {
+    "origin": "Files:Ascending",
+    "text": "លំដាប់​ឡើង"
+  },
+  "Attribute name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អំណោយ"
+  },
+  "Attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អំណាច"
+  },
+  "Attributes updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រតិបត្តិការ Update ។"
+  },
+  "Auto-fit columns": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រភេទ Auto-Fit"
+  },
+  "AutoFitColumns": {
+    "origin": "Files:AutoFitColumns",
+    "text": "Auto-fit columns"
+  },
+  "Available locally": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យនៅទីក្រុង"
+  },
+  "Back": {
+    "origin": "Files:Back",
+    "text": "ត្រលប់"
+  },
+  "Back · ⌘[": {
+    "origin": "Files:Back",
+    "text": "ត្រលប់ · ⌘["
+  },
+  "Backdrop material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សម្ភារៈ Backdrop"
+  },
+  "Backdrop materials use macOS visual effects. Standard system controls and monospaced content retain their system fonts.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការប្រើប្រាស់សម្ភារៈ Backdrop macOS ការត្រួតពិនិត្យប្រព័ន្ធស្តង់ដារនិងការបញ្ចូលប្រព័ន្ធ monospaced មានតម្រូវការបញ្ចូលប្រព័ន្ធរបស់ពួកគេ។"
+  },
+  "Background": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Background color (blank = system)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ"
+  },
+  "Background image": {
+    "origin": "Files:BackgroundImage",
+    "text": "រូបភាពផ្ទៃខាងក្រោយ"
+  },
+  "Background image and status": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "រូបថត និង សាកល្បង"
+  },
+  "Background image opacity": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "រូបថត Opacity"
+  },
+  "Background mode keeps the menu bar icon available so you can reopen MacFiles or quit it.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំ MacFiles ឬគួរតែបិទ។"
+  },
+  "Background preset": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Base": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Base64": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ 64"
+  },
+  "Based on the Files Community explorer’s shell, MVVM, command, and storage architecture. Built with Swift, AppKit, and SwiftUI.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រតិបត្តិការ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ"
+  },
+  "Binary": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋាន"
+  },
+  "Blue": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋាន"
+  },
+  "Bottom": {
+    "origin": "Files:Bottom",
+    "text": "ក្រោម"
+  },
+  "Browse all tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្លុកទាំងអស់"
+  },
+  "Browse archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅ Browse"
+  },
+  "Browse archive…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ..."
+  },
+  "Browse tagged items…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse ស្លាក ស្លាក ស្លាក..."
+  },
+  "Browsing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបណ្តាញ"
+  },
+  "Browsing interactions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបណ្តុះបណ្តាល"
+  },
+  "Bulk rename": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋានអាសយដ្ឋាន"
+  },
+  "Bulk rename requires items from one folder.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការទាញយកកំណត់តម្រូវការជាប្រភេទមួយនៃការទាញយកកំណត់តម្រូវការ។"
+  },
+  "Bulk rename…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាកាសធាតុ..."
+  },
+  "Bytes": {
+    "origin": "Files:Bytes",
+    "text": "បៃ"
+  },
+  "Cache thumbnails": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទ្វារពន្លឺ"
+  },
+  "Calculate combined size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទំហំទំហំទំហំទំហំទំហំ"
+  },
+  "Calculate folder size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទំហំទំហំទំហំទំហំ"
+  },
+  "Calculate folder sizes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទំហំទំហំទំហំទំហំទំហំ"
+  },
+  "Calculate hashes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការទាញយក hashes..."
+  },
+  "Calculate total size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទំហំទំហំទំហំទំហំ"
+  },
+  "Calculating hashes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការទូទាត់ hashes..."
+  },
+  "Camouflage": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Cancel": {
+    "origin": "Files:Cancel",
+    "text": "បោះបង់"
+  },
+  "Cancel calculation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការទូទាត់ទូទាត់"
+  },
+  "Cancel operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការធ្វើដំណើរការ"
+  },
+  "Cancel queued operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "បិទការធ្វើដំណើរ Queued"
+  },
+  "Cancelled": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "បិទ"
+  },
+  "Cancelled before starting.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ចប់មុនពេលចាប់ផ្តើម។"
+  },
+  "Cancelled before starting. No files were changed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ជូនដោយឥតគិតថ្លៃនៅពេលដែលការចាប់ផ្តើម។ មិនបានផ្លាស់ប្តូរឯកសារទេ។"
+  },
+  "Cancelling the current operation…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ចប់ការធ្វើដំណើរនេះ..."
+  },
+  "Cannot allocate archive entry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនអាចរកបានប្រកាសកំណត់អាកាស។"
+  },
+  "Cannot allocate archive reader.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនអាចរកបានអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋាន។"
+  },
+  "Cannot allocate archive writer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អ្នកមិនអាចជឿទុកជាអាសយដ្ឋានអាសយដ្ឋាន"
+  },
+  "Cannot archive special device: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនអាចរកបានឧបករណ៍ឯកជន: %1$@"
+  },
+  "Cannot create archive entry: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនអាចបង្កើតអាសយដ្ឋានអាសយដ្ឋាន: %1$@"
+  },
+  "Cannot create subprocess output file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនអាចបង្កើតសៀវភៅបញ្ចូលដំណើរការទូទៅ។"
+  },
+  "Cannot decode image.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនអាចកំណត់រូបភាព។"
+  },
+  "Cannot prepare SSH authentication.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនអាចរៀបចំ SSH ការអនុម័ត"
+  },
+  "Cannot prepare command input.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនអាចរៀបចំការបញ្ជាទិន្នន័យ។"
+  },
+  "Cannot read %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនអាចរកឃើញ %1$@"
+  },
+  "Cannot read image metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនអាចរកឃើញទិន្នន័យទិន្នន័យរូបភាព។"
+  },
+  "Cannot remove the archive root.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនអាចបញ្ចូលការកំណត់ផ្នែកមួយនៃការកំណត់ផ្នែកមួយនៃការកំណត់ផ្នែកមួយ។"
+  },
+  "Cannot rename the archive root.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនអាចបង្ហាញពីការកំណត់ផ្លាស់ប្តូរនៃការកំណត់ផ្លាស់ប្តូរ។"
+  },
+  "Cannot restore archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនអាចរកបានការរក្សាទុកមាសតម្រូវការ។"
+  },
+  "Cannot rotate image.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនអាចធ្វើឱ្យរូបភាព។"
+  },
+  "Center": {
+    "origin": "Files:Center",
+    "text": "កណ្តាល"
+  },
+  "Change file extension?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការផ្លាស់ប្តូរឯកសារ?"
+  },
+  "Change ownership?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការផ្លាស់ប្តូរការអាជីវកម្ម?"
+  },
+  "Change provider app…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការផ្លាស់ប្តូរកម្មវិធី..."
+  },
+  "Change the shortcut target?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្លុកកំណត់កំណត់កំណត់កំណត់កំណត់កំណត់?"
+  },
+  "Changes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការអភិវឌ្ឍ"
+  },
+  "Changing the extension may prevent the file from opening in its usual application.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការផ្លាស់ប្តូរការអភិវឌ្ឍនេះអាចជួយកាត់បន្ថយការអភិវឌ្ឍឯកសារនៅក្នុងកម្មវិធីទូទៅរបស់ខ្លួន។"
+  },
+  "Choose IDE…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាកាសយល់..."
+  },
+  "Choose a destination to restore": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការជ្រើសរើសរើសរើសរើសរើសរើសរើស"
+  },
+  "Choose a file to calculate hashes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយកឯកសារដើម្បីទូទៅ hashes ។"
+  },
+  "Choose a new destination and a repository URL.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការជ្រើសរើសកំណត់ថ្មីនិង URL បម្រើ។"
+  },
+  "Choose a regular cloud file to download.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយកទិន្នន័យបណ្តាញបណ្តាញបណ្តាញបណ្តាញបណ្តាញបណ្តាញបណ្តាញបណ្តាញ"
+  },
+  "Choose a single file or folder to customize its icon.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការជ្រើសរើសឯកសារមួយឬឯកសារមួយដើម្បីកំណត់គំនិតរបស់វា។"
+  },
+  "Choose a supported single-frame image (JPEG, PNG, TIFF or HEIC).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយករូបរាងមួយដែលបានគាំទ្រ (JPEG, PNG, TIFF ឬ HEIC) ។"
+  },
+  "Choose a template file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការជ្រើសរើសឯកសារ Template"
+  },
+  "Choose custom icon…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អានអានអានអាន..."
+  },
+  "Choose folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិតកម្រិតកម្រិត..."
+  },
+  "Choose one item to edit ownership or ACLs.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការជ្រើសរើសមួយប្រភេទដើម្បីបញ្ចូលសកម្មភាពឬ ACLs ។"
+  },
+  "Choose one item to view extended attributes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សូមចុចប្រភេទមួយដើម្បីមើលប្រភេទពន្លឺ។"
+  },
+  "Choose provider app…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការជ្រើសរើសអ្នកផ្គត់ផ្គង់ App..."
+  },
+  "Clear": {
+    "origin": "Files:Key.Clear",
+    "text": "សម្អាត"
+  },
+  "Clear finished": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Clear selection": {
+    "origin": "Files:ClearSelection",
+    "text": "ជម្រះការជ្រើសរើស"
+  },
+  "Clear thumbnail cache": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កុំព្យូទ័រពន្លឺពន្លឺ"
+  },
+  "Clone": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ស្លាក"
+  },
+  "Clone repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ Clone"
+  },
+  "Clone…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ស្លាក..."
+  },
+  "Close": {
+    "origin": "Files:Close",
+    "text": "បិទ"
+  },
+  "Close details": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "លក្ខណៈពិសេស"
+  },
+  "Close other tabs": {
+    "origin": "Files:CloseOtherTabs",
+    "text": "បិទថេបដទៃ"
+  },
+  "Close tab": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Close tabs to the left": {
+    "origin": "Files:CloseTabsToTheLeft",
+    "text": "បិទថេបខាងឆេ្វង"
+  },
+  "Close tabs to the right": {
+    "origin": "Files:CloseTabsToTheRight",
+    "text": "បិទថេបខាងស្ដាំ"
+  },
+  "Close window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Cloud": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រហែលជា Cloud"
+  },
+  "Cloud accounts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រតិបត្តិការ Cloud"
+  },
+  "Cloud accounts and folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិតកម្រិតកម្រិតកម្រិតកម្រិតកម្រិត"
+  },
+  "Cloud availability and synchronization": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការប្រើប្រាស់បណ្តាញបណ្តាញបណ្តាញបណ្តាញបណ្តាញបណ្តាញបណ្តាញបណ្តាញ"
+  },
+  "Cloud folder name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រតិបត្តិការ Cloud"
+  },
+  "Cloud items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រតិបត្តិការ Cloud"
+  },
+  "Cloud provider": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការផ្គត់ផ្គង់ Cloud"
+  },
+  "Cloud providers installed on this Mac appear in the sidebar through their native File Provider folders.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការផ្តល់ជូននូវការបណ្តុះបណ្តាលបណ្តុះបណ្តាលបណ្តុះបណ្តាលបណ្តុះបណ្តាលបណ្តុះបណ្តាលបណ្តុះបណ្តាលបណ្តុះបណ្តាលបណ្តុះបណ្តាលបណ្តុះបណ្តាលបណ្តុះបណ្តាលបណ្តុះបណ្តាលបណ្តុះបណ្តាល File Provider ថតឯកសារ"
+  },
+  "Cloud status": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រព័ន្ធ ប្រតិបត្តិការ Cloud"
+  },
+  "Cloud status…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ"
+  },
+  "Cloud storage": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រវែង Cloud"
+  },
+  "Collapse folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិតកម្រិតកម្រិត"
+  },
+  "Collapsed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ស្លាក"
+  },
+  "Collect file references from different folders, then copy or move them together.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិតទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យ។"
+  },
+  "Columns": {
+    "origin": "Files:Columns",
+    "text": "ជួរឈរ"
+  },
+  "Columns layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រភេទ Layout"
+  },
+  "Command": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អតិថិជន"
+  },
+  "Command output exceeded 16 MiB; no truncated result was accepted.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការនាំចេញទូទៅបានជាង 16 MiB; មិនត្រូវបានទទួលបានការបញ្ចូលទូទៅ។"
+  },
+  "Command palette": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Command palette…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ..."
+  },
+  "Commit created": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបង្កើតការ"
+  },
+  "Commit message": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ជូន"
+  },
+  "Commit staged": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Compact file rows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កុំព្យូទ័រ Compact"
+  },
+  "Compare these SHA-256 fingerprints with your server administrator before trusting %1$@:%2$@.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការជំរុញ ទាំងនេះ SHA-256 ការសរសេរពន្លឺជាមួយអ្នកគ្រប់គ្រងអតិថិជនរបស់អ្នកនៅពេលដែលអ្នកបានជឿ %1$@:%2$@.\n\n"
+  },
+  "Compatibility": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Completed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Completed with errors": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការធ្វើដំណើរជាមួយនឹងការធ្វើដំណើរទំហំ"
+  },
+  "Compress": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កុំព្យូទ័រ"
+  },
+  "CompressIntoSevenZip": {
+    "origin": "Files:CompressIntoSevenZip",
+    "text": "Create 7z archive"
+  },
+  "CompressIntoZip": {
+    "origin": "Files:CompressIntoZip",
+    "text": "Create zip archive"
+  },
+  "Compressed movie headers require remuxing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាក"
+  },
+  "Compressing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កុំព្យូទ័រ"
+  },
+  "Compress…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កុំព្យូទ័រ"
+  },
+  "Confirm moving files to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ជាក់ទិន្នន័យទៅ Trash"
+  },
+  "Confirmations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ជាក់"
+  },
+  "Conflicts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Connect": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋាន"
+  },
+  "Connect to server": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រតិបត្តិការ Server"
+  },
+  "Connect to server…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ..."
+  },
+  "Connect to the server first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការចូលទៅក្នុង server នេះ ជាលើកដំបូង"
+  },
+  "Connected folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រតិបត្តិការ"
+  },
+  "Connected to this Mac": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធប្រតិបត្តិការ Mac នេះ"
+  },
+  "Contains UTF-8 text": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិត UTF-8 សៀវភៅ"
+  },
+  "Content search includes text, PDF, Office and OpenDocument files. Unsupported, locked and online-only files are counted as skipped.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការស្វែងរកទិន្នន័យរួមបញ្ចូលទាំងសៀវភៅ, PDF, Office និង OpenDocument ។ ការស្វែងរកទិន្នន័យដែលមិនបានគាំទ្រ, ការកំណត់និងទិន្នន័យនៅលើបណ្តាញតែត្រូវបានគិតថ្លៃជាការកំណត់។"
+  },
+  "Content type": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រភេទប្រភេទ"
+  },
+  "Contents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សម្ភារៈ"
+  },
+  "Context": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Context menu": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅអត្ថបទ"
+  },
+  "Copy": {
+    "origin": "Files:Copy",
+    "text": "ចម្លង"
+  },
+  "Copy app version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្មវិធីបណ្តាញ App Version"
+  },
+  "Copy hashes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការកំណត់ hashes"
+  },
+  "Copy here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្លុកនៅទីនេះ"
+  },
+  "Copy macOS version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ចម្លង macOS ជំនាន់:"
+  },
+  "Copy path": {
+    "origin": "Files:CopyPath",
+    "text": "ចម្លងទីតាំង"
+  },
+  "Copy report": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ជាការបង្ហាញ"
+  },
+  "Copy selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការកំណត់ផ្លាស់ប្តូរ"
+  },
+  "CopyItemPathWithQuotes": {
+    "origin": "Files:CopyItemPathWithQuotes",
+    "text": "ចម្លងទីតាំងនៃធាតុដែលបានរើសជាមួយសម្រង់"
+  },
+  "CopyPathDescription": {
+    "origin": "Files:CopyPathDescription",
+    "text": "Copy path of the current directory"
+  },
+  "CopyPathWithQuotes": {
+    "origin": "Files:CopyPathWithQuotes",
+    "text": "ចម្លងផ្លូវទីតាំង"
+  },
+  "Copying": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការកំណត់"
+  },
+  "Copying archive entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការកំណត់ផែនការអាសយដ្ឋាន"
+  },
+  "Copying files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការកំណត់ឯកសារ"
+  },
+  "Copyright": {
+    "origin": "Files:PropertyCopyright",
+    "text": "រក្សាសិទ្ធិ"
+  },
+  "Could not find an available filename.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ខ្ញុំមិនអាចរកឃើញទូរស័ព្ទដៃដែលមានទិញ។"
+  },
+  "Could not prepare archive contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនអាចបង្កើតអាសយដ្ឋានអាសយដ្ឋាន។"
+  },
+  "Could not remove GitHub credentials from Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនអាចបញ្ជាក់ GitHub របស់អ្នក Keychain."
+  },
+  "Could not save GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនអាចរកឃើញ GitHub សញ្ញាបនប័ត្រនៅក្នុង Keychain."
+  },
+  "Could not save the edited image; the original was kept.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ខ្ញុំមិនអាចជួយការរក្សាទុករូបភាពដែលត្រូវបានរក្សាទុក។ រូបថតដែលបានរក្សាទុក។"
+  },
+  "Could not save the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនអាចរកបានបញ្ចូលទូរស័ព្ទរបស់អ្នកនៅក្នុង Keychain (%1$@)."
+  },
+  "Could not update GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនអាចបច្ចេកវិទ្យា GitHub របស់អ្នក Keychain."
+  },
+  "Could not update the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ខ្ញុំមិនអាចបង្ហាញអតិថិជននៅលើ Keychain (%1$@)."
+  },
+  "Couldn’t change the folder viewer": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនអាចផ្លាស់ប្តូរ folder viewers"
+  },
+  "Couldn’t eject volume": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនអាចបង់ទំហំ"
+  },
+  "Couldn’t open files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនអាចបង្កើតឯកសារ"
+  },
+  "Couldn’t open folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនអាចបើកដំណោះស្រាយ"
+  },
+  "Couldn’t open this file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ខ្ញុំមិនអាចបើកដំណើរការនេះ"
+  },
+  "Couldn’t open this location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនអាចបើកទីតាំងនេះ"
+  },
+  "Couldn’t resolve alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនអាចធ្វើការដោយ Alias"
+  },
+  "Couldn’t restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនអាចចាប់ផ្តើមថ្មី MacFiles"
+  },
+  "Create": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបង្កើត"
+  },
+  "Create a GitHub token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបង្កើត token GitHub"
+  },
+  "Create alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបង្កើត alias"
+  },
+  "Create archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅ"
+  },
+  "Create library…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបង្កើតសៀវភៅ..."
+  },
+  "Create shortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "បង្កើតផ្លូវកាត់"
+  },
+  "Create zip archive": {
+    "origin": "Files:CompressIntoZip",
+    "text": "Create zip archive"
+  },
+  "CreateFolderWithSelection": {
+    "origin": "Files:CreateFolderWithSelection",
+    "text": "Create folder with selection"
+  },
+  "CreateShortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "បង្កើតផ្លូវកាត់"
+  },
+  "CreateShortcutFromDialogDescription": {
+    "origin": "Files:CreateShortcutFromDialogDescription",
+    "text": "Create new shortcut to any item"
+  },
+  "Created": {
+    "origin": "Files:PropertiesCreated.Text",
+    "text": "បានបង្កើត"
+  },
+  "Creating alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបង្កើត alias"
+  },
+  "Creating from template": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបង្កើតនៃ template"
+  },
+  "Custom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋាន"
+  },
+  "Custom icon applied.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ"
+  },
+  "Custom tag color (hex, optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ស្លាកកំណត់កម្រិត (Hex, Optional)"
+  },
+  "Custom theme": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Customization": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋាន"
+  },
+  "Customize toolbar": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋាន"
+  },
+  "Customize toolbar…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សម្ភារៈកំណត់សម្ភារៈ..."
+  },
+  "Cut": {
+    "origin": "Files:Cut",
+    "text": "កាត់"
+  },
+  "Dark": {
+    "origin": "Files:DarkTheme",
+    "text": "ងងឹត"
+  },
+  "Date created": {
+    "origin": "Files:DateCreated",
+    "text": "កាលបរិច្ឆេទបង្កើត"
+  },
+  "Date deleted": {
+    "origin": "Files:DateDeleted",
+    "text": "កាលបរិច្ឆេទត្រូវបានលុប"
+  },
+  "Date format": {
+    "origin": "Files:DateFormat",
+    "text": "ទ្រង់ទ្រាយ​​​កាល​បរិច្ឆេទ"
+  },
+  "Date modified": {
+    "origin": "Files:DateModifiedLowerCase",
+    "text": "កាលបរិច្ឆេទកែប្រែ"
+  },
+  "Day": {
+    "origin": "Files:Day",
+    "text": "Day"
+  },
+  "Decimal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កុំព្យូទ័រ"
+  },
+  "Decrease size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទំហំកាត់បន្ថយ"
+  },
+  "Default": {
+    "origin": "Files:Default",
+    "text": "បុរេជម្រើស"
+  },
+  "Default folder layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រតិបត្តិការ folder layout"
+  },
+  "Default grouping": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រព័ន្ធ ប្រតិបត្តិការ"
+  },
+  "Default save location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ"
+  },
+  "Default sorting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រភេទទូទៅ"
+  },
+  "Delete": {
+    "origin": "Files:Delete",
+    "text": "លុប"
+  },
+  "Delete permanently": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ជូនដោយឥតគិតថ្លៃ"
+  },
+  "Delete saved tag and remove it from indexed files?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្លុកកំណត់ស្លាកដែលបានលក់និងការប្លុកវាពីទិន្នន័យទិន្នន័យ?"
+  },
+  "Delete selected permanently…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ចូលការបញ្ចូលការបញ្ចូលការបញ្ចូលការបញ្ចូលការបញ្ចូលការបញ្ចូលការបញ្ចូល..."
+  },
+  "Deleting permanently": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ជូនដោយឥតគិតថ្លៃ"
+  },
+  "Description": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការពិនិត្យ"
+  },
+  "Desktop": {
+    "origin": "Files:Desktop",
+    "text": "ដេសថប"
+  },
+  "Destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទិសដៅ %1$@"
+  },
+  "Detached HEAD": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ស្លាកស្លាក"
+  },
+  "Details": {
+    "origin": "Files:Details",
+    "text": "ពត៌មាន​លម្អិត"
+  },
+  "Details layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "លទ្ធផល Layout"
+  },
+  "Details pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សត្វ សត្វ សត្វ"
+  },
+  "Developer tools": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ឧបករណ៍អភិវឌ្ឍន៍"
+  },
+  "Development": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការអភិវឌ្ឍ"
+  },
+  "Diagnostics": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកល្បង"
+  },
+  "Diagnostics opened": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការអនុម័តត្រូវបានបើក"
+  },
+  "Disconnect": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ចូល"
+  },
+  "Documents": {
+    "origin": "Files:Documents",
+    "text": "ឯកសារ"
+  },
+  "Done": {
+    "origin": "Files:Close",
+    "text": "បិទ"
+  },
+  "Double-click empty space to go up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិតកម្រិតកម្រិតកម្រិតកម្រិតកម្រិតកម្រិតកម្រិតកម្រិតកម្រិត"
+  },
+  "Download": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយក"
+  },
+  "Download files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយកទិន្នន័យ..."
+  },
+  "Download here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយកនៅទីនេះ"
+  },
+  "Download requested. iCloud may complete it asynchronously.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយកបានទាញយក។ iCloud វាត្រូវបានធ្វើឡើងដោយមិនស្លាក។"
+  },
+  "Downloaded": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយក"
+  },
+  "Downloading": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយក"
+  },
+  "Downloads": {
+    "origin": "Files:Downloads",
+    "text": "ទាញយក"
+  },
+  "Drives": {
+    "origin": "Files:Drives",
+    "text": "ដ្រាយ"
+  },
+  "Dual pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិតកម្រិត"
+  },
+  "Duplicate": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិតបន្ថែម"
+  },
+  "Duplicate archive paths cannot be extracted safely.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រហែលជាប្រហែលជាប្រហែលជាប្រហែលជាប្រហែលជាប្រហែលជាប្រហែលជាប្រហែលជាប្រហែលជាប្រហែលជាប្រហែលជាប្រហែលជាប្រហែលជាប្រហែលជាប្រហែលជាប្រហែលជាប្រហែល។"
+  },
+  "Duplicate tab": {
+    "origin": "Files:DuplicateTab",
+    "text": "បើកផ្ទាំងស្ទួន"
+  },
+  "Edit": {
+    "origin": "Files:Edit",
+    "text": "កែសម្រួល"
+  },
+  "Edit POSIX permissions for selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កែសម្រួល POSIX ការបញ្ជូនការជ្រើសរើស"
+  },
+  "Edit address · ⌘L": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋាន Edit ⌘L"
+  },
+  "Edit archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅ Edit"
+  },
+  "Edit in TextEdit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit នៅលើ TextEdit"
+  },
+  "Edit media metadata": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ"
+  },
+  "Edit media metadata…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ចូលប្រព័ន្ធផ្សព្វផ្សាយពាណិជ្ជកម្ម..."
+  },
+  "Edit or import the settings document, then Apply to validate and save. Language changes require a restart.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ចូលឬការនាំចេញសៀវភៅទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យ."
+  },
+  "Edit permissions on the link's target instead.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ចូលការអនុញ្ញាតឱ្យនៅលើបណ្តាញរបស់គោលបំណង។"
+  },
+  "Edit settings file…": {
+    "origin": "Files:EditSettingsFile",
+    "text": "Edit settings file"
+  },
+  "Edit tags": {
+    "origin": "Files:EditTags",
+    "text": "កែប្រែថេគ"
+  },
+  "Edit tags…": {
+    "origin": "Files:EditTags",
+    "text": "កែប្រែថេគ"
+  },
+  "Edit the archive target instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ចូលគោលបំណងកំណត់សៀវភៅដោយមិនជាការបណ្តាញសៀវភៅសៀវភៅ។"
+  },
+  "Edit the target's attributes instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ចូលគ្នានៃតម្រូវការនៃការចែករំលែកបែបនេះដោយមិនមានការបញ្ចូលគ្នានៃតម្រូវការ។"
+  },
+  "Edits apply to this item only. Ownership changes require existing system permission; MacFiles does not elevate itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបណ្តុះបណ្តាលគឺជាការអនុវត្តសម្រាប់ប្រភេទនេះ។ ការបណ្តុះបណ្តាលនៃការផ្លាស់ប្តូរតម្រូវការទទួលបានការបណ្តុះបណ្តាលប្រព័ន្ធដែលមានប្រសិទ្ធិភាព។ MacFiles មិនមានការអប់រំឡើង។"
+  },
+  "Eject": {
+    "origin": "Files:Eject",
+    "text": "ច្រានចេញ"
+  },
+  "Empty": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Empty accessible Trash…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យ..."
+  },
+  "Empty archive entry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យ។"
+  },
+  "Encoding": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការកំណត់"
+  },
+  "Encrypted": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រតិបត្តិការ"
+  },
+  "Enter a GitHub username and a valid access token.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទូរស័ព្ទជាប្រព័ន្ធប្រើប្រាស់ GitHub និង token អតិថិជនដែលមានតម្លៃ។"
+  },
+  "Enter a commit message.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ចូលការបញ្ជូនពាក្យបំណង"
+  },
+  "Enter a name without a slash or colon. The name cannot be empty, ‘.’, or ‘..’.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាក"
+  },
+  "Enter a size from 1 to 1,048,576 MiB.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំ"
+  },
+  "Enter a valid host, username, and port.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ចូលជាអតិថិជន, អ្នកប្រើប្រាស់ និង port ។"
+  },
+  "Enter an SMB, AFP, or WebDAV address.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អានអាន SMB, AFPឬ WebDAV អាសយដ្ឋាន"
+  },
+  "Enter an attribute name of 1–127 UTF-8 bytes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ចូលប្រភេទ 1 - 127 ។ UTF-8 បៃ"
+  },
+  "Enter compact overlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "ចូលត្រួលើគ្នាដែល"
+  },
+  "Enter numeric user and group IDs.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យ។"
+  },
+  "Enter password:": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ចុចកំណត់កំណត់កំណត់:"
+  },
+  "Enter permissions from 000 to 777.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ចូលតម្រូវការពី 000 ទៅ 777 ។"
+  },
+  "Enter the archive password before editing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យ"
+  },
+  "Enter three octal digits, for example 644 or 755.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទិន្នន័យអេក្រង់ទី 3 ។ ទិន្នន័យអេក្រង់ទី 644 ឬ 755 ។"
+  },
+  "Enter whole numbers for byte limits.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំ"
+  },
+  "EnterCompactOverlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "ចូលត្រួលើគ្នាដែល"
+  },
+  "Executable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការអនុវត្ត"
+  },
+  "Executable format": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធប្រតិបត្តិការ"
+  },
+  "Exit compact overlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "Exit compact overlay"
+  },
+  "ExitCompactOverlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "Exit compact overlay"
+  },
+  "Expand folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការអភិវឌ្ឍឯកសារ"
+  },
+  "Expanded": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការអភិវឌ្ឍ"
+  },
+  "Export ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការនាំចេញ ACL…"
+  },
+  "Export bytes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការនាំចេញទិន្នន័យ..."
+  },
+  "Export theme…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋានអាជីវកម្ម..."
+  },
+  "Export…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការនាំចេញ..."
+  },
+  "Extended attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការពិនិត្យឡើងវិញ"
+  },
+  "Extended attributes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អានបន្ថែមទៀត..."
+  },
+  "Extensions are preserved. Conflicts stop the batch before any names change.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបណ្តុះបណ្តាលនេះត្រូវបានគាំទ្រ។ ការបណ្តុះបណ្តាលនេះនឹងកាត់បន្ថយការបណ្តុះបណ្តាលដែលមានការបណ្តុះបណ្តាល។ ការបណ្តុះបណ្តាលនេះត្រូវបានគាំទ្រដល់ការបណ្តុះបណ្តាលដែលមានការបណ្តុះបណ្តាលដែលមានការបណ្តុះបណ្តាល។"
+  },
+  "Extensions: txt, swift, pdf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការអភិវឌ្ឍន៍: txt, Swift, PDF"
+  },
+  "Extra large icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អានអានអានអានអាន"
+  },
+  "Extract": {
+    "origin": "Files:Extract",
+    "text": "Extract"
+  },
+  "Extract all…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អត់អត់ទាំងអស់..."
+  },
+  "Extract here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អំណោយនៅទីនេះ"
+  },
+  "Extract here (Smart)": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "Extract here (Smart)"
+  },
+  "Extract selected…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋានដែលបានជ្រើសរើស..."
+  },
+  "Extract to child folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅសៀវភៅសៀវភៅសៀវភៅសៀវភៅសៀវភៅសៀវភៅ"
+  },
+  "Extract to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អំណោយសម្រាប់..."
+  },
+  "ExtractHere": {
+    "origin": "Files:ExtractHere",
+    "text": "Extract here"
+  },
+  "ExtractHereSmart": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "Extract here (Smart)"
+  },
+  "Extracted entry size does not match its header.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំ"
+  },
+  "Extracting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អំណោយ"
+  },
+  "Extracts into a new folder; existing files are kept.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ចូលទៅក្នុងឯកសារថ្មី។ ការបញ្ចូលទិន្នន័យដែលមានប្រសើរឡើង។"
+  },
+  "FTP over TLS": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "FTP អាកាស TLS"
+  },
+  "Failed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការគាត់បង់"
+  },
+  "Fetch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កុញ"
+  },
+  "File": {
+    "origin": "Files:File",
+    "text": "ឯកសារ"
+  },
+  "File actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការធ្វើដំណើរឯកសារ"
+  },
+  "File hashes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កុំព្យូទ័រ Hashes"
+  },
+  "File information": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅសៀវភៅ"
+  },
+  "File operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការធ្វើដំណើរឯកសារ"
+  },
+  "File operations in this window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធប្រតិបត្តិការឯកសារនៅក្នុងកំណត់នេះ"
+  },
+  "File shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កុំព្យូទ័រ Shelf"
+  },
+  "File shelf…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទិន្នន័យ Shelf..."
+  },
+  "File size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទំហំឯកសារ"
+  },
+  "Files": {
+    "origin": "Files:SecurityAdvancedFlagsFilesLabel",
+    "text": "ឯកសារ"
+  },
+  "Files size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទំហំទូលាយ"
+  },
+  "Files you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទិន្នន័យដែលអ្នកចុចនេះនឹងត្រូវបានបង្ហាញនៅទីនេះ។"
+  },
+  "Fill": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Filter entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រតិបត្តិការ Filter entries"
+  },
+  "Find": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាន"
+  },
+  "Find and replace": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយកនិងផ្លាស់ប្តូរ"
+  },
+  "Finder Get Info unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder ទិន្នន័យមិនអាចរកបាន"
+  },
+  "Finder Get Info…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder អានបន្ថែម..."
+  },
+  "Finder's desktop and other apps' Open/Save dialogs remain managed by macOS.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder\"បណ្តាញបណ្តាញបណ្តាញបណ្តាញបណ្តាញបណ្តាញបណ្តាញបណ្តាញបណ្តាញបណ្តាញបណ្តាញបណ្តាញបណ្តាញបណ្តាញបណ្តាញបណ្តាញបណ្តាញបណ្តាញ macOS."
+  },
+  "First letter": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅដំបូង"
+  },
+  "Fit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Flatten": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សត្វ"
+  },
+  "Flatten folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ស្លាកស្លាក"
+  },
+  "Flatten folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិតខ្មៅ..."
+  },
+  "Flatten ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សត្វ »%1$@’?"
+  },
+  "Flattening folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិតកម្រិតកម្រិត"
+  },
+  "Focus other pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ Pan"
+  },
+  "Folder": {
+    "origin": "Files:Folder",
+    "text": "ថតឯកសារ"
+  },
+  "Folder contents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅ"
+  },
+  "Folder contents are not included in this total.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សម្ភារៈសម្ភារៈសម្ភារៈសម្ភារៈសម្ភារៈសម្ភារៈសម្ភារៈសម្ភារៈសម្ភារៈសម្ភារៈសម្ភារៈសម្ភារៈសម្ភារៈសម្ភារៈសម្ភារៈ។"
+  },
+  "Folder layout saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យ។"
+  },
+  "Folder path": {
+    "origin": "Files:FolderPath",
+    "text": "ទីតាំង​ថត"
+  },
+  "Folder presentation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "FOLDER សកម្មភាព"
+  },
+  "Folder sizes are calculated in the background after Refresh. Large or network folders may take longer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទំហំទូលាយនេះត្រូវបានគិតថ្លៃនៅលើបណ្តាញបន្ទាប់ពីការកាត់បន្ថយ។ ទំហំទូលាយឬទូលាយទូលាយទូលាយទូលាយទូលាយទូលាយទូលាយទូលាយទូលាយទូលាយទូលាយទូលាយទូលាយទូលាយទូលាយទូលាយទូលាយទូលាយ។"
+  },
+  "Folder unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិតមិនអាចរកបាន"
+  },
+  "Folders": {
+    "origin": "Files:Folders",
+    "text": "ថតឯកសារ"
+  },
+  "Folders you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិតដែលអ្នកចុចនេះនឹងត្រូវបានបង្ហាញនៅទីនេះ។"
+  },
+  "Font": {
+    "origin": "Files:Font",
+    "text": "ពុម្ពអក្សរ"
+  },
+  "Font and material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅ និងសម្ភារៈ"
+  },
+  "Forget saved": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យសាកល្បង"
+  },
+  "Format": {
+    "origin": "Files:FormatDriveText",
+    "text": "ទ្រង់ទ្រាយ"
+  },
+  "Format drive in Disk Utility…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យ..."
+  },
+  "Forward": {
+    "origin": "Files:Forward",
+    "text": "បញ្ចូនបន្ត"
+  },
+  "Forward · ⌘]": {
+    "origin": "Files:Forward",
+    "text": "បញ្ចូនបន្ត · ⌘]"
+  },
+  "Fragmented media metadata cannot be edited without remuxing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធផ្សព្វផ្សាយពាណិជ្ជកម្មដែលបានចែកចាយមិនអាចត្រូវបានបញ្ចូលដោយមិនត្រួតពិនិត្យ។"
+  },
+  "Gallery": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Gallery layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "General": {
+    "origin": "Files:General",
+    "text": "ជាទូទៅ"
+  },
+  "Git operation in %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git ការធ្វើការនៅក្នុង %1$@"
+  },
+  "Git repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git សាកលវិទ្យាល័យ"
+  },
+  "Git repository…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git សាកលវិទ្យាល័យ..."
+  },
+  "GitHub account": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រតិបត្តិការ GitHub"
+  },
+  "GitHub username": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រតិបត្តិការ GitHub"
+  },
+  "Go to path": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ចុចទៅដំណើរ"
+  },
+  "Go to path…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ចុចទៅដំណើរ..."
+  },
+  "Gray": {
+    "origin": "Files:Gray",
+    "text": "ប្រផេស"
+  },
+  "Green": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋាន"
+  },
+  "Group": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ក្រុមប្រឹក្សា"
+  },
+  "Group GID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ក្រុមប្រឹក្សា GID"
+  },
+  "Group ascending": {
+    "origin": "Files:GroupAscendingDescription",
+    "text": "Sort groups in ascending order"
+  },
+  "Group by": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រភេទ"
+  },
+  "Group by date unit": {
+    "origin": "Files:GroupByDateUnit",
+    "text": "Group by date unit"
+  },
+  "HTTPS Git operations can use a GitHub access token stored in your macOS Keychain. Choose the repositories and permissions when creating the token. Existing Git authentication remains in use when no MacFiles account is saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "HTTPS អតិថិជន Git ប្រព័ន្ធប្រតិបត្តិការអាចប្រើ token GitHub ដែលត្រូវបានបញ្ចូលនៅក្នុងអ្នក macOS Keychain. ការជ្រើសរើសកំណត់ផ្គត់ផ្គង់និងការអនុញ្ញាតក្នុងការបង្កើត token ។ Git ការអនុម័តនេះត្រូវបានប្រើនៅពេលដែលមិន MacFiles ទិន្នន័យនេះត្រូវបានរក្សាទុក។"
+  },
+  "Hard Link": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កុំព្យូទ័រ"
+  },
+  "Hashes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Hashes are available for a single file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hashs គឺអាចរកបានសម្រាប់ឯកសារមួយ។"
+  },
+  "Header": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅ"
+  },
+  "Help": {
+    "origin": "Files:Help",
+    "text": "ជំនួយ"
+  },
+  "Hidden": {
+    "origin": "Files:Hidden",
+    "text": "លាក់"
+  },
+  "Hidden files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រព័ន្ធ ប្រតិបត្តិការ"
+  },
+  "History": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Home": {
+    "origin": "Files:Key.Home",
+    "text": "ទំព័រដើម"
+  },
+  "Horizontal alignment": {
+    "origin": "Files:HorizontalAlignment",
+    "text": "​តម្រឹម​ផ្តេក"
+  },
+  "IDE opened.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាកាសអាកាសអាកាស។"
+  },
+  "Icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អេក្រង់"
+  },
+  "Icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Icon សាកលវិទ្យាល័យ"
+  },
+  "Icons layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រភេទ Icon Layout"
+  },
+  "Image alignment": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "រូបថត"
+  },
+  "Image fit": {
+    "origin": "Files:ImageFit",
+    "text": "សម្របរូបភាព"
+  },
+  "Import theme…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋានអាជីវកម្ម..."
+  },
+  "Imported. Apply to save.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការប្រើប្រាស់។ ការប្រើប្រាស់ដើម្បីការពារ។"
+  },
+  "Import…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការទិញ..."
+  },
+  "Incomplete archive listing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋាន។"
+  },
+  "Increase size": {
+    "origin": "Files:IncreaseSize",
+    "text": "បង្កើនទំហំ"
+  },
+  "Indexed document, image, audio, video and filesystem metadata supplied by Spotlight. Tags can be edited with the Tags tool.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការកំណត់ទិន្នន័យសៀវភៅ, រូបថត, សៀវភៅ, ប្រព័ន្ធវីដេអូនិងប្រព័ន្ធឯកសារដែលផ្តល់ជូនដោយ Spotlight. Tags អាចត្រូវបានបញ្ចូលជាមួយនឹង Tool Tags ។"
+  },
+  "Indexed files updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យ។"
+  },
+  "Initialize": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការចាប់ផ្តើម"
+  },
+  "Initialize repository here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការចាប់ផ្តើមសៀវភៅនេះ"
+  },
+  "Install certificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "Install certificate"
+  },
+  "Install font": {
+    "origin": "Files:InstallFont",
+    "text": "Install font"
+  },
+  "InstallCertificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "Install certificate"
+  },
+  "InstallFont": {
+    "origin": "Files:InstallFont",
+    "text": "Install font"
+  },
+  "Interval in seconds": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សប្តាហ៍ក្នុងរយៈពេល"
+  },
+  "Invalid Base64 data.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទិន្នន័យ Base64 មិនមែនទេ។"
+  },
+  "Invalid SSH host or port.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ SSH សាកលវិទ្យាល័យឬសាកលវិទ្យាល័យ"
+  },
+  "Invalid archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យ"
+  },
+  "Invalid archive link target.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យ"
+  },
+  "Invalid extended media atom.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យ"
+  },
+  "Invalid hard link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យ"
+  },
+  "Invalid key for %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅអ៊ីនធឺណិតសម្រាប់ %1$@."
+  },
+  "Invalid macOS ACL text. Preserve the !#acl 1 header and use valid entries.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ macOS ACL សៀវភៅ។ ការពារសៀវភៅ !#acl 1 និងប្រើប្រកាសកំណត់ដែលមានតម្លៃ។"
+  },
+  "Invalid media atom header.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋាន"
+  },
+  "Invalid media atom size.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋាន"
+  },
+  "Invalid media atom.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋាន។"
+  },
+  "Invalid media file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទិន្នន័យមេអ៊ីនធឺណិត។"
+  },
+  "Invalid name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Invalid remote URL.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "URL ទាញយកដោយឥតគិត។"
+  },
+  "Invalid settings document.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅសៀវភៅសៀវភៅសៀវភៅ Invalid"
+  },
+  "Invalid tag metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកល្បង"
+  },
+  "Invalid tag name or color.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកល្បង"
+  },
+  "Invalid theme colors or appearance.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាក"
+  },
+  "Invalid volume size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទំហំទំហំទំហំទំហំ"
+  },
+  "Invert selection": {
+    "origin": "Files:InvertSelection",
+    "text": "បញ្ច្រាស់ការជ្រើសរើស​"
+  },
+  "Item properties": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ផលិតផល"
+  },
+  "Items move into .MacFiles-Recovery on this server, including folder contents. Use Undo remote to restore them during this session.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សម្ភារៈចូលទៅ .MacFiles-Recovery នៅលើអតិថិជននេះ, រួមទាំងទិន្នន័យឯកសារ. ប្រើ Undo ដែកដើម្បីកំណត់ការរក្សាទុករបស់ពួកគេនៅពេលវេលា។"
+  },
+  "Keep MacFiles open": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកល្បង MacFiles បើក"
+  },
+  "Keep both": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ចុចទាំងពីរ"
+  },
+  "Keep both creates numbered names. Replace moves previous versions to Trash and supports Undo. Folders are replaced as a whole.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការពារទាំងពីរបានបង្កើតជាទូទៅ។ ការផ្លាស់ប្តូរធ្វើដំណើរការប្រចាំបាច់ទៅ Trash និងគាំទ្រ Undo ។ កម្រិតនេះត្រូវបានផ្លាស់ប្តូរជាទូទៅ។"
+  },
+  "Keep running after closing windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការធ្វើដំណើរបន្ទាប់ពីការកំណត់ផ្លាស់ប្តូរ"
+  },
+  "Keep window on top": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកល្បង"
+  },
+  "Keyboard shortcuts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិតកម្រិតកម្រិតកម្រិត"
+  },
+  "Keyboard shortcuts…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិតទូទាត់ទូទាត់..."
+  },
+  "Keywords (comma separated)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅសំខាន់ (ដូចជាការចែកចាយ)"
+  },
+  "Kind": {
+    "origin": "Files:Type",
+    "text": "ប្រភេទ"
+  },
+  "Label": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋាន"
+  },
+  "Language": {
+    "origin": "Files:PropertyLanguage",
+    "text": "ភាសា"
+  },
+  "Large icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រហែលអ៊ីណុក"
+  },
+  "Launch at login": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការចាប់ផ្តើមនៅលើ login"
+  },
+  "Layout": {
+    "origin": "Files:Layout",
+    "text": "ប្លង់"
+  },
+  "Left": {
+    "origin": "Files:Left",
+    "text": "ឆ្វេង"
+  },
+  "Let the current operation finish before quitting.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការធ្វើដំណើរការនៅពេលវេលានៅពេលវេលានៅពេលវេលានៅពេលវេលានៅពេលវេលានៅ។"
+  },
+  "Libraries": {
+    "origin": "Files:SidebarLibraries",
+    "text": "បណ្ណាល័យ"
+  },
+  "Library": {
+    "origin": "Files:Library",
+    "text": "បណ្ណាល័យ​"
+  },
+  "Library name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Library properties…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅសៀវភៅសៀវភៅ..."
+  },
+  "Library/Application Support/MacFiles/known_hosts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ / ការគាំទ្រកម្មវិធី /MacFilesសាកលវិទ្យាល័យ /Hosts"
+  },
+  "Library/Mobile Documents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅ / សៀវភៅទូរស័ព្ទ"
+  },
+  "Library/Mobile Documents/com~apple~CloudDocs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ / សាកលវិទ្យាល័យ / សាកលវិទ្យាល័យ / សាកលវិទ្យាល័យ / សាកលវិទ្យាល័យ / សាកលវិទ្យាល័យ"
+  },
+  "Light": {
+    "origin": "Files:LightTheme",
+    "text": "ភ្លឺ"
+  },
+  "Link target": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "List": {
+    "origin": "Files:List",
+    "text": "បញ្ជី"
+  },
+  "List folders before files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិតកម្រិតកម្រិតកម្រិតកម្រិតកម្រិតកម្រិតកម្រិតកម្រិត"
+  },
+  "Loading…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយក..."
+  },
+  "Local": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Local download removal requested.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយកទាញយកទាញយកទាញយកទាញយក។"
+  },
+  "Local file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅទីក្រុង"
+  },
+  "Location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អំណាច"
+  },
+  "Lock screen and wallpaper settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំ..."
+  },
+  "Locked": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកល្បង"
+  },
+  "Macintosh HD": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កុំព្យូទ័រ HD"
+  },
+  "Make alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋាន"
+  },
+  "Make alias…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋាន..."
+  },
+  "Manage account in provider app": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការគ្រប់គ្រងទិន្នន័យក្នុង App Provider"
+  },
+  "Manage cloud accounts…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការគ្រប់គ្រងទិន្នន័យ Cloud..."
+  },
+  "Manage tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការគ្រប់គ្រង tags"
+  },
+  "Maximum bytes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អតិបរមា"
+  },
+  "Media export did not complete.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការនាំចេញបណ្តុះបណ្តាលអ៊ីនធឺណិតមិនបានបញ្ចប់។"
+  },
+  "Media metadata is too large.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រហែលជាទិន្នន័យប្រវត្តិជាច្រើនជាងនេះ។"
+  },
+  "Medium icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រភេទ Icon"
+  },
+  "Minimize": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អតិបរមា"
+  },
+  "Minimum bytes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទំហំទំហំទំហំទំហំ"
+  },
+  "Minimum size exceeds maximum size.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំ"
+  },
+  "Mode": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ម៉ូដ"
+  },
+  "Modified": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការផ្លាស់ប្តូរ"
+  },
+  "Modified after": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការផ្លាស់ប្តូរបន្ទាប់ពី"
+  },
+  "Month": {
+    "origin": "Files:Month",
+    "text": "Month"
+  },
+  "More actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការធ្វើការច្រើនទៀត"
+  },
+  "Mount share…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋានអាសយដ្ឋាន"
+  },
+  "Mounted network locations appear here. Connect to a server to browse another location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ"
+  },
+  "Move %1$@ remote items to recovery?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាក្រក់ %1$@ សម្ភារៈចុងក្រោយសម្រាប់ការកាត់បន្ថយ?"
+  },
+  "Move %1$@ to Trash?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាក្រក់ %1$@ អានប្លុក?"
+  },
+  "Move here": {
+    "origin": "Files:PinToSidebarByDraggingCaptionText",
+    "text": "ផ្លាស់ទីនៅទីនេះ"
+  },
+  "Move nested files to this folder. Existing names and symbolic links are left in place. Empty subfolders go to Trash. You can undo this operation.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "បិទឯកសារដែលបានចែកចាយទៅក្នុងឯកសារនេះ។ អ្នកអាចទាញយកការធ្វើដំណើរការនេះ។ អ្នកអាចទាញយកការធ្វើដំណើរការនេះ។ អ្នកអាចទាញយកការធ្វើដំណើរការនេះ។ អ្នកអាចទាញយកការធ្វើដំណើរការនេះ។ អ្នកអាចទាញយកការធ្វើដំណើរការនេះ។"
+  },
+  "Move to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្លុក ទៅ ប្លុក"
+  },
+  "Move to Trash…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្លុក ទៅ ប្លុក..."
+  },
+  "Move to recovery": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការធ្វើដំណើរទៅនឹងការសាកល្បង"
+  },
+  "Move to recovery folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទោះបីចង់ដំណើរការទៅកំណត់ស្លាកស្លាក..."
+  },
+  "Movies": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "រូបថត"
+  },
+  "Moving": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការរស់"
+  },
+  "Moving files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រតិបត្តិការ"
+  },
+  "Moving to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្លុកទៅ Trash"
+  },
+  "Multiple items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រភេទផ្សេងទៀត"
+  },
+  "Music": {
+    "origin": "Files:Music",
+    "text": "តន្ត្រី"
+  },
+  "My MacFiles theme": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ខ្ញុំ MacFiles ផ្ទៃស្បែក"
+  },
+  "My library": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅរបស់ខ្ញុំ"
+  },
+  "My search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការស្វែងរករបស់ខ្ញុំ"
+  },
+  "Name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ឈ្មោះ"
+  },
+  "Native macOS extended attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ macOS ការពិនិត្យឡើងវិញ"
+  },
+  "Natural language search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការស្វែងរកអ៊ីនធឺណិត"
+  },
+  "Navigate": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Network": {
+    "origin": "Files:Network",
+    "text": "បណ្តាញ"
+  },
+  "New": {
+    "origin": "Files:BaseLayoutContextFlyoutNew.Label",
+    "text": "ថ្មី"
+  },
+  "New archive file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅថ្មី"
+  },
+  "New archive folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅថ្មី"
+  },
+  "New branch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋាន"
+  },
+  "New file from template": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទិន្នន័យថ្មីពី Template"
+  },
+  "New folder": {
+    "origin": "Files:NewFolder",
+    "text": "ថត​ថ្មី"
+  },
+  "New folder…": {
+    "origin": "Files:NewFolder",
+    "text": "ថត​ថ្មី"
+  },
+  "New from template": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅថ្មីពី template"
+  },
+  "New from template…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅថ្មីពី template..."
+  },
+  "New name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ឈ្មោះថ្មី"
+  },
+  "New remote file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយកឯកសារថ្មី"
+  },
+  "New remote folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិតទូលាយថ្មី"
+  },
+  "New tab": {
+    "origin": "Files:NewTab",
+    "text": "ថេបថ្មី"
+  },
+  "New tab · ⌘T": {
+    "origin": "Files:NewTab",
+    "text": "ថេបថ្មី · ⌘T"
+  },
+  "New text file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅថ្មី"
+  },
+  "New text file…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅថ្មី..."
+  },
+  "New window": {
+    "origin": "Files:NewWindow",
+    "text": "ផ្ទាំងថ្មី"
+  },
+  "Next layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "លើសពី Layout"
+  },
+  "Next tab": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Next ប្លុក"
+  },
+  "No": {
+    "origin": "Files:No",
+    "text": "ទេ"
+  },
+  "No IDE selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនមែនជាការជ្រើសរើស"
+  },
+  "No application could open ‘%1$@’.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនអាចបើកដំណើរការទេ »%1$@’."
+  },
+  "No archive entry was extracted.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនបានទាញយកសៀវភៅអាកាស។"
+  },
+  "No archive is open.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅមិនត្រូវបានបើក។"
+  },
+  "No archive was produced.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនត្រូវបានផលិតសៀវភៅទេ។"
+  },
+  "No commits yet": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនមែនជាការបញ្ចប់"
+  },
+  "No files were extracted.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនបានទាញយកឯកសារ។"
+  },
+  "No matching items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនមែនជាប្រភេទ"
+  },
+  "No movie header was found.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនបានរកឃើញសៀវភៅអ៊ីនធឺណិត។"
+  },
+  "No operations recorded.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនមានការធ្វើដំណើរបញ្ចូលទេ។"
+  },
+  "No readable macOS code signature.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនស្អាត macOS ប្រព័ន្ធ ប្រតិបត្តិការ Code Signature\n\n"
+  },
+  "No selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនមែនការជ្រើសរើស"
+  },
+  "No settings match your search.": {
+    "origin": "Files:NoSearchResults",
+    "text": "គ្មានការកំណត់ណាមួយផ្គូផ្គងនឹងការស្វែងរករបស់អ្នកទេ។"
+  },
+  "No tracked diff. New files appear after staging.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនមែនជាការបញ្ចប់។ ទិន្នន័យថ្មីនេះត្រូវបានបង្ហាញពីការបញ្ចប់។"
+  },
+  "None": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនមែន"
+  },
+  "Not enough free space to finish extraction.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនមានអតិថិជនសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យ"
+  },
+  "Not managed by a detected cloud provider": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនត្រូវបានគ្រប់គ្រងដោយអ្នកផ្តល់ជូនបណ្តាញបណ្តាញបណ្តាញ។"
+  },
+  "Not used": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនប្រើ"
+  },
+  "Numbered names": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រហែលប្រហែល"
+  },
+  "OK": {
+    "origin": "Files:OK",
+    "text": "អូខេ"
+  },
+  "Older": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាក្រក់"
+  },
+  "Online only": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អតិថិជននៅលើបណ្តាញ"
+  },
+  "Only an uploaded iCloud file without conflicts can have its local download removed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនមែនជាការ upload iCloud ទាញយកទាញយកទាញយកទាញយកទាញយកទាញយកទាញយកទាញយកទាញយកទាញយកទាញយក"
+  },
+  "Only images can be rotated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "រូបថតតែអាចត្រូវបានកាត់បន្ថយ។"
+  },
+  "Open": {
+    "origin": "Files:Open",
+    "text": "បើក"
+  },
+  "Open / Preview": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ / Preview"
+  },
+  "Open Login Items settings": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អំណាចអតិថិជន Open Login"
+  },
+  "Open MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "បើក MacFiles"
+  },
+  "Open System Settings for iCloud": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រតិបត្តិការ Open System Settings for iCloud"
+  },
+  "Open a repository, initialize this folder, or clone a repository.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "បិទសណ្ឋាគារ, ការចាប់ផ្តើមសណ្ឋាគារនេះ, ឬ clone សណ្ឋាគារ."
+  },
+  "Open all folders in tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "បិទសៀវភៅទាំងអស់នៅក្នុង tabs"
+  },
+  "Open containing folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិតខុសគ្នានៅលើ folder"
+  },
+  "Open external folders in new windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបើកដំណោះស្រាយអតិថិជននៅលើបណ្តាញថ្មី"
+  },
+  "Open file location": {
+    "origin": "Files:OpenFileLocation",
+    "text": "បើកទៅកាន់ទីតាំងឯកសារ"
+  },
+  "Open folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិតខ្ពស់"
+  },
+  "Open folders in new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបើកដំណើរការនៅក្នុងបណ្តាញថ្មី"
+  },
+  "Open folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិតខ្ពស់..."
+  },
+  "Open in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាកាសអាកាសអាកាស IDE"
+  },
+  "Open in IDE uses the selected application. Open repository in IDE resolves the Git repository root first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបើកដំណើរការនៅក្នុង IDE បានប្រើកម្មវិធីដែលបានជ្រើសរើស។ ការបើកដំណើរការនៅក្នុង IDE បានប្រើកម្មវិធីដែលបានជ្រើសរើស Git សាកលវិទ្យាល័យ Root ជាលើកដំបូង"
+  },
+  "Open in Terminal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យនៅ Terminal"
+  },
+  "Open in new tab": {
+    "origin": "Files:OpenInNewTab",
+    "text": "បើកទំព័រថេបថ្មី"
+  },
+  "Open in new window": {
+    "origin": "Files:OpenInNewWindow",
+    "text": "បើកផ្ទាំងថ្មី"
+  },
+  "Open in other pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យនៅទីផ្សារ"
+  },
+  "Open log file": {
+    "origin": "Files:OpenLogFile",
+    "text": "Open log file"
+  },
+  "Open new tabs with dual panes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបើកដំណើរការបណ្តាញបណ្តាញបណ្តាញបណ្តាញបណ្តាញបណ្តាញបណ្តាញបណ្តាញបណ្តាញ"
+  },
+  "Open repository in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅអ៊ីតាលីនៅក្នុង IDE"
+  },
+  "Open selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការជ្រើសរើស"
+  },
+  "Open target folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅអតិថិជន Open"
+  },
+  "Open with": {
+    "origin": "Files:OpenWith",
+    "text": "បើកជាមួយ"
+  },
+  "Open with application": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ Open with Application"
+  },
+  "Open with application…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការផ្តល់ជូនដោយកម្មវិធី..."
+  },
+  "Open with…": {
+    "origin": "Files:OpenWith",
+    "text": "បើកជាមួយ"
+  },
+  "Open-ended media atoms require remuxing before editing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋាន"
+  },
+  "OpenAllTaggedItems": {
+    "origin": "Files:OpenAllTaggedItems",
+    "text": "Open all"
+  },
+  "OpenLogFile": {
+    "origin": "Files:OpenLogFile",
+    "text": "Open log file"
+  },
+  "Operation completed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការធ្វើដំណើរត្រូវបានបញ្ចប់។"
+  },
+  "Operation failed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការធ្វើដំណើរមិនបាន"
+  },
+  "Operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការធ្វើដំណើរ"
+  },
+  "Operations (%1$@ queued)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សកម្មភាព (%1$@ សាកល្បង"
+  },
+  "Operations…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការធ្វើដំណើរ..."
+  },
+  "Orange": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋាន"
+  },
+  "Original location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋាន"
+  },
+  "Original locations are remembered for items deleted by MacFiles, including across launches.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋាន MacFilesទោះជាយ៉ាងណា, នៅលើការចាប់ផ្តើម។"
+  },
+  "Original name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋាន"
+  },
+  "Overcast": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាក្រក់"
+  },
+  "Owner": {
+    "origin": "Files:PropertyFileOwner",
+    "text": "ម្ចាស់"
+  },
+  "Owner UID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ម្ចាស់ UID"
+  },
+  "Ownership updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យនេះត្រូវបានបច្ចុប្បន្ន។"
+  },
+  "POSIX permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "POSIX សិទ្ធិ"
+  },
+  "Password": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រតិបត្តិការ"
+  },
+  "Password (optional, AES-256)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រតិបត្តិការ AES-256 (អតិថិជន)"
+  },
+  "Password / key passphrase (optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រហែល / ប្រហែលអតិថិជន (ប្រហែល)"
+  },
+  "Password protection is supported for ZIP archives.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការពារទិន្នន័យទិន្នន័យទិន្នន័យត្រូវបានគាំទ្រសម្រាប់ ZIP សៀវភៅ"
+  },
+  "Paste": {
+    "origin": "Files:Paste",
+    "text": "បិទភ្ជាប់"
+  },
+  "Paste and drop transfers queue behind the current operation. Completed changes remain available through Undo. Copy cancellation stops the staged transfer before publishing it. Undo history is restored across launches.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ចូលនិងការបញ្ចូលទិន្នន័យបានកាត់បន្ថយការធ្វើដំណើរការនៅពេលនេះ។ ការបញ្ចូលទិន្នន័យត្រូវបានធ្វើដំណើរការនៅពេលនេះ។ ការបញ្ចូលទិន្នន័យត្រូវបានធ្វើដំណើរការនៅពេលនេះ។ ការបញ្ចូលទិន្នន័យត្រូវបានធ្វើដំណើរការនៅពេលនេះ។ ការបញ្ចូលទិន្នន័យត្រូវបានធ្វើដំណើរការនៅពេលនេះ។ ការបញ្ចូលទិន្នន័យត្រូវបានធ្វើដំណើរការនៅពេលនេះ។"
+  },
+  "Paste files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កុំព្យូទ័រ"
+  },
+  "Paste shortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "បិទភ្ជាប់ផ្លូវកាត់"
+  },
+  "Paste the files into a permanent folder before creating aliases to them.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្លុកទិន្នន័យទៅជាឯកសារក្នុងឯកសារចុងក្រោយមុនពេលដែលបង្កើតប្លុកទិន្នន័យទៅពួកគេ។"
+  },
+  "PasteItemToSelectionDescription": {
+    "origin": "Files:PasteItemToSelectionDescription",
+    "text": "Paste items to the selected folder"
+  },
+  "PasteShortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "បិទភ្ជាប់ផ្លូវកាត់"
+  },
+  "Path": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Pattern": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រភេទ"
+  },
+  "Permanently delete %1$@ items?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ជូនការរត់ %1$@ សម្ភារៈ ?"
+  },
+  "Permissions": {
+    "origin": "Files:Permissions",
+    "text": "សិទ្ធិ"
+  },
+  "Permissions are enforced by the server. FTP servers must support SITE CHMOD; SFTP uses SSH permissions.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការអនុញ្ញាតវាត្រូវបានអនុញ្ញាតដោយ server ។ FTP អ្នកគ្រប់គ្រងគួរតែគួរតែគាំទ្រ SITE CHMOD ។ SFTP ប្រើ SSH សិទ្ធិ"
+  },
+  "Permissions are stored in the archive. Changes rebuild it and support Undo.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ជូនត្រូវបានរក្សាទុកនៅក្នុងអាសយដ្ឋាន។ ការផ្លាស់ប្តូរការបង្កើតឡើងនិងការគាំទ្រ Undo ។"
+  },
+  "Permissions updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ជាក់ទិន្នន័យ។"
+  },
+  "Permissions…": {
+    "origin": "Files:Permissions",
+    "text": "សិទ្ធិ"
+  },
+  "Pick up where you left off": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ចុចទីដែលអ្នកចង់ចេញ"
+  },
+  "Pictures": {
+    "origin": "Files:Pictures",
+    "text": "រូបភាព"
+  },
+  "Pin this folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "PIN នេះ ប្លុក"
+  },
+  "Pin to sidebar": {
+    "origin": "Files:PinFolderToSidebar",
+    "text": "ខ្ទាស់ទៅរបារចំហៀង"
+  },
+  "Pinned": {
+    "origin": "Files:Pinned",
+    "text": "បានខ្ទាស់"
+  },
+  "Pinned folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិតកម្រិត"
+  },
+  "Play All": {
+    "origin": "Files:PlayAll",
+    "text": "Play All"
+  },
+  "PlayAll": {
+    "origin": "Files:PlayAll",
+    "text": "Play All"
+  },
+  "Port": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Preparing copy": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការរៀបចំ Copy"
+  },
+  "Preparing move": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការធ្វើដំណើរ"
+  },
+  "Presentation is saved with this virtual location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការផ្តល់ជូននេះត្រូវបានគាំទ្រជាមួយនឹងទីតាំង virtual នេះ។"
+  },
+  "Press the shortcut…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្លុកកាត់បន្ថយ..."
+  },
+  "Preview": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការពិនិត្យ"
+  },
+  "Previous layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាកាសធាតុ Layout"
+  },
+  "Previous tab": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មុន TAB"
+  },
+  "Properties": {
+    "origin": "Files:OpenProperties",
+    "text": "លក្ខណៈសម្បត្តិ"
+  },
+  "Properties…": {
+    "origin": "Files:OpenProperties",
+    "text": "លក្ខណៈសម្បត្តិ"
+  },
+  "Property": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អត្ថប្រយោជន៍"
+  },
+  "Protocol": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅ"
+  },
+  "Provider controls in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អ្នកផ្គត់ផ្គង់ ការត្រួតពិនិត្យ ក្នុង Finder"
+  },
+  "Pull": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ស្លាក"
+  },
+  "Purple": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ស្ម័ន"
+  },
+  "Push": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "PUSH សាកលវិទ្យាល័យ"
+  },
+  "Queued": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Quick access": {
+    "origin": "Files:QuickAccess",
+    "text": "ចូលប្រើរហ័ស"
+  },
+  "Quit MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "បិទ MacFiles"
+  },
+  "Readable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅ"
+  },
+  "Recent files": {
+    "origin": "Files:RecentFiles",
+    "text": "ឯកសារថ្មី"
+  },
+  "Recent folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅថ្មី"
+  },
+  "Reconnect to the same server and account, then retry Undo. The remote recovery data remains in .MacFiles-Recovery.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបណ្តុះបណ្តាលទៅលើ server និងអតិថិជនដូច្នេះការបណ្តុះបណ្តាលទៅ Undo ។ ការបណ្តុះបណ្តាលទិន្នន័យពីចុងក្រោយនេះត្រូវបានបណ្តុះបណ្តាលនៅក្នុង .MacFiles-Recovery."
+  },
+  "Record shortcut": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទំហំទំហំ"
+  },
+  "Red": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សត្វ"
+  },
+  "Redo": {
+    "origin": "Files:Redo",
+    "text": "ធ្វើទៀត"
+  },
+  "Redo file operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការធ្វើដំណើរការ file"
+  },
+  "Redoing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការកំណត់"
+  },
+  "Refresh": {
+    "origin": "Files:Refresh",
+    "text": "ធ្វើឱ្យស្អាត"
+  },
+  "Refresh · ⌘R": {
+    "origin": "Files:Refresh",
+    "text": "ធ្វើឱ្យស្អាត · ⌘R"
+  },
+  "Regular expression": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការអនុម័តទូទៅ"
+  },
+  "Release notes": {
+    "origin": "Files:ReleaseNotes",
+    "text": "Release Notes"
+  },
+  "Reload": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ចូល"
+  },
+  "Remember password in Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទិន្នន័យទិន្នន័យទិន្នន័យ Keychain"
+  },
+  "Remote operation on %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការធ្វើដំណើរការចុងក្រោយនៅ %1$@"
+  },
+  "Remote path": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការធ្វើដំណើររហូតដល់"
+  },
+  "Remote paths cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធប្រតិបត្តិការអ៊ីនធឺណិតមិនអាចមានការកាត់បន្ថយការកាត់បន្ថយឬ NUL ប្រភេទ។"
+  },
+  "Remotes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "បិទ"
+  },
+  "Remove": {
+    "origin": "Files:Remove",
+    "text": "ដកចេញ"
+  },
+  "Remove attribute…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អំណោយ បិទ..."
+  },
+  "Remove background image": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយករូបរាងកាយ"
+  },
+  "Remove download": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយក"
+  },
+  "Remove entries…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ចូលទិន្នន័យ..."
+  },
+  "Remove from archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយកពីអាកាស"
+  },
+  "Remove library": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "បិទសៀវភៅ"
+  },
+  "Remove local download…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយកទាញយកទាញយកទាញយក..."
+  },
+  "Remove references": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "បិទការចែករំលាយ"
+  },
+  "Remove saved credentials": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយកការបញ្ជាក់ទិន្នន័យ"
+  },
+  "Remove saved folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយកកំណត់ផ្គត់ផ្គង់"
+  },
+  "Remove saved search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយកការស្វែងរក"
+  },
+  "Remove selected entries from the archive?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "បិទការបញ្ចូលដែលបានជ្រើសរើសពីអាសយដ្ឋាន?"
+  },
+  "Remove tags": {
+    "origin": "Files:RemoveTags",
+    "text": "Remove tags"
+  },
+  "Remove the local download?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយកការទាញយកទីតាំងនេះ?"
+  },
+  "Remove ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "បិទ »%1$@’?"
+  },
+  "RemoveTags": {
+    "origin": "Files:RemoveTags",
+    "text": "Remove tags"
+  },
+  "Removing tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "បិទ Tags"
+  },
+  "Rename": {
+    "origin": "Files:Rename",
+    "text": "ប្តូរឈ្មោះ"
+  },
+  "Rename %1$@ items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្តូរឈ្មោះ %1$@ ធាតុ"
+  },
+  "Rename archive entry": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋាន"
+  },
+  "Rename entry…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋានអាសយដ្ឋាន..."
+  },
+  "Rename failed. Your item is preserved at %1$@. %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការអនុម័តរបស់អ្នកបានបញ្ចប់។ ការអនុម័តរបស់អ្នកត្រូវបានរក្សាទុកនៅ %1$@. %2$@"
+  },
+  "Rename remote item": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋាន Remote"
+  },
+  "Rename…": {
+    "origin": "Files:Rename",
+    "text": "ប្តូរឈ្មោះ"
+  },
+  "Renaming": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការអនុម័ត"
+  },
+  "Renaming items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សម្ភារៈ Renaming"
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Finder uses the macOS palette; custom colors and stable IDs are retained by MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបណ្តុះបណ្តាលឬការបណ្តុះបណ្តាលការបណ្តុះបណ្តាលការបណ្តុះបណ្តាលការបណ្តុះបណ្តាលការបណ្តុះបណ្តាល Spotlightប្រព័ន្ធ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ Finder ការប្រើប្រាស់ The macOS ស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាក MacFiles."
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Tag colors use the macOS palette.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបណ្តុះបណ្តាលឬការបណ្តុះបណ្តាលការបណ្តុះបណ្តាលការបណ្តុះបណ្តាលការបណ្តុះបណ្តាលការបណ្តុះបណ្តាល Spotlight. កុំព្យូទ័រដែលមិនត្រូវបានកំណត់ឬមិនអាចរកបានអាចរកបាន។ កុំព្យូទ័រដែលមិនអាចរកបានអាចរកបាន។ កុំព្យូទ័រដែលមិនអាចរកបានអាចរកបាន macOS សាកលវិទ្យាល័យ"
+  },
+  "Reopen closed tab": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្លុកប្លុកប្លុកប្លុក"
+  },
+  "Replace": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការផ្លាស់ប្តូរ"
+  },
+  "Replace this item's ACL?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការផ្លាស់ប្តូរប្រភេទនេះ ACL?"
+  },
+  "Replace with": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការផ្លាស់ប្តូរជាមួយ"
+  },
+  "Replace, keeping backup": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការផ្លាស់ប្តូរ, ការផ្លាស់ប្តូរ"
+  },
+  "Report an issue": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ជាក់ប្រកាសមួយ"
+  },
+  "Repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Repository URL": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "URL សត្វ"
+  },
+  "Requesting cloud download": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការទាញយក Cloud"
+  },
+  "Reset": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Reset all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការរក្សាទុកទាំងអស់"
+  },
+  "Reset icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាកាសអ៊ីណុក"
+  },
+  "Reset pinned folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្លុកប្លុកប្លុកប្លុកប្លុក"
+  },
+  "Restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការចាប់ផ្តើម MacFiles"
+  },
+  "Restore all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការសាងសាយទាំងអស់"
+  },
+  "Restore command defaults": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ជូនការបញ្ជូនទិន្នន័យ"
+  },
+  "Restore here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "បិទទីនេះ"
+  },
+  "Restore original location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការរក្សាទុកទីផ្សារចុងក្រោយ"
+  },
+  "Restore previous folder viewer": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយកកំណត់កំណត់កំណត់កំណត់កំណត់កំណត់កំណត់"
+  },
+  "Restore tabs at launch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការកាត់បន្ថយការកាត់បន្ថយការកាត់"
+  },
+  "Restore to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការរក្សាទុកទៅ..."
+  },
+  "Restoring from Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការរក្សាទុកពី Trash"
+  },
+  "Results come from the macOS Spotlight index. Unindexed folders are not included.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "លទ្ធផលនេះมาจาก macOS Spotlight ប្រហែលជាការបញ្ចូលដំណោះស្រាយដែលមិនត្រូវបានបញ្ចូល។"
+  },
+  "Results in this folder and subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "លទ្ធផលនៅក្នុងឯកសារនេះនិង subfolders"
+  },
+  "Retargeting shortcut": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការកាត់បន្ថយ Shortcut"
+  },
+  "Retarget…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកល្បង..."
+  },
+  "Reveal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបង្ហាញ"
+  },
+  "Reveal in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការ បង្ហាញ នៅ ក្នុង Finder"
+  },
+  "Reverse tab scroll direction": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្លាស្ទិច ប្លាស្ទិច ប្លាស្ទិច"
+  },
+  "Review server fingerprint…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការពិនិត្យឡើងវិញទិន្នន័យទិន្នន័យទិន្នន័យ..."
+  },
+  "Right": {
+    "origin": "Files:Right",
+    "text": "ស្តាំ"
+  },
+  "Rotate left": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "បង្អួច"
+  },
+  "Rotate right": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "បង្អួច"
+  },
+  "Rotating left": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្លុកខាងត្បូង"
+  },
+  "Rotating right": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "បង្អួច"
+  },
+  "Running": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការធ្វើដំណើរ"
+  },
+  "SFTP (SSH keys)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SFTP (SSH អាសយដ្ឋាន"
+  },
+  "SMB, AFP, or WebDAV share": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SMB, AFPឬ WebDAV ចែក​រំលែក​"
+  },
+  "SSH known-host verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH សាកល្បងសាកល្បងសាកល្បង"
+  },
+  "SSH passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH ប្រព័ន្ធ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ NUL ប្រភេទ។"
+  },
+  "Save": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការពារ"
+  },
+  "Save attribute": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការពារប្រយោជន៍"
+  },
+  "Save folder layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយក folder layout"
+  },
+  "Save metadata": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការពារ metadata"
+  },
+  "Save search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការពារការស្វែងរក"
+  },
+  "Save search…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការរក្សាទុក..."
+  },
+  "Save to Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការពារ ទៅ Keychain"
+  },
+  "Saved connections": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការពារទាក់ទង"
+  },
+  "Saved searches": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការស្វែងរក"
+  },
+  "Saved. The token will be used for GitHub HTTPS operations.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការពារ។ token នេះនឹងត្រូវបានប្រើសម្រាប់ការធ្វើដំណើរការ GitHub HTTPS ។"
+  },
+  "Seafoam": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Search": {
+    "origin": "Files:Key.BrowserSearch",
+    "text": "ស្វែងរក"
+  },
+  "Search %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ស្វែងរក %1$@"
+  },
+  "Search %1$@ · Return searches subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ស្វែងរក %1$@ · ការទាញយកការទាញយក Subfolders"
+  },
+  "Search available actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការរកឃើញការធ្វើដំណើរដែលអាចរកបាន"
+  },
+  "Search commands": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការស្វែងរក"
+  },
+  "Search folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិតទាញយក"
+  },
+  "Search settings": {
+    "origin": "Files:SearchSettings",
+    "text": "ស្វែងរកការកំណត់..."
+  },
+  "Search stopped.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការស្វែងរកបានកាត់បន្ថយ"
+  },
+  "Search subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការស្វែងរក Subfolders"
+  },
+  "Security": {
+    "origin": "Files:Security",
+    "text": "សុវត្ថិភាព"
+  },
+  "Select": {
+    "origin": "Files:NavToolbarSelectionOptions.Label",
+    "text": "ជ្រើសរើស"
+  },
+  "Select a file to view its diff.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយកឯកសារដើម្បីមើលវា diff ។"
+  },
+  "Select a macOS alias or symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការជ្រើសរើស A macOS អាសយដ្ឋានឬការអាសយដ្ឋាន។"
+  },
+  "Select a regular media file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយកឯកសារបណ្តុះបណ្តាលទូទៅ។"
+  },
+  "Select all": {
+    "origin": "Files:SelectAll",
+    "text": "ជ្រើស​​​ទាំង​អស់"
+  },
+  "Select an archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយកអាសយដ្ឋាន"
+  },
+  "Select an item to see its details.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សូមស្វែងរកប្រភេទមួយដើម្បីមើលពិសេសរបស់ខ្លួន។"
+  },
+  "Select archive entries to remove.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយកប្រកាសកំណត់ផែនការដើម្បីទាញយក។"
+  },
+  "Select on hover": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយកនៅ Hover"
+  },
+  "Select previous folder when navigating up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយកឯកសារមុនពេលបណ្តាញ"
+  },
+  "Select uniquely named items to archive.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយកប្រភេទដែលមានគុណភាពខ្ពស់សម្រាប់ការចែករំលាយ។"
+  },
+  "Selected items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការជ្រើសរើស"
+  },
+  "Selected items have duplicate names. Archive them separately.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សម្ភារៈដែលបានជ្រើសរើសគឺជាការប្លុកទិន្នន័យ។ ប្លុកទិន្នន័យទាំងនេះដោយ separate ។"
+  },
+  "Selection checkboxes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការជ្រើសរើសកំណត់ត្រង់"
+  },
+  "Separate file and folder counts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិតឯកសារនិងកម្រិតឯកសារចែកចែកចាយ"
+  },
+  "Separator": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អត់ផ្គង់"
+  },
+  "Server": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកល្បង"
+  },
+  "Set as app background": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "កំណត់ជាផ្ទៃខាងក្រោយកម្មវិធី"
+  },
+  "Set as wallpaper": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ"
+  },
+  "Set default": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រតិបត្តិការ Default"
+  },
+  "SetAsAppBackground": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "កំណត់ជាផ្ទៃខាងក្រោយកម្មវិធី"
+  },
+  "Settings": {
+    "origin": "Files:Settings",
+    "text": "ការកំណត់"
+  },
+  "Settings file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រតិបត្តិការ Settings"
+  },
+  "Settings saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រតិបត្តិការ Save"
+  },
+  "Settings…": {
+    "origin": "Files:Settings",
+    "text": "ការកំណត់"
+  },
+  "Share": {
+    "origin": "Files:Share",
+    "text": "ចែក​រំលែក​"
+  },
+  "Share…": {
+    "origin": "Files:Share",
+    "text": "ចែក​រំលែក​"
+  },
+  "Shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អេក្រង់"
+  },
+  "Shortcut": {
+    "origin": "Files:Shortcut",
+    "text": "ផ្លូវកាត់"
+  },
+  "Shortcuts apply in the explorer. Text fields keep native editing behavior. Resolve duplicate assignments before applying.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការកំណត់តម្រូវការត្រូវបានអនុវត្តនៅក្នុងអតិថិជន។ ប្រភេទសៀវភៅគួរឱ្យមានការរក្សាទុកការធ្វើតេស្តដែលមានប្រសិទ្ធិភាព។ ប្រភេទសៀវភៅគួរឱ្យមានប្រសិទ្ធិភាព។ ប្រភេទសៀវភៅគួរឱ្យមានប្រសិទ្ធិភាព។ ប្រភេទសៀវភៅគួរឱ្យមានប្រសិទ្ធិភាព។ ប្រភេទសៀវភៅគួរឱ្យមានប្រសិទ្ធិភាព។"
+  },
+  "Show dotfiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការ បង្ហាញ DOTFILES"
+  },
+  "Show hidden files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយកទិន្នន័យ"
+  },
+  "Show in folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការ បង្ហាញ នៅ ក្នុង folder"
+  },
+  "Show log in folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការ បង្ហាញ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ"
+  },
+  "Show menu bar icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការ បង្ហាញ Menu Bar Icon"
+  },
+  "Show package contents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបង្ហាញទិន្នន័យ"
+  },
+  "Show shelf button": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការ បង្ហាញ ប៊ូតុង Shelf"
+  },
+  "Show staged diff": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបង្ហាញការបង្ហាញ DIF"
+  },
+  "Show status bar": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការ បង្ហាញ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ"
+  },
+  "Show tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការ បង្ហាញ TAB សកម្មភាព"
+  },
+  "Show thumbnails": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបង្ហាញទិន្នផល"
+  },
+  "ShowFileExtensions": {
+    "origin": "Files:ShowFileExtensions",
+    "text": "File extensions"
+  },
+  "Sidebar": {
+    "origin": "Files:Sidebar",
+    "text": "បារចំហៀង"
+  },
+  "Signature": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅ"
+  },
+  "Signature integrity verification failed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ជាក់ការសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរ"
+  },
+  "Signature integrity verified. This does not constitute a notarization or malware assessment.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរសរសេរ"
+  },
+  "Signatures": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅ"
+  },
+  "Single file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រតិបត្តិការ Single"
+  },
+  "Single folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិតមួយ"
+  },
+  "Single-click columns": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិត Single-Click"
+  },
+  "Single-click files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កុំព្យូទ័រ Single-Click"
+  },
+  "Single-click folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិត Single-Click"
+  },
+  "Size": {
+    "origin": "Files:SizeLabel",
+    "text": "ទំហំ៖"
+  },
+  "Size units": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទំហំទំហំ"
+  },
+  "Skip": {
+    "origin": "Files:Skip",
+    "text": "រំលង"
+  },
+  "Skip existing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រហែលប្រហែលប្រហែល"
+  },
+  "Small icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អេក្រង់អេក្រង់"
+  },
+  "Smooth scrolling": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ស្លាកស្ម័ន"
+  },
+  "Solid": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកល្បង"
+  },
+  "Some files could not be updated. The saved tag was retained so you can retry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទិន្នន័យមួយចំនួនមិនអាចត្រូវបានបន្ថែម។ ការកំណត់តម្រូវការនេះត្រូវបានរក្សាទុកដោយសារតែអ្នកអាចទទួលបានការបញ្ជូន។"
+  },
+  "Some items could not be read.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សម្ភារៈមួយចំនួនមិនអាចត្រូវបានអាន។"
+  },
+  "Some items couldn’t be completed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សម្ភារៈមួយចំនួនមិនអាចត្រូវបានបញ្ចប់"
+  },
+  "Some items have no recorded original location. Select them and use Restore to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សម្ភារៈមួយចំនួនមិនមានទីតាំងសម្ភារៈដើមដែលបានបញ្ចូល។ សូមជ្រើសរើសនិងប្រើការបណ្តាញសម្រាប់..."
+  },
+  "Sort": {
+    "origin": "Files:Sort",
+    "text": "តម្រៀប​"
+  },
+  "Sort by": {
+    "origin": "Files:SortBy",
+    "text": "តម្រៀបតាម"
+  },
+  "SortFilesAndFoldersTogether": {
+    "origin": "Files:SortFilesAndFoldersTogether",
+    "text": "តម្រៀបឯកសារនិងថតឯកសារជាមួយគ្នា"
+  },
+  "SortFilesFirst": {
+    "origin": "Files:SortFilesFirst",
+    "text": "តម្រៀបឯកសារជាមុន"
+  },
+  "SortFoldersFirst": {
+    "origin": "Files:SortFoldersFirst",
+    "text": "តម្រៀបថតឯកសារជាមុន"
+  },
+  "Source code": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រតិបត្តិការ Source Code"
+  },
+  "Special device entries cannot be extracted: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធប្រតិបត្តិការពិសេសមិនអាចរកបាន: %1$@"
+  },
+  "Split archives use ZIP or 7z format.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការប្រើប្រាស់សៀវភៅកំណត់ ZIP ឬ 7z ទ្រង់ទ្រាយ"
+  },
+  "Split into volumes (MiB, optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិតកម្រិតកម្រិតកម្រិតកម្រិតកម្រិតកម្រិតកម្រិតកម្រិតកម្រិតកម្រិតកម្រិតកម្រិតកម្រិត"
+  },
+  "Stage all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Stage selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "រោងចក្រជ្រើសរើស"
+  },
+  "Staged all changes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការរៀបចំការផ្លាស់ប្តូរទាំងអស់"
+  },
+  "Staged selected files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិតខុសគ្នានៅលើ File Selected"
+  },
+  "Start": {
+    "origin": "Files:Start",
+    "text": "Start"
+  },
+  "Start folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិតកម្រិត"
+  },
+  "Startup": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការចាប់ផ្តើម"
+  },
+  "Startup and tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup និង TABS"
+  },
+  "Startup folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup សៀវភៅ"
+  },
+  "Startup folders are used when session restoration is disabled. An empty list opens Home.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធប្រតិបត្តិការ Startup ត្រូវបានប្រើនៅពេលដែលការកំណត់ផ្លាស់ប្តូរសប្តាហ៍ត្រូវបានបិទ។ ការផ្តល់ជូនដោយឥតគិតថ្លៃគឺជាប្រព័ន្ធប្រតិបត្តិការ Home ។"
+  },
+  "Status": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Stop": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការកំណត់"
+  },
+  "Stopped before the next item. Completed items were kept.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ចប់មុនពេលការបញ្ចប់។ ការបញ្ចប់ការបញ្ចប់ត្រូវបានរក្សាទុក។"
+  },
+  "Storage settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រតិបត្តិការ..."
+  },
+  "Storm": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ស្លាក"
+  },
+  "Stretch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ស្ម័ន"
+  },
+  "Switch to new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្លុកទៅប្លុកថ្មី"
+  },
+  "Switched to %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្លុកទៅ %1$@"
+  },
+  "Symbolic Link": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ស្លាកស្លាក"
+  },
+  "Symbolic link": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ"
+  },
+  "Sync": {
+    "origin": "Files:GitSync",
+    "text": "Sync"
+  },
+  "Sync conflict": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រភេទ Sync"
+  },
+  "Sync error": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ Sync"
+  },
+  "Synced": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកល្បង"
+  },
+  "Synchronize folder preferences": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រតិបត្តិការ Folders Preferences"
+  },
+  "System": {
+    "origin": "Files:SystemTimeStyle",
+    "text": "ប្រព័ន្ធ"
+  },
+  "TLS certificate verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "TLS សញ្ញាបនប័ត្រ"
+  },
+  "Tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការធ្វើដំណើរ TAB"
+  },
+  "Tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ស្លាក"
+  },
+  "Tag": {
+    "origin": "Files:Tag",
+    "text": "ស្លាក"
+  },
+  "Tag (blank = all tags)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ស្លាក (ស្លាក = ស្លាកទាំងអស់)"
+  },
+  "Tag color": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ស្លាក color"
+  },
+  "Tag name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាក្រក់"
+  },
+  "Tag names must be unique.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការកំណត់ទិន្នន័យនេះគឺជាការមួយគត់។"
+  },
+  "Tag update failed and original metadata could not be restored: ": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបង្ហាញការបង្ហាញការបង្ហាញការបង្ហាញការបង្ហាញការបង្ហាញការបង្ហាញការបង្ហាញការបង្ហាញការបង្ហាញការបង្ហាញការបង្ហាញការបង្ហាញការបង្ហាញការបង្ហាញការបង្ហាញការបង្ហាញការបង្ហាញការបង្ហាញការបង្ហាញការបង្ហាញការបង្ហាញ: "
+  },
+  "Tagged items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋាន"
+  },
+  "Tags": {
+    "origin": "Files:FileTags",
+    "text": "ស្លាក"
+  },
+  "Tags, separated by commas": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ស្លាក, បែកដោយ commas"
+  },
+  "Target": {
+    "origin": "Files:PropertyItemTarget",
+    "text": "គោលដៅ"
+  },
+  "Terminal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Test IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការធ្វើតេស្ត IDE"
+  },
+  "The ACL failed validation.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាអា ACL ការបញ្ជាក់មិនបានធ្វើទេ។"
+  },
+  "The command failed (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យនេះបានបញ្ចប់ (%1$@)."
+  },
+  "The custom icon and saved layout belong to the selected item.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រហែលអ៊ីណុកដែលបានកំណត់និងការរចនាសម្ព័ន្ធដែលបានកំណត់គឺជាផ្នែកមួយនៃប្រហែលដែលបានជ្រើសរើស។"
+  },
+  "The destination connection changed. Drop the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធប្រតិបត្តិការកំណត់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់"
+  },
+  "The destination connection changed. Paste the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបណ្តុះបណ្តាលកំណត់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់ផ្គង់"
+  },
+  "The destination is not an accessible folder.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យនេះមិនជាសាកលវិទ្យាល័យដែលអាចរកបាន។"
+  },
+  "The icon could not be changed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាកាសអាកាសអាកាសអាកាសអាកាសអាកាសអាកាសអាកាសអាកាសអាកាសអាកាសអាកាសអាកាស"
+  },
+  "The icon could not be reset.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាកាសអាកាសអាកាសអាកាសអាកាសអាកាសអាកាសអាកាសអាកាសអាកាសអាកាសអាកាស"
+  },
+  "The media container did not retain: ": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបណ្តាញអ៊ីមែលមិនបានបញ្ចូល: "
+  },
+  "The media tracks cannot be preserved in this container.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាក"
+  },
+  "The new shortcut target does not exist.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទោះជាយ៉ាងណាក៏ថានឹងមិនមានគោលបំណងថ្មី។"
+  },
+  "The old shortcut is in Trash, but macOS did not return its location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទោះបីការចុងក្រោយនេះគឺជាការចុងក្រោយ, ប៉ុន្តែ macOS មិនបានសាកល្បងនៅទីតាំងរបស់ខ្លួន។"
+  },
+  "The original archive remains recoverable with Undo.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅអ៊ីនធឺណិតអាចរកបានដោយ Undo ។"
+  },
+  "The server did not return a valid host-key list.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្មវិធីនេះមិនផ្តល់ជូននូវការបញ្ចូលអតិថិជនដែលមានតម្រូវការ។"
+  },
+  "The server recovery path is occupied by a file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រហែលប្រហែលប្រហែលប្រហែលប្រហែលប្រហែលប្រហែលប្រហែលប្រហែលប្រហែលប្រហែលប្រហែលប្រហែលប្រហែល"
+  },
+  "The server returned an unsafe or unsupported filename.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្មវិធីនេះបានទាក់ទងនឹងការទទួលយកឯកសារដែលមិនសុវត្ថិភាពឬមិនគាំទ្រ។"
+  },
+  "The server returned an unsupported directory listing. No transfer was started.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្មវិធីនេះបានបង្ហាញពីការបញ្ចូលឯកសារដែលមិនបានគាំទ្រ។ មិនបានចាប់ផ្តើមការបញ្ចូល។"
+  },
+  "The shortcut will point to %1$@. The target file itself is not modified.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការកាត់បន្ថយនេះគឺជាការបង្ហាញថា %1$@សម្ភារៈសម្ភារៈសម្ភារៈសម្ភារៈសម្ភារៈសម្ភារៈសម្ភារៈសម្ភារៈសម្ភារៈសម្ភារៈសម្ភារៈសម្ភារៈ។"
+  },
+  "The slideshow changes desktop wallpaper while MacFiles is running. It resumes at launch when enabled. macOS controls the lock screen wallpaper separately.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទូរទស្សនកិច្ចកំណត់ផ្លាស់ប្តូរកំណត់ផ្លាស់ប្តូរកំណត់ផ្លាស់ប្តូរ MacFiles វាត្រូវបានធ្វើដំណើរ។ វាត្រូវបានធ្វើដំណើរការនៅពេលដែលវាត្រូវបានធ្វើដំណើរការ។ macOS ការត្រួតពិនិត្យរូបរាងកាយរូបរាងកាយផ្ទាល់ខ្លួន។"
+  },
+  "The system script could not be compiled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ សៀវភៅ មិនអាចត្រូវបានរចនាឡើង។"
+  },
+  "The system script could not be created.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ script មិនអាចបង្កើតឡើង។"
+  },
+  "The transfer selection changed. Cut the items again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ជាការដឹកជញ្ជូនត្រូវបានផ្លាស់ប្តូរ។ បិទអតិថិជនថ្មី។"
+  },
+  "The uploaded data did not match its source. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទិន្នន័យដែលបានទាញយកមិនគួរឱ្យប្រាកដពីការផ្លាស់ប្តូររបស់វា។ ការផ្លាស់ប្តូររបស់វាត្រូវបានរក្សាទុក។"
+  },
+  "The uploaded iCloud copy remains available. macOS will download it again when needed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការ upload នេះ iCloud កូដនេះអាចរកបាន។ macOS ទាញយកនេះនៅពេលដែលត្រូវការ។"
+  },
+  "Theme": {
+    "origin": "Files:SettingsAppearanceTheme",
+    "text": "ផ្ទៃស្បែក"
+  },
+  "These items will be removed from Trash. This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "នេះនឹងត្រូវបានកាត់បន្ថយពី Trash ។ នេះមិនអាចត្រូវបានកាត់បន្ថយ។"
+  },
+  "Third-party providers do not expose a common public sync-completion API. Available locally describes downloaded bytes, not upload completion. Download requests do not pin files permanently.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អ្នកផ្គត់ផ្គង់ទីផ្សារមិនបានបង្ហាញថាជា API ប្រតិបត្តិការ Sync-Completion ដែលមានប្រសិនបើអ្នកអាចរកបាននៅលើទីផ្សារនេះបានបង្ហាញថាថាត្រដែលត្រូវបានទាញយក, មិនបានទាញយកការបញ្ចប់។ ការទាញយកតម្រូវការមិនបានកាត់បន្ថយឯកសារដោយឥតគិតថ្លៃ។"
+  },
+  "This FTP server cannot create symbolic links. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "នេះ FTP server មិនអាចបង្កើតការរក្សាទុកទិន្នន័យ។ ប្រភពនេះត្រូវបានគាំទ្រ។"
+  },
+  "This Mac": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "នេះ Mac"
+  },
+  "This alias contains a target cycle.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋាននេះមានការបញ្ជាសប្តាហ៍។"
+  },
+  "This archive format is read-only. Extract it and create a ZIP or 7z archive to edit its contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ZIP ឬ 7z សាកលវិទ្យាល័យដើម្បីបង្កើតការបញ្ចូលគ្នានៅលើ។"
+  },
+  "This archive or server protocol does not expose macOS extended attributes. Extract or download the item to manage attributes on its local copy.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "នេះបណ្តុះបណ្តាលឬអ៊ីនធឺណិតរបស់អ្នកមិនបានបង្ហាញ macOS ការអភិវឌ្ឍប្រភេទ។ ទាញយកឬទាញយកប្រភេទដើម្បីគ្រប់គ្រងប្រភេទនៅលើការកំណត់ប្រភេទរបស់វា។"
+  },
+  "This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "នេះមិនអាចបញ្ជាក់។"
+  },
+  "This changes the registered folder viewer. Finder still manages the desktop and macOS file dialogs. You can restore the previous viewer here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "វាត្រូវបានផ្លាស់ប្តូរប្រព័ន្ធអតិថិជនរបស់អ្នក។ Finder ការគ្រប់គ្រងការធ្វើតេស្ត និង macOS អ្នកអាចរកបានការបញ្ជាទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យនៅទីនេះ."
+  },
+  "This changes which users can access the item. Export the existing ACL first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "នេះជាការផ្លាស់ប្តូរដែលអ្នកប្រើប្រាស់អាចចូលទៅក្នុងប្រភេទ។ ការនាំចេញប្រភេទដែលមាន ACL បន្ទាប់មកអ្នកត្រូវការបិទកំណត់ផ្គង់។"
+  },
+  "This folder is empty": {
+    "origin": "Files:EmptyFolder.Text",
+    "text": "ថតទទេរ"
+  },
+  "This location is not ready for transfers.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "នេះជាទីតាំងនេះមិនអាចធ្វើបានសម្រាប់ការដឹកជញ្ជូន។"
+  },
+  "This media format cannot be edited by the native exporter.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធផ្សព្វផ្សាយនេះមិនអាចត្រូវបានបញ្ចូលដោយអ្នកនាំចេញអ៊ីនធឺណិត។"
+  },
+  "This metadata container uses indexed keys; edit it with its native media application.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបណ្តាញទិន្នន័យនេះបានប្រើជាទិន្នន័យដែលត្រូវបានកំណត់។ ការបណ្តាញវាជាមួយនឹងកម្មវិធីសាស្រ្តអ៊ីតាលីរបស់ខ្លួន។"
+  },
+  "This operation cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការធ្វើដំណើរនេះមិនអាចត្រូវបានគ្មានការ។"
+  },
+  "This removes the attribute from this file. Export its bytes first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "វាត្រូវបានកាត់បន្ថយប្រភេទពីឯកសារនេះ។ ការនាំចេញទិន្នន័យរបស់វាដំបូងដែលអ្នកត្រូវការការសាកល្បង។"
+  },
+  "Thumbnail cache limit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋាន Cache Limited"
+  },
+  "Thumbnails": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ស្លាក"
+  },
+  "Thumbnails are cached in memory. The limit applies to decoded images.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទំហំនេះត្រូវបានកំណត់នៅក្នុងទិន្នន័យ។ ទំហំនេះត្រូវបានអនុវត្តសម្រាប់រូបភាពដែលបានកំណត់។"
+  },
+  "Tiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សត្វ"
+  },
+  "Title": {
+    "origin": "Files:PropertyTitle",
+    "text": "ចំណងជើង"
+  },
+  "Today": {
+    "origin": "Files:Today",
+    "text": "ថ្ងៃនេះ"
+  },
+  "Toggle compact overlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "Toggle compact overlay"
+  },
+  "Toggle details pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ស្លាកស្លាកស្លាកស្លាកស្លាកស្លាក"
+  },
+  "Toggle dual pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "កម្រិតកម្រិតកម្រិតកម្រិត"
+  },
+  "Toggle filter header": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "បិទ/បើកក្បាលតម្រង"
+  },
+  "Toggle full screen": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទំហំទំហំទំហំ Full Screen"
+  },
+  "Toggle selection": {
+    "origin": "Files:ToggleSelect",
+    "text": "Toggle selection"
+  },
+  "ToggleCompactOverlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "Toggle compact overlay"
+  },
+  "ToggleFilterHeader": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "បិទ/បើកក្បាលតម្រង"
+  },
+  "ToggleSelect": {
+    "origin": "Files:ToggleSelect",
+    "text": "Toggle selection"
+  },
+  "ToggleSidebar": {
+    "origin": "Files:ToggleSidebar",
+    "text": "Toggle the sidebar"
+  },
+  "ToggleToolbar": {
+    "origin": "Files:ToggleToolbar",
+    "text": "Toggle toolbar"
+  },
+  "Too many nested aliases.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាកាសធាតុអ៊ីនធឺណិត។"
+  },
+  "Tools": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ឧបករណ៍"
+  },
+  "Top": {
+    "origin": "Files:Top",
+    "text": "លើ"
+  },
+  "Total size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទំហំទូលាយ"
+  },
+  "Transfer failed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការដឹកជញ្ជូនមិនបាន"
+  },
+  "Trash": {
+    "origin": "Files:RecycleBin",
+    "text": "ធុងសម្រាម"
+  },
+  "Trash on this Mac and connected volumes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ចប់នៅលើ Mac នេះ និងការបញ្ចូលទំហំនេះ"
+  },
+  "Trust": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការគាំទ្រ"
+  },
+  "Trust this SSH server?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាកាសធាតុ SSH អ្នកប្រើប្រាស់?"
+  },
+  "Trust verified fingerprints": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការត្រួតពិនិត្យការត្រួតពិនិត្យការត្រួតពិនិត្យ"
+  },
+  "Try again": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "បើយោងបើយោង"
+  },
+  "Under window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Undo": {
+    "origin": "Files:Undo",
+    "text": "មិនធ្វើវិញ"
+  },
+  "Undo file operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធប្រតិបត្តិការឯកសារ"
+  },
+  "Undoing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកល្បង"
+  },
+  "Unencrypted FTP": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ស្លាកស្លាក FTP"
+  },
+  "Universal": {
+    "origin": "Files:Universal",
+    "text": "ម៉ោងសកល"
+  },
+  "Unknown": {
+    "origin": "Files:Unknown",
+    "text": "មិនស្គាល់"
+  },
+  "Unknown shortcut command.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកល្បងកាត់បន្ថយអតិថិជន។"
+  },
+  "Unpin": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Unsafe archive link target.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យសាកលវិទ្យាល័យ"
+  },
+  "Unstage": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Unstaged selected files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយកទិន្នន័យទិន្នន័យ"
+  },
+  "Unsupported Git action.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "មិនមែនការ Git សកម្មភាព"
+  },
+  "Unsupported archive entry name or listing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋានអាសយដ្ឋាន"
+  },
+  "Unsupported file type in transfer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រភេទទិន្នន័យដែលមិនបានគាំទ្រនៅក្នុងការដឹកជញ្ជូន។"
+  },
+  "Unsupported metadata container version.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ"
+  },
+  "Unsupported movie header.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅអ៊ីនធឺណិត។"
+  },
+  "Untagged": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ"
+  },
+  "Up": {
+    "origin": "Files:Key.Up",
+    "text": "លើ"
+  },
+  "Up one level": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អត់ផ្នែកមួយ"
+  },
+  "Up one level · ⌘↑": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "នៅលើទី 1 ⌘↑"
+  },
+  "Updates native macOS tags for all selected items. Leave empty to remove tags.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ Native macOS ស្លាកសម្រាប់ស្លាកទាំងអស់ដែលបានជ្រើសរើស។ បិទស្លាកដោយឥតគិតថ្លៃ។"
+  },
+  "Updating archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅ Update"
+  },
+  "Updating media metadata": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបណ្តុះបណ្តាល Media Metadata"
+  },
+  "Updating permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ជូនការបញ្ជូន"
+  },
+  "Upload": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការបញ្ចូល"
+  },
+  "Upload failed. The original remains at %1$@; the pending upload is %2$@. %3$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយកមិនបានបង្ហាញ។ អាសយដ្ឋាននេះគឺនៅលើ %1$@ការទាញយកការទាញយកនេះគឺជា %2$@. %3$@"
+  },
+  "Upload files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយកទិន្នន័យ..."
+  },
+  "Upload regular files or folders; symbolic links are not followed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទាញយកឯកសារឬឯកសារទូទាត់; ការបណ្តុះបណ្តាលអ៊ីនធឺណិតមិនត្រូវបានអនុវត្ត។"
+  },
+  "Uploading": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការទាញយក"
+  },
+  "Upstream Files issues": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រហែលប្រហែលប្រហែលប្រហែលប្រហែល"
+  },
+  "Use Copy and Paste or Download to transfer remote items.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រើ Copy and Paste ឬ ទាញយកដើម្បីទាញយកប្រភេទពីចុងក្រោយ។"
+  },
+  "Use Copy or Extract to transfer archive contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រើ Copy or Extract សម្រាប់ការដឹកជញ្ជូនទិន្នន័យឯកសារ។"
+  },
+  "Use MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រើ MacFiles"
+  },
+  "Use MacFiles for folder URLs?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រើ MacFiles សម្រាប់ URLs ។"
+  },
+  "Use MacFiles for folder URLs…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រើ MacFiles សម្រាប់ URLs របស់អ្នក..."
+  },
+  "User": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អ្នកប្រើប្រាស់"
+  },
+  "Username": {
+    "origin": "Files:CredentialDialogUserName.PlaceholderText",
+    "text": "អត្ថនាម"
+  },
+  "Uses SSH keys or the password above. Host-key verification remains enabled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការប្រើ SSH ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ ប្រតិបត្តិការ"
+  },
+  "Uses the on-device Apple Intelligence model when available. Otherwise searches the words you entered. No file content is sent to a server.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការប្រើម៉ូដ Apple Intelligence នៅពេលដែលអាចរកបាន។ ប្រសិនបើអ្នកទាញយកកំណត់ដែលអ្នកទាញយក។ មិនមានទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យ"
+  },
+  "Value": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អត្ថភាព"
+  },
+  "Verified host keys saved for MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាកស្លាក MacFiles."
+  },
+  "Vertical alignment": {
+    "origin": "Files:VerticalAlignment",
+    "text": "តម្រឹម​បញ្ឈរ"
+  },
+  "Vertical split": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ"
+  },
+  "View": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការ បង្ហាញ"
+  },
+  "Volume": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទំហំ"
+  },
+  "Volume available": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទំហំដែលមាន"
+  },
+  "Volume capacity": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទំហំទំហំ"
+  },
+  "Volume case sensitive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទំហំទំហំទំហំទំហំទំហំ"
+  },
+  "Volume read only": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទំហំ មិនមែនការចុច"
+  },
+  "Volumes must be at least 1 KiB.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទំហំនេះត្រូវតែមានទំហំ 1 KiB ។"
+  },
+  "Waiting to sync": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សាកលវិទ្យាល័យ Sync"
+  },
+  "Wallpaper could not be changed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅមិនអាចផ្លាស់ប្តូរ"
+  },
+  "Wallpaper slideshow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "រូបថត Slideshow"
+  },
+  "Wallpaper slideshow…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "រូបថត Slideshow..."
+  },
+  "Warn when changing file extensions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការពិសោធន៍ប្រសិនបើការផ្លាស់ប្តូរឯកសារ"
+  },
+  "When an item exists": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រសិនបើប្រភេទនេះមាន"
+  },
+  "When names conflict, choose Keep both, Replace, or Skip. Replaced versions and deleted items go to the macOS Trash. Undo and redo are retained across launches and shared by open windows.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រសិនបើអ្នកមានទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំទំហំ macOS Undo និង redo ត្រូវបានរក្សាទុកនៅលើការចាប់ផ្តើមនិងត្រូវបានផ្គត់ផ្គង់ដោយសាកលវិទ្យាល័យ។"
+  },
+  "Working…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ការធ្វើការ..."
+  },
+  "Writable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅ"
+  },
+  "Writes embedded metadata. Image files may be re-encoded; the original remains recoverable with Undo. Audio and video edits preserve encoded tracks. Unsupported containers keep the original.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រតិបត្តិការ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ ប្រព័ន្ធ"
+  },
+  "Year": {
+    "origin": "Files:Year",
+    "text": "ឆ្នាំ"
+  },
+  "Yellow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អាសយដ្ឋាន"
+  },
+  "Yes": {
+    "origin": "Files:Yes",
+    "text": "បាទ/ចាស"
+  },
+  "Yesterday": {
+    "origin": "Files:Yesterday",
+    "text": "ម្សិលមិញ"
+  },
+  "You can restore these items with Undo or from the Trash.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "អ្នកអាចរកបានការបញ្ចូលទាំងនេះដោយ Undo ឬពី Trash ។"
+  },
+  "Your files, your way.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ទិន្នន័យរបស់អ្នក, ប្រព័ន្ធរបស់អ្នក"
+  },
+  "Your pinned folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សៀវភៅរបស់អ្នក"
+  },
+  "Zoom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "សត្វ"
+  },
+  "macOS aliases and symbolic links refer to a target path. Windows shortcut arguments and Run as administrator flags do not have alias equivalents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Aliases និងការបណ្តុះបណ្តាលគំនិតគឺជាការបណ្តុះបណ្តាលជម្រើស។ Windows សាកលវិទ្យាល័យនិងការធ្វើដំណើរដូចជាសាកលវិទ្យាល័យដែលមិនមានគំរូ alias ។"
+  },
+  "macOS integration": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS ការអភិវឌ្ឍ"
+  },
+  "macOS moved the previous version to Trash but did not return its location. The new version was not installed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS ការធ្វើដំណើរការប្រភេទមុនទៅ Trash ប៉ុន្តែមិនបានសាកល្បង។ ប្រភេទថ្មីនេះមិនត្រូវបានបង្កើតឡើង។"
+  },
+  "macOS returned %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS សាកលវិទ្យាល័យ %1$@."
+  },
+  "macOS uses Mach-O architectures and the application's minimum OS version. Windows compatibility modes, DPI overrides and administrator flags cannot be applied to a native Mac app.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS ប្រើ Mach-O ប្រព័ន្ធប្រតិបត្តិការនិងប្រព័ន្ធប្រតិបត្តិការទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យទិន្នន័យ។ Windows ប្រព័ន្ធប្រតិបត្តិការអតិថិជន, ប្រព័ន្ធប្រតិបត្តិការអតិថិជន (DPI) និង ប្រព័ន្ធប្រតិបត្តិការអតិថិជន (Administrator Flag) មិនអាចត្រូវបានអនុវត្តទៅនឹងកម្មវិធី Mac របស់អ្នក."
+  }
+}

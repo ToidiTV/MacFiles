@@ -1,0 +1,2414 @@
+{
+  "basis": "Files source in this checkout compared with native build 8 (0.5.0); source mappings do not establish complete behavioral/UI parity.",
+  "commands": [
+    {
+      "source": "Actions/BaseUIAction.cs",
+      "types": [
+        "BaseUIAction"
+      ],
+      "labels": [],
+      "native_status": "Infrastructure",
+      "mapping_notes": "Swift command routing / observable view models replace the C# action base or interface; not a separate user feature. |"
+    },
+    {
+      "source": "Actions/Content/Archives/Compress/BaseCompressArchiveAction.cs",
+      "types": [
+        "BaseCompressArchiveAction"
+      ],
+      "labels": [],
+      "native_status": "Infrastructure",
+      "mapping_notes": "Swift command routing / observable view models replace the C# action base or interface; not a separate user feature. |"
+    },
+    {
+      "source": "Actions/Content/Archives/Compress/CompressIntoArchiveAction.cs",
+      "types": [
+        "CompressIntoArchiveAction"
+      ],
+      "labels": [
+        "CompressIntoArchiveDescription",
+        "CreateArchive"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Compression tool supports format, destination and password. ArchiveService and SevenZipService integration tests cover the backends. |"
+    },
+    {
+      "source": "Actions/Content/Archives/Compress/CompressIntoSevenZipAction.cs",
+      "types": [
+        "CompressIntoSevenZipAction"
+      ],
+      "labels": [
+        "CompressIntoSevenZip",
+        "CompressIntoSevenZipDescription",
+        "CreateNamedArchive"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Dedicated automatic-name 7z command; ArchiveWorkflows preserves existing archive names. Backend covered by existing archive tests. |"
+    },
+    {
+      "source": "Actions/Content/Archives/Compress/CompressIntoZipAction.cs",
+      "types": [
+        "CompressIntoZipAction"
+      ],
+      "labels": [
+        "CompressIntoZip",
+        "CompressIntoZipDescription",
+        "CreateNamedArchive"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Dedicated automatic-name ZIP command; duplicate-name tests and native creation of Example.zip verified. |"
+    },
+    {
+      "source": "Actions/Content/Archives/Decompress/BaseDecompressArchiveAction.cs",
+      "types": [
+        "BaseDecompressArchiveAction"
+      ],
+      "labels": [],
+      "native_status": "Infrastructure",
+      "mapping_notes": "Swift command routing / observable view models replace the C# action base or interface; not a separate user feature. |"
+    },
+    {
+      "source": "Actions/Content/Archives/Decompress/DecompressArchive.cs",
+      "types": [
+        "DecompressArchiveAction"
+      ],
+      "labels": [
+        "DecompressArchiveDescription",
+        "ExtractFiles"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Destination picker with password input and batch reports; ArchiveWorkflows shares the tested extraction pipeline. |"
+    },
+    {
+      "source": "Actions/Content/Archives/Decompress/DecompressArchiveHere.cs",
+      "types": [
+        "DecompressArchiveHereAction"
+      ],
+      "labels": [
+        "DecompressArchiveHereDescription",
+        "ExtractHere"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Stages validated extraction, then copies root contents with keep-both collisions and valid undo. Native extraction produced Example (2).txt and preserved Example.txt. |"
+    },
+    {
+      "source": "Actions/Content/Archives/Decompress/DecompressArchiveHereSmart.cs",
+      "types": [
+        "DecompressArchiveHereSmartAction"
+      ],
+      "labels": [
+        "DecompressArchiveHereSmartDescription",
+        "ExtractHereSmart"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Single meaningful archive root extracts here; multiple roots create a wrapper. Tests cover both branches and collisions. |"
+    },
+    {
+      "source": "Actions/Content/Archives/Decompress/DecompressArchiveToChildFolderAction.cs",
+      "types": [
+        "DecompressArchiveToChildFolderAction"
+      ],
+      "labels": [
+        "BaseLayoutItemContextFlyoutExtractToChildFolder",
+        "DecompressArchiveToChildFolderDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Creates a unique archive-named child folder. Placement and duplicate-wrapper tests pass. |"
+    },
+    {
+      "source": "Actions/Content/Background/BaseSetAsAction.cs",
+      "types": [
+        "BaseSetAsAction"
+      ],
+      "labels": [
+        "FailedToSetBackground",
+        "OK"
+      ],
+      "native_status": "Infrastructure",
+      "mapping_notes": "Swift command routing / observable view models replace the C# action base or interface; not a separate user feature. |"
+    },
+    {
+      "source": "Actions/Content/Background/SetAsAppBackgroundAction.cs",
+      "types": [
+        "SetAsAppBackgroundAction"
+      ],
+      "labels": [
+        "Application",
+        "SetAsAppBackground",
+        "SetAsAppBackgroundDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Selected image or native image picker, persisted path and opacity. Image rendering visually verified. |"
+    },
+    {
+      "source": "Actions/Content/Background/SetAsLockscreenBackgroundAction.cs",
+      "types": [
+        "SetAsLockscreenBackgroundAction"
+      ],
+      "labels": [
+        "Lockscreen",
+        "SetAsLockscreen",
+        "SetAsLockscreenBackgroundDescription"
+      ],
+      "native_status": "Platform boundary",
+      "mapping_notes": "Explicit Wallpaper settings handoff. Independent Windows lockscreen-image assignment is not exposed as a supported equivalent; this is a platform boundary, not claimed parity. |"
+    },
+    {
+      "source": "Actions/Content/Background/SetAsSlideshowBackgroundAction.cs",
+      "types": [
+        "SetAsSlideshowBackgroundAction"
+      ],
+      "labels": [
+        "SetAsSlideshow",
+        "SetAsSlideshowBackgroundDescription",
+        "Slideshow"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Persisted image list, interval, start/stop and launch resume; NSWorkspace desktop wallpaper updates while app runs. Configuration UI verified; user wallpaper was not changed. |"
+    },
+    {
+      "source": "Actions/Content/Background/SetAsWallpaperBackgroundAction.cs",
+      "types": [
+        "SetAsWallpaperBackgroundAction"
+      ],
+      "labels": [
+        "Desktop",
+        "SetAsBackground",
+        "SetAsWallpaperBackgroundDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "MediaService image rotation and NSWorkspace desktop wallpaper integration; upstream format coverage differs. |"
+    },
+    {
+      "source": "Actions/Content/ImageManipulation/BaseRotateAction.cs",
+      "types": [
+        "BaseRotateAction"
+      ],
+      "labels": [],
+      "native_status": "Infrastructure",
+      "mapping_notes": "Swift command routing / observable view models replace the C# action base or interface; not a separate user feature. |"
+    },
+    {
+      "source": "Actions/Content/ImageManipulation/RotateLeftAction.cs",
+      "types": [
+        "RotateLeftAction"
+      ],
+      "labels": [
+        "RotateLeft",
+        "RotateLeftDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "MediaService image rotation and NSWorkspace desktop wallpaper integration; upstream format coverage differs. |"
+    },
+    {
+      "source": "Actions/Content/ImageManipulation/RotateRightAction.cs",
+      "types": [
+        "RotateRightAction"
+      ],
+      "labels": [
+        "RotateRight",
+        "RotateRightDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "MediaService image rotation and NSWorkspace desktop wallpaper integration; upstream format coverage differs. |"
+    },
+    {
+      "source": "Actions/Content/Install/InstallCertificateAction.cs",
+      "types": [
+        "InstallCertificateAction"
+      ],
+      "labels": [
+        "InstallCertificate",
+        "InstallCertificateDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Explicit Keychain Access handoff for certificate formats. Unsupported-selection UI disabled. Trust/import remains in the system app; no certificate was installed during QA. |"
+    },
+    {
+      "source": "Actions/Content/Install/InstallFontAction.cs",
+      "types": [
+        "InstallFontAction"
+      ],
+      "labels": [
+        "InstallFont",
+        "InstallFontDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Explicit Font Book handoff for font formats. Unsupported-selection UI disabled. Font validation/import remains in Font Book; no font was installed during QA. |"
+    },
+    {
+      "source": "Actions/Content/Install/InstallInfDriverAction.cs",
+      "types": [
+        "InstallInfDriverAction"
+      ],
+      "labels": [
+        "InstallDriver",
+        "InstallInfDriverDescription"
+      ],
+      "native_status": "Platform boundary",
+      "mapping_notes": "Windows-specific privilege, shell, driver or Start integration; not implemented as equivalent macOS behavior. |"
+    },
+    {
+      "source": "Actions/Content/PlayAllAction.cs",
+      "types": [
+        "PlayAllAction"
+      ],
+      "labels": [
+        "Play",
+        "PlayAll",
+        "PlayAllDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Selected audio/video items open through the existing multi-file open pipeline. UTType eligibility rejects folders and non-media; disabled state verified on text files. |"
+    },
+    {
+      "source": "Actions/Content/PreviewPopup/LaunchPreviewPopupAction.cs",
+      "types": [
+        "LaunchPreviewPopupAction"
+      ],
+      "labels": [
+        "LaunchPreviewPopup",
+        "LaunchPreviewPopupDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Quick Look plus materialized virtual previews; external extension availability is OS-dependent. |"
+    },
+    {
+      "source": "Actions/Content/RefreshItemsAction.cs",
+      "types": [
+        "RefreshItemsAction"
+      ],
+      "labels": [
+        "Refresh",
+        "RefreshItemsDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native file operation/navigation command exists; exact upstream enablement, dialogs and edge cases are not individually certified. |"
+    },
+    {
+      "source": "Actions/Content/Run/BaseRunAsAction.cs",
+      "types": [
+        "BaseRunAsAction"
+      ],
+      "labels": [],
+      "native_status": "Infrastructure",
+      "mapping_notes": "Swift command routing / observable view models replace the C# action base or interface; not a separate user feature. |"
+    },
+    {
+      "source": "Actions/Content/Run/RunAsAdminAction.cs",
+      "types": [
+        "RunAsAdminAction"
+      ],
+      "labels": [
+        "RunAsAdminDescription",
+        "RunAsAdministrator"
+      ],
+      "native_status": "Platform boundary",
+      "mapping_notes": "Windows-specific privilege, shell, driver or Start integration; not implemented as equivalent macOS behavior. |"
+    },
+    {
+      "source": "Actions/Content/Run/RunAsAnotherUserAction.cs",
+      "types": [
+        "RunAsAnotherUserAction"
+      ],
+      "labels": [
+        "BaseLayoutContextFlyoutRunAsAnotherUserText",
+        "RunAsAnotherUserDescription"
+      ],
+      "native_status": "Platform boundary",
+      "mapping_notes": "Windows-specific privilege, shell, driver or Start integration; not implemented as equivalent macOS behavior. |"
+    },
+    {
+      "source": "Actions/Content/Run/RunWithPowershellAction.cs",
+      "types": [
+        "RunWithPowershellAction"
+      ],
+      "labels": [
+        "RunWithPowerShell",
+        "RunWithPowershellDescription"
+      ],
+      "native_status": "Platform boundary",
+      "mapping_notes": "Windows-specific privilege, shell, driver or Start integration; not implemented as equivalent macOS behavior. |"
+    },
+    {
+      "source": "Actions/Content/Selection/ClearSelectionAction.cs",
+      "types": [
+        "ClearSelectionAction"
+      ],
+      "labels": [
+        "ClearSelection",
+        "ClearSelectionDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Select all, clear and invert implemented in MainPageViewModel and keyboard/menu commands. |"
+    },
+    {
+      "source": "Actions/Content/Selection/InvertSelectionAction.cs",
+      "types": [
+        "InvertSelectionAction"
+      ],
+      "labels": [
+        "InvertSelection",
+        "InvertSelectionDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Select all, clear and invert implemented in MainPageViewModel and keyboard/menu commands. |"
+    },
+    {
+      "source": "Actions/Content/Selection/SelectAllAction.cs",
+      "types": [
+        "SelectAllAction"
+      ],
+      "labels": [
+        "SelectAll",
+        "SelectAllDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Select all, clear and invert implemented in MainPageViewModel and keyboard/menu commands. |"
+    },
+    {
+      "source": "Actions/Content/Selection/ToggleSelectAction.cs",
+      "types": [
+        "ToggleSelectAction"
+      ],
+      "labels": [
+        "ToggleSelect",
+        "ToggleSelectDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Toggles the focused item, matching original action semantics. Option-Space and native selection/deselection verified; ignores text editing focus. |"
+    },
+    {
+      "source": "Actions/Content/Share/ShareItemAction.cs",
+      "types": [
+        "ShareItemAction"
+      ],
+      "labels": [
+        "Share",
+        "ShareItemDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native macOS sharing picker; virtual items materialized first. No message was sent during verification. |"
+    },
+    {
+      "source": "Actions/Content/Tags/OpenAllTaggedActions.cs",
+      "types": [
+        "OpenAllTaggedAction"
+      ],
+      "labels": [
+        "OpenAllTaggedItems",
+        "OpenAllTaggedItemsDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Spotlight-backed tag browser with all-tag or named-tag search and Open all. Query and empty-state UI verified; unindexed paths explicitly excluded. |"
+    },
+    {
+      "source": "Actions/Content/Tags/RemoveTagsAction.cs",
+      "types": [
+        "RemoveTagsAction"
+      ],
+      "labels": [
+        "RemoveTags",
+        "RemoveTagsDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Dedicated remove-all-tags command for local selection using the existing metadata service. Reports per-file errors; no false undo entry. |"
+    },
+    {
+      "source": "Actions/Display/AutoFitColumnsAction.cs",
+      "types": [
+        "AutoFitColumnsAction"
+      ],
+      "labels": [
+        "AutoFitColumns",
+        "AutoFitColumnsDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Details column content measurement, bounded to first 1,000 rows and 500-point maximum; exposed as a persistent auto-fit toggle. |"
+    },
+    {
+      "source": "Actions/Display/GroupAction.cs",
+      "types": [
+        "GroupByNoneAction",
+        "GroupByNameAction",
+        "GroupByDateModifiedAction",
+        "GroupByDateCreatedAction",
+        "GroupBySizeAction",
+        "GroupByTypeAction",
+        "GroupBySyncStatusAction",
+        "GroupByTagAction",
+        "GroupByOriginalFolderAction",
+        "GroupByDateDeletedAction",
+        "GroupByFolderPathAction",
+        "GroupByAction",
+        "GroupByDateModifiedYearAction",
+        "GroupByDateModifiedMonthAction",
+        "GroupByDateModifiedDayAction",
+        "GroupByDateCreatedYearAction",
+        "GroupByDateCreatedMonthAction",
+        "GroupByDateCreatedDayAction",
+        "GroupByDateDeletedYearAction",
+        "GroupByDateDeletedMonthAction",
+        "GroupByDateDeletedDayAction",
+        "GroupByDateAction",
+        "GroupAscendingAction",
+        "GroupDescendingAction",
+        "ToggleGroupDirectionAction",
+        "GroupByYearAction",
+        "GroupByMonthAction",
+        "ToggleGroupByDateUnitAction"
+      ],
+      "labels": [
+        "Ascending",
+        "DateCreated",
+        "DateDeleted",
+        "DateModifiedLowerCase",
+        "Day",
+        "Descending",
+        "FileTags",
+        "FolderPath",
+        "GroupAscendingDescription",
+        "GroupByDateCreatedDayDescription",
+        "GroupByDateCreatedDescription",
+        "GroupByDateCreatedMonthDescription",
+        "GroupByDateCreatedYearDescription",
+        "GroupByDateDeletedDayDescription",
+        "GroupByDateDeletedDescription",
+        "GroupByDateDeletedMonthDescription",
+        "GroupByDateDeletedYearDescription",
+        "GroupByDateModifiedDayDescription",
+        "GroupByDateModifiedDescription",
+        "GroupByDateModifiedMonthDescription",
+        "GroupByDateModifiedYearDescription",
+        "GroupByFolderPathDescription",
+        "GroupByMonthDescription",
+        "GroupByNameDescription",
+        "GroupByNoneDescription",
+        "GroupByOriginalFolderDescription",
+        "GroupBySizeDescription",
+        "GroupBySyncStatusDescription",
+        "GroupByTagDescription",
+        "GroupByTypeDescription",
+        "GroupByYearDescription",
+        "GroupDescendingDescription",
+        "Month",
+        "Name",
+        "None",
+        "OriginalFolder",
+        "Size",
+        "SyncStatus",
+        "ToggleGroupByDateUnitDescription",
+        "ToggleGroupDirectionDescription",
+        "ToggleGroupingUnit",
+        "ToggleSortDirection",
+        "Type",
+        "Year"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Independent direction and date units plus created, cloud, path, original folder and deleted-date grouping. Trash exposes date unit controls. Grouping tests pass. |"
+    },
+    {
+      "source": "Actions/Display/LayoutAction.cs",
+      "types": [
+        "LayoutDetailsAction",
+        "LayoutListAction",
+        "LayoutCardsAction",
+        "LayoutGridAction",
+        "LayoutColumnsAction",
+        "LayoutAdaptiveAction",
+        "ToggleLayoutAction",
+        "LayoutDecreaseSizeAction",
+        "LayoutIncreaseSizeAction",
+        "LayoutCycler"
+      ],
+      "labels": [
+        "Adaptive",
+        "Cards",
+        "Columns",
+        "DecreaseSize",
+        "Details",
+        "Grid",
+        "IncreaseSize",
+        "LayoutAdaptiveDescription",
+        "LayoutCardsDescription",
+        "LayoutColumnsDescription",
+        "LayoutDecreaseSizeDescription",
+        "LayoutDetailsDescription",
+        "LayoutGridDescription",
+        "LayoutIncreaseSizeDescription",
+        "LayoutListDescription",
+        "List"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Adaptive layout uses the original greater-than-60-percent media threshold. Increase/decrease sizes follow Details/List/Cards/Grid/Columns order and reset at boundaries; sequence tests and larger Details rows verified. Native Gallery remains an extension. |"
+    },
+    {
+      "source": "Actions/Display/SortAction.cs",
+      "types": [
+        "SortByNameAction",
+        "SortByDateModifiedAction",
+        "SortByDateCreatedAction",
+        "SortBySizeAction",
+        "SortByTypeAction",
+        "SortBySyncStatusAction",
+        "SortByTagAction",
+        "SortByPathAction",
+        "SortByOriginalFolderAction",
+        "SortByDateDeletedAction",
+        "SortByAction",
+        "SortAscendingAction",
+        "SortDescendingAction",
+        "ToggleSortDirectionAction"
+      ],
+      "labels": [
+        "Ascending",
+        "DateCreated",
+        "DateDeleted",
+        "DateModifiedLowerCase",
+        "Descending",
+        "FileTags",
+        "Name",
+        "OriginalFolder",
+        "Path",
+        "Size",
+        "SortAscendingDescription",
+        "SortByDateCreatedDescription",
+        "SortByDateDeletedDescription",
+        "SortByDateModifiedDescription",
+        "SortByNameDescription",
+        "SortByOriginalFolderDescription",
+        "SortByPathDescription",
+        "SortBySizeDescription",
+        "SortBySyncStatusDescription",
+        "SortByTagDescription",
+        "SortByTypeDescription",
+        "SortDescendingDescription",
+        "SyncStatus",
+        "ToggleSortDirection",
+        "ToggleSortDirectionDescription",
+        "Type"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Original-folder and deleted-date sorting added to Trash, alongside existing name/date/type/size/tags/path/cloud sorting. Comparator/group tests pass; Trash controls inspected. |"
+    },
+    {
+      "source": "Actions/Display/SortFilesAndFoldersTogetherAction.cs",
+      "types": [
+        "SortFilesAndFoldersTogetherAction"
+      ],
+      "labels": [
+        "SortFilesAndFoldersTogether",
+        "SortFilesAndFoldersTogetherDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Toolbar offers folders first, files first, or combined ordering; precedence covered by AuditParityTests. |"
+    },
+    {
+      "source": "Actions/Display/SortFilesFirstAction.cs",
+      "types": [
+        "SortFilesFirstAction"
+      ],
+      "labels": [
+        "SortFilesFirst",
+        "SortFilesFirstDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Toolbar offers folders first, files first, or combined ordering; precedence covered by AuditParityTests. |"
+    },
+    {
+      "source": "Actions/Display/SortFoldersFirstAction.cs",
+      "types": [
+        "SortFoldersFirstAction"
+      ],
+      "labels": [
+        "SortFoldersFirst",
+        "SortFoldersFirstDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Toolbar offers folders first, files first, or combined ordering; precedence covered by AuditParityTests. |"
+    },
+    {
+      "source": "Actions/FileSystem/AddItemAction.cs",
+      "types": [
+        "AddItemAction"
+      ],
+      "labels": [
+        "AddItemDescription",
+        "BaseLayoutContextFlyoutNew_Label"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native file operation/navigation command exists; exact upstream enablement, dialogs and edge cases are not individually certified. |"
+    },
+    {
+      "source": "Actions/FileSystem/BaseDeleteAction.cs",
+      "types": [
+        "BaseDeleteAction"
+      ],
+      "labels": [],
+      "native_status": "Infrastructure",
+      "mapping_notes": "Swift command routing / observable view models replace the C# action base or interface; not a separate user feature. |"
+    },
+    {
+      "source": "Actions/FileSystem/CopyItemFromHomeAction.cs",
+      "types": [
+        "CopyItemFromHomeAction"
+      ],
+      "labels": [
+        "Copy",
+        "CopyItemDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "URL clipboard references available in both context menus; Home menu inspected interactively. |"
+    },
+    {
+      "source": "Actions/FileSystem/CopyItemPathAction.cs",
+      "types": [
+        "CopyItemPathAction"
+      ],
+      "labels": [
+        "CopyItemPath",
+        "CopyItemPathDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "copyPath supports selected/current local/archive/remote paths; quoted variant uses tested POSIX escaping, not Windows quoting. |"
+    },
+    {
+      "source": "Actions/FileSystem/CopyItemPathWithQuotesAction.cs",
+      "types": [
+        "CopyItemPathWithQuotesAction"
+      ],
+      "labels": [
+        "CopyItemPathWithQuotes",
+        "CopyItemPathWithQuotesDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "copyPath supports selected/current local/archive/remote paths; quoted variant uses tested POSIX escaping, not Windows quoting. |"
+    },
+    {
+      "source": "Actions/FileSystem/CopyPathAction.cs",
+      "types": [
+        "CopyPathAction"
+      ],
+      "labels": [
+        "CopyPath",
+        "CopyPathDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "copyPath supports selected/current local/archive/remote paths; quoted variant uses tested POSIX escaping, not Windows quoting. |"
+    },
+    {
+      "source": "Actions/FileSystem/CopyPathWithQuotesAction.cs",
+      "types": [
+        "CopyPathWithQuotesAction"
+      ],
+      "labels": [
+        "CopyPathWithQuotes",
+        "CopyPathWithQuotesDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "copyPath supports selected/current local/archive/remote paths; quoted variant uses tested POSIX escaping, not Windows quoting. |"
+    },
+    {
+      "source": "Actions/FileSystem/CreateAlternateDataStreamAction.cs",
+      "types": [
+        "CreateAlternateDataStreamAction"
+      ],
+      "labels": [
+        "CreateAlternateDataStream",
+        "CreateAlternateDataStreamDescription",
+        "DataStreamsAreHiddenDescription",
+        "DataStreamsAreHiddenTitle",
+        "DontShowAgain",
+        "ErrorCreatingDataStreamDescription",
+        "ErrorCreatingDataStreamTitle",
+        "Yes"
+      ],
+      "native_status": "Platform boundary",
+      "mapping_notes": "Extended-attribute editor exists; macOS xattrs are not NTFS alternate data streams. |"
+    },
+    {
+      "source": "Actions/FileSystem/CreateFileAction.cs",
+      "types": [
+        "CreateFileAction"
+      ],
+      "labels": [
+        "File",
+        "NewFile"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native file operation/navigation command exists; exact upstream enablement, dialogs and edge cases are not individually certified. |"
+    },
+    {
+      "source": "Actions/FileSystem/CreateFolderAction.cs",
+      "types": [
+        "CreateFolderAction"
+      ],
+      "labels": [
+        "CreateFolderDescription",
+        "Folder"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native file operation/navigation command exists; exact upstream enablement, dialogs and edge cases are not individually certified. |"
+    },
+    {
+      "source": "Actions/FileSystem/CreateFolderWithSelectionAction.cs",
+      "types": [
+        "CreateFolderWithSelectionAction"
+      ],
+      "labels": [
+        "CreateFolderWithSelection",
+        "CreateFolderWithSelectionDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Creates folder and moves local/mounted selection with compound undo, including the context-menu action. Upstream disables this action inside ZIP folders; custom remote virtual providers do not expose it. |"
+    },
+    {
+      "source": "Actions/FileSystem/CreateShortcutAction.cs",
+      "types": [
+        "CreateShortcutAction"
+      ],
+      "labels": [
+        "CreateShortcut",
+        "CreateShortcutDescription",
+        "CreateShortcutWithSelection"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "macOS bookmark alias creation via storage service; not Windows .lnk format. |"
+    },
+    {
+      "source": "Actions/FileSystem/CreateShortcutFromDialogAction.cs",
+      "types": [
+        "CreateShortcutFromDialogAction"
+      ],
+      "labels": [
+        "CreateShortcut",
+        "CreateShortcutFromDialogDescription",
+        "Shortcut"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native arbitrary-target file/folder picker followed by alias-name input and bookmark alias creation. Picker inspected; alias backend resolution tested. |"
+    },
+    {
+      "source": "Actions/FileSystem/DeleteItemAction.cs",
+      "types": [
+        "DeleteItemAction"
+      ],
+      "labels": [
+        "Delete",
+        "DeleteItemDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native file operation/navigation command exists; exact upstream enablement, dialogs and edge cases are not individually certified. |"
+    },
+    {
+      "source": "Actions/FileSystem/DeleteItemPermanentlyAction.cs",
+      "types": [
+        "DeleteItemPermanentlyAction"
+      ],
+      "labels": [
+        "DeleteItemPermanentlyDescription",
+        "DeletePermanently"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Normal-folder permanent-delete command with Cancel as default. Confirmation inspected and cancelled; symlink test proves target preservation. |"
+    },
+    {
+      "source": "Actions/FileSystem/EmptyRecycleBinAction.cs",
+      "types": [
+        "EmptyRecycleBinAction"
+      ],
+      "labels": [
+        "Cancel",
+        "ConfirmEmptyBinDialogContent",
+        "ConfirmEmptyBinDialogTitle",
+        "EmptyRecycleBin",
+        "EmptyRecycleBinDescription",
+        "Yes"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native file operation/navigation command exists; exact upstream enablement, dialogs and edge cases are not individually certified. |"
+    },
+    {
+      "source": "Actions/FileSystem/FlattenFolderAction.cs",
+      "types": [
+        "FlattenFolderAction"
+      ],
+      "labels": [
+        "Cancel",
+        "Flatten",
+        "FlattenFolder",
+        "FlattenFolderDescription",
+        "FlattenFolderDialogContent"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native file operation/navigation command exists; exact upstream enablement, dialogs and edge cases are not individually certified. |"
+    },
+    {
+      "source": "Actions/FileSystem/FormatDriveAction.cs",
+      "types": [
+        "FormatDriveAction"
+      ],
+      "labels": [
+        "FormatDriveDescription",
+        "FormatDriveText"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Disk Utility handoff from command menu, Home drive card and sidebar drive menu. Disk Utility window verified; no disk was formatted. |"
+    },
+    {
+      "source": "Actions/FileSystem/FormatDriveFromHomeAction.cs",
+      "types": [
+        "FormatDriveFromHomeAction"
+      ],
+      "labels": [],
+      "native_status": "Native mapping",
+      "mapping_notes": "Disk Utility handoff from command menu, Home drive card and sidebar drive menu. Disk Utility window verified; no disk was formatted. |"
+    },
+    {
+      "source": "Actions/FileSystem/FormatDriveFromSidebarAction.cs",
+      "types": [
+        "FormatDriveFromSidebarAction"
+      ],
+      "labels": [],
+      "native_status": "Native mapping",
+      "mapping_notes": "Disk Utility handoff from command menu, Home drive card and sidebar drive menu. Disk Utility window verified; no disk was formatted. |"
+    },
+    {
+      "source": "Actions/FileSystem/OpenFileLocationAction.cs",
+      "types": [
+        "OpenFileLocationAction"
+      ],
+      "labels": [
+        "FileNotFoundDialogText",
+        "FileNotFoundDialogTitle",
+        "InvalidItemDialogContent",
+        "InvalidItemDialogTitle",
+        "OpenFileLocation",
+        "OpenFileLocationDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native file operation/navigation command exists; exact upstream enablement, dialogs and edge cases are not individually certified. |"
+    },
+    {
+      "source": "Actions/FileSystem/OpenItemAction.cs",
+      "types": [
+        "OpenItemAction",
+        "OpenItemWithApplicationPickerAction",
+        "OpenParentFolderAction"
+      ],
+      "labels": [
+        "BaseLayoutItemContextFlyoutOpenParentFolderText",
+        "Open",
+        "OpenItemDescription",
+        "OpenItemWithApplicationPickerDescription",
+        "OpenParentFolderDescription",
+        "OpenWith"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native file operation/navigation command exists; exact upstream enablement, dialogs and edge cases are not individually certified. |"
+    },
+    {
+      "source": "Actions/FileSystem/PasteItemAction.cs",
+      "types": [
+        "PasteItemAction"
+      ],
+      "labels": [
+        "Paste",
+        "PasteItemDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native file operation/navigation command exists; exact upstream enablement, dialogs and edge cases are not individually certified. |"
+    },
+    {
+      "source": "Actions/FileSystem/PasteItemAsShortcutAction.cs",
+      "types": [
+        "PasteItemAsShortcutAction"
+      ],
+      "labels": [
+        "PasteShortcut",
+        "PasteShortcutDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "URL clipboard to unique Finder aliases; rejects expiring virtual staging paths. Native Paste shortcut created Example.txt alias; collision/target-resolution tests pass. |"
+    },
+    {
+      "source": "Actions/FileSystem/PasteItemToSelectionAction.cs",
+      "types": [
+        "PasteItemToSelectionAction"
+      ],
+      "labels": [
+        "PasteItemToSelectionDescription",
+        "PasteToSelectedFolder"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Selected-folder context command passes the explicit destination to existing clipboard transfer pipeline; native UI paste into a disposable selected folder verified. |"
+    },
+    {
+      "source": "Actions/FileSystem/RenameAction.cs",
+      "types": [
+        "RenameAction"
+      ],
+      "labels": [
+        "Rename",
+        "RenameDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native file operation/navigation command exists; exact upstream enablement, dialogs and edge cases are not individually certified. |"
+    },
+    {
+      "source": "Actions/FileSystem/RestoreAllRecycleBinAction.cs",
+      "types": [
+        "RestoreAllRecycleBinAction"
+      ],
+      "labels": [
+        "Cancel",
+        "ConfirmRestoreBinDialogContent",
+        "ConfirmRestoreBinDialogTitle",
+        "FailedToRestore",
+        "OK",
+        "RestoreAllItems",
+        "RestoreAllRecycleBinDescription",
+        "Yes"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Restore all known original locations using persistent Trash records and identity-checked storage undo. Unknown originals remain explicit Restore to choices. UI inspected; macOS denied live Trash access in QA. |"
+    },
+    {
+      "source": "Actions/FileSystem/RestoreRecycleBinAction.cs",
+      "types": [
+        "RestoreRecycleBinAction"
+      ],
+      "labels": [
+        "Cancel",
+        "ConfirmRestoreSelectionBinDialogContent",
+        "ConfirmRestoreSelectionBinDialogTitle",
+        "Restore",
+        "RestoreRecycleBinDescription",
+        "Yes"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native file operation/navigation command exists; exact upstream enablement, dialogs and edge cases are not individually certified. |"
+    },
+    {
+      "source": "Actions/FileSystem/Transfer/BaseTransferItemAction.cs",
+      "types": [
+        "BaseTransferItemAction"
+      ],
+      "labels": [],
+      "native_status": "Infrastructure",
+      "mapping_notes": "Swift command routing / observable view models replace the C# action base or interface; not a separate user feature. |"
+    },
+    {
+      "source": "Actions/FileSystem/Transfer/CopyItemAction.cs",
+      "types": [
+        "CopyItemAction"
+      ],
+      "labels": [
+        "Copy",
+        "CopyItemDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native file operation/navigation command exists; exact upstream enablement, dialogs and edge cases are not individually certified. |"
+    },
+    {
+      "source": "Actions/FileSystem/Transfer/CutItemAction.cs",
+      "types": [
+        "CutItemAction"
+      ],
+      "labels": [
+        "Cut",
+        "CutItemDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native file operation/navigation command exists; exact upstream enablement, dialogs and edge cases are not individually certified. |"
+    },
+    {
+      "source": "Actions/Git/GitCloneAction.cs",
+      "types": [
+        "GitCloneAction"
+      ],
+      "labels": [
+        "Clone",
+        "GitCloneDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "GitRepositoryView / GitService. Sync tested with local bare remote and divergent histories; Pull deliberately requires fast-forward. |"
+    },
+    {
+      "source": "Actions/Git/GitFetchAction.cs",
+      "types": [
+        "GitFetchAction"
+      ],
+      "labels": [
+        "GitFetch",
+        "GitFetchDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "GitRepositoryView / GitService. Sync tested with local bare remote and divergent histories; Pull deliberately requires fast-forward. |"
+    },
+    {
+      "source": "Actions/Git/GitInitAction.cs",
+      "types": [
+        "GitInitAction"
+      ],
+      "labels": [
+        "InitRepo",
+        "InitRepoDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "GitRepositoryView / GitService. Sync tested with local bare remote and divergent histories; Pull deliberately requires fast-forward. |"
+    },
+    {
+      "source": "Actions/Git/GitPullAction.cs",
+      "types": [
+        "GitPullAction"
+      ],
+      "labels": [
+        "GitPull",
+        "GitPullDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "GitRepositoryView / GitService. Sync tested with local bare remote and divergent histories; Pull deliberately requires fast-forward. |"
+    },
+    {
+      "source": "Actions/Git/GitPushAction.cs",
+      "types": [
+        "GitPushAction"
+      ],
+      "labels": [
+        "GitPushDescription",
+        "Push"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "GitRepositoryView / GitService. Sync tested with local bare remote and divergent histories; Pull deliberately requires fast-forward. |"
+    },
+    {
+      "source": "Actions/Git/GitSyncAction.cs",
+      "types": [
+        "GitSyncAction"
+      ],
+      "labels": [
+        "GitSync",
+        "GitSyncDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "GitRepositoryView / GitService. Sync tested with local bare remote and divergent histories; Pull deliberately requires fast-forward. |"
+    },
+    {
+      "source": "Actions/Global/BaseAppThemeAction.cs",
+      "types": [
+        "BaseAppThemeAction"
+      ],
+      "labels": [],
+      "native_status": "Infrastructure",
+      "mapping_notes": "Swift command routing / observable view models replace the C# action base or interface; not a separate user feature. |"
+    },
+    {
+      "source": "Actions/Global/EditPathAction.cs",
+      "types": [
+        "EditPathAction"
+      ],
+      "labels": [
+        "EditPath",
+        "EditPathDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native theme, navigation/search, undo/redo and full-screen controls; no Windows visual identity claim. |"
+    },
+    {
+      "source": "Actions/Global/EnterCompactOverlayAction.cs",
+      "types": [
+        "EnterCompactOverlayAction"
+      ],
+      "labels": [
+        "EnterCompactOverlay",
+        "EnterCompactOverlayDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Floating 400×350 compact shell with sidebar/tab/info suppression; previous frame and level restored on exit. Enter and restore visually verified. |"
+    },
+    {
+      "source": "Actions/Global/ExitCompactOverlayAction.cs",
+      "types": [
+        "ExitCompactOverlayAction"
+      ],
+      "labels": [
+        "ExitCompactOverlay",
+        "ExitCompactOverlayDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Floating 400×350 compact shell with sidebar/tab/info suppression; previous frame and level restored on exit. Enter and restore visually verified. |"
+    },
+    {
+      "source": "Actions/Global/OpenHelpAction.cs",
+      "types": [
+        "OpenHelpAction"
+      ],
+      "labels": [
+        "Help",
+        "OpenHelpDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Dedicated command opens official Files documentation. |"
+    },
+    {
+      "source": "Actions/Global/RedoAction.cs",
+      "types": [
+        "RedoAction"
+      ],
+      "labels": [
+        "Redo",
+        "RedoDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native theme, navigation/search, undo/redo and full-screen controls; no Windows visual identity claim. |"
+    },
+    {
+      "source": "Actions/Global/SearchAction.cs",
+      "types": [
+        "SearchAction"
+      ],
+      "labels": [
+        "Search",
+        "SearchDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native theme, navigation/search, undo/redo and full-screen controls; no Windows visual identity claim. |"
+    },
+    {
+      "source": "Actions/Global/SetDarkThemeAction.cs",
+      "types": [
+        "SetDarkThemeAction"
+      ],
+      "labels": [
+        "DarkThemeLabel",
+        "SwitchToDarkThemeDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native theme, navigation/search, undo/redo and full-screen controls; no Windows visual identity claim. |"
+    },
+    {
+      "source": "Actions/Global/SetDefaultThemeAction.cs",
+      "types": [
+        "SetDefaultThemeAction"
+      ],
+      "labels": [
+        "DefaultTheme",
+        "SwitchToDefaultThemeDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native theme, navigation/search, undo/redo and full-screen controls; no Windows visual identity claim. |"
+    },
+    {
+      "source": "Actions/Global/SetLightThemeAction.cs",
+      "types": [
+        "SetLightThemeAction"
+      ],
+      "labels": [
+        "LightThemeLabel",
+        "SwitchToLightThemeDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native theme, navigation/search, undo/redo and full-screen controls; no Windows visual identity claim. |"
+    },
+    {
+      "source": "Actions/Global/ToggleAppThemeAction.cs",
+      "types": [
+        "ToggleAppThemeAction"
+      ],
+      "labels": [
+        "ToggleTheme",
+        "ToggleThemeDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native theme, navigation/search, undo/redo and full-screen controls; no Windows visual identity claim. |"
+    },
+    {
+      "source": "Actions/Global/ToggleCompactOverlayAction.cs",
+      "types": [
+        "ToggleCompactOverlayAction"
+      ],
+      "labels": [
+        "ToggleCompactOverlay",
+        "ToggleCompactOverlayDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Floating 400×350 compact shell with sidebar/tab/info suppression; previous frame and level restored on exit. Enter and restore visually verified. |"
+    },
+    {
+      "source": "Actions/Global/ToggleFullScreenAction.cs",
+      "types": [
+        "ToggleFullScreenAction"
+      ],
+      "labels": [
+        "FullScreen",
+        "ToggleFullScreenDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native theme, navigation/search, undo/redo and full-screen controls; no Windows visual identity claim. |"
+    },
+    {
+      "source": "Actions/Global/UndoAction.cs",
+      "types": [
+        "UndoAction"
+      ],
+      "labels": [
+        "Undo",
+        "UndoDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native theme, navigation/search, undo/redo and full-screen controls; no Windows visual identity claim. |"
+    },
+    {
+      "source": "Actions/IAction.cs",
+      "types": [
+        "IAction"
+      ],
+      "labels": [],
+      "native_status": "Infrastructure",
+      "mapping_notes": "Swift command routing / observable view models replace the C# action base or interface; not a separate user feature. |"
+    },
+    {
+      "source": "Actions/IToggleAction.cs",
+      "types": [
+        "IToggleAction"
+      ],
+      "labels": [],
+      "native_status": "Infrastructure",
+      "mapping_notes": "Swift command routing / observable view models replace the C# action base or interface; not a separate user feature. |"
+    },
+    {
+      "source": "Actions/Navigation/ArrangePanesHorizontallyAction.cs",
+      "types": [
+        "ArrangePanesHorizontallyAction"
+      ],
+      "labels": [
+        "ArrangePanesHorizontally",
+        "ArrangePanesHorizontallyDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/ArrangePanesVerticallyAction.cs",
+      "types": [
+        "ArrangePanesVerticallyAction"
+      ],
+      "labels": [
+        "ArrangePanesVertically",
+        "ArrangePanesVerticallyDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/CloseActivePaneAction.cs",
+      "types": [
+        "CloseActivePaneAction"
+      ],
+      "labels": [
+        "CloseActivePane",
+        "CloseActivePaneDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/CloseAllTabsAction.cs",
+      "types": [
+        "CloseAllTabsAction"
+      ],
+      "labels": [
+        "CloseAllTabs",
+        "CloseAllTabsDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/CloseOtherTabsSelectedAction.cs",
+      "types": [
+        "CloseOtherTabsSelectedAction"
+      ],
+      "labels": [
+        "CloseOtherTabs",
+        "CloseOtherTabsSelectedDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/CloseSelectedTabAction.cs",
+      "types": [
+        "CloseSelectedTabAction"
+      ],
+      "labels": [
+        "CloseSelectedTabDescription",
+        "CloseTab"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/CloseTabBaseAction.cs",
+      "types": [
+        "CloseTabBaseAction"
+      ],
+      "labels": [],
+      "native_status": "Infrastructure",
+      "mapping_notes": "Swift command routing / observable view models replace the C# action base or interface; not a separate user feature. |"
+    },
+    {
+      "source": "Actions/Navigation/CloseTabsToTheLeftSelectedAction.cs",
+      "types": [
+        "CloseTabsToTheLeftSelectedAction"
+      ],
+      "labels": [
+        "CloseTabsToTheLeft",
+        "CloseTabsToTheLeftSelectedDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/CloseTabsToTheRightSelectedAction.cs",
+      "types": [
+        "CloseTabsToTheRightSelectedAction"
+      ],
+      "labels": [
+        "CloseTabsToTheRight",
+        "CloseTabsToTheRightSelectedDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/DuplicateSelectedTabAction.cs",
+      "types": [
+        "DuplicateSelectedTabAction"
+      ],
+      "labels": [
+        "DuplicateSelectedTabDescription",
+        "DuplicateTab"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/FocusOtherPane.cs",
+      "types": [
+        "FocusOtherPaneAction"
+      ],
+      "labels": [
+        "FocusOtherPane",
+        "FocusOtherPaneDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/NavigateBackAction.cs",
+      "types": [
+        "NavigateBackAction"
+      ],
+      "labels": [
+        "Back",
+        "NavigateBackDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/NavigateForwardAction.cs",
+      "types": [
+        "NavigateForwardAction"
+      ],
+      "labels": [
+        "Forward",
+        "NavigateForwardDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/NavigateHomeAction.cs",
+      "types": [
+        "NavigateHomeAction"
+      ],
+      "labels": [
+        "Home",
+        "NavigateHomeDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/NavigateUpAction.cs",
+      "types": [
+        "NavigateUpAction"
+      ],
+      "labels": [
+        "NavigateUpDescription",
+        "Up"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/NewTabAction.cs",
+      "types": [
+        "NewTabAction"
+      ],
+      "labels": [
+        "NewTab",
+        "NewTabDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/NewWindowAction.cs",
+      "types": [
+        "NewWindowAction"
+      ],
+      "labels": [
+        "NewWindow",
+        "NewWindowDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/NextTabAction.cs",
+      "types": [
+        "NextTabAction"
+      ],
+      "labels": [
+        "NextTab",
+        "NextTabDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/OpenCurrentFolderInOtherPane/OpenCurrentFolderInOtherPaneAction.cs",
+      "types": [
+        "OpenCurrentFolderInOtherPaneAction"
+      ],
+      "labels": [
+        "OpenCurrentFolderInOtherPane",
+        "OpenCurrentFolderInOtherPaneDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/OpenInNewPane/BaseOpenInNewPaneAction.cs",
+      "types": [
+        "BaseOpenInNewPaneAction"
+      ],
+      "labels": [
+        "OpenDirectoryInNewPaneDescription",
+        "OpenInNewPane"
+      ],
+      "native_status": "Infrastructure",
+      "mapping_notes": "Swift command routing / observable view models replace the C# action base or interface; not a separate user feature. |"
+    },
+    {
+      "source": "Actions/Navigation/OpenInNewPane/OpenInNewPaneAction.cs",
+      "types": [
+        "OpenInNewPaneAction"
+      ],
+      "labels": [],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/OpenInNewPane/OpenInNewPaneFromHomeAction.cs",
+      "types": [
+        "OpenInNewPaneFromHomeAction"
+      ],
+      "labels": [],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/OpenInNewPane/OpenInNewPaneFromSidebarAction.cs",
+      "types": [
+        "OpenInNewPaneFromSidebarAction"
+      ],
+      "labels": [],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/OpenInNewTab/BaseOpenInNewTabAction.cs",
+      "types": [
+        "BaseOpenInNewTabAction"
+      ],
+      "labels": [
+        "OpenDirectoryInNewTabDescription",
+        "OpenInNewTab"
+      ],
+      "native_status": "Infrastructure",
+      "mapping_notes": "Swift command routing / observable view models replace the C# action base or interface; not a separate user feature. |"
+    },
+    {
+      "source": "Actions/Navigation/OpenInNewTab/OpenInNewTabAction.cs",
+      "types": [
+        "OpenInNewTabAction"
+      ],
+      "labels": [],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/OpenInNewTab/OpenInNewTabFromHomeAction.cs",
+      "types": [
+        "OpenInNewTabFromHomeAction"
+      ],
+      "labels": [],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/OpenInNewTab/OpenInNewTabFromSidebarAction.cs",
+      "types": [
+        "OpenInNewTabFromSidebarAction"
+      ],
+      "labels": [],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/OpenInNewWindow/BaseOpenInNewWindowAction.cs",
+      "types": [
+        "BaseOpenInNewWindowAction"
+      ],
+      "labels": [
+        "OpenInNewWindow",
+        "OpenInNewWindowDescription"
+      ],
+      "native_status": "Infrastructure",
+      "mapping_notes": "Swift command routing / observable view models replace the C# action base or interface; not a separate user feature. |"
+    },
+    {
+      "source": "Actions/Navigation/OpenInNewWindow/OpenInNewWindowAction.cs",
+      "types": [
+        "OpenInNewWindowAction"
+      ],
+      "labels": [],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/OpenInNewWindow/OpenInNewWindowFromHomeAction.cs",
+      "types": [
+        "OpenInNewWindowFromHomeAction"
+      ],
+      "labels": [],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/OpenInNewWindow/OpenInNewWindowFromSidebarAction.cs",
+      "types": [
+        "OpenInNewWindowFromSidebarAction"
+      ],
+      "labels": [],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/OpenInOtherPane/BaseOpenInOtherPaneAction.cs",
+      "types": [
+        "BaseOpenInOtherPaneAction"
+      ],
+      "labels": [
+        "OpenDirectoryInOtherPaneDescription",
+        "OpenInOtherPane"
+      ],
+      "native_status": "Infrastructure",
+      "mapping_notes": "Swift command routing / observable view models replace the C# action base or interface; not a separate user feature. |"
+    },
+    {
+      "source": "Actions/Navigation/OpenInOtherPane/OpenInOtherPaneAction.cs",
+      "types": [
+        "OpenInOtherPaneAction"
+      ],
+      "labels": [],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/OpenInOtherPane/OpenInOtherPaneFromHomeAction.cs",
+      "types": [
+        "OpenInOtherPaneFromHomeAction"
+      ],
+      "labels": [],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/OpenInOtherPane/OpenInOtherPaneFromSidebarAction.cs",
+      "types": [
+        "OpenInOtherPaneFromSidebarAction"
+      ],
+      "labels": [],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/PreviousTabAction.cs",
+      "types": [
+        "PreviousTabAction"
+      ],
+      "labels": [
+        "PreviousTab",
+        "PreviousTabDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/ReopenClosedTabAction.cs",
+      "types": [
+        "ReopenClosedTabAction"
+      ],
+      "labels": [
+        "ReopenClosedTab",
+        "ReopenClosedTabDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/SplitPaneHorizontallyAction.cs",
+      "types": [
+        "SplitPaneHorizontallyAction"
+      ],
+      "labels": [
+        "SplitPaneHorizontally",
+        "SplitPaneHorizontallyDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Navigation/SplitPaneVerticallyAction.cs",
+      "types": [
+        "SplitPaneVerticallyAction"
+      ],
+      "labels": [
+        "AddVerticalPaneDescription",
+        "SplitPaneVertically"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "MainPageViewModel, ShellPageViewModel, tab menus and Home/sidebar context actions. Split state and selected-folder new-window checked; each remaining entry point has not received individual UI verification. |"
+    },
+    {
+      "source": "Actions/Open/CustomizeToolbarAction.cs",
+      "types": [
+        "CustomizeToolbarAction"
+      ],
+      "labels": [
+        "CustomizeToolbar",
+        "CustomizeToolbarDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native tools/settings/properties/Terminal commands. See properties and settings comparison below; entry-by-entry UI verification incomplete. |"
+    },
+    {
+      "source": "Actions/Open/EditInNotepadAction.cs",
+      "types": [
+        "EditInNotepadAction"
+      ],
+      "labels": [
+        "EditInNotepad",
+        "EditInNotepadDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Dedicated TextEdit handoff. Example.txt opened with the expected fixture content in TextEdit. |"
+    },
+    {
+      "source": "Actions/Open/OpenClassicPropertiesAction.cs",
+      "types": [
+        "OpenClassicPropertiesAction"
+      ],
+      "labels": [
+        "OpenClassicProperties",
+        "OpenClassicPropertiesDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Finder Get Info through the Finder scripting dictionary, explicit errors and native-properties fallback. Example.txt Info displayed in Finder. Reveal-before-open addresses closed-window activation. |"
+    },
+    {
+      "source": "Actions/Open/OpenCommandPaletteAction.cs",
+      "types": [
+        "OpenCommandPaletteAction"
+      ],
+      "labels": [
+        "CommandPalette",
+        "OpenCommandPaletteDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native tools/settings/properties/Terminal commands. See properties and settings comparison below; entry-by-entry UI verification incomplete. |"
+    },
+    {
+      "source": "Actions/Open/OpenInIDEAction.cs",
+      "types": [
+        "OpenInIDEAction"
+      ],
+      "labels": [
+        "OpenInIDE",
+        "OpenInIDEDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Persisted application picker and selected/current-path launch via NSWorkspace; paths are URL arguments rather than shell interpolation. |"
+    },
+    {
+      "source": "Actions/Open/OpenLogFileAction.cs",
+      "types": [
+        "OpenLogFileAction"
+      ],
+      "labels": [
+        "FailedToOpenLogFile",
+        "OK",
+        "OpenLogFile",
+        "OpenLogFileDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Bounded private operation log and in-app selectable viewer; viewer and operation records verified. Rotation preserves UTF-8 line boundaries. |"
+    },
+    {
+      "source": "Actions/Open/OpenLogFileLocationAction.cs",
+      "types": [
+        "OpenLogFileLocationAction"
+      ],
+      "labels": [
+        "OpenLogFileLocationDescription",
+        "OpenLogLocation"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Reveals the log file in Finder; Logs window and operations.log selection verified. |"
+    },
+    {
+      "source": "Actions/Open/OpenPropertiesAction.cs",
+      "types": [
+        "OpenPropertiesAction"
+      ],
+      "labels": [
+        "OpenProperties",
+        "OpenPropertiesDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native tools/settings/properties/Terminal commands. See properties and settings comparison below; entry-by-entry UI verification incomplete. |"
+    },
+    {
+      "source": "Actions/Open/OpenReleaseNotesAction.cs",
+      "types": [
+        "OpenReleaseNotesAction"
+      ],
+      "labels": [
+        "ReleaseNotes",
+        "ReleaseNotesDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Dedicated command opens bundled port notes in TextEdit; offline content ships in the app. |"
+    },
+    {
+      "source": "Actions/Open/OpenRepoInIDEAction.cs",
+      "types": [
+        "OpenRepoInIDEAction"
+      ],
+      "labels": [
+        "OpenRepoInIDE",
+        "OpenRepoInIDEDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Configured IDE launch resolves the repository root using the existing tested GitService.inspect operation. |"
+    },
+    {
+      "source": "Actions/Open/OpenSettingsAction.cs",
+      "types": [
+        "OpenSettingsAction"
+      ],
+      "labels": [
+        "OpenSettingsDescription",
+        "Settings"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native tools/settings/properties/Terminal commands. See properties and settings comparison below; entry-by-entry UI verification incomplete. |"
+    },
+    {
+      "source": "Actions/Open/OpenSettingsFileAction.cs",
+      "types": [
+        "OpenSettingsFileAction"
+      ],
+      "labels": [
+        "EditSettingsFile",
+        "EditSettingsFileDescription",
+        "FailedToOpenSettingsFile",
+        "OK"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Versioned JSON editor, import/export/reload and validate-before-apply. Covers preferences, shortcuts, toolbar, favorites, cloud folders, libraries, searches and folder presentations. Invalid JSON UI and invalid-settings tests pass. |"
+    },
+    {
+      "source": "Actions/Open/OpenStorageSenseAction.cs",
+      "types": [
+        "OpenStorageSenseAction"
+      ],
+      "labels": [
+        "Cleanup",
+        "OpenStorageSenseDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Storage settings handoff from command menu, Home drive card and sidebar drive menu. The actual Storage settings pane was verified. |"
+    },
+    {
+      "source": "Actions/Open/OpenStorageSenseFromHomeAction.cs",
+      "types": [
+        "OpenStorageSenseFromHomeAction"
+      ],
+      "labels": [],
+      "native_status": "Native mapping",
+      "mapping_notes": "Storage settings handoff from command menu, Home drive card and sidebar drive menu. The actual Storage settings pane was verified. |"
+    },
+    {
+      "source": "Actions/Open/OpenStorageSenseFromSidebarAction.cs",
+      "types": [
+        "OpenStorageSenseFromSidebarAction"
+      ],
+      "labels": [],
+      "native_status": "Native mapping",
+      "mapping_notes": "Storage settings handoff from command menu, Home drive card and sidebar drive menu. The actual Storage settings pane was verified. |"
+    },
+    {
+      "source": "Actions/Open/OpenTerminalAction.cs",
+      "types": [
+        "OpenTerminalAction"
+      ],
+      "labels": [
+        "OpenTerminal",
+        "OpenTerminalDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native tools/settings/properties/Terminal commands. See properties and settings comparison below; entry-by-entry UI verification incomplete. |"
+    },
+    {
+      "source": "Actions/Open/OpenTerminalAsAdminAction.cs",
+      "types": [
+        "OpenTerminalAsAdminAction"
+      ],
+      "labels": [
+        "OpenTerminalAsAdmin",
+        "OpenTerminalAsAdminDescription"
+      ],
+      "native_status": "Platform boundary",
+      "mapping_notes": "Windows-specific privilege, shell, driver or Start integration; not implemented as equivalent macOS behavior. |"
+    },
+    {
+      "source": "Actions/Open/OpenTerminalFromHomeAction.cs",
+      "types": [
+        "OpenTerminalFromHomeAction"
+      ],
+      "labels": [
+        "OpenTerminal",
+        "OpenTerminalDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native tools/settings/properties/Terminal commands. See properties and settings comparison below; entry-by-entry UI verification incomplete. |"
+    },
+    {
+      "source": "Actions/Open/OpenTerminalFromSidebarAction.cs",
+      "types": [
+        "OpenTerminalFromSidebarAction"
+      ],
+      "labels": [
+        "OpenTerminal",
+        "OpenTerminalDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Native tools/settings/properties/Terminal commands. See properties and settings comparison below; entry-by-entry UI verification incomplete. |"
+    },
+    {
+      "source": "Actions/Shelf/CopyItemFromShelfAction.cs",
+      "types": [
+        "CopyItemFromShelfAction"
+      ],
+      "labels": [
+        "Copy",
+        "CopyItemDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "ShelfStore and shelf tool; individual cut/delete entry points require UI equivalence review. |"
+    },
+    {
+      "source": "Actions/Shelf/CutItemFromShelfAction.cs",
+      "types": [
+        "CutItemFromShelfAction"
+      ],
+      "labels": [
+        "Cut",
+        "CutItemDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "ShelfStore and shelf tool; individual cut/delete entry points require UI equivalence review. |"
+    },
+    {
+      "source": "Actions/Shelf/DeleteItemFromShelfAction.cs",
+      "types": [
+        "DeleteItemFromShelfAction"
+      ],
+      "labels": [
+        "Delete",
+        "DeleteItemDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "ShelfStore and shelf tool; individual cut/delete entry points require UI equivalence review. |"
+    },
+    {
+      "source": "Actions/Show/ToggleDetailsPaneAction.cs",
+      "types": [
+        "ToggleDetailsPaneAction"
+      ],
+      "labels": [
+        "ToggleDetailsPane",
+        "ToggleDetailsPaneDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "View/menu state supports sidebar, toolbar, extensions, hidden items, split/details/preview/shelf; native presentation differs from WinUI. |"
+    },
+    {
+      "source": "Actions/Show/ToggleDotFilesSettingAction.cs",
+      "types": [
+        "ToggleDotFilesSettingAction"
+      ],
+      "labels": [
+        "ShowDotFiles",
+        "ToggleDotFilesSettingDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Independent dotfile visibility with migration from previous hidden setting. Dotfile filtering test and .audit-hidden UI visibility verified. |"
+    },
+    {
+      "source": "Actions/Show/ToggleDualPaneAction.cs",
+      "types": [
+        "ToggleDualPaneAction"
+      ],
+      "labels": [
+        "ToggleDualPane",
+        "ToggleDualPaneDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "View/menu state supports sidebar, toolbar, extensions, hidden items, split/details/preview/shelf; native presentation differs from WinUI. |"
+    },
+    {
+      "source": "Actions/Show/ToggleFilterHeaderAction.cs",
+      "types": [
+        "ToggleFilterHeaderAction"
+      ],
+      "labels": [
+        "ToggleFilterHeader",
+        "ToggleFilterHeaderDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Independent persisted filter/search-header toggle; header disappears in native UI. |"
+    },
+    {
+      "source": "Actions/Show/ToggleInfoPaneAction.cs",
+      "types": [
+        "ToggleInfoPaneAction"
+      ],
+      "labels": [
+        "ToggleInfoPane",
+        "ToggleInfoPaneDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "View/menu state supports sidebar, toolbar, extensions, hidden items, split/details/preview/shelf; native presentation differs from WinUI. |"
+    },
+    {
+      "source": "Actions/Show/TogglePreviewPaneAction.cs",
+      "types": [
+        "TogglePreviewPaneAction"
+      ],
+      "labels": [
+        "TogglePreviewPane",
+        "TogglePreviewPaneDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "View/menu state supports sidebar, toolbar, extensions, hidden items, split/details/preview/shelf; native presentation differs from WinUI. |"
+    },
+    {
+      "source": "Actions/Show/ToggleShelfPaneAction.cs",
+      "types": [
+        "ToggleShelfPaneAction"
+      ],
+      "labels": [
+        "ToggleShelfPane",
+        "ToggleShelfPaneDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "View/menu state supports sidebar, toolbar, extensions, hidden items, split/details/preview/shelf; native presentation differs from WinUI. |"
+    },
+    {
+      "source": "Actions/Show/ToggleShowFileExtensionsAction.cs",
+      "types": [
+        "ToggleShowFileExtensionsAction"
+      ],
+      "labels": [
+        "ShowFileExtensions",
+        "ToggleShowFileExtensionsDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "View/menu state supports sidebar, toolbar, extensions, hidden items, split/details/preview/shelf; native presentation differs from WinUI. |"
+    },
+    {
+      "source": "Actions/Show/ToggleShowHiddenItemsAction.cs",
+      "types": [
+        "ToggleShowHiddenItemsAction"
+      ],
+      "labels": [
+        "HiddenItems",
+        "ToggleShowHiddenItemsDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "View/menu state supports sidebar, toolbar, extensions, hidden items, split/details/preview/shelf; native presentation differs from WinUI. |"
+    },
+    {
+      "source": "Actions/Show/ToggleSidebarAction.cs",
+      "types": [
+        "ToggleSidebarAction"
+      ],
+      "labels": [
+        "ToggleSidebar",
+        "ToggleSidebarDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "View/menu state supports sidebar, toolbar, extensions, hidden items, split/details/preview/shelf; native presentation differs from WinUI. |"
+    },
+    {
+      "source": "Actions/Show/ToggleToolbarAction.cs",
+      "types": [
+        "ToggleToolbarAction"
+      ],
+      "labels": [
+        "ToggleToolbar",
+        "ToggleToolbarDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "View/menu state supports sidebar, toolbar, extensions, hidden items, split/details/preview/shelf; native presentation differs from WinUI. |"
+    },
+    {
+      "source": "Actions/Sidebar/CopyItemFromSidebarAction.cs",
+      "types": [
+        "CopyItemFromSidebarAction"
+      ],
+      "labels": [
+        "Copy",
+        "CopyItemDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "URL clipboard references available in both context menus; Home menu inspected interactively. |"
+    },
+    {
+      "source": "Actions/Sidebar/PinFolderToSidebarAction.cs",
+      "types": [
+        "PinFolderToSidebarAction"
+      ],
+      "labels": [
+        "PinFolderToSidebar",
+        "PinFolderToSidebarDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Pins all selected local folders or the current folder. PinA and PinB appeared together in the sidebar. |"
+    },
+    {
+      "source": "Actions/Sidebar/UnpinFolderToSidebarAction.cs",
+      "types": [
+        "UnpinFolderFromSidebarAction"
+      ],
+      "labels": [
+        "UnpinFolderFromSidebar",
+        "UnpinFolderFromSidebarDescription"
+      ],
+      "native_status": "Native mapping",
+      "mapping_notes": "Unpins all selected local folders; both PinA and PinB disappeared together in the UI. |"
+    },
+    {
+      "source": "Actions/Start/PinToStartAction.cs",
+      "types": [
+        "PinToStartAction"
+      ],
+      "labels": [
+        "PinItemToStartText",
+        "PinToStartDescription"
+      ],
+      "native_status": "Platform boundary",
+      "mapping_notes": "Windows-specific privilege, shell, driver or Start integration; not implemented as equivalent macOS behavior. |"
+    },
+    {
+      "source": "Actions/Start/UnpinFromStartAction.cs",
+      "types": [
+        "UnpinFromStartAction"
+      ],
+      "labels": [
+        "UnpinFromStartDescription",
+        "UnpinItemFromStartText"
+      ],
+      "native_status": "Platform boundary",
+      "mapping_notes": "Windows-specific privilege, shell, driver or Start integration; not implemented as equivalent macOS behavior. |"
+    }
+  ],
+  "settings": [
+    {
+      "source": "Views/Settings/AboutPage.xaml",
+      "bindings": [
+        "Version",
+        "AppName",
+        "CopyAppVersionCommand",
+        "CopyWindowsVersionCommand",
+        "CopyUserIDCommand",
+        "SupportUsCommand",
+        "OpenDocumentationCommand",
+        "OpenDiscordCommand",
+        "SubmitFeatureRequestCommand",
+        "SubmitBugReportCommand",
+        "OpenLogLocationCommand",
+        "OpenCrowdinCommand",
+        "OpenSourceLibraries",
+        "OpenGitHubRepoCommand",
+        "OpenPrivacyPolicyCommand"
+      ],
+      "nativeComparison": "Bundled licenses, app/OS version copy, port notes, source and upstream issue links, documentation and diagnostics. Upstream donation, Discord, Crowdin, privacy-policy and anonymous user-ID controls are not reproduced as port services."
+    },
+    {
+      "source": "Views/Settings/ActionsPage.xaml",
+      "bindings": [
+        "ShowRestoreDefaultsConfirmationCommand",
+        "FilteredActionItems",
+        "RestoreDefaultsCommand",
+        "IsResetAllConfirmationTeachingTipOpened"
+      ],
+      "nativeComparison": "Custom shortcuts, conflicts, recording, import/export and reset. Commands also use native menus; not every upstream action is individually configurable through the native shortcut editor."
+    },
+    {
+      "source": "Views/Settings/AdvancedPage.xaml",
+      "bindings": [
+        "ExportSettingsCommand",
+        "ImportSettingsCommand",
+        "Commands.OpenSettingsFile",
+        "CanOpenOnWindowsStartup",
+        "OpenOnWindowsStartup",
+        "CloseToBackground",
+        "ShowSystemTrayIcon",
+        "IsSetAsDefaultFileManager",
+        "IsAppEnvironmentDev",
+        "IsSetAsOpenFileDialog",
+        "EnableThumbnailCache",
+        "ThumbnailCacheSizeLimit",
+        "CacheSizeText",
+        "ClearThumbnailCacheCommand",
+        "IsClearCacheButtonEnabled",
+        "ShowFlattenOptions"
+      ],
+      "nativeComparison": "Settings JSON export/import/editor, folder handler, bounded memory thumbnail cache and clear/disable controls. Login launch uses SMAppService; background lifetime and menu-bar access are implemented. Login registration was not changed during QA. Finder desktop and other applications’ Open/Save dialogs remain system components."
+    },
+    {
+      "source": "Views/Settings/AppearancePage.xaml",
+      "bindings": [
+        "Themes",
+        "SelectedThemeIndex",
+        "BackdropMaterialTypes.Values",
+        "SelectedBackdropMaterial",
+        "AppThemeBackgroundColor",
+        "AppThemeResources",
+        "SelectedAppThemeResources",
+        "AppThemeBackgroundImageSource",
+        "SelectImageCommand",
+        "RemoveImageCommand",
+        "AppThemeBackgroundImageOpacity",
+        "ImageStretchTypes.Values",
+        "SelectedImageStretchType",
+        "ImageVerticalAlignmentTypes.Values",
+        "SelectedImageVerticalAlignmentType",
+        "ImageHorizontalAlignmentTypes.Values",
+        "SelectedImageHorizontalAlignmentType",
+        "AppThemeFontFamilyOptions.Values",
+        "SelectedAppThemeFontFamilyOption",
+        "ShowTabActions",
+        "IsAppEnvironmentDev",
+        "ShowShelfPaneToggleButton",
+        "StatusCenterVisibilityOptions.Values",
+        "SelectedStatusCenterVisibilityOption",
+        "ShowToolbar",
+        "CustomizeToolbarCommand",
+        "ShowStatusBar",
+        "StatusBarItemCountFormats",
+        "SelectedStatusBarItemCountFormatIndex"
+      ],
+      "nativeComparison": "Theme/accent/background, compact rows, image opacity/stretch/alignment, native font and backdrop, tab actions, shelf toggle, toolbar/status visibility, separate counts and persistent Operations access. Arial and Sidebar material visually checked. Arbitrary upstream per-resource theme colors are not individually editable."
+    },
+    {
+      "source": "Views/Settings/DevToolsPage.xaml",
+      "bindings": [
+        "OpenInIDEOptions.Values",
+        "SelectedOpenInIDEOption",
+        "IsEditingIDEConfig",
+        "IDEName",
+        "IsIDENameValid",
+        "IDEPath",
+        "IsIDEPathValid",
+        "OpenFilePickerForIDECommand",
+        "TestIDECommand",
+        "StartEditingIDECommand",
+        "CancelIDEChangesCommand",
+        "SaveIDEChangesCommand",
+        "CanSaveIDEChanges",
+        "IsLogoutEnabled",
+        "ConnectToGitHubCommand",
+        "RemoveCredentialsCommand"
+      ],
+      "nativeComparison": "IDE app picker/test/launch and repository IDE action. GitHub account stores an opt-in PAT in Keychain and uses a host-scoped credential helper. This differs from upstream OAuth device authorization. Empty/disabled account UI and malformed-input rejection checked; live account authentication not tested."
+    },
+    {
+      "source": "Views/Settings/FoldersPage.xaml",
+      "bindings": [
+        "ShowHiddenItems",
+        "ShowDotFiles",
+        "ShowProtectedSystemFiles",
+        "AreAlternateStreamsVisible",
+        "ShowFileExtensions",
+        "ShowThumbnails",
+        "ShowCheckboxesWhenSelectingItems",
+        "SingleClickOpenModeOptions.Values",
+        "SelectedOpenFilesWithSingleClickOption",
+        "SelectedOpenFoldersWithSingleClickOption",
+        "SelectedOpenFoldersInColumnsViewWithSingleClickOption",
+        "OpenFoldersNewTab",
+        "SelectedDeleteConfirmationPolicyIndex",
+        "ShowFileExtensionWarning",
+        "SelectFilesOnHover",
+        "DoubleClickToGoUp",
+        "ScrollToPreviousFolderWhenNavigatingUp",
+        "SizeUnitsOptions.Values",
+        "SizeUnitFormat",
+        "CalculateFolderSizes",
+        "IsNaturalLanguageSearchSupported",
+        "EnableNaturalLanguageSearch"
+      ],
+      "nativeComparison": "Hidden/dotfiles/extensions, thumbnails, selection checkboxes, single-click preferences, new-tab folders, confirmation policy, extension warning, hover selection and empty-space Up. Previous-folder selection, size units and asynchronous local folder-size calculation implemented/tested. Folder-size/date UI checked. Windows protected-file/ADS semantics differ; natural-language search integration is not implemented."
+    },
+    {
+      "source": "Views/Settings/GeneralPage.xaml",
+      "bindings": [
+        "AppLanguages",
+        "SelectedAppLanguageIndex",
+        "DateFormatSample",
+        "DateFormats",
+        "SelectedDateTimeFormatIndex",
+        "SelectedStartupSettingIndex",
+        "OpenNewTabPageOnStartup",
+        "ContinueLastSessionOnStartUp",
+        "OpenASpecificPageOnStartup",
+        "AddPageCommand",
+        "PagesOnStartupList",
+        "SelectedPageIndex",
+        "OpenTabInExistingInstance",
+        "AlwaysSwitchToNewlyOpenedTab",
+        "ShowQuickAccessWidget",
+        "ShowDrivesWidget",
+        "ShowNetworkLocationsWidget",
+        "ShowFileTagsWidget",
+        "ShowRecentFilesWidget",
+        "AlwaysOpenDualPaneInNewTab",
+        "ShellPaneArrangementTypes.Values",
+        "SelectedShellPaneArrangementType",
+        "ShowOpenInNewTab",
+        "ShowOpenInNewWindow",
+        "ShowOpenInNewPane",
+        "ShowCopyPath",
+        "ShowCreateFolderWithSelection",
+        "ShowCreateAlternateDataStream",
+        "ShowCreateShortcut",
+        "ShowPinToSideBar",
+        "ShowCompressionOptions",
+        "ShowFlattenOptions",
+        "ShowSendToMenu",
+        "ShowOpenTerminal",
+        "ShowEditTagsMenu",
+        "ShowPinToStart",
+        "MoveShellExtensionsToSubMenu",
+        "EnableSmoothScrolling",
+        "SelectedTabScrollDirectionIndex",
+        "ShowRestartControl",
+        "RestartCommand",
+        "CancelRestartCommand"
+      ],
+      "nativeComparison": "Language/date format, restored or specific startup pages, foreground/background tabs, dual-pane defaults, Home widgets, context-menu visibility, scroll inertia/tab-wheel direction and restart. Recent files/network/tag widgets and date format inspected. External folder URLs currently open in the existing application instance; a separate-instance preference is not implemented."
+    },
+    {
+      "source": "Views/Settings/LayoutPage.xaml",
+      "bindings": [
+        "SyncFolderPreferencesAcrossDirectories",
+        "SelectedDefaultLayoutModeIndex",
+        "SelectedDefaultSortingIndex",
+        "SortInDescendingOrder",
+        "SelectedDefaultSortPriorityIndex",
+        "SelectedDefaultGroupingIndex",
+        "IsDefaultGrouped",
+        "GroupInDescendingOrder",
+        "IsGroupByDate",
+        "SelectedDefaultGroupByDateUnitIndex",
+        "AutoSizeColumnsInDetailsLayout",
+        "ShowFileTagColumn",
+        "ShowSizeColumn",
+        "ShowTypeColumn",
+        "ShowDateColumn",
+        "ShowDateCreatedColumn",
+        "ShowAdaptiveDisabledTeachingTip"
+      ],
+      "nativeComparison": "Shared layouts, per-folder or synchronized presentation, default sort/group/direction/date units, adaptive media threshold, size cycling, columns and auto-fit. Details initial column sizing fixed and visually checked so Date/Type/Size/Cloud remain visible."
+    },
+    {
+      "source": "Views/Settings/SettingsPage.xaml",
+      "bindings": [
+        "FlatNavigationItems",
+        "IsSearchActive",
+        "SearchHeading",
+        "HasNoSearchResults",
+        "SearchResults"
+      ],
+      "nativeComparison": "Localized section/label search, matching headings and an explicit empty-search state. Generated index tracks search keywords; native grouped settings replace the upstream navigation/control hierarchy."
+    },
+    {
+      "source": "Views/Settings/TagsPage.xaml",
+      "bindings": [
+        "AddTagCommand",
+        "IsCreatingNewTag",
+        "NewTag.Color",
+        "NewTag.IsNameValid",
+        "CancelNewTagCommand",
+        "SaveNewTagCommand",
+        "NewTag.CanCommit",
+        "Tags"
+      ],
+      "nativeComparison": "Saved named/color tags, validation, metadata-preserving rename/remove, saved-tag picker and indexed tag browser. Creation/color UI and preservation tests pass. Global changes depend on Spotlight indexing and retain catalog entries on failure. Native Finder colors and name-based metadata differ from arbitrary upstream colors and stable tag-ID semantics."
+    },
+    {
+      "source": "Views/Settings/ToolbarCustomizationPage.xaml",
+      "bindings": [
+        "ToolbarContexts",
+        "SelectedToolbarContext",
+        "SearchQuery",
+        "AvailableToolbarTreeItems",
+        "ToolbarItems",
+        "ResetToolbarCommand",
+        "SaveToolbarCommand",
+        "HasToolbarChanges",
+        "CancelToolbarCommand"
+      ],
+      "nativeComparison": "Context-specific ordered entries, add/remove/reorder, search, visibility, apply/discard, reset, persistence and JSON transfer. Prior UI checks cover editing; exact upstream control equivalence is not certified."
+    }
+  ]
+}

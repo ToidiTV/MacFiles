@@ -1,0 +1,5177 @@
+{
+  "%1$@ MB": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ MB"
+  },
+  "%1$@ Trash location(s) could not be read. macOS may require Full Disk Access for Trash. Items listed here remain available to manage.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Trash vietos(s) negalima skaityti. macOS gali prireikti Full Disk Access, kad būtų galima ištrinti. čia išvardyti elementai lieka prieinami valdyti."
+  },
+  "%1$@ destination name(s) already exist": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Paskirties pavadinimas(s) jau egzistuoja"
+  },
+  "%1$@ entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Įėjimas"
+  },
+  "%1$@ folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Folderiai"
+  },
+  "%1$@ folders · %2$@ files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Pašto dėžutės; %2$@ failai"
+  },
+  "%1$@ folders · saves to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Skelbiama, kad išsaugoti %2$@"
+  },
+  "%1$@ free of %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Laisvas iš %2$@"
+  },
+  "%1$@ inaccessible": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Neįmanoma"
+  },
+  "%1$@ is assigned more than once.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Jis skiriamas daugiau nei vieną kartą."
+  },
+  "%1$@ is reserved by macOS or the application window.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Jis yra rezervuotas macOS arba paraiškos langą."
+  },
+  "%1$@ is reserved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Jis yra rezervuotas."
+  },
+  "%1$@ item(s) ready to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ S punktas (s) yra paruoštas %2$@"
+  },
+  "%1$@ selected items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Pasirinkti elementai"
+  },
+  "%1$@. Sync completion is managed by the provider and is not reported through public file metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@Sync užbaigimą valdo tiekėjas ir nėra pranešama per viešus failų metaduomenis."
+  },
+  "A different key is already trusted for this host. Review the changed key with the server administrator before replacing it.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Šiam hostui jau pasitiki skirtingas raktas. Prieš jį pakeičiant, peržiūrėkite pakeistą raktą su serverio administratoriumi."
+  },
+  "A familiar place for everything.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įdomu vieta visiems."
+  },
+  "A file operation is still running": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Failo operacija vis dar veikia"
+  },
+  "A folder cannot be copied or moved inside itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pašto dėžutė negali būti kopijuota arba perkeliama į vidų."
+  },
+  "A shortcut cannot target itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sumažėjimas negali būti nukreiptas į save."
+  },
+  "ACL updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ACL Atnaujintas ."
+  },
+  "About": {
+    "origin": "Files:About",
+    "text": "Apie"
+  },
+  "About MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Apie MacFiles"
+  },
+  "Accent color (hex)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Akcento spalva (hex)"
+  },
+  "Access control list — native macOS syntax": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Prieigos kontrolės sąrašas - gimtoji macOS Sintezės"
+  },
+  "Access token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Prieigos tokenai"
+  },
+  "Accounts, authentication and sync preferences are managed by each provider’s native app. Removing a saved folder here does not unlink its account or delete files.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kontai, autentiškumo ir sinchronizavimo pageidavimai valdomos kiekvieno teikėjo gimtoji programa. ištrinti išsaugotą aplanką čia nesusijęs su savo sąskaita ar ištrina failus."
+  },
+  "Action unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Veiksmas nepasiekiamas"
+  },
+  "Actions": {
+    "origin": "Files:Actions",
+    "text": "Veiksmai"
+  },
+  "Adaptive": {
+    "origin": "Files:Adaptive",
+    "text": "Automatically choose the best layout"
+  },
+  "Adaptive layout": {
+    "origin": "Files:Adaptive",
+    "text": "Automatically choose the best layout"
+  },
+  "Add": {
+    "origin": "Files:Add",
+    "text": "PridÄ—ti"
+  },
+  "Add cloud folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įtraukite debesų plokštę."
+  },
+  "Add current selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pridėti dabartinį pasirinkimą"
+  },
+  "Add files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pridėti failus..."
+  },
+  "Add folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įtraukti folderį..."
+  },
+  "Add images…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pridėti nuotraukas..."
+  },
+  "Add prefix": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pridėti prefix"
+  },
+  "Add saved tag": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pridėti išsaugotą žymę"
+  },
+  "Add selection to shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pridėti pasirinkimą į shelf"
+  },
+  "Add startup folders…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įtraukite „Startup“ failus."
+  },
+  "Add suffix": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pridėti suffix"
+  },
+  "Add to library": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pridėti prie bibliotekos"
+  },
+  "Add to shelf": {
+    "origin": "Files:AddToShelf",
+    "text": "Pridėti į lentyną"
+  },
+  "Advanced": {
+    "origin": "Files:Advanced",
+    "text": "IÅ¡plÄ—stinÄ—"
+  },
+  "Advanced search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išplėstinė paieškos"
+  },
+  "Advanced search…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išplėstinė paieškos..."
+  },
+  "Album": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Albumas"
+  },
+  "Allocated size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Skiriamas dydis"
+  },
+  "Already assigned to %1$@. Remove that assignment first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Jau paskirtas %1$@Pirmiausia pašalinkite tą užduotį."
+  },
+  "Always show operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Visada rodo operacijas"
+  },
+  "Always visible": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Visada matomas"
+  },
+  "Always-visible items are combined with the current selection context. Cloud items add their own controls.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Visada matomi elementai yra derinami su dabartine atrankos kontekste. debesų elementai prideda savo kontroles."
+  },
+  "Ambiguous archive listing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dvigubo archyvų sąrašas."
+  },
+  "Ambiguous media metadata containers.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Medijos metaduomenų konteineriai."
+  },
+  "Any": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "bet kokį"
+  },
+  "App language (restart to apply)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Programos kalba (atnaujinti taikyti)"
+  },
+  "Appearance": {
+    "origin": "Files:Appearance",
+    "text": "IÅ¡vaizda"
+  },
+  "Application": {
+    "origin": "Files:Application",
+    "text": "ParaiÅ¡ka"
+  },
+  "Application unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Taikymo prieinamumas"
+  },
+  "Applies owner, group, and other permissions to the selected items only.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Taikomas savininkas, grupė ir kitos leidimai tik pasirinktiems elementams."
+  },
+  "Apply": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Taikymas"
+  },
+  "Apply ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Taikymas ACL…"
+  },
+  "Apply UID %1$@ and GID %2$@ to this item only.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Taikymas UID %1$@ ir GID %2$@ Tik į šį straipsnį."
+  },
+  "Apply attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Taikykite atributus"
+  },
+  "Apply file permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Duomenų leidimų taikymas"
+  },
+  "Apply owner/group…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Paslaugų savininkas / grupė ..."
+  },
+  "Approve MacFiles in Login Items in System Settings.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "patvirtinti MacFiles Įveskite „Login“ elementus sistemos nustatymuose."
+  },
+  "Archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archyvai"
+  },
+  "Archive attempts to write through a link or file: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archyvai bando rašyti per nuorodą ar failą: %1$@"
+  },
+  "Archive contains an unsafe path: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archyvas apima nesaugią kelią: %1$@"
+  },
+  "Archive contains an unsafe symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archyvas yra nesaugi simbolinė nuoroda."
+  },
+  "Archive editing cannot traverse symbolic links.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archyvų redagavimas negali peržengti simbolinių nuorodų."
+  },
+  "Archive link escapes its destination.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archyvų nuoroda pabėga nuo savo paskirties."
+  },
+  "Archive link target is too long.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archyvų nuorodų tikslas yra per ilgas."
+  },
+  "Archive operation failed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archyvų operacija nesėkminga."
+  },
+  "Archive password (if needed)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archyvo slaptažodis (jei reikia)"
+  },
+  "Archive password (leave blank if unencrypted)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archyvo slaptažodis (išleiskite baltu, jei nesifruotas)"
+  },
+  "Archive passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archyvų slaptažodžiai negali būti linijų lūžių arba NUL ir simbolių."
+  },
+  "Archive path escapes the destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archyvo kelias bėga nuo paskirties: %1$@"
+  },
+  "Archive root": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archyvų šaknis"
+  },
+  "Archive symbolic link escapes the destination.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Simboliškas archyvo ryšys bėga iš paskirties."
+  },
+  "Arrange panes side by side": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įdėkite plokštes šalia šono"
+  },
+  "Arrange panes top and bottom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įdėkite viršutinę ir apatinę plokšteles"
+  },
+  "Artist": {
+    "origin": "Files:Artist",
+    "text": "Menininkas"
+  },
+  "Artist / author": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Menininkas / Autorius"
+  },
+  "Ascending": {
+    "origin": "Files:Ascending",
+    "text": "DidÄ—janÄia tvarka"
+  },
+  "Attribute name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atitikties pavadinimas"
+  },
+  "Attributes": {
+    "origin": "Files:Attributes",
+    "text": "Atributai"
+  },
+  "Attributes updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atnaujintos savybės."
+  },
+  "Auto-fit columns": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Automatiškai pritaikytos kolonos"
+  },
+  "AutoFitColumns": {
+    "origin": "Files:AutoFitColumns",
+    "text": "Auto-fit columns"
+  },
+  "Available locally": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Galimi vietiniu būdu"
+  },
+  "Back": {
+    "origin": "Files:Back",
+    "text": "Back (Alt+Left Arrow)"
+  },
+  "Back · ⌘[": {
+    "origin": "Files:Back",
+    "text": "Back (Alt+Left Arrow) · ⌘["
+  },
+  "Backdrop material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Grindų medžiaga"
+  },
+  "Backdrop materials use macOS visual effects. Standard system controls and monospaced content retain their system fonts.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Grindų medžiagos naudojimas macOS Standartinės sistemos kontrolės ir monospaced turinys išsaugo savo sisteminius fontus."
+  },
+  "Background": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "fonas"
+  },
+  "Background color (blank = system)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tapetų spalva (baltas = sistema)"
+  },
+  "Background image": {
+    "origin": "Files:BackgroundImage",
+    "text": "Fono vaizdas"
+  },
+  "Background image and status": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tapetų vaizdas ir statusas"
+  },
+  "Background image opacity": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nuotraukos fone opacity"
+  },
+  "Background mode keeps the menu bar icon available so you can reopen MacFiles or quit it.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pagrindinis režimas išlaiko meniu juostos ikoną, kad galėtumėte vėl atidaryti MacFiles Arba palikite jį."
+  },
+  "Background preset": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išankstinis pranašumas"
+  },
+  "Base": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "bazė"
+  },
+  "Base64": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pagrindinė 64"
+  },
+  "Based on the Files Community explorer’s shell, MVVM, command, and storage architecture. Built with Swift, AppKit, and SwiftUI.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pagal failų bendruomenės tyrinėtojo šalinį, MVVM, komandos ir saugojimo architektūrą. pastatytas su Swift, AppKit ir SwiftUI."
+  },
+  "Binary": {
+    "origin": "Files:Binary",
+    "text": "Dvejetainis"
+  },
+  "Blue": {
+    "origin": "Files:Blue",
+    "text": "MÄ—lyna/-s"
+  },
+  "Bottom": {
+    "origin": "Files:Bottom",
+    "text": "Apačia"
+  },
+  "Browse all tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Apžiūrėkite – All tags"
+  },
+  "Browse archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse archyvas"
+  },
+  "Browse archive…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse archyvas..."
+  },
+  "Browse tagged items…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse pažymėta elementai..."
+  },
+  "Browsing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "naršymas"
+  },
+  "Browsing interactions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browsing sąveikos"
+  },
+  "Bulk rename": {
+    "origin": "Files:BulkRename",
+    "text": "Masinis pervadinimas"
+  },
+  "Bulk rename requires items from one folder.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bulk rename reikalauja elementų iš vienos klasės."
+  },
+  "Bulk rename…": {
+    "origin": "Files:BulkRename",
+    "text": "Masinis pervadinimas"
+  },
+  "Bytes": {
+    "origin": "Files:Bytes",
+    "text": "Baitai"
+  },
+  "Cache thumbnails": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Suvokti miniatiūriniai"
+  },
+  "Calculate combined size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Apskaičiuokite kombinuotą dydį"
+  },
+  "Calculate folder size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išsiaiškinti plokštės dydį"
+  },
+  "Calculate folder sizes": {
+    "origin": "Files:CalculateFolderSizes",
+    "text": "Apskaičiuokite aplankų dydžius"
+  },
+  "Calculate hashes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išsiaiškinti hashes..."
+  },
+  "Calculate total size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "apskaičiuoti bendrą dydį"
+  },
+  "Calculating hashes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išskaičiuojamos hashes."
+  },
+  "Camouflage": {
+    "origin": "Files:Camouflage",
+    "text": "Kamufliažas"
+  },
+  "Cancel": {
+    "origin": "Files:Cancel",
+    "text": "Atšaukti"
+  },
+  "Cancel calculation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atšaukti skaičiavimą"
+  },
+  "Cancel operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atšaukti operaciją"
+  },
+  "Cancel queued operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atšaukta operacinė operacija"
+  },
+  "Cancelled": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "atšauktas"
+  },
+  "Cancelled before starting.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Prieš pradedant atšaukti."
+  },
+  "Cancelled before starting. No files were changed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Prieš pradedant atšaukta.Nėra keistų failų."
+  },
+  "Cancelling the current operation…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atšaukti dabartinę operaciją..."
+  },
+  "Cannot allocate archive entry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neįmanoma įtraukti archyvų."
+  },
+  "Cannot allocate archive reader.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neįmanoma skirti archyvų skaitytuvo."
+  },
+  "Cannot allocate archive writer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neįmanoma skirti archyvų rašytojo."
+  },
+  "Cannot archive special device: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Specialus įrenginys negali būti archyvuotas: %1$@"
+  },
+  "Cannot create archive entry: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Galima sukurti archyvų įrašą: %1$@"
+  },
+  "Cannot create subprocess output file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Negalima sukurti subproceso išleidimo failų."
+  },
+  "Cannot decode image.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nuotraukos negalima dekoduoti."
+  },
+  "Cannot prepare SSH authentication.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Negalima paruošti SSH ir autentiškumo."
+  },
+  "Cannot prepare command input.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Negalima paruošti komandos įvesties."
+  },
+  "Cannot read %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Negalima skaityti %1$@"
+  },
+  "Cannot read image metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neįmanoma skaityti vaizdo metadata."
+  },
+  "Cannot remove the archive root.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neįmanoma pašalinti archyvų šaknų."
+  },
+  "Cannot rename the archive root.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neįmanoma pakeisti archyvų šaknų."
+  },
+  "Cannot restore archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neįmanoma atkurti archyvų kietojo ryšio."
+  },
+  "Cannot rotate image.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Negalima sukti vaizdo."
+  },
+  "Center": {
+    "origin": "Files:Center",
+    "text": "centras"
+  },
+  "Change file extension?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pakeisti failų plėtą?"
+  },
+  "Change ownership?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pakeisti nuosavybę?"
+  },
+  "Change provider app…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasikeitimo paslaugų teikėjas..."
+  },
+  "Change the shortcut target?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ar keičiate trumpalaikį tikslą?"
+  },
+  "Changes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pokyčiai"
+  },
+  "Changing the extension may prevent the file from opening in its usual application.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pakeisti plėtinį gali užkirsti kelią failą atidaryti įprastame taikymo."
+  },
+  "Choose IDE…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirinkite čia..."
+  },
+  "Choose a destination to restore": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirinkite vietą atkurti"
+  },
+  "Choose a file to calculate hashes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirinkite failą, kad apskaičiuotumėte hashes."
+  },
+  "Choose a new destination and a repository URL.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirinkite naują adresą ir saugyklos URL."
+  },
+  "Choose a regular cloud file to download.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirinkite reguliarią debesų failą atsisiųsti."
+  },
+  "Choose a single file or folder to customize its icon.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirinkite vieną failą ar aplanką, kad pritaikytumėte jo ikoną."
+  },
+  "Choose a supported single-frame image (JPEG, PNG, TIFF or HEIC).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirinkite palaikytą vienkartinį vaizdą (JPEG, PNG, TIFF arba HEIC)."
+  },
+  "Choose a template file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirinkite šablonų failą"
+  },
+  "Choose custom icon…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirinkite savo ikoną."
+  },
+  "Choose folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirinkite paiešką..."
+  },
+  "Choose one item to edit ownership or ACLs.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirinkite vieną elementą, norėdami redaguoti nuosavybę arba ACL."
+  },
+  "Choose one item to view extended attributes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirinkite vieną elementą, kad pamatytumėte išplėstinius atributus."
+  },
+  "Choose provider app…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirinkite programėlę „App“"
+  },
+  "Clear": {
+    "origin": "Files:Key.Clear",
+    "text": "Aišku"
+  },
+  "Clear finished": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Aiškiai užbaigtas"
+  },
+  "Clear selection": {
+    "origin": "Files:ClearSelection",
+    "text": "IÅ¡valyti pasirinkimÄ…"
+  },
+  "Clear thumbnail cache": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Šviesus miniatiūrinis atsargas"
+  },
+  "Clone": {
+    "origin": "Files:Clone",
+    "text": "Klonuoti"
+  },
+  "Clone repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Klonų atsargos"
+  },
+  "Clone…": {
+    "origin": "Files:Clone",
+    "text": "Klonuoti"
+  },
+  "Close": {
+    "origin": "Files:Close",
+    "text": "Uždaryti"
+  },
+  "Close details": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Artimiausios detalės"
+  },
+  "Close other tabs": {
+    "origin": "Files:CloseOtherTabs",
+    "text": "Uždarykite kitus skirtukus"
+  },
+  "Close tab": {
+    "origin": "Files:CloseTab",
+    "text": "Uždaryti skirtuką"
+  },
+  "Close tabs to the left": {
+    "origin": "Files:CloseTabsToTheLeft",
+    "text": "Uždarykite skirtukus kairėje"
+  },
+  "Close tabs to the right": {
+    "origin": "Files:CloseTabsToTheRight",
+    "text": "Uždarykite skirtukus dešinėje"
+  },
+  "Close window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Artimieji langai"
+  },
+  "Cloud": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "debesys"
+  },
+  "Cloud accounts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "debesų sąskaitos"
+  },
+  "Cloud accounts and folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "debesų sąskaitos ir failai"
+  },
+  "Cloud availability and synchronization": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "debesų prieinamumas ir sinchronizacija"
+  },
+  "Cloud folder name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mėlynos failo pavadinimas"
+  },
+  "Cloud items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "debesų daiktai"
+  },
+  "Cloud provider": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "debesų paslaugų teikėjas"
+  },
+  "Cloud providers installed on this Mac appear in the sidebar through their native File Provider folders.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Šiame „Mac“ įdiegti debesų teikėjai rodomos šoninėje juostoje per savo gimtąjį File Provider Įrašai ."
+  },
+  "Cloud status": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "debesų būklė"
+  },
+  "Cloud status…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "debesų statuso..."
+  },
+  "Cloud storage": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "debesų saugojimas"
+  },
+  "Collapse folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pažeidžiamas failas"
+  },
+  "Collapsed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pralaimėjusi"
+  },
+  "Collect file references from different folders, then copy or move them together.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Surinkti failų nuorodas iš skirtingų aplankų, tada kopijuoti arba perkelti juos kartu."
+  },
+  "Columns": {
+    "origin": "Files:Columns",
+    "text": "Stulpeliai"
+  },
+  "Columns layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kolumnystės Layout"
+  },
+  "Command": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įsakymas"
+  },
+  "Command output exceeded 16 MiB; no truncated result was accepted.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Komandos išleidimas viršija 16 MiB; nebuvo priimtas joks truncated rezultatas."
+  },
+  "Command palette": {
+    "origin": "Files:CommandPalette",
+    "text": "Komandų paletė"
+  },
+  "Command palette…": {
+    "origin": "Files:CommandPalette",
+    "text": "Komandų paletė"
+  },
+  "Commit created": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Komitetas sukurtas"
+  },
+  "Commit message": {
+    "origin": "Files:CommitMessage",
+    "text": "Įsipareigoti pranešimą"
+  },
+  "Commit staged": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įsipareigojimai"
+  },
+  "Compact file rows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kompaktiškas failų ratas"
+  },
+  "Compare these SHA-256 fingerprints with your server administrator before trusting %1$@:%2$@.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Palyginkite šiuos SHA-256 pirštų atspaudai su serverio administratoriumi prieš pasitikėdami %1$@:%2$@.\n\n"
+  },
+  "Compatibility": {
+    "origin": "Files:Compatibility",
+    "text": "Suderinamumas"
+  },
+  "Completed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Užbaigtas"
+  },
+  "Completed with errors": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Užpildyta klaidomis"
+  },
+  "Compress": {
+    "origin": "Files:Compress",
+    "text": "Suspausti"
+  },
+  "CompressIntoSevenZip": {
+    "origin": "Files:CompressIntoSevenZip",
+    "text": "Sukurti 7z archyvą"
+  },
+  "CompressIntoZip": {
+    "origin": "Files:CompressIntoZip",
+    "text": "Sukurti zip archyvą"
+  },
+  "Compressed movie headers require remuxing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kompresuotos filmų viryklės reikalauja remušimo."
+  },
+  "Compressing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kompresas"
+  },
+  "Compress…": {
+    "origin": "Files:Compress",
+    "text": "Suspausti"
+  },
+  "Confirm moving files to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Patikrinkite failus perkelti į Trash"
+  },
+  "Confirmations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "patvirtinimai"
+  },
+  "Conflicts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Konfliktai"
+  },
+  "Connect": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Prisijunkite"
+  },
+  "Connect to server": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Prisijunkite prie serverio"
+  },
+  "Connect to server…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Prisijunkite prie serverio..."
+  },
+  "Connect to the server first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pirmiausia prisijunkite prie serverio."
+  },
+  "Connected folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Prijungtas failas"
+  },
+  "Connected to this Mac": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Prisijunkite prie šio Mac"
+  },
+  "Contains UTF-8 text": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sudėtyje UTF-8 Tekstas"
+  },
+  "Content search includes text, PDF, Office and OpenDocument files. Unsupported, locked and online-only files are counted as skipped.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Turinio paieškos apima tekstą, PDF, Office ir OpenDocument failus. nepalaikomi, užrakinti ir tik internete failai skaičiuojami kaip pertraukti."
+  },
+  "Content type": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Turinio tipas"
+  },
+  "Contents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Turinys"
+  },
+  "Context": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "kontekstas"
+  },
+  "Context menu": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kontekstų meniu"
+  },
+  "Copy": {
+    "origin": "Files:Copy",
+    "text": "Kopijuoti"
+  },
+  "Copy app version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Application versijos kopija"
+  },
+  "Copy hashes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atsisiųsti hashes"
+  },
+  "Copy here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kopijuoti čia"
+  },
+  "Copy macOS version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kopijuoti macOS Versija"
+  },
+  "Copy path": {
+    "origin": "Files:CopyPath",
+    "text": "Kopijuoti kelio adresÄ…"
+  },
+  "Copy report": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kopijuoti ataskaitą"
+  },
+  "Copy selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirinktas kopijas"
+  },
+  "CopyItemPathWithQuotes": {
+    "origin": "Files:CopyItemPathWithQuotes",
+    "text": "Kopijuoti pasirinkto elemento keliÄ… su kabutÄ—mis"
+  },
+  "CopyPathDescription": {
+    "origin": "Files:CopyPathDescription",
+    "text": "Nukopijuokite dabartinio katalogo kelią"
+  },
+  "CopyPathWithQuotes": {
+    "origin": "Files:CopyPathWithQuotes",
+    "text": "Kopijuoti kelio adresÄ… su kabutÄ—mis"
+  },
+  "Copying": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kopijuoti"
+  },
+  "Copying archive entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kopijuoti archyvų įrašus"
+  },
+  "Copying files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kopijuoti failus"
+  },
+  "Copyright": {
+    "origin": "Files:PropertyCopyright",
+    "text": "Autorių teisės"
+  },
+  "Could not find an available filename.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Negalėjo rasti prieinamo filanimo."
+  },
+  "Could not prepare archive contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Galima paruošti archyvų turinį."
+  },
+  "Could not remove GitHub credentials from Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Negalėjo pašalinti GitHub autentifikavimo iš Keychain."
+  },
+  "Could not save GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Negalima išsaugoti GitHub autentifikavimo Keychain."
+  },
+  "Could not save the edited image; the original was kept.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neįmanoma išsaugoti redaguoto vaizdo; originalas buvo išsaugotas."
+  },
+  "Could not save the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Negaliu išsaugoti slaptažodžio Keychain (%1$@)."
+  },
+  "Could not update GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Negaliu atnaujinti GitHub autentifikavimo Keychain."
+  },
+  "Could not update the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Negaliu atnaujinti slaptažodžio Keychain (%1$@)."
+  },
+  "Couldn’t change the folder viewer": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neįmanoma keisti failo žiūrovą"
+  },
+  "Couldn’t eject volume": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Negalima išleisti tūrio"
+  },
+  "Couldn’t open files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neįmanoma atidaryti failų"
+  },
+  "Couldn’t open folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neįmanoma atidaryti failo"
+  },
+  "Couldn’t open this file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neįmanoma atidaryti šio failo"
+  },
+  "Couldn’t open this location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Negalima atidaryti šios vietos"
+  },
+  "Couldn’t resolve alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neįmanoma išspręsti Alias"
+  },
+  "Couldn’t restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Negalėjo vėl pradėti MacFiles"
+  },
+  "Create": {
+    "origin": "Files:Create",
+    "text": "Sukurti"
+  },
+  "Create a GitHub token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sukurkite „GitHub“ tokeną"
+  },
+  "Create alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kūrybiniai alias"
+  },
+  "Create archive": {
+    "origin": "Files:CreateArchive",
+    "text": "Sukurti archyvą"
+  },
+  "Create library…": {
+    "origin": "Files:FolderWidgetCreateNewLibraryDialogTitleText",
+    "text": "Sukurti bibliotekÄ…"
+  },
+  "Create shortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "Sukurti nuorodą"
+  },
+  "Create zip archive": {
+    "origin": "Files:CompressIntoZip",
+    "text": "Sukurti zip archyvą"
+  },
+  "CreateFolderWithSelection": {
+    "origin": "Files:CreateFolderWithSelection",
+    "text": "Sukurkite aplanką su pasirinkimu"
+  },
+  "CreateShortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "Sukurti nuorodą"
+  },
+  "CreateShortcutFromDialogDescription": {
+    "origin": "Files:CreateShortcutFromDialogDescription",
+    "text": "Sukurkite naują bet kurio elemento nuorodą"
+  },
+  "Created": {
+    "origin": "Files:PropertiesCreated.Text",
+    "text": "Sukurta:"
+  },
+  "Creating alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kūrybiniai alias"
+  },
+  "Creating from template": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kūryba iš šventyklos"
+  },
+  "Custom": {
+    "origin": "Files:Custom",
+    "text": "Pasirinktinis"
+  },
+  "Custom icon applied.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Naudojamas individualus ikonas."
+  },
+  "Custom tag color (hex, optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kūrybinės ženklo spalvos (hex, pasirinktinis)"
+  },
+  "Custom theme": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kūrybinė tema"
+  },
+  "Customization": {
+    "origin": "Files:Customization",
+    "text": "Tinkinimas"
+  },
+  "Customize toolbar": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Customizavimo įrankiai"
+  },
+  "Customize toolbar…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kūrybinės įrangos..."
+  },
+  "Cut": {
+    "origin": "Files:Cut",
+    "text": "IÅ¡kirpti"
+  },
+  "Dark": {
+    "origin": "Files:DarkTheme",
+    "text": "Tamsus"
+  },
+  "Date created": {
+    "origin": "Files:DateCreated",
+    "text": "Sukūrimo data"
+  },
+  "Date deleted": {
+    "origin": "Files:DateDeleted",
+    "text": "Ištrynimo data"
+  },
+  "Date format": {
+    "origin": "Files:DateFormat",
+    "text": "Datos formatas"
+  },
+  "Date modified": {
+    "origin": "Files:DateModifiedLowerCase",
+    "text": "Pakeitimo data"
+  },
+  "Day": {
+    "origin": "Files:Day",
+    "text": "Diena"
+  },
+  "Decimal": {
+    "origin": "Files:Decimal",
+    "text": "Dešimtainė"
+  },
+  "Decrease size": {
+    "origin": "Files:DecreaseSize",
+    "text": "Sumažinti dydį"
+  },
+  "Default": {
+    "origin": "Files:Default",
+    "text": "Numatytoji"
+  },
+  "Default folder layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išskirtinis plokštės išdėstymas"
+  },
+  "Default grouping": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Default grupavimas"
+  },
+  "Default save location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išskirtinis taupymas vietos"
+  },
+  "Default sorting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išskirtinis sortavimas"
+  },
+  "Delete": {
+    "origin": "Files:Delete",
+    "text": "IÅ¡trinti"
+  },
+  "Delete permanently": {
+    "origin": "Files:DeletePermanently",
+    "text": "Ištrinti visam laikui"
+  },
+  "Delete saved tag and remove it from indexed files?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ištrinti išsaugotą žymę ir pašalinti ją iš indeksuojamų failų?"
+  },
+  "Delete selected permanently…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ištrinti pasirinktą nuolat..."
+  },
+  "Deleting permanently": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nuolat ištrinti"
+  },
+  "Description": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Aprašymas"
+  },
+  "Desktop": {
+    "origin": "Files:Desktop",
+    "text": "Darbalaukis"
+  },
+  "Destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Paskirtis: %1$@"
+  },
+  "Detached HEAD": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atsirado galva"
+  },
+  "Details": {
+    "origin": "Files:Details",
+    "text": "Detalės"
+  },
+  "Details layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Detalės Layout"
+  },
+  "Details pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išsami informacija pane"
+  },
+  "Developer tools": {
+    "origin": "Files:DevTools",
+    "text": "Kūrėjo įrankiai"
+  },
+  "Development": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "vystymasis"
+  },
+  "Diagnostics": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Diagnozė"
+  },
+  "Diagnostics opened": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Diagnozė atidaryta"
+  },
+  "Disconnect": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išjungti"
+  },
+  "Documents": {
+    "origin": "Files:Documents",
+    "text": "Dokumentai"
+  },
+  "Done": {
+    "origin": "Files:Close",
+    "text": "Uždaryti"
+  },
+  "Double-click empty space to go up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dvigubas spustelėjimas tuščią erdvę eiti į viršų"
+  },
+  "Download": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atsisiųsti"
+  },
+  "Download files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atsisiųsti failus..."
+  },
+  "Download here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atsisiųsti čia"
+  },
+  "Download requested. iCloud may complete it asynchronously.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Parsisiųsti prašoma. iCloud Galite tai padaryti nesinkroniai."
+  },
+  "Downloaded": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atsisiųsti"
+  },
+  "Downloading": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atsisiųsti"
+  },
+  "Downloads": {
+    "origin": "Files:Downloads",
+    "text": "Atsisiuntimai"
+  },
+  "Drives": {
+    "origin": "Files:Drives",
+    "text": "Pavaros"
+  },
+  "Dual pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dvigubas pan"
+  },
+  "Duplicate": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dvigubas"
+  },
+  "Duplicate archive paths cannot be extracted safely.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dvigubas archyvų maršrutas negali būti saugiai ištraukiamas."
+  },
+  "Duplicate tab": {
+    "origin": "Files:DuplicateTab",
+    "text": "Dubliuoti skirtuką"
+  },
+  "Edit": {
+    "origin": "Files:Edit",
+    "text": "Redaguoti"
+  },
+  "Edit POSIX permissions for selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Redaguoti POSIX Leidimai pasirinkti"
+  },
+  "Edit address · ⌘L": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit adresas · ⌘L"
+  },
+  "Edit archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit archyvas"
+  },
+  "Edit in TextEdit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit į tekstą"
+  },
+  "Edit media metadata": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Medijos metadata"
+  },
+  "Edit media metadata…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Medijos metaduomenų redakcija."
+  },
+  "Edit or import the settings document, then Apply to validate and save. Language changes require a restart.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sutarčių dokumentą redaguoti arba importuoti, tada taikyti patvirtinti ir išsaugoti."
+  },
+  "Edit permissions on the link's target instead.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vietoj to, pakeiskite nuorodos tikslą."
+  },
+  "Edit settings file…": {
+    "origin": "Files:EditSettingsFile",
+    "text": "Redaguoti nustatymÅ³ failÄ…"
+  },
+  "Edit tags": {
+    "origin": "Files:EditTags",
+    "text": "Redaguoti žymas"
+  },
+  "Edit tags…": {
+    "origin": "Files:EditTags",
+    "text": "Redaguoti žymas"
+  },
+  "Edit the archive target instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Spausdinkite archyvo tikslą vietoj simbolinio nuorodos."
+  },
+  "Edit the target's attributes instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išreikšti tikslinio atributus vietoj simbolinio ryšio."
+  },
+  "Edits apply to this item only. Ownership changes require existing system permission; MacFiles does not elevate itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edits taikomas tik šiam elementui. nuosavybės pokyčiai reikalauja esamos sistemos leidimo; MacFiles Jis nepakelia savęs."
+  },
+  "Eject": {
+    "origin": "Files:Eject",
+    "text": "IÅ¡stumti"
+  },
+  "Empty": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "tuščias"
+  },
+  "Empty accessible Trash…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Laisvas prieinamas traukinys..."
+  },
+  "Empty archive entry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Laisvas archyvų įėjimas."
+  },
+  "Encoding": {
+    "origin": "Files:Encoding",
+    "text": "Kodavimas"
+  },
+  "Encrypted": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įšifruotas"
+  },
+  "Enter a GitHub username and a valid access token.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įveskite GitHub vartotojo vardą ir galiojančią prieigos tokeną."
+  },
+  "Enter a commit message.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įveskite įsipareigojimą."
+  },
+  "Enter a name without a slash or colon. The name cannot be empty, ‘.’, or ‘..’.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įveskite vardą be slash ar koloną. pavadinimas negali būti tuščias, „.“, arba „..“."
+  },
+  "Enter a size from 1 to 1,048,576 MiB.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įveskite dydį nuo 1 iki 1,048,576 MiB."
+  },
+  "Enter a valid host, username, and port.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įveskite galiojančią svetainę, vartotojo vardą ir uostą."
+  },
+  "Enter an SMB, AFP, or WebDAV address.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įveskite vieną SMB, AFParba WebDAV Adresas"
+  },
+  "Enter an attribute name of 1–127 UTF-8 bytes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įveskite atributo pavadinimą nuo 1 iki 127 UTF-8 Baitai"
+  },
+  "Enter compact overlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "Įveskite kompaktišką perdangą"
+  },
+  "Enter numeric user and group IDs.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įveskite numerišką vartotojo ir grupės ID."
+  },
+  "Enter password:": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įveskite slaptažodį:"
+  },
+  "Enter permissions from 000 to 777.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įveskite leidimus nuo 000 iki 777."
+  },
+  "Enter the archive password before editing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įveskite archyvų slaptažodį prieš redagavimą."
+  },
+  "Enter three octal digits, for example 644 or 755.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įveskite tris octinius skaitmenis, pavyzdžiui, 644 arba 755."
+  },
+  "Enter whole numbers for byte limits.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įveskite visas skaičius byto riboms."
+  },
+  "EnterCompactOverlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "Įveskite kompaktišką perdangą"
+  },
+  "Executable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "vykdomas"
+  },
+  "Executable format": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įgyvendinamas formatas"
+  },
+  "Exit compact overlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "Išeikite iš kompaktiškos perdangos"
+  },
+  "ExitCompactOverlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "Išeikite iš kompaktiškos perdangos"
+  },
+  "Expand folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išplėstinė plokštelė"
+  },
+  "Expanded": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išplėstas"
+  },
+  "Export ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "eksportuoti ACL…"
+  },
+  "Export bytes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Eksporto bytai."
+  },
+  "Export theme…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Eksporto tema..."
+  },
+  "Export…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Eksporto..."
+  },
+  "Extended attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išplėstinės savybės"
+  },
+  "Extended attributes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išplėstinės savybės..."
+  },
+  "Extensions are preserved. Conflicts stop the batch before any names change.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Konfliktai sustabdo rinkinį prieš bet kokį vardų keitimą."
+  },
+  "Extensions: txt, swift, pdf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Papildymai: txt, swift, pdf"
+  },
+  "Extra large icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Didelės ikonos"
+  },
+  "Extract": {
+    "origin": "Files:Extract",
+    "text": "IÅ¡skleisti"
+  },
+  "Extract all…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išgauti visus..."
+  },
+  "Extract here": {
+    "origin": "Files:ExtractHere",
+    "text": "IÅ¡skleisti Äia"
+  },
+  "Extract here (Smart)": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "Ištraukite čia (išmanusis)"
+  },
+  "Extract selected…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išrinktas ekstraktas..."
+  },
+  "Extract to child folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vaikų plokštės ekstraktas"
+  },
+  "Extract to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ekstraktas į..."
+  },
+  "ExtractHere": {
+    "origin": "Files:ExtractHere",
+    "text": "IÅ¡skleisti Äia"
+  },
+  "ExtractHereSmart": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "Ištraukite čia (išmanusis)"
+  },
+  "Extracted entry size does not match its header.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išimtas įėjimo dydis neatitinka jo pavadinimo."
+  },
+  "Extracting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ekstrakcija"
+  },
+  "Extracts into a new folder; existing files are kept.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ekstraktai į naują aplanką; esami failai yra išsaugoti."
+  },
+  "FTP over TLS": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "FTP viršų TLS"
+  },
+  "Failed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nesėkmės"
+  },
+  "Fetch": {
+    "origin": "Files:GitFetch",
+    "text": "Atnešti"
+  },
+  "File": {
+    "origin": "Files:File",
+    "text": "Failas"
+  },
+  "File actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Failo veiksmai"
+  },
+  "File hashes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Failų hashai"
+  },
+  "File information": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Failo informacija"
+  },
+  "File operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Failo operacijos"
+  },
+  "File operations in this window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Failo operacijos šiame langelyje"
+  },
+  "File shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Failų šalinimas"
+  },
+  "File shelf…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Failas Šaulys..."
+  },
+  "File size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "failų dydis"
+  },
+  "Files": {
+    "origin": "Files:SecurityAdvancedFlagsFilesLabel",
+    "text": "failai"
+  },
+  "Files size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "failų dydis"
+  },
+  "Files you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Failai, kuriuos atidarysite, bus čia."
+  },
+  "Fill": {
+    "origin": "Files:Fill",
+    "text": "Užpildykite"
+  },
+  "Filter entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Filtrų įvadas"
+  },
+  "Find": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ieškoti"
+  },
+  "Find and replace": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rasti ir pakeisti"
+  },
+  "Finder Get Info unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder Informacija nepateikiama"
+  },
+  "Finder Get Info…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder Gaukite informaciją..."
+  },
+  "Finder's desktop and other apps' Open/Save dialogs remain managed by macOS.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder„Desktop ir kitos programos“ Open/Save dialogai išlieka valdomi macOS."
+  },
+  "First letter": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pirmas laiškas"
+  },
+  "Fit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "tinkamas"
+  },
+  "Flatten": {
+    "origin": "Files:Flatten",
+    "text": "Išlyginti"
+  },
+  "Flatten folder": {
+    "origin": "Files:FlattenFolder",
+    "text": "Išlyginti aplanką"
+  },
+  "Flatten folder…": {
+    "origin": "Files:FlattenFolder",
+    "text": "Išlyginti aplanką"
+  },
+  "Flatten ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Plokščių »%1$@’?"
+  },
+  "Flattening folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Plokščių plokštė"
+  },
+  "Focus other pane": {
+    "origin": "Files:FocusOtherPane",
+    "text": "Sufokusuokite kitą sritį"
+  },
+  "Folder": {
+    "origin": "Files:Folder",
+    "text": "Aplankas"
+  },
+  "Folder contents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Folderio turinys"
+  },
+  "Folder contents are not included in this total.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Folderio turinys nėra įtrauktas į šį bendrą."
+  },
+  "Folder layout saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sklypas išgelbėtas."
+  },
+  "Folder path": {
+    "origin": "Files:FolderPath",
+    "text": "Aplanko kelias"
+  },
+  "Folder presentation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Folder pristatymas"
+  },
+  "Folder sizes are calculated in the background after Refresh. Large or network folders may take longer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Folderio dydžiai apskaičiuojami fonu po atnaujinimo. dideli arba tinklo folderiai gali užtrukti ilgiau."
+  },
+  "Folder unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Folderiai nepasiekiami"
+  },
+  "Folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Folderiai"
+  },
+  "Folders you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Paieškos, kurias atidarėte, bus čia."
+  },
+  "Font": {
+    "origin": "Files:Font",
+    "text": "Šriftas"
+  },
+  "Font and material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Fontas ir medžiaga"
+  },
+  "Forget saved": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pamiršti išgelbėti"
+  },
+  "Format": {
+    "origin": "Files:FormatDriveText",
+    "text": "Formatas"
+  },
+  "Format drive in Disk Utility…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Diskų funkcija diskų funkcijoje diskų funkcija..."
+  },
+  "Forward": {
+    "origin": "Files:Forward",
+    "text": "Forward (Alt+Right Arrow)"
+  },
+  "Forward · ⌘]": {
+    "origin": "Files:Forward",
+    "text": "Forward (Alt+Right Arrow) · ⌘]"
+  },
+  "Fragmented media metadata cannot be edited without remuxing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Fragmentuotų žiniasklaidos metaduomenis negali būti redaguojami be remušimo."
+  },
+  "Gallery": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Galerija"
+  },
+  "Gallery layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Galerija Layout"
+  },
+  "General": {
+    "origin": "Files:General",
+    "text": "Bendra"
+  },
+  "Git operation in %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git Operacija į %1$@"
+  },
+  "Git repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git Rezervatoriai"
+  },
+  "Git repository…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git Rezervatoriai..."
+  },
+  "GitHub account": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "„GitHub“ sąskaita"
+  },
+  "GitHub username": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub vartotojo vardas"
+  },
+  "Go to path": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Eikite į kelią"
+  },
+  "Go to path…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Eikite į kelią..."
+  },
+  "Gray": {
+    "origin": "Files:Gray",
+    "text": "Pilka"
+  },
+  "Green": {
+    "origin": "Files:Green",
+    "text": "Å½alia/-s"
+  },
+  "Group": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Grupė"
+  },
+  "Group GID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Grupė GID"
+  },
+  "Group ascending": {
+    "origin": "Files:GroupAscendingDescription",
+    "text": "Rūšiuoti grupes didėjančia tvarka"
+  },
+  "Group by": {
+    "origin": "Files:GroupBy",
+    "text": "Grupuoti pagal"
+  },
+  "Group by date unit": {
+    "origin": "Files:GroupByDateUnit",
+    "text": "Grupuoti pagal datos vienetą"
+  },
+  "HTTPS Git operations can use a GitHub access token stored in your macOS Keychain. Choose the repositories and permissions when creating the token. Existing Git authentication remains in use when no MacFiles account is saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "HTTPS Git operacijos gali naudoti „GitHub“ prieigos tokeną, saugomą jūsų macOS KeychainPasirinkite saugyklas ir leidimus, kai sukuriate tokeną. Git autentiškumas išlieka naudojamas, kai ne MacFiles sąskaita yra išsaugota."
+  },
+  "Hard Link": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sunkus ryšys"
+  },
+  "Hashes": {
+    "origin": "Files:Hashes",
+    "text": "Maišos"
+  },
+  "Hashes are available for a single file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hashai yra prieinami vienam failui."
+  },
+  "Header": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Širdis"
+  },
+  "Help": {
+    "origin": "Files:Help",
+    "text": "Pagalba"
+  },
+  "Hidden": {
+    "origin": "Files:Hidden",
+    "text": "Paslėpta"
+  },
+  "Hidden files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Paslėptų failų"
+  },
+  "History": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Istorija"
+  },
+  "Home": {
+    "origin": "Files:Key.Home",
+    "text": "Namai"
+  },
+  "Horizontal alignment": {
+    "origin": "Files:HorizontalAlignment",
+    "text": "Horizontalus lygiavimas"
+  },
+  "IDE opened.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Čia ir atidarytas."
+  },
+  "Icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ikonos"
+  },
+  "Icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ikonų"
+  },
+  "Icons layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ikonų išdėstymas"
+  },
+  "Image alignment": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vaizdo suderinimas"
+  },
+  "Image fit": {
+    "origin": "Files:ImageFit",
+    "text": "Tinkamas vaizdas"
+  },
+  "Import theme…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Importo tema..."
+  },
+  "Imported. Apply to save.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įvežti. prašyti išsaugoti."
+  },
+  "Import…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Importo..."
+  },
+  "Incomplete archive listing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nepilnas archyvų sąrašas."
+  },
+  "Increase size": {
+    "origin": "Files:IncreaseSize",
+    "text": "Padidinti dydį"
+  },
+  "Indexed document, image, audio, video and filesystem metadata supplied by Spotlight. Tags can be edited with the Tags tool.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Indeksuotas dokumentas, vaizdas, garso, vaizdo ir failų sistemos metadata, pateikta SpotlightŽymos gali būti redaguojamos naudojant žymės įrankį."
+  },
+  "Indexed files updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atnaujinti indeksuojami failai."
+  },
+  "Initialize": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Iniciatyva"
+  },
+  "Initialize repository here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pradėkite repositorių čia"
+  },
+  "Install certificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "Ä®diegti sertifikatÄ…"
+  },
+  "Install font": {
+    "origin": "Files:InstallFont",
+    "text": "Ä®diegti Å¡riftÄ…"
+  },
+  "InstallCertificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "Ä®diegti sertifikatÄ…"
+  },
+  "InstallFont": {
+    "origin": "Files:InstallFont",
+    "text": "Ä®diegti Å¡riftÄ…"
+  },
+  "Interval in seconds": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Intervalas per sekundes"
+  },
+  "Invalid Base64 data.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Duomenų bazė 64."
+  },
+  "Invalid SSH host or port.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "negalios SSH Viešbutis arba uostas."
+  },
+  "Invalid archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neįgali archyvas, kietas ryšys."
+  },
+  "Invalid archive link target.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neįgaliųjų archyvų nuorodos tikslas."
+  },
+  "Invalid extended media atom.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neįgaliųjų žiniasklaidos atomas."
+  },
+  "Invalid hard link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neįgalios sunkios nuorodos."
+  },
+  "Invalid key for %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neįgalus raktas %1$@."
+  },
+  "Invalid macOS ACL text. Preserve the !#acl 1 header and use valid entries.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "negalios macOS ACL Išsaugokite !#acl 1 pavadinimą ir naudokite galiojančius įrašus."
+  },
+  "Invalid media atom header.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neįgalios žiniasklaidos atominės antraštės."
+  },
+  "Invalid media atom size.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neįgaliųjų medijų atominis dydis."
+  },
+  "Invalid media atom.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neįgalios žiniasklaidos atomai."
+  },
+  "Invalid media file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neįgaliųjų žiniasklaidos failas."
+  },
+  "Invalid name": {
+    "origin": "Files:InvalidTagNameWarning",
+    "text": "Neteisingas pavadinimas"
+  },
+  "Invalid remote URL.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neteisingas nuotolinis URL."
+  },
+  "Invalid settings document.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neįgalus įkūrimo dokumentas."
+  },
+  "Invalid tag metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neįgaliųjų metadata."
+  },
+  "Invalid tag name or color.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neteisingas pavadinimas arba spalva."
+  },
+  "Invalid theme colors or appearance.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neįgalios teminės spalvos ar išvaizda."
+  },
+  "Invalid volume size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neįgalus dydis"
+  },
+  "Invert selection": {
+    "origin": "Files:InvertSelection",
+    "text": "Invertuoti pasirinkimÄ…"
+  },
+  "Item properties": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Prekių savybės"
+  },
+  "Items move into .MacFiles-Recovery on this server, including folder contents. Use Undo remote to restore them during this session.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Prekių judėjimas į .MacFiles-Recovery Šiame serveryje, įskaitant aplankų turinį. Naudokite „Undo“ nuotoliniu būdu, kad juos atkurtumėte per šią sesiją."
+  },
+  "Keep MacFiles open": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Laikykite MacFiles Atidaryti"
+  },
+  "Keep both": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Laikykitės abiejų"
+  },
+  "Keep both creates numbered names. Replace moves previous versions to Trash and supports Undo. Folders are replaced as a whole.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Palaikykite abu sukuria numeruotus vardus. „Sustain“ perkelia ankstesnes versijas į „Trash“ ir palaiko „Undo“."
+  },
+  "Keep running after closing windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Laikykitės po langų uždarymo"
+  },
+  "Keep window on top": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Laikykite langą viršuje"
+  },
+  "Keyboard shortcuts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Klaviatūros sutrumpinimas"
+  },
+  "Keyboard shortcuts…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Klaviatūros trumparegiai..."
+  },
+  "Keywords (comma separated)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pagrindiniai žodžiai (kaip atskirti)"
+  },
+  "Kind": {
+    "origin": "Files:Type",
+    "text": "Tipas/-Ä…"
+  },
+  "Label": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Žymės"
+  },
+  "Language": {
+    "origin": "Files:PropertyLanguage",
+    "text": "Kalba"
+  },
+  "Large icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Didžiosios ikonos"
+  },
+  "Launch at login": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pradėti nuo login"
+  },
+  "Layout": {
+    "origin": "Files:Layout",
+    "text": "Išdėstymas"
+  },
+  "Left": {
+    "origin": "Files:Left",
+    "text": "KairÄ—"
+  },
+  "Let the current operation finish before quitting.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Leiskite dabartinei operacijai užbaigti prieš atsistatydinimą."
+  },
+  "Libraries": {
+    "origin": "Files:SidebarLibraries",
+    "text": "Bibliotekos"
+  },
+  "Library": {
+    "origin": "Files:Library",
+    "text": "Biblioteka"
+  },
+  "Library name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Biblioteka pavadinimas"
+  },
+  "Library properties…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bibliotekinės nuosavybės..."
+  },
+  "Library/Application Support/MacFiles/known_hosts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Biblioteka / Taikymo parama /MacFilesŽinomi svečiai"
+  },
+  "Library/Mobile Documents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Biblioteka / Mobilieji dokumentai"
+  },
+  "Library/Mobile Documents/com~apple~CloudDocs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Biblioteka/Mobilieji dokumentai/com~apple~CloudDocs"
+  },
+  "Light": {
+    "origin": "Files:LightTheme",
+    "text": "Å viesus"
+  },
+  "Link target": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Linkas tikslas"
+  },
+  "List": {
+    "origin": "Files:List",
+    "text": "Sąrašas"
+  },
+  "List folders before files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Failų sąrašas prieš failus"
+  },
+  "Loading…": {
+    "origin": "Files:Loading",
+    "text": "Įkeliama..."
+  },
+  "Local": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vietos"
+  },
+  "Local download removal requested.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vietinis atsisiuntimo pašalinimas prašomas."
+  },
+  "Local file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vietos failas"
+  },
+  "Location": {
+    "origin": "Files:Location",
+    "text": "VietovÄ—:"
+  },
+  "Lock screen and wallpaper settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Užrakto ekranas ir tapetų nustatymai..."
+  },
+  "Locked": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Užrakintas"
+  },
+  "Macintosh HD": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Macintosh HD žymės"
+  },
+  "Make alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Padarykite Alias"
+  },
+  "Make alias…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įveskite Alias..."
+  },
+  "Manage account in provider app": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Paslaugų tvarkymo programoje „Provider“"
+  },
+  "Manage cloud accounts…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Apskritai, debesų sąskaitos valdymo..."
+  },
+  "Manage tags": {
+    "origin": "Files:ManageTags",
+    "text": "Tvarkyti žymas"
+  },
+  "Maximum bytes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Maksimalus bytas"
+  },
+  "Media export did not complete.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Žiniasklaidos eksportuoti nebuvo užbaigtas."
+  },
+  "Media metadata is too large.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Medijos metadata yra per didelė."
+  },
+  "Medium icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vidutinės ikonos"
+  },
+  "Minimize": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Minimizuoti"
+  },
+  "Minimum bytes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Minimalūs bytai"
+  },
+  "Minimum size exceeds maximum size.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Minimalus dydis viršija maksimalų dydį."
+  },
+  "Mode": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mados"
+  },
+  "Modified": {
+    "origin": "Files:Modified",
+    "text": "Modifikuota"
+  },
+  "Modified after": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasikeitė po"
+  },
+  "Month": {
+    "origin": "Files:Month",
+    "text": "Mėnuo"
+  },
+  "More actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Daugiau veiksmų"
+  },
+  "Mount share…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kalnų dalys..."
+  },
+  "Mounted network locations appear here. Connect to a server to browse another location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įkeliamos tinklo vietos rodomos čia. Prisijunkite prie serverio, kad naršytumėte kitoje vietoje."
+  },
+  "Move %1$@ remote items to recovery?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Judėti %1$@ Nuotoliniai daiktai atsigauti?"
+  },
+  "Move %1$@ to Trash?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Judėti %1$@ Ar ištrūkti?"
+  },
+  "Move here": {
+    "origin": "Files:PinToSidebarByDraggingCaptionText",
+    "text": "Perkelk čia"
+  },
+  "Move nested files to this folder. Existing names and symbolic links are left in place. Empty subfolders go to Trash. You can undo this operation.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perkelkite netiesioginius failus į šį skirtuką. esami pavadinimai ir simboliniai ryšiai paliekami vietoje. Tuščia subfolders eiti į Trash. Jūs galite atsisakyti šios operacijos."
+  },
+  "Move to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perkelti į trash"
+  },
+  "Move to Trash…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išvykimas į Trash..."
+  },
+  "Move to recovery": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perėjimas į atkūrimą"
+  },
+  "Move to recovery folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perkelkite į atkūrimo aplanką ..."
+  },
+  "Movies": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Filmai"
+  },
+  "Moving": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "judėjimas"
+  },
+  "Moving files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perkelti failus"
+  },
+  "Moving to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perkelti į Trash"
+  },
+  "Multiple items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Daugybė elementų"
+  },
+  "Music": {
+    "origin": "Files:Music",
+    "text": "Muzika"
+  },
+  "My MacFiles theme": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mano MacFiles Apipavidalinimas"
+  },
+  "My library": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mano biblioteka"
+  },
+  "My search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mano paieškos"
+  },
+  "Name": {
+    "origin": "Files:NameWithColon",
+    "text": "Vardas:"
+  },
+  "Native macOS extended attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "gimtoji macOS Išplėstinės savybės"
+  },
+  "Natural language search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gamtos kalbos paieškos"
+  },
+  "Navigate": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Navigacija"
+  },
+  "Network": {
+    "origin": "Files:Network",
+    "text": "Tinklas"
+  },
+  "New": {
+    "origin": "Files:BaseLayoutContextFlyoutNew.Label",
+    "text": "Kurti naujÄ…"
+  },
+  "New archive file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Naujas archyvas"
+  },
+  "New archive folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Naujas archyvas"
+  },
+  "New branch": {
+    "origin": "Files:NewBranch",
+    "text": "Naujas filialas"
+  },
+  "New file from template": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Naujas failas iš šablonų"
+  },
+  "New folder": {
+    "origin": "Files:NewFolder",
+    "text": "Naujas aplankas"
+  },
+  "New folder…": {
+    "origin": "Files:NewFolder",
+    "text": "Naujas aplankas"
+  },
+  "New from template": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Naujas iš šventyklos"
+  },
+  "New from template…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Naujas iš šventyklos..."
+  },
+  "New name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Naujas vardas"
+  },
+  "New remote file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Naujas nuotolinis failas"
+  },
+  "New remote folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Naujas nuotolinis failas"
+  },
+  "New tab": {
+    "origin": "Files:NewTab",
+    "text": "Naujas skirtukas"
+  },
+  "New tab · ⌘T": {
+    "origin": "Files:NewTab",
+    "text": "Naujas skirtukas · ⌘T"
+  },
+  "New text file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Naujas tekstinis failas"
+  },
+  "New text file…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Naujas tekstinis failas..."
+  },
+  "New window": {
+    "origin": "Files:NewWindow",
+    "text": "Naujas langas"
+  },
+  "Next layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kitas įrašasLayout"
+  },
+  "Next tab": {
+    "origin": "Files:NextTab",
+    "text": "Kitas skirtukas"
+  },
+  "No": {
+    "origin": "Files:No",
+    "text": "Ne"
+  },
+  "No IDE selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nėra pasirinktos"
+  },
+  "No application could open ‘%1$@’.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nė viena paraiška negali būti atidaryta“%1$@’."
+  },
+  "No archive entry was extracted.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archyvų įvadas nebuvo išimtas."
+  },
+  "No archive is open.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archyvai nėra atviri."
+  },
+  "No archive was produced.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nebuvo sukurtos archyvų."
+  },
+  "No commits yet": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kol kas nesuteikiama"
+  },
+  "No files were extracted.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nebuvo išimti jokių failų."
+  },
+  "No matching items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nėra atitinkamų daiktų"
+  },
+  "No movie header was found.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Filmo pavadinimo nebuvo rasti."
+  },
+  "No operations recorded.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nėra užregistruotų operacijų."
+  },
+  "No readable macOS code signature.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Negalima skaityti macOS Kodas pasirašytas.\n\n"
+  },
+  "No selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nėra pasirinkimo"
+  },
+  "No settings match your search.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Jokių nustatymų neatitinka jūsų paieškos."
+  },
+  "No tracked diff. New files appear after staging.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nėra sekti dif. Nauji failai pasirodys po pakrovimo."
+  },
+  "None": {
+    "origin": "Files:CompressionLevelNone",
+    "text": "Nėra"
+  },
+  "Not enough free space to finish extraction.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nėra pakankamai laisvos vietos, kad būtų užbaigtas ekstrakcija."
+  },
+  "Not managed by a detected cloud provider": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nevaldomas nustatytos debesų paslaugų teikėjo"
+  },
+  "Not used": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nepanaudota"
+  },
+  "Numbered names": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Numeruoti vardus"
+  },
+  "OK": {
+    "origin": "Files:OK",
+    "text": "Gerai/Supratau"
+  },
+  "Older": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Senesnė"
+  },
+  "Online only": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tik internete"
+  },
+  "Only an uploaded iCloud file without conflicts can have its local download removed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tik vienas įkeltas iCloud failas be konfliktų gali turėti savo vietinį atsisiuntimą pašalinta."
+  },
+  "Only images can be rotated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tik vaizdai gali būti sukami."
+  },
+  "Open": {
+    "origin": "Files:Open",
+    "text": "Atidaryti"
+  },
+  "Open / Preview": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pradžia / Preview"
+  },
+  "Open Login Items settings": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atviros įėjimo elementų nustatymai"
+  },
+  "Open MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atidaryti MacFiles"
+  },
+  "Open System Settings for iCloud": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atviros sistemos nustatymai iCloud"
+  },
+  "Open a repository, initialize this folder, or clone a repository.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atidarykite saugyklą, pradėkite šią aplanką arba klonuokite saugyklą."
+  },
+  "Open all folders in tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atidarykite visus failus į lapas"
+  },
+  "Open containing folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atidarytas turinys"
+  },
+  "Open external folders in new windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išorinių aplankų atidarymas naujuose languose"
+  },
+  "Open file location": {
+    "origin": "Files:OpenFileLocation",
+    "text": "Atidaryti failo vietą"
+  },
+  "Open folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atviras failas"
+  },
+  "Open folders in new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atsisiųsti failus naujose lentelėse"
+  },
+  "Open folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atviras failas..."
+  },
+  "Open in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atidarytas IDE"
+  },
+  "Open in IDE uses the selected application. Open repository in IDE resolves the Git repository root first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atviras IDE naudoja pasirinktą programą. atviras saugyklos IDE sprendžia Git Pirmiausia atsarginė šaknis."
+  },
+  "Open in Terminal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atviras terminalas"
+  },
+  "Open in new tab": {
+    "origin": "Files:OpenInNewTab",
+    "text": "Atidaryti naujame skirtuke"
+  },
+  "Open in new window": {
+    "origin": "Files:OpenInNewWindow",
+    "text": "Atidaryti naujame lange"
+  },
+  "Open in other pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atidarytas kitoje plokštėje"
+  },
+  "Open log file": {
+    "origin": "Files:OpenLogFile",
+    "text": "Atidaryti žurnalo failą"
+  },
+  "Open new tabs with dual panes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atidarykite naujus lapas su dvigubais panelais"
+  },
+  "Open repository in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atviras saugykla IDE"
+  },
+  "Open selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atviras pasirinkimas"
+  },
+  "Open target folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atviras tikslinis failas"
+  },
+  "Open with": {
+    "origin": "Files:OpenWith",
+    "text": "Atidaryti naudojant"
+  },
+  "Open with application": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atviras su paraiška"
+  },
+  "Open with application…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atviras su paraiška..."
+  },
+  "Open with…": {
+    "origin": "Files:OpenWith",
+    "text": "Atidaryti naudojant"
+  },
+  "Open-ended media atoms require remuxing before editing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atviros žiniasklaidos atomai reikalauja remušimo prieš redagavimą."
+  },
+  "OpenAllTaggedItems": {
+    "origin": "Files:OpenAllTaggedItems",
+    "text": "Atidaryti visus"
+  },
+  "OpenLogFile": {
+    "origin": "Files:OpenLogFile",
+    "text": "Atidaryti žurnalo failą"
+  },
+  "Operation completed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Operacija buvo užbaigta."
+  },
+  "Operation failed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Operacija nesėkminga"
+  },
+  "Operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Operacijos"
+  },
+  "Operations (%1$@ queued)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Veiksmai (%1$@ Kūrybiškumas)"
+  },
+  "Operations…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Operacijos..."
+  },
+  "Orange": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Oranžinė"
+  },
+  "Original location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Originali vieta"
+  },
+  "Original locations are remembered for items deleted by MacFiles, including across launches.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Originalus vietovė prisimena elementus, kurie buvo pašalinti MacFilesTaip pat visose švenčių vietose."
+  },
+  "Original name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Originalus pavadinimas"
+  },
+  "Overcast": {
+    "origin": "Files:Overcast",
+    "text": "Debesuota"
+  },
+  "Owner": {
+    "origin": "Files:PropertyFileOwner",
+    "text": "Savininkas/-Ä—"
+  },
+  "Owner UID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Savininkas/-Ä— UID"
+  },
+  "Ownership updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nuosavybė atnaujinta."
+  },
+  "POSIX permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "POSIX Leidimai"
+  },
+  "Password": {
+    "origin": "Files:Password",
+    "text": "SlaptaÅ¾odis"
+  },
+  "Password (optional, AES-256)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Slaptažodis (atvirkštinis, AES-256)"
+  },
+  "Password / key passphrase (optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Slapukas / raktinis slaptažodis (pasirenkamas)"
+  },
+  "Password protection is supported for ZIP archives.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "slaptažodžių apsauga yra palaikoma ZIP ir archyvų."
+  },
+  "Paste": {
+    "origin": "Files:Paste",
+    "text": "Ä®klijuoti"
+  },
+  "Paste and drop transfers queue behind the current operation. Completed changes remain available through Undo. Copy cancellation stops the staged transfer before publishing it. Undo history is restored across launches.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pastuoti ir atsisiųsti perdavimai yra už dabartinės operacijos. Užbaigti pakeitimai lieka prieinami per Undo. Kopijos atšaukimas sustabdo laipsnišką perdavimą prieš paskelbiant jį. Undo istorija atkurta per paleidimus."
+  },
+  "Paste files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pašalinti failus"
+  },
+  "Paste shortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "Ä®klijuoti nuorodÄ…"
+  },
+  "Paste the files into a permanent folder before creating aliases to them.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įdėkite failus į nuolatinę aplanką, prieš sukuriant aljansus."
+  },
+  "PasteItemToSelectionDescription": {
+    "origin": "Files:PasteItemToSelectionDescription",
+    "text": "Įklijuokite elementus į pasirinktą aplanką"
+  },
+  "PasteShortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "Ä®klijuoti nuorodÄ…"
+  },
+  "Path": {
+    "origin": "Files:ExtractToPath",
+    "text": "Kelias"
+  },
+  "Pattern": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "modeliai"
+  },
+  "Permanently delete %1$@ items?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ištrinti visam laikui %1$@ Įrašai ?"
+  },
+  "Permissions": {
+    "origin": "Files:Permissions",
+    "text": "Leidimai"
+  },
+  "Permissions are enforced by the server. FTP servers must support SITE CHMOD; SFTP uses SSH permissions.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Leidimus reikalauja serveris. FTP serveriai privalo palaikyti svetainę CHMOD; SFTP Naudojimas SSH Leidimai"
+  },
+  "Permissions are stored in the archive. Changes rebuild it and support Undo.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Leidimai yra saugomi archyvoje. pakeitimai atkuria jį ir palaiko Undo."
+  },
+  "Permissions updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atnaujintos leidimai."
+  },
+  "Permissions…": {
+    "origin": "Files:Permissions",
+    "text": "Leidimai"
+  },
+  "Pick up where you left off": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirinkite, kur palikote"
+  },
+  "Pictures": {
+    "origin": "Files:Pictures",
+    "text": "Paveikslėliai"
+  },
+  "Pin this folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pin šiame faile"
+  },
+  "Pin to sidebar": {
+    "origin": "Files:PinFolderToSidebar",
+    "text": "Prisegti prie Å¡oninÄ—s juostos"
+  },
+  "Pinned": {
+    "origin": "Files:Pinned",
+    "text": "Prisegta"
+  },
+  "Pinned folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pažymėtas plokštės"
+  },
+  "Play All": {
+    "origin": "Files:PlayAll",
+    "text": "Play All"
+  },
+  "PlayAll": {
+    "origin": "Files:PlayAll",
+    "text": "Play All"
+  },
+  "Port": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "uostas"
+  },
+  "Preparing copy": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasiruošimas kopija"
+  },
+  "Preparing move": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasiruošimas judėti"
+  },
+  "Presentation is saved with this virtual location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pristatymas yra išsaugotas su šia virtuali vieta."
+  },
+  "Press the shortcut…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Paspauskite trumpalaikį..."
+  },
+  "Preview": {
+    "origin": "Files:Preview",
+    "text": "Peržiūra"
+  },
+  "Previous layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ankstesnis įrašasLayout"
+  },
+  "Previous tab": {
+    "origin": "Files:PreviousTab",
+    "text": "Ankstesnis skirtukas"
+  },
+  "Properties": {
+    "origin": "Files:OpenProperties",
+    "text": "YpatybÄ—s"
+  },
+  "Properties…": {
+    "origin": "Files:OpenProperties",
+    "text": "YpatybÄ—s"
+  },
+  "Property": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "nekilnojamojo turto"
+  },
+  "Protocol": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Protokolas"
+  },
+  "Provider controls in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Paslaugų teikėjas kontroliuoja Finder"
+  },
+  "Pull": {
+    "origin": "Files:GitPull",
+    "text": "Traukti"
+  },
+  "Purple": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Purpurių"
+  },
+  "Push": {
+    "origin": "Files:Push",
+    "text": "Stumti"
+  },
+  "Queued": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kvėpavimas"
+  },
+  "Quick access": {
+    "origin": "Files:QuickAccess",
+    "text": "Greita prieiga"
+  },
+  "Quit MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išeik MacFiles"
+  },
+  "Readable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Skaityti"
+  },
+  "Recent files": {
+    "origin": "Files:RecentFiles",
+    "text": "Naujausi failai"
+  },
+  "Recent folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Naujausi dokumentai"
+  },
+  "Reconnect to the same server and account, then retry Undo. The remote recovery data remains in .MacFiles-Recovery.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atnaujinkite prie to paties serverio ir paskyros, tada atšaukite Undo. Nuotolinio atkūrimo duomenys lieka .MacFiles-Recovery."
+  },
+  "Record shortcut": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rekordinis trumpalaikis"
+  },
+  "Red": {
+    "origin": "Files:Red",
+    "text": "Raudona/-s"
+  },
+  "Redo": {
+    "origin": "Files:Redo",
+    "text": "Perdaryti"
+  },
+  "Redo file operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Failų operacija"
+  },
+  "Redoing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Redukcija"
+  },
+  "Refresh": {
+    "origin": "Files:Refresh",
+    "text": "Atnaujinti"
+  },
+  "Refresh · ⌘R": {
+    "origin": "Files:Refresh",
+    "text": "Atnaujinti · ⌘R"
+  },
+  "Regular expression": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Reguliari išraiška"
+  },
+  "Release notes": {
+    "origin": "Files:ReleaseNotes",
+    "text": "Išleidimo pastabos"
+  },
+  "Reload": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atsisiųsti"
+  },
+  "Remember password in Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Prisiminkite slaptažodį Keychain"
+  },
+  "Remote operation on %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nuotolinė operacija %1$@"
+  },
+  "Remote path": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nuotolinis kelias"
+  },
+  "Remote paths cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nuotoliniai keliai negali turėti linijų lūžių arba NUL ir simbolių."
+  },
+  "Remotes": {
+    "origin": "Files:Remotes",
+    "text": "Nuotolinio valdymo pultai"
+  },
+  "Remove": {
+    "origin": "Files:Remove",
+    "text": "Pašalinti"
+  },
+  "Remove attribute…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ištrinkite atributą..."
+  },
+  "Remove background image": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pašalinti foninį vaizdą"
+  },
+  "Remove download": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atsisiųsti download"
+  },
+  "Remove entries…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ištrinti įrašus..."
+  },
+  "Remove from archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pašalinti iš archyvų"
+  },
+  "Remove library": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ištrinkite biblioteką"
+  },
+  "Remove local download…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pašalinti vietinį atsisiuntimą..."
+  },
+  "Remove references": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pašalinti nuorodas"
+  },
+  "Remove saved credentials": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ištrinti išsaugotus įrodymus"
+  },
+  "Remove saved folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ištrinti išsaugotą failą"
+  },
+  "Remove saved search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ištrinti išsaugotą paiešką"
+  },
+  "Remove selected entries from the archive?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ištrinti pasirinktus įrašus iš archyvo?"
+  },
+  "Remove tags": {
+    "origin": "Files:RemoveTags",
+    "text": "Remove tags"
+  },
+  "Remove the local download?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pašalinti vietinį atsisiuntimą?"
+  },
+  "Remove ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ištrynimas »%1$@’?"
+  },
+  "RemoveTags": {
+    "origin": "Files:RemoveTags",
+    "text": "Remove tags"
+  },
+  "Removing tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pašalinti žymes"
+  },
+  "Rename": {
+    "origin": "Files:Rename",
+    "text": "Pervardyti"
+  },
+  "Rename %1$@ items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pervardyti %1$@ daiktų"
+  },
+  "Rename archive entry": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archyvų pavadinimas Įėjimas"
+  },
+  "Rename entry…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įvadas į pavardę..."
+  },
+  "Rename failed. Your item is preserved at %1$@. %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pavadinimas nesėkmingas. Jūsų daiktas išsaugotas %1$@. %2$@"
+  },
+  "Rename remote item": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atstovavimas nuotolinis elementas"
+  },
+  "Rename…": {
+    "origin": "Files:Rename",
+    "text": "Pervardyti"
+  },
+  "Renaming": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "renovacijos"
+  },
+  "Renaming items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Renovacijos daiktai"
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Finder uses the macOS palette; custom colors and stable IDs are retained by MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atsinaujinti arba ištrinti išsaugotą žymės atnaujinimo failus, kuriuos randa SpotlightNeindeksuoti arba nepasiekiami failai gali išlaikyti seną žymę. Finder Naudokite šį macOS paletės; pritaikytos spalvos ir stabilūs ID saugomi MacFiles."
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Tag colors use the macOS palette.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atsinaujinti arba ištrinti išsaugotą žymės atnaujinimo failus, kuriuos randa SpotlightNeindeksuoti arba nepasiekiami failai gali išsaugoti seną žymę. macOS ir paletės."
+  },
+  "Reopen closed tab": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atnaujintas uždaras lapas"
+  },
+  "Replace": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "pakeisti"
+  },
+  "Replace this item's ACL?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "pakeisti šį elementą ACL?"
+  },
+  "Replace with": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "pakeisti su"
+  },
+  "Replace, keeping backup": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "pakeisti, saugoti atsarginę kopiją"
+  },
+  "Report an issue": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pranešimas apie klausimą"
+  },
+  "Repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Repozitorija"
+  },
+  "Repository URL": {
+    "origin": "Files:RepositoryURL",
+    "text": "Saugyklos URL"
+  },
+  "Requesting cloud download": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atsisiųsti prašymą Cloud Download"
+  },
+  "Reset": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atsigauti"
+  },
+  "Reset all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atkurti viską"
+  },
+  "Reset icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ikonos atkūrimas"
+  },
+  "Reset pinned folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atsisiųskite užfiksuotus failus"
+  },
+  "Restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Paleisti iš naujo MacFiles"
+  },
+  "Restore all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atkurti visus"
+  },
+  "Restore command defaults": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atkurti komandos defektus"
+  },
+  "Restore here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atkurti čia"
+  },
+  "Restore original location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atkurti originalią vietą"
+  },
+  "Restore previous folder viewer": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atkurti ankstesnį failo žiūrovą"
+  },
+  "Restore tabs at launch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atkurti žymes paleidimo metu"
+  },
+  "Restore to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atkurti į..."
+  },
+  "Restoring from Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atkūrimas iš Trash"
+  },
+  "Results come from the macOS Spotlight index. Unindexed folders are not included.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rezultatai kyla iš macOS Spotlight Indeksas: neįtraukti indeksuotų failų."
+  },
+  "Results in this folder and subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rezultatai šiame faile ir subfolders"
+  },
+  "Retargeting shortcut": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atsiranda trumpalaikis"
+  },
+  "Retarget…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atsitraukimas..."
+  },
+  "Reveal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atskleidžia"
+  },
+  "Reveal in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atskleisti į Finder"
+  },
+  "Reverse tab scroll direction": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atvirkščiai taško kryptis"
+  },
+  "Review server fingerprint…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Apžvalga serverio pirštų atspaudai..."
+  },
+  "Right": {
+    "origin": "Files:Right",
+    "text": "DeÅ¡inÄ—"
+  },
+  "Rotate left": {
+    "origin": "Files:RotateLeft",
+    "text": "Pasukti į kairę"
+  },
+  "Rotate right": {
+    "origin": "Files:RotateRight",
+    "text": "Pasukite į dešinę"
+  },
+  "Rotating left": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rotacija kairėje"
+  },
+  "Rotating right": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atidarymas tiesiai"
+  },
+  "Running": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "bėgimas"
+  },
+  "SFTP (SSH keys)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SFTP (SSH Pagrindiniai raktai)"
+  },
+  "SMB, AFP, or WebDAV share": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SMB, AFParba WebDAV Bendrinti"
+  },
+  "SSH known-host verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH Viešbučių patikrinimas"
+  },
+  "SSH passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH slaptažodžiai negali apimti eilutės lūžių arba NUL ir simbolių."
+  },
+  "Save": {
+    "origin": "Files:Save",
+    "text": "IÅ¡saugoti"
+  },
+  "Save attribute": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išsaugoti atributą"
+  },
+  "Save folder layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išsaugokite mapą"
+  },
+  "Save metadata": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išsaugoti metadata"
+  },
+  "Save search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išsaugokite paiešką"
+  },
+  "Save search…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išsaugokite paiešką..."
+  },
+  "Save to Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išsaugokite Keychain"
+  },
+  "Saved connections": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išsaugoti ryšiai"
+  },
+  "Saved searches": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išsaugotas paieškos"
+  },
+  "Saved. The token will be used for GitHub HTTPS operations.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tokenas bus naudojamas GitHub HTTPS operacijoms."
+  },
+  "Seafoam": {
+    "origin": "Files:Seafoam",
+    "text": "Jūros putos"
+  },
+  "Search": {
+    "origin": "Files:Key.BrowserSearch",
+    "text": "IeÅ¡koti"
+  },
+  "Search %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "IeÅ¡koti %1$@"
+  },
+  "Search %1$@ · Return searches subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "IeÅ¡koti %1$@ · Grįžti paieškos subfolders"
+  },
+  "Search available actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ieškoti turimų veiksmų"
+  },
+  "Search commands": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Paieškos komandos"
+  },
+  "Search folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Paieškos plokštė"
+  },
+  "Search settings": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Paieškos nustatymai"
+  },
+  "Search stopped.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Paieškos buvo sustabdytos."
+  },
+  "Search subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ieškoti subfoliatorių"
+  },
+  "Security": {
+    "origin": "Files:Security",
+    "text": "Saugumas"
+  },
+  "Select": {
+    "origin": "Files:NavToolbarSelectionOptions.Label",
+    "text": "Pasirinkite"
+  },
+  "Select a file to view its diff.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirinkite failą, kad pamatytumėte jo dif."
+  },
+  "Select a macOS alias or symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirinkite A macOS Alias arba simbolinis ryšys."
+  },
+  "Select a regular media file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirinkite reguliarią žiniasklaidos failą."
+  },
+  "Select all": {
+    "origin": "Files:SelectAll",
+    "text": "PaÅ¾ymÄ—ti viskÄ…"
+  },
+  "Select an archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirinkite archyvą"
+  },
+  "Select an item to see its details.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirinkite elementą, kad pamatytumėte jo detales."
+  },
+  "Select archive entries to remove.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirinkite archyvo įrašus, kad pašalintumėte."
+  },
+  "Select on hover": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirinkite Hover"
+  },
+  "Select previous folder when navigating up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirinkite ankstesnę aplanką, kai naršote"
+  },
+  "Select uniquely named items to archive.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirinkite unikaliai pavadintus elementus archyve."
+  },
+  "Selected items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirinkti elementai"
+  },
+  "Selected items have duplicate names. Archive them separately.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirinkti elementai turi dvigubus pavadinimus. archyvuoti juos atskirai."
+  },
+  "Selection checkboxes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Prekės dėžutė"
+  },
+  "Separate file and folder counts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atskirų failų ir aplankų skaičiavimai"
+  },
+  "Separator": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Separatorius"
+  },
+  "Server": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Serverių"
+  },
+  "Set as app background": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "Nustatyti kaip programos fonÄ…"
+  },
+  "Set as wallpaper": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kaip tapetai"
+  },
+  "Set default": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įrašas default"
+  },
+  "SetAsAppBackground": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "Nustatyti kaip programos fonÄ…"
+  },
+  "Settings": {
+    "origin": "Files:Settings",
+    "text": "Nustatymai"
+  },
+  "Settings file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Settings failas"
+  },
+  "Settings saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įrenginiai išsaugoti."
+  },
+  "Settings…": {
+    "origin": "Files:Settings",
+    "text": "Nustatymai"
+  },
+  "Share": {
+    "origin": "Files:Share",
+    "text": "Bendrinti"
+  },
+  "Share…": {
+    "origin": "Files:Share",
+    "text": "Bendrinti"
+  },
+  "Shelf": {
+    "origin": "Files:Shelf",
+    "text": "Lentynėlė"
+  },
+  "Shortcut": {
+    "origin": "Files:Shortcut",
+    "text": "Nuoroda"
+  },
+  "Shortcuts apply in the explorer. Text fields keep native editing behavior. Resolve duplicate assignments before applying.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Šiek tiek trumpai taikoma paieškos sistemoje. teksto laukai išlaiko gimtąjį redagavimo elgesį. Prieš taikydami, išspręskite dvigubus užduotis."
+  },
+  "Show dotfiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Parodykite DOTFILES"
+  },
+  "Show hidden files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rodyti paslėptus failus"
+  },
+  "Show in folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rodyti folderyje"
+  },
+  "Show log in folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rodyti logą folderyje"
+  },
+  "Show menu bar icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pateikite meniu barą ikoną"
+  },
+  "Show package contents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Parodykite pakuotės turinį"
+  },
+  "Show shelf button": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rodyti Shelf mygtuką"
+  },
+  "Show staged diff": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Parodoje DIF"
+  },
+  "Show status bar": {
+    "origin": "Files:ShowStatusBar",
+    "text": "Rodyti būsenos juostą"
+  },
+  "Show tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rodyti tab veiksmus"
+  },
+  "Show thumbnails": {
+    "origin": "Files:SettingsFilesAndFoldersShowThumbnails",
+    "text": "Rodyti miniatiÅ«ras"
+  },
+  "ShowFileExtensions": {
+    "origin": "Files:ShowFileExtensions",
+    "text": "Failų plėtiniai"
+  },
+  "Sidebar": {
+    "origin": "Files:Sidebar",
+    "text": "Šoninė juosta"
+  },
+  "Signature": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirašymas"
+  },
+  "Signature integrity verification failed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirašymo vientisumo patikrinimas nepavyko."
+  },
+  "Signature integrity verified. This does not constitute a notarization or malware assessment.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirašymo vientisumas patvirtintas. tai nėra notarizacija ar kenkėjiškų programų vertinimas."
+  },
+  "Signatures": {
+    "origin": "Files:Signatures",
+    "text": "Parašai"
+  },
+  "Single file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vienkartinis failas"
+  },
+  "Single folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vienkartinė plokštelė"
+  },
+  "Single-click columns": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vieno paspaudimo kolonos"
+  },
+  "Single-click files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vieno paspaudimo failai"
+  },
+  "Single-click folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vieno paspaudimo failai"
+  },
+  "Size": {
+    "origin": "Files:SizeLabel",
+    "text": "Dydis:"
+  },
+  "Size units": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "dydžio vienetai"
+  },
+  "Skip": {
+    "origin": "Files:Skip",
+    "text": "Praleisti"
+  },
+  "Skip existing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Skaičiuoklės egzistavimas"
+  },
+  "Small icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mažos ikonos"
+  },
+  "Smooth scrolling": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Švelnus skruzdėlis"
+  },
+  "Solid": {
+    "origin": "Files:Solid",
+    "text": "Tvirtas"
+  },
+  "Some files could not be updated. The saved tag was retained so you can retry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kai kurie failai negalėjo būti atnaujinti. išsaugotas žymėjimas buvo išsaugotas, todėl galite atsisakyti."
+  },
+  "Some items could not be read.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kai kurie straipsniai negalėjo būti perskaityti."
+  },
+  "Some items couldn’t be completed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kai kurie daiktai negalėjo būti užbaigti"
+  },
+  "Some items have no recorded original location. Select them and use Restore to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kai kurie elementai neturi įrašytos originalios vietos. Pasirinkite juos ir naudokite Atkurti..."
+  },
+  "Sort": {
+    "origin": "Files:Sort",
+    "text": "Rūšiuoti"
+  },
+  "Sort by": {
+    "origin": "Files:SortBy",
+    "text": "Rūšiuoti pagal"
+  },
+  "SortFilesAndFoldersTogether": {
+    "origin": "Files:SortFilesAndFoldersTogether",
+    "text": "Rūšiuoti failus ir aplankus kartu"
+  },
+  "SortFilesFirst": {
+    "origin": "Files:SortFilesFirst",
+    "text": "Pirmiausia surūšiuokite failus"
+  },
+  "SortFoldersFirst": {
+    "origin": "Files:SortFoldersFirst",
+    "text": "Pirmiausia surūšiuokite aplankus"
+  },
+  "Source code": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Šaltinis kodas"
+  },
+  "Special device entries cannot be extracted: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Specialios įrangos įrašo negalima išgauti: %1$@"
+  },
+  "Split archives use ZIP or 7z format.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Skirstomi archyvai ZIP arba 7z Formatas"
+  },
+  "Split into volumes (MiB, optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Skirstomi į tūrius (MiB, pasirinktiniai)"
+  },
+  "Stage all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Visi etapai"
+  },
+  "Stage selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasirinktas etapas"
+  },
+  "Staged all changes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Visi pakeitimai laikomi"
+  },
+  "Staged selected files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įrašyti pasirinkti failai"
+  },
+  "Start": {
+    "origin": "Files:Start",
+    "text": "Start"
+  },
+  "Start folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pradžia Folder"
+  },
+  "Startup": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pradžia"
+  },
+  "Startup and tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup ir tabs"
+  },
+  "Startup folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup failai"
+  },
+  "Startup folders are used when session restoration is disabled. An empty list opens Home.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pradžios aplankos naudojamos, kai sesijos atkūrimas yra išjungtas. tuščias sąrašas atidaro namus."
+  },
+  "Status": {
+    "origin": "Files:StatusWithColon",
+    "text": "Būsena:"
+  },
+  "Stop": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atsisakyti"
+  },
+  "Stopped before the next item. Completed items were kept.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasibaigė prieš kitą straipsnį. užbaigtos dalys buvo išsaugotos."
+  },
+  "Storage settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įrenginiai saugojimo..."
+  },
+  "Storm": {
+    "origin": "Files:Storm",
+    "text": "Audra"
+  },
+  "Stretch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Stretch"
+  },
+  "Switch to new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pakeiskite į naujus lapas"
+  },
+  "Switched to %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasikeitė į %1$@"
+  },
+  "Symbolic Link": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Simbolinė nuoroda"
+  },
+  "Symbolic link": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Simbolinis ryšys"
+  },
+  "Sync": {
+    "origin": "Files:GitSync",
+    "text": "Sinchronizuoti"
+  },
+  "Sync conflict": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Synchrono konfliktas"
+  },
+  "Sync error": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Synchrono klaida"
+  },
+  "Synced": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Synchronizavimas"
+  },
+  "Synchronize folder preferences": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sinkronizuoti failo pageidavimus"
+  },
+  "System": {
+    "origin": "Files:SystemTimeStyle",
+    "text": "Sistema"
+  },
+  "TLS certificate verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "TLS Sertifikato patikrinimas"
+  },
+  "Tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tab veiksmai"
+  },
+  "Tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tabs"
+  },
+  "Tag": {
+    "origin": "Files:Tag",
+    "text": "Žyma"
+  },
+  "Tag (blank = all tags)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Žymės (baltas = visi žymės)"
+  },
+  "Tag color": {
+    "origin": "Files:TagColor",
+    "text": "Žymės spalva"
+  },
+  "Tag name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Žyma pavadinimas"
+  },
+  "Tag names must be unique.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Žymos pavadinimai turi būti unikalūs."
+  },
+  "Tag update failed and original metadata could not be restored: ": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Žymos atnaujinimas nepavyko ir originali metaduomenys negalėjo būti atkurti: "
+  },
+  "Tagged items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Žymės: objektas"
+  },
+  "Tags": {
+    "origin": "Files:FileTags",
+    "text": "Å½ymos"
+  },
+  "Tags, separated by commas": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Žymės, atskirtos komos"
+  },
+  "Target": {
+    "origin": "Files:PropertyItemTarget",
+    "text": "Tikslas"
+  },
+  "Terminal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Terminalas"
+  },
+  "Test IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Testas IDE"
+  },
+  "The ACL failed validation.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Į ACL Neįtikėtina patvirtinimas."
+  },
+  "The command failed (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įsakymas nepavyko (%1$@)."
+  },
+  "The custom icon and saved layout belong to the selected item.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kūrybinė ikona ir išsaugotas išdėstymas priklauso pasirinktam elementui."
+  },
+  "The destination connection changed. Drop the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Paskirties ryšys pasikeitė. vėl ištrinti failus."
+  },
+  "The destination connection changed. Paste the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Paskirties ryšys pasikeitė. vėl įrašykite failus."
+  },
+  "The destination is not an accessible folder.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Paskirties vieta nėra prieinamas failas."
+  },
+  "The icon could not be changed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ikonos negalima keisti."
+  },
+  "The icon could not be reset.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ikonos negalėjo būti atkurtos."
+  },
+  "The media container did not retain: ": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Medijos konteineris nesilaiko: "
+  },
+  "The media tracks cannot be preserved in this container.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Medijos pėdsakai negali būti laikomi šiame konteineryje."
+  },
+  "The new shortcut target does not exist.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Naujoji trumpalaikio tikslas neegzistuoja"
+  },
+  "The old shortcut is in Trash, but macOS did not return its location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Senasis trumpas yra įstrigoje, bet macOS Jis negrįžo į savo vietą."
+  },
+  "The original archive remains recoverable with Undo.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Originalus archyvą galima atkurti su Undo."
+  },
+  "The server did not return a valid host-key list.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Serveris negrąžino galiojančio host-key sąrašo."
+  },
+  "The server recovery path is occupied by a file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Serverio atkūrimo kelias užima failą."
+  },
+  "The server returned an unsafe or unsupported filename.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Serveris grąžino nesaugią arba nepalaikytą failų vardą."
+  },
+  "The server returned an unsupported directory listing. No transfer was started.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Serveris grąžino nepalaikytą katalogų sąrašą.Nebuvo pradėtas perdavimas."
+  },
+  "The shortcut will point to %1$@. The target file itself is not modified.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Trumpai bus nurodyta %1$@Pačios tikslinės failas nesikeičia."
+  },
+  "The slideshow changes desktop wallpaper while MacFiles is running. It resumes at launch when enabled. macOS controls the lock screen wallpaper separately.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Slideshow keičiasi darbalaukio tapetai, kai MacFiles pradeda veikti; paleidimas vėl pradedamas veikti, kai įjungtas. macOS atskirai kontroliuoja užrakto ekrano tapetą."
+  },
+  "The system script could not be compiled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sistemos scenarijus negalėjo būti sudarytas."
+  },
+  "The system script could not be created.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sistemos scenarijus negalėjo būti sukurtas."
+  },
+  "The transfer selection changed. Cut the items again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Perdavimo parinktis pasikeitė. atnaujinti daiktus."
+  },
+  "The uploaded data did not match its source. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įkelti duomenys neatitinka jo šaltinio. šaltinis buvo išsaugotas."
+  },
+  "The uploaded iCloud copy remains available. macOS will download it again when needed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įkeliamas iCloud Kopijos lieka prieinamos. macOS Atsisiųskite jį vėl, kai reikia."
+  },
+  "Theme": {
+    "origin": "Files:SettingsAppearanceTheme",
+    "text": "Apipavidalinimas"
+  },
+  "These items will be removed from Trash. This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Šie elementai bus pašalinti iš Trash. tai negali būti atmestas."
+  },
+  "Third-party providers do not expose a common public sync-completion API. Available locally describes downloaded bytes, not upload completion. Download requests do not pin files permanently.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Trečiųjų šalių paslaugų teikėjai nesukelia bendro viešo sinchronizavimo užbaigimo API. Įmanoma vietiniu būdu apibūdina atsisiunčiamus bajtus, neperkelti užbaigimą. Atsisiųsti užklausas neperkelia failus nuolat."
+  },
+  "This FTP server cannot create symbolic links. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Šį FTP serveris negali sukurti simbolinių nuorodų. šaltinis buvo išsaugotas."
+  },
+  "This Mac": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Šį maką"
+  },
+  "This alias contains a target cycle.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Šis alias apima tikslinį ciklą."
+  },
+  "This archive format is read-only. Extract it and create a ZIP or 7z archive to edit its contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Šis archyvų formatas yra tik skaityti. ištraukite jį ir sukurkite ZIP arba 7z Archyvas, kad būtų galima redaguoti turinį."
+  },
+  "This archive or server protocol does not expose macOS extended attributes. Extract or download the item to manage attributes on its local copy.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Šis archyvas ar serverio protokolas neatskleidžia macOS Išplėstiniai atributai. paimkite arba atsisiųskite elementą, kad galėtumėte valdyti atributus jo vietinėje kopijoje."
+  },
+  "This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tai negali būti atmestas."
+  },
+  "This changes the registered folder viewer. Finder still manages the desktop and macOS file dialogs. You can restore the previous viewer here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tai keičia registruotą failo žiūrovą. Finder Įdiegti darbalaukį ir macOS failo dialogai. galite atkurti ankstesnį žiūrovą čia."
+  },
+  "This changes which users can access the item. Export the existing ACL first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Šie pakeitimai, kuriuos naudotojai gali pasiekti elementą. eksportuoti esamą ACL Pirmiausia, jei jums reikia atsarginės kopijos."
+  },
+  "This folder is empty": {
+    "origin": "Files:EmptyFolder.Text",
+    "text": "Å is aplankas tuÅ¡Äias."
+  },
+  "This location is not ready for transfers.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ši vieta nėra paruošta perdavimui."
+  },
+  "This media format cannot be edited by the native exporter.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Šis žiniasklaidos formatas negali būti redaguojamas vietinio eksportuotojo."
+  },
+  "This metadata container uses indexed keys; edit it with its native media application.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Šis metaduomenų konteineris naudoja indeksuotus raktus; jį redaguoja su savo gimtoji žiniasklaidos programa."
+  },
+  "This operation cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ši operacija negali būti atmesta."
+  },
+  "This removes the attribute from this file. Export its bytes first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tai pašalina atributą iš šio failo. pirmiausia eksportuokite jo bajtus, jei jums reikia atsarginės kopijos."
+  },
+  "Thumbnail cache limit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tumbnail cache limitas"
+  },
+  "Thumbnails": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thumbnailų"
+  },
+  "Thumbnails are cached in memory. The limit applies to decoded images.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Paveikslėliai yra užfiksuoti atmintyje. apribojimas taikomas dekoduotoms nuotraukoms."
+  },
+  "Tiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tilių"
+  },
+  "Title": {
+    "origin": "Files:PropertyTitle",
+    "text": "Pavadinimas"
+  },
+  "Today": {
+    "origin": "Files:Today",
+    "text": "Å iandien"
+  },
+  "Toggle compact overlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "Perjungti kompaktišką perdangą"
+  },
+  "Toggle details pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išsiaiškinti detalės, pane"
+  },
+  "Toggle dual pane": {
+    "origin": "Files:ToggleDualPane",
+    "text": "Perjungti dvigubą sritį"
+  },
+  "Toggle filter header": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "Perjungti filtro antraštę"
+  },
+  "Toggle full screen": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Užpildykite visą ekraną"
+  },
+  "Toggle selection": {
+    "origin": "Files:ToggleSelect",
+    "text": "Perjungti pasirinkimą"
+  },
+  "ToggleCompactOverlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "Perjungti kompaktišką perdangą"
+  },
+  "ToggleFilterHeader": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "Perjungti filtro antraštę"
+  },
+  "ToggleSelect": {
+    "origin": "Files:ToggleSelect",
+    "text": "Perjungti pasirinkimą"
+  },
+  "ToggleSidebar": {
+    "origin": "Files:ToggleSidebar",
+    "text": "Perjungti šoninę juostą"
+  },
+  "ToggleToolbar": {
+    "origin": "Files:ToggleToolbar",
+    "text": "Perjungti įrankių juostą"
+  },
+  "Too many nested aliases.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Per daug sumuštinių aliejų."
+  },
+  "Tools": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įrankiai"
+  },
+  "Top": {
+    "origin": "Files:Top",
+    "text": "Į viršų"
+  },
+  "Total size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "bendras dydis"
+  },
+  "Transfer failed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pervežimas nesėkmingas"
+  },
+  "Trash": {
+    "origin": "Files:RecycleBin",
+    "text": "Šiukšliadėžė"
+  },
+  "Trash on this Mac and connected volumes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Paspauskite šią „Mac“ ir susietą tūrį"
+  },
+  "Trust": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasitikėjimas"
+  },
+  "Trust this SSH server?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pasitikėkite tuo SSH Knygų serveris ?"
+  },
+  "Trust verified fingerprints": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įtikinamas pirštų atspaudai"
+  },
+  "Try again": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Išbandykite dar kartą"
+  },
+  "Under window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pagal langą"
+  },
+  "Undo": {
+    "origin": "Files:Undo",
+    "text": "Anuliuoti"
+  },
+  "Undo file operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Failų operacija"
+  },
+  "Undoing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neįsivaizduoti"
+  },
+  "Unencrypted FTP": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nesifruota FTP"
+  },
+  "Universal": {
+    "origin": "Files:Universal",
+    "text": "Universalus"
+  },
+  "Unknown": {
+    "origin": "Files:Unknown",
+    "text": "Nežinoma"
+  },
+  "Unknown shortcut command.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nežinomas trumpas komandos."
+  },
+  "Unpin": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neįtikėtina"
+  },
+  "Unsafe archive link target.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Saugus archyvas link tikslas."
+  },
+  "Unstage": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nesėkmės"
+  },
+  "Unstaged selected files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neatsirado pasirinktų failų"
+  },
+  "Unsupported Git action.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "nepalaikytas Git Veiksmų ."
+  },
+  "Unsupported archive entry name or listing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nepatvirtintas archyvo įvadas arba sąrašas."
+  },
+  "Unsupported file type in transfer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nepatvirtintas failų tipas perdavimo metu."
+  },
+  "Unsupported metadata container version.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nepatvirtinta metadata konteinerių versija."
+  },
+  "Unsupported movie header.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nepatvirtintas filmo pavadinimas."
+  },
+  "Untagged": {
+    "origin": "Files:Untagged",
+    "text": "Nepažymėta"
+  },
+  "Up": {
+    "origin": "Files:Key.Up",
+    "text": "Up (Alt+Up Arrow)"
+  },
+  "Up one level": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Į vieną lygį"
+  },
+  "Up one level · ⌘↑": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Į vieną lygį; ⌘↑"
+  },
+  "Updates native macOS tags for all selected items. Leave empty to remove tags.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atnaujinimai Native macOS žymės visų pasirinktų elementų. palikti tuščią pašalinti žymes."
+  },
+  "Updating archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atnaujinimas archyvas"
+  },
+  "Updating media metadata": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Medijos metaduomenys"
+  },
+  "Updating permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Leidimų atnaujinimas"
+  },
+  "Upload": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įkėlimas"
+  },
+  "Upload failed. The original remains at %1$@; the pending upload is %2$@. %3$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atsisiųsti nepavyko. originalas lieka %1$@Įkėlimo laipsnis yra %2$@. %3$@"
+  },
+  "Upload files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atsisiųsti failus..."
+  },
+  "Upload regular files or folders; symbolic links are not followed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įkelkite reguliariai failus ar aplankus; simboliniai ryšiai nėra sekami."
+  },
+  "Uploading": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Atsisiųsti"
+  },
+  "Upstream Files issues": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Upstream failų problemos"
+  },
+  "Use Copy and Paste or Download to transfer remote items.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Naudokite kopijuoti ir pakabinti arba atsisiųsti, kad perkeltumėte nuotolinius elementus."
+  },
+  "Use Copy or Extract to transfer archive contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Naudokite kopijuoti arba ekstraktą archyvų turiniui perkelti."
+  },
+  "Use MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Naudojimas MacFiles"
+  },
+  "Use MacFiles for folder URLs?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Naudojimas MacFiles Už URL sąrašą?"
+  },
+  "Use MacFiles for folder URLs…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Naudojimas MacFiles Už URL adresus..."
+  },
+  "User": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Naudotojas"
+  },
+  "Username": {
+    "origin": "Files:CredentialDialogUserName.PlaceholderText",
+    "text": "Vartotojo vardas"
+  },
+  "Uses SSH keys or the password above. Host-key verification remains enabled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Naudojimas SSH raktus arba slaptažodį aukščiau. „Host-key“ patikrinimas išlieka įjungtas."
+  },
+  "Uses the on-device Apple Intelligence model when available. Otherwise searches the words you entered. No file content is sent to a server.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Naudokite „Apple Intelligence“ modelį įrenginyje, kai jis yra prieinamas. kitaip ieškokite žodžių, kuriuos įvedėte."
+  },
+  "Value": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "vertė"
+  },
+  "Verified host keys saved for MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įvertinti priimančiųjų raktai išsaugoti MacFiles."
+  },
+  "Vertical alignment": {
+    "origin": "Files:VerticalAlignment",
+    "text": "Vertikalus lygiavimas"
+  },
+  "Vertical split": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vertikalios dalijimosi"
+  },
+  "View": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Žvilgsnis"
+  },
+  "Volume": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Volumų"
+  },
+  "Volume available": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tiekimo apimtis"
+  },
+  "Volume capacity": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Voluminis pajėgumas"
+  },
+  "Volume case sensitive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tiekimo atvejų jautrumas"
+  },
+  "Volume read only": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tūkstančiai skaityti tik"
+  },
+  "Volumes must be at least 1 KiB.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Volumai turi būti ne mažiau kaip 1 KiB."
+  },
+  "Waiting to sync": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Laukiame sinchronizavimo"
+  },
+  "Wallpaper could not be changed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tapetai negalėjo būti pakeisti"
+  },
+  "Wallpaper slideshow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tapetai Slideshow"
+  },
+  "Wallpaper slideshow…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tapetai Slideshow ..."
+  },
+  "Warn when changing file extensions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Įspūdžiai keičiant failų plėtinius"
+  },
+  "When an item exists": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kai egzistuoja elementas"
+  },
+  "When names conflict, choose Keep both, Replace, or Skip. Replaced versions and deleted items go to the macOS Trash. Undo and redo are retained across launches and shared by open windows.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kai vardai yra konfliktas, pasirinkite Pasilikti abu, pakeisti arba pašalinti. pakeistos versijos ir ištrinti elementai eina į macOS Undo ir redo išlieka per paleidimus ir dalijasi atviromis langomis."
+  },
+  "Working…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Darbas..."
+  },
+  "Writable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rašyti"
+  },
+  "Writes embedded metadata. Image files may be re-encoded; the original remains recoverable with Undo. Audio and video edits preserve encoded tracks. Unsupported containers keep the original.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rašyti įterptus metaduomenis. vaizdo failus galima iš naujo koduoti; originalą lieka atkurti su Undo. garso ir vaizdo redagavimas išsaugo šifruotus pėdsakus. nepalaikomi konteineriai išsaugo originalą."
+  },
+  "Year": {
+    "origin": "Files:Year",
+    "text": "Metai"
+  },
+  "Yellow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Geltona"
+  },
+  "Yes": {
+    "origin": "Files:Yes",
+    "text": "Taip"
+  },
+  "Yesterday": {
+    "origin": "Files:Yesterday",
+    "text": "Vakar"
+  },
+  "You can restore these items with Undo or from the Trash.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Galite atkurti šiuos elementus su Undo arba iš Trash."
+  },
+  "Your files, your way.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Jūsų failai, jūsų kelias"
+  },
+  "Your pinned folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Jūsų įdėtos plokštės"
+  },
+  "Zoom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Zoomų"
+  },
+  "macOS aliases and symbolic links refer to a target path. Windows shortcut arguments and Run as administrator flags do not have alias equivalents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Aliazės ir simboliniai ryšiai reiškia tikslinį kelią. Windows Trumpai argumentai ir Veikia kaip administratoriaus vėliavos neturi alias ekvivalentų."
+  },
+  "macOS integration": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Integracija"
+  },
+  "macOS moved the previous version to Trash but did not return its location. The new version was not installed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS perkelti ankstesnę versiją į Trash, bet negrąžino savo vietos."
+  },
+  "macOS returned %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Grįžti %1$@."
+  },
+  "macOS uses Mach-O architectures and the application's minimum OS version. Windows compatibility modes, DPI overrides and administrator flags cannot be applied to a native Mac app.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Naudojimas Mach-O Architektūros ir minimalus programos OS versija. Windows suderinamumo režimai, DPI pertraukos ir administratoriaus vėliavos negali būti taikomos vietinei \"Mac\" programai."
+  }
+}

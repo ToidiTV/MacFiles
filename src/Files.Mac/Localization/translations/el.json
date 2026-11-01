@@ -1,0 +1,4647 @@
+{
+  "%1$@ MB": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ ΜΒ"
+  },
+  "%1$@ Trash location(s) could not be read. macOS may require Full Disk Access for Trash. Items listed here remain available to manage.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Η τοποθεσία (οι) του Τραχ δεν μπορεί να διαβαστεί. macOS Μπορεί να απαιτείται πρόσβαση σε πλήρη δίσκο για το Trash. Τα στοιχεία που αναφέρονται εδώ παραμένουν διαθέσιμα για διαχείριση."
+  },
+  "%1$@ destination name(s) already exist": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Ονομασία προορισμού(s) ήδη υπάρχει"
+  },
+  "%1$@ entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Εισαγωγές"
+  },
+  "%1$@ folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Φόρτερ"
+  },
+  "%1$@ folders · %2$@ files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Φωτογραφίες · %2$@ αρχεία"
+  },
+  "%1$@ folders · saves to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Τα αρχεία αποθηκεύονται για %2$@"
+  },
+  "%1$@ free of %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Δωρεάν από %2$@"
+  },
+  "%1$@ inaccessible": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Αδιαθέσιμο"
+  },
+  "%1$@ is assigned more than once.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Αποτελείται περισσότερο από μία φορά."
+  },
+  "%1$@ is reserved by macOS or the application window.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Διατηρείται από macOS ή το παράθυρο εφαρμογής."
+  },
+  "%1$@ is reserved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Είναι διατηρημένο."
+  },
+  "%1$@ item(s) ready to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Το στοιχείο (s) είναι έτοιμο να %2$@"
+  },
+  "%1$@ selected items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Επιλεγμένα αντικείμενα"
+  },
+  "%1$@. Sync completion is managed by the provider and is not reported through public file metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@Η ολοκλήρωση της συγχρονισμού διαχειρίζεται ο πάροχος και δεν αναφέρεται μέσω των δημόσιων μεταδεδομένων αρχείων."
+  },
+  "A different key is already trusted for this host. Review the changed key with the server administrator before replacing it.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ένα διαφορετικό κλειδί είναι ήδη εμπιστευμένο για αυτό το host. Αναθεωρήστε το τροποποιημένο κλειδί με τον διαχειριστή του διακομιστή πριν το αντικαταστήσετε."
+  },
+  "A familiar place for everything.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ένα γνωστό μέρος για τα πάντα."
+  },
+  "A file operation is still running": {
+    "origin": "M2M100-418M-local",
+    "text": "Μια λειτουργία αρχείων συνεχίζει να λειτουργεί"
+  },
+  "A folder cannot be copied or moved inside itself.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ένα φάκελο δεν μπορεί να αντιγραφεί ή να μετακινηθεί μέσα του."
+  },
+  "A shortcut cannot target itself.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ένα μικρό κομμάτι δεν μπορεί να στοχεύσει τον εαυτό του."
+  },
+  "ACL updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ACL Αναβαθμισμένο ."
+  },
+  "About": {
+    "origin": "Files:About",
+    "text": "Σχετικά"
+  },
+  "About MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Σχετικά MacFiles"
+  },
+  "Accent color (hex)": {
+    "origin": "M2M100-418M-local",
+    "text": "Χρώμα έμφασης (hex)"
+  },
+  "Access control list — native macOS syntax": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Λίστα ελέγχου πρόσβασης - Ιδιωτικό macOS Σύνταξη"
+  },
+  "Access token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Access Τοκ"
+  },
+  "Accounts, authentication and sync preferences are managed by each provider’s native app. Removing a saved folder here does not unlink its account or delete files.": {
+    "origin": "M2M100-418M-local",
+    "text": "Λογαριασμοί, προτιμήσεις επαλήθευσης και συγχρονισμού διαχειρίζονται από την εγχώρια εφαρμογή κάθε παρόχου. Η αφαίρεση ενός αποθηκευμένου φάκελου εδώ δεν αποσυνδέει τον λογαριασμό του ή διαγράφει τα αρχεία."
+  },
+  "Action unavailable": {
+    "origin": "M2M100-418M-local",
+    "text": "Δράση μη διαθέσιμη"
+  },
+  "Actions": {
+    "origin": "Files:Actions",
+    "text": "Ενέργειες"
+  },
+  "Adaptive": {
+    "origin": "Files:Adaptive",
+    "text": "Προσαρμοστική διάταξη"
+  },
+  "Adaptive layout": {
+    "origin": "Files:Adaptive",
+    "text": "Προσαρμοστική διάταξη"
+  },
+  "Add": {
+    "origin": "Files:Add",
+    "text": "Προσθήκη"
+  },
+  "Add cloud folder…": {
+    "origin": "M2M100-418M-local",
+    "text": "Προσθέστε το cloud folder..."
+  },
+  "Add current selection": {
+    "origin": "M2M100-418M-local",
+    "text": "Προσθήκη τρέχουσας επιλογής"
+  },
+  "Add files…": {
+    "origin": "M2M100-418M-local",
+    "text": "Προσθέστε αρχεία..."
+  },
+  "Add folder…": {
+    "origin": "M2M100-418M-local",
+    "text": "Προσθέστε το φάκελο..."
+  },
+  "Add images…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Προσθέστε εικόνες..."
+  },
+  "Add prefix": {
+    "origin": "M2M100-418M-local",
+    "text": "Προσθήκη προφίλ"
+  },
+  "Add saved tag": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Προσθήκη αποθηκευμένων ετικετών"
+  },
+  "Add selection to shelf": {
+    "origin": "M2M100-418M-local",
+    "text": "Προσθήκη επιλογής στο shelf"
+  },
+  "Add startup folders…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Προσθήκη αρχείων Startup..."
+  },
+  "Add suffix": {
+    "origin": "M2M100-418M-local",
+    "text": "Προσθέστε suffix"
+  },
+  "Add to library": {
+    "origin": "M2M100-418M-local",
+    "text": "Προσθήκη στη Βιβλιοθήκη"
+  },
+  "Add to shelf": {
+    "origin": "M2M100-418M-local",
+    "text": "Προσθήκη στο Shelf"
+  },
+  "Advanced": {
+    "origin": "Files:Advanced",
+    "text": "Για προχωρημένους"
+  },
+  "Advanced search": {
+    "origin": "M2M100-418M-local",
+    "text": "Προχωρημένη αναζήτηση"
+  },
+  "Advanced search…": {
+    "origin": "M2M100-418M-local",
+    "text": "Προηγμένη αναζήτηση..."
+  },
+  "Album": {
+    "origin": "M2M100-418M-local",
+    "text": "ΑΛΒΜΟ"
+  },
+  "Allocated size": {
+    "origin": "M2M100-418M-local",
+    "text": "Διαχωρισμένο μέγεθος"
+  },
+  "Already assigned to %1$@. Remove that assignment first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Έχει ήδη ανατεθεί σε %1$@Αφαιρέστε πρώτα αυτή την αποστολή."
+  },
+  "Always show operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Πάντα δείχνουν τις επιχειρήσεις"
+  },
+  "Always visible": {
+    "origin": "M2M100-418M-local",
+    "text": "Πάντα ορατό"
+  },
+  "Always-visible items are combined with the current selection context. Cloud items add their own controls.": {
+    "origin": "M2M100-418M-local",
+    "text": "Πάντα ορατά στοιχεία συνδυάζονται με το τρέχον πλαίσιο επιλογής. αντικείμενα σύννεφο προσθέτουν τους δικούς τους ελέγχους."
+  },
+  "Ambiguous archive listing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Αμφιλεγόμενη λίστα αρχείων."
+  },
+  "Ambiguous media metadata containers.": {
+    "origin": "M2M100-418M-local",
+    "text": "Μεσαίες μεταδεδομένες συσκευές."
+  },
+  "Any": {
+    "origin": "M2M100-418M-local",
+    "text": "Οποιοσδήποτε"
+  },
+  "App language (restart to apply)": {
+    "origin": "M2M100-418M-local",
+    "text": "Γλώσσα εφαρμογής (επαναχωρήστε για να εφαρμόσετε)"
+  },
+  "Appearance": {
+    "origin": "Files:Appearance",
+    "text": "Εμφάνιση"
+  },
+  "Application": {
+    "origin": "Files:Application",
+    "text": "Εφαρμογή"
+  },
+  "Application unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Η εφαρμογή δεν είναι διαθέσιμη"
+  },
+  "Applies owner, group, and other permissions to the selected items only.": {
+    "origin": "M2M100-418M-local",
+    "text": "Εφαρμόζει ιδιοκτήτη, ομάδα και άλλες άδειες μόνο για τα επιλεγμένα αντικείμενα."
+  },
+  "Apply": {
+    "origin": "M2M100-418M-local",
+    "text": "Εφαρμογή"
+  },
+  "Apply ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Εφαρμογή ACL…"
+  },
+  "Apply UID %1$@ and GID %2$@ to this item only.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Εφαρμογή UID %1$@ και GID %2$@ Μόνο για το θέμα αυτό."
+  },
+  "Apply attributes": {
+    "origin": "M2M100-418M-local",
+    "text": "Εφαρμόστε τα χαρακτηριστικά"
+  },
+  "Apply file permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Εφαρμόστε τις άδειες αρχείων"
+  },
+  "Apply owner/group…": {
+    "origin": "M2M100-418M-local",
+    "text": "Εφαρμογή ιδιοκτήτη / ομίλου..."
+  },
+  "Approve MacFiles in Login Items in System Settings.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Εγκρίθηκε MacFiles Σε εγγραφές σε συστημικές ρυθμίσεις."
+  },
+  "Archive": {
+    "origin": "M2M100-418M-local",
+    "text": "Αρχείο"
+  },
+  "Archive attempts to write through a link or file: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Αρχείο προσπαθεί να γράψει μέσω ενός συνδέσμου ή αρχείου: %1$@"
+  },
+  "Archive contains an unsafe path: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Το αρχείο περιέχει μια ασφαλή διαδρομή: %1$@"
+  },
+  "Archive contains an unsafe symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Το αρχείο περιέχει έναν ασφαλή συμβολικό σύνδεσμο."
+  },
+  "Archive editing cannot traverse symbolic links.": {
+    "origin": "M2M100-418M-local",
+    "text": "Η επεξεργασία αρχείων δεν μπορεί να περάσει από συμβολικούς συνδέσμους."
+  },
+  "Archive link escapes its destination.": {
+    "origin": "M2M100-418M-local",
+    "text": "Το αρχείο Link ξεφεύγει από τον προορισμό του."
+  },
+  "Archive link target is too long.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ο στόχος του αρχείου είναι πολύ μακρύς."
+  },
+  "Archive operation failed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Η λειτουργία των αρχείων απέτυχε."
+  },
+  "Archive password (if needed)": {
+    "origin": "M2M100-418M-local",
+    "text": "Αρχείο κωδικού πρόσβασης (εάν είναι απαραίτητο)"
+  },
+  "Archive password (leave blank if unencrypted)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Λογισμικό αρχείου (αποκαλεί άσπρη αν δεν είναι κρυπτογραφημένη)"
+  },
+  "Archive passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Οι κωδικοί πρόσβασης αρχείων δεν μπορούν να περιέχουν γραμμικές διακοπές ή NUL χαρακτήρες ."
+  },
+  "Archive path escapes the destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Η πορεία του αρχείου ξεφεύγει από τον προορισμό: %1$@"
+  },
+  "Archive root": {
+    "origin": "M2M100-418M-local",
+    "text": "Αρχείο ρίζας"
+  },
+  "Archive symbolic link escapes the destination.": {
+    "origin": "M2M100-418M-local",
+    "text": "Το αρχείο συμβολικό σύνδεσμο ξεφεύγει από τον προορισμό."
+  },
+  "Arrange panes side by side": {
+    "origin": "M2M100-418M-local",
+    "text": "Συσκευή πανοπλίων πλευρά προς πλευρά"
+  },
+  "Arrange panes top and bottom": {
+    "origin": "M2M100-418M-local",
+    "text": "Συσκευή ανώτερων και κάτω"
+  },
+  "Artist": {
+    "origin": "Files:Artist",
+    "text": "Καλλιτέχνης"
+  },
+  "Artist / author": {
+    "origin": "M2M100-418M-local",
+    "text": "Καλλιτέχνης / συγγραφέας"
+  },
+  "Ascending": {
+    "origin": "Files:Ascending",
+    "text": "Αύξουσα σειρά"
+  },
+  "Attribute name": {
+    "origin": "M2M100-418M-local",
+    "text": "ΑΙΤΡΕΤΙΚΟ ΟΝΟΜΑ"
+  },
+  "Attributes": {
+    "origin": "Files:Attributes",
+    "text": "Χαρακτηριστικά"
+  },
+  "Attributes updated.": {
+    "origin": "M2M100-418M-local",
+    "text": "Τα χαρακτηριστικά ενημερώνονται."
+  },
+  "Auto-fit columns": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ΑΥΤΟ-ΦΙΤ ΣΟΜΑΔΑ"
+  },
+  "AutoFitColumns": {
+    "origin": "Files:AutoFitColumns",
+    "text": "Auto-fit columns"
+  },
+  "Available locally": {
+    "origin": "M2M100-418M-local",
+    "text": "Διαθέσιμο τοπικά"
+  },
+  "Back": {
+    "origin": "Files:Back",
+    "text": "Πίσω"
+  },
+  "Back · ⌘[": {
+    "origin": "Files:Back",
+    "text": "Πίσω · ⌘["
+  },
+  "Backdrop material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Υλικό Backdrop"
+  },
+  "Backdrop materials use macOS visual effects. Standard system controls and monospaced content retain their system fonts.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Χρησιμοποίηση υλικών πίσω από macOS Τα τυποποιημένα συστήματα ελέγχου και το μονοδιαστημικό περιεχόμενο διατηρούν τις γραμματοσειρές του συστήματος."
+  },
+  "Background": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ταπετσαρία"
+  },
+  "Background color (blank = system)": {
+    "origin": "M2M100-418M-local",
+    "text": "Το χρώμα του φόντου (λευκό = σύστημα)"
+  },
+  "Background image": {
+    "origin": "Files:BackgroundImage",
+    "text": "Εικόνα φόντου"
+  },
+  "Background image and status": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Φωτογραφία και κατάσταση υπόβασης"
+  },
+  "Background image opacity": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Φωτογραφία φόντου απρόβλεπτη"
+  },
+  "Background mode keeps the menu bar icon available so you can reopen MacFiles or quit it.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Η λειτουργία υπόβαθρου διατηρεί το εικονίδιο γραμμής μενού διαθέσιμο, ώστε να μπορείτε να ανοίξετε ξανά MacFiles Ή να το σταματήσετε."
+  },
+  "Background preset": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ΠΡΩΤΟΓΡΑΦΙΟ"
+  },
+  "Base": {
+    "origin": "M2M100-418M-local",
+    "text": "ΒΑΣΗ"
+  },
+  "Base64": {
+    "origin": "M2M100-418M-local",
+    "text": "ΒΑΣΙΛΙΑ 64"
+  },
+  "Based on the Files Community explorer’s shell, MVVM, command, and storage architecture. Built with Swift, AppKit, and SwiftUI.": {
+    "origin": "M2M100-418M-local",
+    "text": "Βασισμένο στην αρχιτεκτονική εντολής, MVVM, αρχιτεκτονικής αποθήκευσης και αρχιτεκτονικής αποθήκευσης του κοινοτικού εξερευνητή αρχείων, κατασκευασμένο με Swift, AppKit και SwiftUI."
+  },
+  "Binary": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ΔΙΒΑΝΙΚΟ"
+  },
+  "Blue": {
+    "origin": "Files:Blue",
+    "text": "Μπλε"
+  },
+  "Bottom": {
+    "origin": "Files:Bottom",
+    "text": "Κάτω"
+  },
+  "Browse all tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ανακαλύψτε όλες τις ετικέτες"
+  },
+  "Browse archive": {
+    "origin": "M2M100-418M-local",
+    "text": "Browse Αρχείο"
+  },
+  "Browse archive…": {
+    "origin": "M2M100-418M-local",
+    "text": "Browse Αρχεία..."
+  },
+  "Browse tagged items…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse ετικέτες Ετικέτες..."
+  },
+  "Browsing": {
+    "origin": "M2M100-418M-local",
+    "text": "Browsing"
+  },
+  "Browsing interactions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browsing αλληλεπιδράσεις"
+  },
+  "Bulk rename": {
+    "origin": "Files:BulkRename",
+    "text": "Μαζική μετονομασία"
+  },
+  "Bulk rename requires items from one folder.": {
+    "origin": "M2M100-418M-local",
+    "text": "Το μαζικό όνομα απαιτεί στοιχεία από ένα φάκελο."
+  },
+  "Bulk rename…": {
+    "origin": "Files:BulkRename",
+    "text": "Μαζική μετονομασία"
+  },
+  "Bytes": {
+    "origin": "M2M100-418M-local",
+    "text": "Μπίτες"
+  },
+  "Cache thumbnails": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Κρυπτογράφηση μικρών"
+  },
+  "Calculate combined size": {
+    "origin": "M2M100-418M-local",
+    "text": "Υπολογίστε το συνδυασμένο μέγεθος"
+  },
+  "Calculate folder size": {
+    "origin": "M2M100-418M-local",
+    "text": "Υπολογίστε το μέγεθος του φακέλου"
+  },
+  "Calculate folder sizes": {
+    "origin": "Files:CalculateFolderSizes",
+    "text": "Υπολογισμός μεγέθους φακέλων"
+  },
+  "Calculate hashes…": {
+    "origin": "M2M100-418M-local",
+    "text": "Υπολογίστε το hash..."
+  },
+  "Calculate total size": {
+    "origin": "M2M100-418M-local",
+    "text": "Υπολογίστε το συνολικό μέγεθος"
+  },
+  "Calculating hashes…": {
+    "origin": "M2M100-418M-local",
+    "text": "Υπολογισμός των Χάσε..."
+  },
+  "Camouflage": {
+    "origin": "Files:Camouflage",
+    "text": "Καμουφλάζ"
+  },
+  "Cancel": {
+    "origin": "Files:Cancel",
+    "text": "Ακύρωση"
+  },
+  "Cancel calculation": {
+    "origin": "M2M100-418M-local",
+    "text": "Ακύρωση υπολογισμού"
+  },
+  "Cancel operation": {
+    "origin": "M2M100-418M-local",
+    "text": "Ακύρωση λειτουργίας"
+  },
+  "Cancel queued operation": {
+    "origin": "M2M100-418M-local",
+    "text": "Ακύρωση της λειτουργίας"
+  },
+  "Cancelled": {
+    "origin": "M2M100-418M-local",
+    "text": "Ακύρωση"
+  },
+  "Cancelled before starting.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ακύρωση πριν ξεκινήσει."
+  },
+  "Cancelled before starting. No files were changed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ακύρωση πριν από την έναρξη. δεν έχουν αλλάξει αρχεία."
+  },
+  "Cancelling the current operation…": {
+    "origin": "M2M100-418M-local",
+    "text": "Ακύρωση της τρέχουσας λειτουργίας..."
+  },
+  "Cannot allocate archive entry.": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν μπορεί να κατανεμηθεί αρχείο εισόδου."
+  },
+  "Cannot allocate archive reader.": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν μπορείς να αναγνωρίσεις αρχείο."
+  },
+  "Cannot allocate archive writer.": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν μπορώ να αναθέσω αρχείο συγγραφέα."
+  },
+  "Cannot archive special device: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Δεν είναι δυνατόν να αποθηκευτεί ειδική συσκευή: %1$@"
+  },
+  "Cannot create archive entry: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Δεν μπορείτε να δημιουργήσετε αρχείο εισόδου: %1$@"
+  },
+  "Cannot create subprocess output file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν μπορείτε να δημιουργήσετε το αρχείο προέλευσης υποδιαδικασίας."
+  },
+  "Cannot decode image.": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν μπορείτε να αποκρυπτογραφήσετε την εικόνα."
+  },
+  "Cannot prepare SSH authentication.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Δεν μπορεί να προετοιμαστεί SSH Η αυθεντικότητα."
+  },
+  "Cannot prepare command input.": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν μπορεί να προετοιμάσει την εισαγωγή εντολών."
+  },
+  "Cannot read %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Δεν μπορείς να διαβάσεις %1$@"
+  },
+  "Cannot read image metadata.": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν μπορείτε να διαβάσετε τα μεταδεδομένα εικόνας."
+  },
+  "Cannot remove the archive root.": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν μπορείτε να αφαιρέσετε την ρίζα του αρχείου."
+  },
+  "Cannot rename the archive root.": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν μπορείς να ανακαλέσεις το αρχείο."
+  },
+  "Cannot restore archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν μπορείτε να αποκαταστήσετε το αρχείο σκληρό σύνδεσμο."
+  },
+  "Cannot rotate image.": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν μπορείς να περιστρέψεις την εικόνα."
+  },
+  "Center": {
+    "origin": "Files:Center",
+    "text": "Κέντρο"
+  },
+  "Change file extension?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Αλλαγή της επέκτασης αρχείων;"
+  },
+  "Change ownership?": {
+    "origin": "M2M100-418M-local",
+    "text": "Αλλαγή ιδιοκτησίας;"
+  },
+  "Change provider app…": {
+    "origin": "M2M100-418M-local",
+    "text": "Αλλαγή εφαρμογών προμηθευτή..."
+  },
+  "Change the shortcut target?": {
+    "origin": "M2M100-418M-local",
+    "text": "Αλλαγή του στόχου;"
+  },
+  "Changes": {
+    "origin": "M2M100-418M-local",
+    "text": "Αλλαγές"
+  },
+  "Changing the extension may prevent the file from opening in its usual application.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Η αλλαγή της επέκτασης μπορεί να εμποδίσει το αρχείο από το άνοιγμα στην συνηθισμένη εφαρμογή του."
+  },
+  "Choose IDE…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Επιλέξτε το..."
+  },
+  "Choose a destination to restore": {
+    "origin": "M2M100-418M-local",
+    "text": "Επιλέξτε έναν προορισμό για να αποκαταστήσετε"
+  },
+  "Choose a file to calculate hashes.": {
+    "origin": "M2M100-418M-local",
+    "text": "Επιλέξτε ένα αρχείο για τον υπολογισμό των hashes."
+  },
+  "Choose a new destination and a repository URL.": {
+    "origin": "M2M100-418M-local",
+    "text": "Επιλέξτε έναν νέο προορισμό και ένα URL αποθήκευσης."
+  },
+  "Choose a regular cloud file to download.": {
+    "origin": "M2M100-418M-local",
+    "text": "Επιλέξτε ένα τακτικό αρχείο cloud για λήψη."
+  },
+  "Choose a single file or folder to customize its icon.": {
+    "origin": "M2M100-418M-local",
+    "text": "Επιλέξτε ένα μόνο αρχείο ή φάκελο για να προσαρμόσετε το εικονίδιο του."
+  },
+  "Choose a supported single-frame image (JPEG, PNG, TIFF or HEIC).": {
+    "origin": "M2M100-418M-local",
+    "text": "Επιλέξτε μια υποστηριζόμενη ενιαία εικόνα (JPEG, PNG, TIFF ή HEIC)."
+  },
+  "Choose a template file": {
+    "origin": "M2M100-418M-local",
+    "text": "Επιλέξτε ένα πρότυπο αρχείου"
+  },
+  "Choose custom icon…": {
+    "origin": "M2M100-418M-local",
+    "text": "Επιλέξτε το icon..."
+  },
+  "Choose folder…": {
+    "origin": "M2M100-418M-local",
+    "text": "Επιλέξτε το φάκελο..."
+  },
+  "Choose one item to edit ownership or ACLs.": {
+    "origin": "M2M100-418M-local",
+    "text": "Επιλέξτε ένα στοιχείο για την επεξεργασία ιδιοκτησίας ή ACLs."
+  },
+  "Choose one item to view extended attributes.": {
+    "origin": "M2M100-418M-local",
+    "text": "Επιλέξτε ένα στοιχείο για να δείτε εκτεταμένα χαρακτηριστικά."
+  },
+  "Choose provider app…": {
+    "origin": "M2M100-418M-local",
+    "text": "Επιλέξτε την εφαρμογή προμηθευτή..."
+  },
+  "Clear": {
+    "origin": "Files:Key.Clear",
+    "text": "Εκκαθάριση"
+  },
+  "Clear finished": {
+    "origin": "M2M100-418M-local",
+    "text": "Τελείωσε καθαρά"
+  },
+  "Clear selection": {
+    "origin": "Files:ClearSelection",
+    "text": "Εκκαθάριση επιλογής"
+  },
+  "Clear thumbnail cache": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Καθαρή μικροσκοπική κλειδαριά"
+  },
+  "Clone": {
+    "origin": "M2M100-418M-local",
+    "text": "Κλόουν"
+  },
+  "Clone repository": {
+    "origin": "M2M100-418M-local",
+    "text": "Κλόουν αποθήκευσης"
+  },
+  "Clone…": {
+    "origin": "M2M100-418M-local",
+    "text": "Κλόουν..."
+  },
+  "Close": {
+    "origin": "Files:Close",
+    "text": "Κλείσιμο"
+  },
+  "Close details": {
+    "origin": "M2M100-418M-local",
+    "text": "Σχετικές λεπτομέρειες"
+  },
+  "Close other tabs": {
+    "origin": "Files:CloseOtherTabs",
+    "text": "Κλείσιμο των άλλων καρτελών"
+  },
+  "Close tab": {
+    "origin": "M2M100-418M-local",
+    "text": "Κοντά στο Tab"
+  },
+  "Close tabs to the left": {
+    "origin": "Files:CloseTabsToTheLeft",
+    "text": "Κλείσιμο καρτελών αριστερά"
+  },
+  "Close tabs to the right": {
+    "origin": "Files:CloseTabsToTheRight",
+    "text": "Κλείσιμο καρτελών δεξιά"
+  },
+  "Close window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Κοντά παράθυρα"
+  },
+  "Cloud": {
+    "origin": "M2M100-418M-local",
+    "text": "Κλαύκλος"
+  },
+  "Cloud accounts": {
+    "origin": "M2M100-418M-local",
+    "text": "Cloud Λογαριασμοί"
+  },
+  "Cloud accounts and folders": {
+    "origin": "M2M100-418M-local",
+    "text": "Cloud Λογαριασμοί και φάκελοι"
+  },
+  "Cloud availability and synchronization": {
+    "origin": "M2M100-418M-local",
+    "text": "Διαθεσιμότητα cloud και συγχρονισμός"
+  },
+  "Cloud folder name": {
+    "origin": "M2M100-418M-local",
+    "text": "Όνομα σύννεφο"
+  },
+  "Cloud items": {
+    "origin": "M2M100-418M-local",
+    "text": "Cloud αντικείμενα"
+  },
+  "Cloud provider": {
+    "origin": "M2M100-418M-local",
+    "text": "Πληροφορίες για το Cloud"
+  },
+  "Cloud providers installed on this Mac appear in the sidebar through their native File Provider folders.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Οι πάροχοι cloud που είναι εγκατεστημένοι σε αυτό το Mac εμφανίζονται στο πλευρό μέσω της γης τους File Provider Οι φάκελοι."
+  },
+  "Cloud status": {
+    "origin": "M2M100-418M-local",
+    "text": "Κλίμακας κατάσταση"
+  },
+  "Cloud status…": {
+    "origin": "M2M100-418M-local",
+    "text": "Η κατάσταση του cloud..."
+  },
+  "Cloud storage": {
+    "origin": "M2M100-418M-local",
+    "text": "Cloud αποθήκευση"
+  },
+  "Collapse folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Χάρη στο φάκελο"
+  },
+  "Collapsed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Καταρρέει"
+  },
+  "Collect file references from different folders, then copy or move them together.": {
+    "origin": "M2M100-418M-local",
+    "text": "Συλλέξτε αναφορές αρχείων από διαφορετικά φακέλους, και στη συνέχεια αντιγράψτε ή μετακινήστε τα μαζί."
+  },
+  "Columns": {
+    "origin": "Files:Columns",
+    "text": "Στήλες"
+  },
+  "Columns layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Σελίδα Λέιγκ"
+  },
+  "Command": {
+    "origin": "M2M100-418M-local",
+    "text": "Διοικητής"
+  },
+  "Command output exceeded 16 MiB; no truncated result was accepted.": {
+    "origin": "M2M100-418M-local",
+    "text": "Η παραγωγή εντολών ξεπέρασε τα 16 MiB· δεν έγινε δεκτό κανένα αποτέλεσμα."
+  },
+  "Command palette": {
+    "origin": "M2M100-418M-local",
+    "text": "Παλέτα εντολών"
+  },
+  "Command palette…": {
+    "origin": "M2M100-418M-local",
+    "text": "Παλίτα εντολών..."
+  },
+  "Commit created": {
+    "origin": "M2M100-418M-local",
+    "text": "Δημιουργήθηκε η Επιτροπή"
+  },
+  "Commit message": {
+    "origin": "Files:CommitMessage",
+    "text": "Μήνυμα υποβολής"
+  },
+  "Commit staged": {
+    "origin": "M2M100-418M-local",
+    "text": "Συμφωνία Στάδιο"
+  },
+  "Compact file rows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ετικέτες Compact File"
+  },
+  "Compare these SHA-256 fingerprints with your server administrator before trusting %1$@:%2$@.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Συγκρίνετε αυτά SHA-256 Αποτυπώσεις δακτυλικών αποτυπωμάτων με τον διαχειριστή του διακομιστή σας πριν εμπιστευτείτε %1$@:%2$@.\n\n"
+  },
+  "Compatibility": {
+    "origin": "Files:Compatibility",
+    "text": "Συμβατότητα"
+  },
+  "Completed": {
+    "origin": "M2M100-418M-local",
+    "text": "ολοκληρωμένο"
+  },
+  "Completed with errors": {
+    "origin": "M2M100-418M-local",
+    "text": "Συμπληρωμένο με λάθη"
+  },
+  "Compress": {
+    "origin": "Files:Compress",
+    "text": "Συμπίεση"
+  },
+  "CompressIntoSevenZip": {
+    "origin": "Files:CompressIntoSevenZip",
+    "text": "Δημιουργία συμπιεσμένου 7z"
+  },
+  "CompressIntoZip": {
+    "origin": "Files:CompressIntoZip",
+    "text": "Δημιουργία συμπιεσμένου zip"
+  },
+  "Compressed movie headers require remuxing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Τα συμπιεσμένα κεφάλια ταινίας απαιτούν ανακούφιση."
+  },
+  "Compressing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "συμπίεση"
+  },
+  "Compress…": {
+    "origin": "Files:Compress",
+    "text": "Συμπίεση"
+  },
+  "Confirm moving files to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Επιβεβαιώστε να μετακινήσετε τα αρχεία στο Trash"
+  },
+  "Confirmations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Επιβεβαίωση"
+  },
+  "Conflicts": {
+    "origin": "M2M100-418M-local",
+    "text": "Συγκρούσεις"
+  },
+  "Connect": {
+    "origin": "M2M100-418M-local",
+    "text": "Σύνδεση"
+  },
+  "Connect to server": {
+    "origin": "M2M100-418M-local",
+    "text": "Σύνδεση με τον διακομιστή"
+  },
+  "Connect to server…": {
+    "origin": "M2M100-418M-local",
+    "text": "Σύνδεση με τον διακομιστή"
+  },
+  "Connect to the server first.": {
+    "origin": "M2M100-418M-local",
+    "text": "Συνδεθείτε πρώτα στον διακομιστή."
+  },
+  "Connected folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Συνδεδεμένο φάκελο"
+  },
+  "Connected to this Mac": {
+    "origin": "M2M100-418M-local",
+    "text": "Σύνδεση με αυτό το Mac"
+  },
+  "Contains UTF-8 text": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Περιεχόμενο UTF-8 κείμενο"
+  },
+  "Content search includes text, PDF, Office and OpenDocument files. Unsupported, locked and online-only files are counted as skipped.": {
+    "origin": "M2M100-418M-local",
+    "text": "Η αναζήτηση περιεχομένου περιλαμβάνει αρχεία κειμένου, PDF, Office και OpenDocument. Τα μη υποστηριζόμενα, κλειστά και μόνο online αρχεία υπολογίζονται ως ξεπερασμένα."
+  },
+  "Content type": {
+    "origin": "M2M100-418M-local",
+    "text": "Τύπος περιεχομένου"
+  },
+  "Contents": {
+    "origin": "M2M100-418M-local",
+    "text": "Περιεχόμενο"
+  },
+  "Context": {
+    "origin": "M2M100-418M-local",
+    "text": "Το πλαίσιο"
+  },
+  "Context menu": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ετικέτα μενού"
+  },
+  "Copy": {
+    "origin": "Files:Copy",
+    "text": "Αντιγραφή"
+  },
+  "Copy app version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Αντίγραφο εφαρμογής"
+  },
+  "Copy hashes": {
+    "origin": "M2M100-418M-local",
+    "text": "Αντιγραφή hashes"
+  },
+  "Copy here": {
+    "origin": "M2M100-418M-local",
+    "text": "Αντιγραφή ΕΔΩ"
+  },
+  "Copy macOS version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Αντιγραφή macOS Έκδοση"
+  },
+  "Copy path": {
+    "origin": "Files:CopyPath",
+    "text": "Αντιγραφή διαδρομής"
+  },
+  "Copy report": {
+    "origin": "M2M100-418M-local",
+    "text": "Αντιγραφή έκθεσης"
+  },
+  "Copy selected": {
+    "origin": "M2M100-418M-local",
+    "text": "Αντίγραφο επιλεγμένο"
+  },
+  "CopyItemPathWithQuotes": {
+    "origin": "Files:CopyItemPathWithQuotes",
+    "text": "Αντιγραφή διαδρομής επιλεγμένου στοιχείου με εισαγωγικά"
+  },
+  "CopyPathDescription": {
+    "origin": "Files:CopyPathDescription",
+    "text": "Αντιγραφή διαδρομής του τρέχοντος καταλόγου"
+  },
+  "CopyPathWithQuotes": {
+    "origin": "Files:CopyPathWithQuotes",
+    "text": "Αντιγραφή διαδρομής με εισαγωγικά"
+  },
+  "Copying": {
+    "origin": "M2M100-418M-local",
+    "text": "Αντιγραφή"
+  },
+  "Copying archive entries": {
+    "origin": "M2M100-418M-local",
+    "text": "Αντιγραφή αρχείων εισόδου"
+  },
+  "Copying files": {
+    "origin": "M2M100-418M-local",
+    "text": "Αντιγραφή αρχείων"
+  },
+  "Copyright": {
+    "origin": "Files:PropertyCopyright",
+    "text": "Πνευματικά δικαιώματα"
+  },
+  "Could not find an available filename.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Δεν μπορούσα να βρω ένα διαθέσιμο όνομα."
+  },
+  "Could not prepare archive contents.": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν θα μπορούσα να προετοιμάσω αρχεία περιεχομένου."
+  },
+  "Could not remove GitHub credentials from Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Δεν θα μπορούσε να αφαιρέσει τα πιστοποιητικά GitHub από Keychain."
+  },
+  "Could not save GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Δεν μπορεί να αποθηκεύσει τα πιστοποιητικά GitHub Keychain."
+  },
+  "Could not save the edited image; the original was kept.": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν θα μπορούσε να αποθηκεύσει την επεξεργασμένη εικόνα. η πρωτότυπη διατηρήθηκε."
+  },
+  "Could not save the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Δεν μπορώ να αποθηκεύσω τον κωδικό πρόσβασης Keychain (%1$@)."
+  },
+  "Could not update GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Δεν μπορώ να ενημερώσω τα πιστοποιητικά του GitHub Keychain."
+  },
+  "Could not update the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Δεν μπορώ να ενημερώσω τον κωδικό πρόσβασης Keychain (%1$@)."
+  },
+  "Couldn’t change the folder viewer": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν θα μπορούσε να αλλάξει το φάκελο προβολής"
+  },
+  "Couldn’t eject volume": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν μπορεί να εκτοξευθεί ο όγκος"
+  },
+  "Couldn’t open files": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν μπορούμε να ανοίξουμε αρχεία"
+  },
+  "Couldn’t open folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν μπορεί να ανοίξει το φάκελο"
+  },
+  "Couldn’t open this file": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν μπορούσα να ανοίξω αυτό το αρχείο"
+  },
+  "Couldn’t open this location": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν θα μπορούσε να ανοίξει αυτή την τοποθεσία"
+  },
+  "Couldn’t resolve alias": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν μπορώ να λύσω το alias"
+  },
+  "Couldn’t restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Δεν θα μπορούσε να ξεκινήσει MacFiles"
+  },
+  "Create": {
+    "origin": "Files:Create",
+    "text": "Δημιουργία"
+  },
+  "Create a GitHub token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Δημιουργήστε ένα token GitHub"
+  },
+  "Create alias": {
+    "origin": "M2M100-418M-local",
+    "text": "Δημιουργήστε το alias"
+  },
+  "Create archive": {
+    "origin": "Files:CreateArchive",
+    "text": "Δημιουργία αρχείου"
+  },
+  "Create library…": {
+    "origin": "Files:FolderWidgetCreateNewLibraryDialogTitleText",
+    "text": "Δημιουργία βιβλιοθήκης"
+  },
+  "Create shortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "Δημιουργία συντόμευσης"
+  },
+  "Create zip archive": {
+    "origin": "Files:CompressIntoZip",
+    "text": "Δημιουργία συμπιεσμένου zip"
+  },
+  "CreateFolderWithSelection": {
+    "origin": "Files:CreateFolderWithSelection",
+    "text": "Δημιουργία φακέλου με επιλογή"
+  },
+  "CreateShortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "Δημιουργία συντόμευσης"
+  },
+  "CreateShortcutFromDialogDescription": {
+    "origin": "Files:CreateShortcutFromDialogDescription",
+    "text": "Δημιουργία νέας συντόμευσης σε οποιοδήποτε στοιχείο"
+  },
+  "Created": {
+    "origin": "Files:PropertiesCreated.Text",
+    "text": "Δημιουργήθηκε:"
+  },
+  "Creating alias": {
+    "origin": "M2M100-418M-local",
+    "text": "Δημιουργία alias"
+  },
+  "Creating from template": {
+    "origin": "M2M100-418M-local",
+    "text": "Δημιουργία από το template"
+  },
+  "Custom": {
+    "origin": "Files:Custom",
+    "text": "Προσαρμοσμένο"
+  },
+  "Custom icon applied.": {
+    "origin": "M2M100-418M-local",
+    "text": "Εφαρμοσμένο το προσαρμοσμένο icon"
+  },
+  "Custom tag color (hex, optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Προσαρμοσμένο χρώμα ετικέτας (hex, προαιρετικό)"
+  },
+  "Custom theme": {
+    "origin": "M2M100-418M-local",
+    "text": "Προσαρμοσμένο θέμα"
+  },
+  "Customization": {
+    "origin": "Files:Customization",
+    "text": "Προσαρμογή"
+  },
+  "Customize toolbar": {
+    "origin": "M2M100-418M-local",
+    "text": "Προσαρμοσμένο Toolbar"
+  },
+  "Customize toolbar…": {
+    "origin": "M2M100-418M-local",
+    "text": "Καρδιοποίηση του εργαλείου..."
+  },
+  "Cut": {
+    "origin": "Files:Cut",
+    "text": "Αποκοπή"
+  },
+  "Dark": {
+    "origin": "Files:DarkTheme",
+    "text": "Σκούρο"
+  },
+  "Date created": {
+    "origin": "Files:DateCreated",
+    "text": "Ημερομηνία δημιουργίας"
+  },
+  "Date deleted": {
+    "origin": "Files:DateDeleted",
+    "text": "Ημερομηνία διαγραφής"
+  },
+  "Date format": {
+    "origin": "Files:DateFormat",
+    "text": "Μορφή ημερομηνίας"
+  },
+  "Date modified": {
+    "origin": "Files:DateModifiedLowerCase",
+    "text": "Ημερομηνία τροποποίησης"
+  },
+  "Day": {
+    "origin": "Files:Day",
+    "text": "Ημέρα"
+  },
+  "Decimal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ΔΗΜΟΚΡΑΤΙΑ"
+  },
+  "Decrease size": {
+    "origin": "Files:DecreaseSize",
+    "text": "Μείωση μεγέθους"
+  },
+  "Default": {
+    "origin": "Files:Default",
+    "text": "Προεπιλογή"
+  },
+  "Default folder layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Προεπιλεγμένη διάταξη φακέλου"
+  },
+  "Default grouping": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Εμφανισμένη ομαδοποίηση"
+  },
+  "Default save location": {
+    "origin": "M2M100-418M-local",
+    "text": "Προεπιλεγμένη αποθήκευση τοποθεσίας"
+  },
+  "Default sorting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Υπολογισμένη διαίρεση"
+  },
+  "Delete": {
+    "origin": "Files:Delete",
+    "text": "Διαγραφή"
+  },
+  "Delete permanently": {
+    "origin": "Files:DeletePermanently",
+    "text": "Οριστική διαγραφή"
+  },
+  "Delete saved tag and remove it from indexed files?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Διαγράψτε την αποθηκευμένη ετικέτα και αφαιρέστε την από τα indexed αρχεία;"
+  },
+  "Delete selected permanently…": {
+    "origin": "M2M100-418M-local",
+    "text": "Διαγράψτε επιλεγμένα μόνιμα..."
+  },
+  "Deleting permanently": {
+    "origin": "M2M100-418M-local",
+    "text": "Διαγραφή μόνιμα"
+  },
+  "Description": {
+    "origin": "M2M100-418M-local",
+    "text": "Περιγραφή"
+  },
+  "Desktop": {
+    "origin": "Files:Desktop",
+    "text": "Επιφάνεια εργασίας"
+  },
+  "Destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ο προορισμός : %1$@"
+  },
+  "Detached HEAD": {
+    "origin": "M2M100-418M-local",
+    "text": "ΚΕΦΑΛΑΙΟ ΑΠΟΔΕΥΣΗ"
+  },
+  "Details": {
+    "origin": "Files:Details",
+    "text": "Λεπτομέρειες"
+  },
+  "Details layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Λεπτομέρειες Layout"
+  },
+  "Details pane": {
+    "origin": "M2M100-418M-local",
+    "text": "Λεπτομέρειες Κύριε"
+  },
+  "Developer tools": {
+    "origin": "Files:DevTools",
+    "text": "Εργαλεία προγραμματιστή"
+  },
+  "Development": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ανάπτυξη"
+  },
+  "Diagnostics": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Διαγνωστική"
+  },
+  "Diagnostics opened": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Η διάγνωση ανοίγει"
+  },
+  "Disconnect": {
+    "origin": "M2M100-418M-local",
+    "text": "Αποσύνδεση"
+  },
+  "Documents": {
+    "origin": "Files:Documents",
+    "text": "Έγγραφα"
+  },
+  "Done": {
+    "origin": "Files:Close",
+    "text": "Κλείσιμο"
+  },
+  "Double-click empty space to go up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Δύο κλικ κενός χώρος για να πάτε"
+  },
+  "Download": {
+    "origin": "M2M100-418M-local",
+    "text": "Κατεβάστε"
+  },
+  "Download files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Κατεβάστε τα αρχεία..."
+  },
+  "Download here": {
+    "origin": "M2M100-418M-local",
+    "text": "Κατεβάστε εδώ"
+  },
+  "Download requested. iCloud may complete it asynchronously.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Κατεβάστε ζητηθεί. iCloud Μπορεί να ολοκληρωθεί ασύγχροντα."
+  },
+  "Downloaded": {
+    "origin": "M2M100-418M-local",
+    "text": "Κατεβάσεις"
+  },
+  "Downloading": {
+    "origin": "M2M100-418M-local",
+    "text": "Κατεβάστε"
+  },
+  "Downloads": {
+    "origin": "Files:Downloads",
+    "text": "Στοιχεία λήψης"
+  },
+  "Drives": {
+    "origin": "Files:Drives",
+    "text": "Μονάδες Δίσκου"
+  },
+  "Dual pane": {
+    "origin": "M2M100-418M-local",
+    "text": "ΔΥΟ ΠΑΝ"
+  },
+  "Duplicate": {
+    "origin": "M2M100-418M-local",
+    "text": "Διπλότητα"
+  },
+  "Duplicate archive paths cannot be extracted safely.": {
+    "origin": "M2M100-418M-local",
+    "text": "Τα διπλά αρχεία δεν μπορούν να αφαιρεθούν με ασφάλεια."
+  },
+  "Duplicate tab": {
+    "origin": "Files:DuplicateTab",
+    "text": "Διπλότυπο καρτέλας"
+  },
+  "Edit": {
+    "origin": "Files:Edit",
+    "text": "Επεξεργασία"
+  },
+  "Edit POSIX permissions for selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Επεξεργασία POSIX Άδεια επιλογής"
+  },
+  "Edit address · ⌘L": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Η διεύθυνση Edit ⌘L"
+  },
+  "Edit archive": {
+    "origin": "M2M100-418M-local",
+    "text": "Επεξεργασία Αρχείο"
+  },
+  "Edit in TextEdit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Επεξεργασία σε TextEdit"
+  },
+  "Edit media metadata": {
+    "origin": "M2M100-418M-local",
+    "text": "Επεξεργασία μεταδεδομένων media"
+  },
+  "Edit media metadata…": {
+    "origin": "M2M100-418M-local",
+    "text": "Επεξεργασία μέσων μαζικής ενημέρωσης..."
+  },
+  "Edit or import the settings document, then Apply to validate and save. Language changes require a restart.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Επεξεργαστείτε ή εισάγετε το έγγραφο ρυθμίσεων, στη συνέχεια Εφαρμόστε για επικύρωση και αποθήκευση. Οι αλλαγές γλώσσας απαιτούν επαναφορά."
+  },
+  "Edit permissions on the link's target instead.": {
+    "origin": "M2M100-418M-local",
+    "text": "Επεξεργαστείτε τις άδειες στο στόχο του συνδέσμου αντί."
+  },
+  "Edit settings file…": {
+    "origin": "Files:EditSettingsFile",
+    "text": "Επεξεργασία αρχείου ρυθμίσεων"
+  },
+  "Edit tags": {
+    "origin": "Files:EditTags",
+    "text": "Επεξεργασία ετικετών"
+  },
+  "Edit tags…": {
+    "origin": "Files:EditTags",
+    "text": "Επεξεργασία ετικετών"
+  },
+  "Edit the archive target instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Επεξεργασία του στόχου αρχείου αντί για ένα συμβολικό σύνδεσμο."
+  },
+  "Edit the target's attributes instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Επεξεργαστείτε τα χαρακτηριστικά του στόχου αντί για ένα συμβολικό σύνδεσμο."
+  },
+  "Edits apply to this item only. Ownership changes require existing system permission; MacFiles does not elevate itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Οι τροποποιήσεις ισχύουν μόνο για αυτό το στοιχείο. οι αλλαγές ιδιοκτησίας απαιτούν υπάρχουσα άδεια συστήματος. MacFiles Δεν ανυψώνει τον εαυτό του."
+  },
+  "Eject": {
+    "origin": "Files:Eject",
+    "text": "Εξαγωγή"
+  },
+  "Empty": {
+    "origin": "M2M100-418M-local",
+    "text": "κενό"
+  },
+  "Empty accessible Trash…": {
+    "origin": "M2M100-418M-local",
+    "text": "Δωρεάν διαθεσιμότητα του κενού..."
+  },
+  "Empty archive entry.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ελεύθερη είσοδος αρχείων."
+  },
+  "Encoding": {
+    "origin": "Files:Encoding",
+    "text": "Κωδικοποίηση"
+  },
+  "Encrypted": {
+    "origin": "M2M100-418M-local",
+    "text": "Κρυπτογραφημένο"
+  },
+  "Enter a GitHub username and a valid access token.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Εισάγετε ένα όνομα χρήστη GitHub και ένα έγκυρο token πρόσβασης."
+  },
+  "Enter a commit message.": {
+    "origin": "M2M100-418M-local",
+    "text": "Εισάγετε ένα μήνυμα δέσμευσης."
+  },
+  "Enter a name without a slash or colon. The name cannot be empty, ‘.’, or ‘..’.": {
+    "origin": "M2M100-418M-local",
+    "text": "Εισάγετε ένα όνομα χωρίς σάρωση ή στήλη.Το όνομα δεν μπορεί να είναι άδειο, «.», ή «..»."
+  },
+  "Enter a size from 1 to 1,048,576 MiB.": {
+    "origin": "M2M100-418M-local",
+    "text": "Εισάγετε ένα μέγεθος από 1 έως 1.048,576 MiB."
+  },
+  "Enter a valid host, username, and port.": {
+    "origin": "M2M100-418M-local",
+    "text": "Εισάγετε ένα έγκυρο host, όνομα χρήστη και λιμάνι."
+  },
+  "Enter an SMB, AFP, or WebDAV address.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Εισάγετε ένα SMB, AFPή WebDAV Διεύθυνση"
+  },
+  "Enter an attribute name of 1–127 UTF-8 bytes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Εισάγετε ένα όνομα χαρακτηριστικού 1–127 UTF-8 Μπάτρες"
+  },
+  "Enter compact overlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "Εισαγωγή συμπαγούς επικάλυψης"
+  },
+  "Enter numeric user and group IDs.": {
+    "origin": "M2M100-418M-local",
+    "text": "Εισάγετε αριθμητικούς χρήστες και ομάδες IDs."
+  },
+  "Enter password:": {
+    "origin": "M2M100-418M-local",
+    "text": "Εισάγετε τον κωδικό πρόσβασης:"
+  },
+  "Enter permissions from 000 to 777.": {
+    "origin": "M2M100-418M-local",
+    "text": "Εισάγετε άδειες από 000 έως 777."
+  },
+  "Enter the archive password before editing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Εισάγετε το κωδικό πρόσβασης αρχείου πριν την επεξεργασία."
+  },
+  "Enter three octal digits, for example 644 or 755.": {
+    "origin": "M2M100-418M-local",
+    "text": "Εισάγετε τρεις οκταλικούς αριθμούς, για παράδειγμα 644 ή 755."
+  },
+  "Enter whole numbers for byte limits.": {
+    "origin": "M2M100-418M-local",
+    "text": "Εισάγετε ολόκληρους αριθμούς για όρια byte."
+  },
+  "EnterCompactOverlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "Εισαγωγή συμπαγούς επικάλυψης"
+  },
+  "Executable": {
+    "origin": "M2M100-418M-local",
+    "text": "Εκτελεστικός"
+  },
+  "Executable format": {
+    "origin": "M2M100-418M-local",
+    "text": "Εκτελεστική μορφή"
+  },
+  "Exit compact overlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "Έξοδος από συμπαγή επικάλυψη"
+  },
+  "ExitCompactOverlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "Έξοδος από συμπαγή επικάλυψη"
+  },
+  "Expand folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Επέκταση φάκελου"
+  },
+  "Expanded": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Επεκτεθεί"
+  },
+  "Export ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Εξαγωγή ACL…"
+  },
+  "Export bytes…": {
+    "origin": "M2M100-418M-local",
+    "text": "Εξαγωγικό Μπάτι..."
+  },
+  "Export theme…": {
+    "origin": "M2M100-418M-local",
+    "text": "Το θέμα της εξαγωγής..."
+  },
+  "Export…": {
+    "origin": "M2M100-418M-local",
+    "text": "Εξαγωγή..."
+  },
+  "Extended attributes": {
+    "origin": "M2M100-418M-local",
+    "text": "Επέκταση χαρακτηριστικών"
+  },
+  "Extended attributes…": {
+    "origin": "M2M100-418M-local",
+    "text": "Επέκταση των χαρακτηριστικών..."
+  },
+  "Extensions are preserved. Conflicts stop the batch before any names change.": {
+    "origin": "M2M100-418M-local",
+    "text": "Συγκρούσεις σταματούν το πακέτο πριν από οποιαδήποτε αλλαγή ονόματος."
+  },
+  "Extensions: txt, swift, pdf": {
+    "origin": "M2M100-418M-local",
+    "text": "Επεκτάσεις: TXT, Swift, PDF"
+  },
+  "Extra large icons": {
+    "origin": "M2M100-418M-local",
+    "text": "Μεγάλες icons"
+  },
+  "Extract": {
+    "origin": "Files:Extract",
+    "text": "Εξαγωγή"
+  },
+  "Extract all…": {
+    "origin": "M2M100-418M-local",
+    "text": "Εξαγωγή όλων..."
+  },
+  "Extract here": {
+    "origin": "Files:ExtractHere",
+    "text": "Εξαγωγή εδώ"
+  },
+  "Extract here (Smart)": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "Εξαγωγή εδώ (Έξυπνο)"
+  },
+  "Extract selected…": {
+    "origin": "M2M100-418M-local",
+    "text": "Το εκχύλισμα επιλεγεί..."
+  },
+  "Extract to child folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Εξαγωγή στο παιδικό φάκελο"
+  },
+  "Extract to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Εξαγωγή στο..."
+  },
+  "ExtractHere": {
+    "origin": "Files:ExtractHere",
+    "text": "Εξαγωγή εδώ"
+  },
+  "ExtractHereSmart": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "Εξαγωγή εδώ (Έξυπνο)"
+  },
+  "Extracted entry size does not match its header.": {
+    "origin": "M2M100-418M-local",
+    "text": "Το μέγεθος της εισόδου δεν ταιριάζει με τον τίτλο του."
+  },
+  "Extracting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Εξαγωγή"
+  },
+  "Extracts into a new folder; existing files are kept.": {
+    "origin": "M2M100-418M-local",
+    "text": "Εξάγεται σε ένα νέο φάκελο, τα υπάρχοντα αρχεία διατηρούνται."
+  },
+  "FTP over TLS": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "FTP Πάνω από TLS"
+  },
+  "Failed": {
+    "origin": "M2M100-418M-local",
+    "text": "Αποτυχημένος"
+  },
+  "Fetch": {
+    "origin": "Files:GitFetch",
+    "text": "Ανάκτηση"
+  },
+  "File": {
+    "origin": "Files:File",
+    "text": "Αρχείο"
+  },
+  "File actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Αρχείο δράσης"
+  },
+  "File hashes": {
+    "origin": "M2M100-418M-local",
+    "text": "Αρχείο Hashes"
+  },
+  "File information": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Πληροφορίες αρχείων"
+  },
+  "File operations": {
+    "origin": "M2M100-418M-local",
+    "text": "Λειτουργίες αρχείων"
+  },
+  "File operations in this window": {
+    "origin": "M2M100-418M-local",
+    "text": "Λειτουργίες αρχείων σε αυτό το παράθυρο"
+  },
+  "File shelf": {
+    "origin": "M2M100-418M-local",
+    "text": "Σελίδα Shelf"
+  },
+  "File shelf…": {
+    "origin": "M2M100-418M-local",
+    "text": "Φιλιππίνες Shelf..."
+  },
+  "File size": {
+    "origin": "M2M100-418M-local",
+    "text": "Μέγεθος αρχείου"
+  },
+  "Files": {
+    "origin": "Files:SecurityAdvancedFlagsFilesLabel",
+    "text": "αρχεία"
+  },
+  "Files size": {
+    "origin": "M2M100-418M-local",
+    "text": "Αριθμός αρχείων"
+  },
+  "Files you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Τα αρχεία που ανοίγετε θα εμφανιστούν εδώ."
+  },
+  "Fill": {
+    "origin": "Files:Fill",
+    "text": "Γέμισμα"
+  },
+  "Filter entries": {
+    "origin": "M2M100-418M-local",
+    "text": "Filter Εισαγωγές"
+  },
+  "Find": {
+    "origin": "M2M100-418M-local",
+    "text": "Βρείτε"
+  },
+  "Find and replace": {
+    "origin": "M2M100-418M-local",
+    "text": "Βρείτε και αντικαταστήστε"
+  },
+  "Finder Get Info unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder Πληροφορίες που δεν είναι διαθέσιμες"
+  },
+  "Finder Get Info…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder Πληροφορίες..."
+  },
+  "Finder's desktop and other apps' Open/Save dialogs remain managed by macOS.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder Οι διαλόγοι του desktop και άλλων εφαρμογών Open/Save παραμένουν διαχειρισμένοι από macOS."
+  },
+  "First letter": {
+    "origin": "M2M100-418M-local",
+    "text": "Πρώτη επιστολή"
+  },
+  "Fit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ΣΧΕΔΙΑ"
+  },
+  "Flatten": {
+    "origin": "Files:Flatten",
+    "text": "Επιπέδωση"
+  },
+  "Flatten folder": {
+    "origin": "Files:FlattenFolder",
+    "text": "Επιπέδωση φακέλου"
+  },
+  "Flatten folder…": {
+    "origin": "Files:FlattenFolder",
+    "text": "Επιπέδωση φακέλου"
+  },
+  "Flatten ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "«Μετά»%1$@’?"
+  },
+  "Flattening folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Πλατφόρμα"
+  },
+  "Focus other pane": {
+    "origin": "Files:FocusOtherPane",
+    "text": "Εστίαση σε άλλο παράθυρο"
+  },
+  "Folder": {
+    "origin": "Files:Folder",
+    "text": "Φάκελος"
+  },
+  "Folder contents": {
+    "origin": "M2M100-418M-local",
+    "text": "Φόλας Περιεχόμενα"
+  },
+  "Folder contents are not included in this total.": {
+    "origin": "M2M100-418M-local",
+    "text": "Το περιεχόμενο του φάκελου δεν περιλαμβάνεται σε αυτό το σύνολο."
+  },
+  "Folder layout saved.": {
+    "origin": "M2M100-418M-local",
+    "text": "Η διάταξη του φακέλου διασωθεί."
+  },
+  "Folder path": {
+    "origin": "Files:FolderPath",
+    "text": "Διαδρομή φακέλου"
+  },
+  "Folder presentation": {
+    "origin": "M2M100-418M-local",
+    "text": "Φωτογραφία παρουσίασης"
+  },
+  "Folder sizes are calculated in the background after Refresh. Large or network folders may take longer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Τα μεγέθη φακέλων υπολογίζονται στο υπόβαθρο μετά την αναζωογόνηση. μεγάλα ή δίκτυα φακέλους μπορεί να διαρκέσουν περισσότερο."
+  },
+  "Folder unavailable": {
+    "origin": "M2M100-418M-local",
+    "text": "Ετικέτες Unavailable"
+  },
+  "Folders": {
+    "origin": "M2M100-418M-local",
+    "text": "Χάρτες"
+  },
+  "Folders you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "text": "Οι φάκελοι που ανοίγετε θα εμφανιστούν εδώ."
+  },
+  "Font": {
+    "origin": "Files:Font",
+    "text": "Γραμματοσειρά"
+  },
+  "Font and material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Φωνή και υλικό"
+  },
+  "Forget saved": {
+    "origin": "M2M100-418M-local",
+    "text": "Ξέχασαν να σωθούν"
+  },
+  "Format": {
+    "origin": "Files:FormatDriveText",
+    "text": "Μορφή"
+  },
+  "Format drive in Disk Utility…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Η διαμόρφωση του δίσκου στο διαδίκτυο..."
+  },
+  "Forward": {
+    "origin": "Files:Forward",
+    "text": "Εμπρός"
+  },
+  "Forward · ⌘]": {
+    "origin": "Files:Forward",
+    "text": "Εμπρός · ⌘]"
+  },
+  "Fragmented media metadata cannot be edited without remuxing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Τα διασπασμένα μεταδεδομένα μέσων δεν μπορούν να επεξεργαστούν χωρίς αναμνησμό."
+  },
+  "Gallery": {
+    "origin": "M2M100-418M-local",
+    "text": "ΓΑΛΕΙΑ"
+  },
+  "Gallery layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Γκαλερί Λέιουτ"
+  },
+  "General": {
+    "origin": "Files:General",
+    "text": "Γενικά"
+  },
+  "Git operation in %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git Επιχείρηση σε %1$@"
+  },
+  "Git repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git Αποθεματικά"
+  },
+  "Git repository…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git Το αποθεματικό..."
+  },
+  "GitHub account": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Λογαριασμός GitHub"
+  },
+  "GitHub username": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub όνομα χρήστη"
+  },
+  "Go to path": {
+    "origin": "M2M100-418M-local",
+    "text": "Πηγαίνετε στο δρόμο"
+  },
+  "Go to path…": {
+    "origin": "M2M100-418M-local",
+    "text": "Πήγαινε στο δρόμο..."
+  },
+  "Gray": {
+    "origin": "Files:Gray",
+    "text": "Γκρι"
+  },
+  "Green": {
+    "origin": "Files:Green",
+    "text": "Πράσινο"
+  },
+  "Group": {
+    "origin": "M2M100-418M-local",
+    "text": "Ομάδα"
+  },
+  "Group GID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ομάδα GID"
+  },
+  "Group ascending": {
+    "origin": "Files:GroupAscendingDescription",
+    "text": "Ταξινόμηση ομάδων σε αύξουσα σειρά"
+  },
+  "Group by": {
+    "origin": "Files:GroupBy",
+    "text": "Ομαδοποίηση κατά"
+  },
+  "Group by date unit": {
+    "origin": "Files:GroupByDateUnit",
+    "text": "Ομαδοποίηση κατά μονάδα ημερομηνίας"
+  },
+  "HTTPS Git operations can use a GitHub access token stored in your macOS Keychain. Choose the repositories and permissions when creating the token. Existing Git authentication remains in use when no MacFiles account is saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "HTTPS Git Οι λειτουργίες μπορούν να χρησιμοποιήσουν ένα token πρόσβασης GitHub που αποθηκεύεται στο δικό σας macOS KeychainΕπιλέξτε τα αποθέματα και τις άδειες κατά τη δημιουργία του token. Git Η πιστοποίηση παραμένει σε χρήση όταν δεν MacFiles Ο λογαριασμός σας αποθηκεύεται."
+  },
+  "Hard Link": {
+    "origin": "M2M100-418M-local",
+    "text": "Σκληρός σύνδεσμος"
+  },
+  "Hashes": {
+    "origin": "Files:Hashes",
+    "text": "Κατακερματισμοί"
+  },
+  "Hashes are available for a single file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Τα hashes είναι διαθέσιμα για ένα μόνο αρχείο."
+  },
+  "Header": {
+    "origin": "M2M100-418M-local",
+    "text": "ΚΕΦΑΛΑΙΟ"
+  },
+  "Help": {
+    "origin": "Files:Help",
+    "text": "Βοήθεια"
+  },
+  "Hidden": {
+    "origin": "Files:Hidden",
+    "text": "Κρυφό"
+  },
+  "Hidden files": {
+    "origin": "M2M100-418M-local",
+    "text": "Κρυμμένα αρχεία"
+  },
+  "History": {
+    "origin": "M2M100-418M-local",
+    "text": "Ιστορία"
+  },
+  "Home": {
+    "origin": "M2M100-418M-local",
+    "text": "Οίκος"
+  },
+  "Horizontal alignment": {
+    "origin": "Files:HorizontalAlignment",
+    "text": "Οριζόντια στοίχιση"
+  },
+  "IDE opened.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ΕΔΩ Ανοιχτό"
+  },
+  "Icon": {
+    "origin": "M2M100-418M-local",
+    "text": "ΙΚΟΝΟ"
+  },
+  "Icons": {
+    "origin": "M2M100-418M-local",
+    "text": "ΙΚΟΝΕΣ"
+  },
+  "Icons layout": {
+    "origin": "M2M100-418M-local",
+    "text": "ICO Λέσχη"
+  },
+  "Image alignment": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Φωτογραφία Σύνδεση"
+  },
+  "Image fit": {
+    "origin": "Files:ImageFit",
+    "text": "Προσαρμογή εικόνας"
+  },
+  "Import theme…": {
+    "origin": "M2M100-418M-local",
+    "text": "Το θέμα της εισαγωγής..."
+  },
+  "Imported. Apply to save.": {
+    "origin": "M2M100-418M-local",
+    "text": "Εισαγωγή - Εφαρμογή για την εξοικονόμηση"
+  },
+  "Import…": {
+    "origin": "M2M100-418M-local",
+    "text": "Εισαγωγή..."
+  },
+  "Incomplete archive listing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ανεπαρκής λίστα αρχείων."
+  },
+  "Increase size": {
+    "origin": "Files:IncreaseSize",
+    "text": "Αύξηση μεγέθους"
+  },
+  "Indexed document, image, audio, video and filesystem metadata supplied by Spotlight. Tags can be edited with the Tags tool.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Εισαγωγή εγγράφου, εικόνας, ήχου, βίντεο και μεταδεδομένων του συστήματος αρχείων που παρέχονται από SpotlightΟι ετικέτες μπορούν να επεξεργαστούν με το εργαλείο Tags."
+  },
+  "Indexed files updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Τα αρχεία που αναβαθμίζονται."
+  },
+  "Initialize": {
+    "origin": "M2M100-418M-local",
+    "text": "Πρωτοβουλία"
+  },
+  "Initialize repository here": {
+    "origin": "M2M100-418M-local",
+    "text": "Αρχίστε το αποθεματικό εδώ"
+  },
+  "Install certificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "Install certificate"
+  },
+  "Install font": {
+    "origin": "Files:InstallFont",
+    "text": "Install font"
+  },
+  "InstallCertificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "Install certificate"
+  },
+  "InstallFont": {
+    "origin": "Files:InstallFont",
+    "text": "Install font"
+  },
+  "Interval in seconds": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Διαστήματα σε δευτερόλεπτα"
+  },
+  "Invalid Base64 data.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ακυρώθηκαν τα δεδομένα Base64."
+  },
+  "Invalid SSH host or port.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Αναπηρία SSH Το λιμάνι ή το λιμάνι."
+  },
+  "Invalid archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Απαλλαγή αρχείων σκληρού συνδέσμου."
+  },
+  "Invalid archive link target.": {
+    "origin": "M2M100-418M-local",
+    "text": "Στόχος Αρχειοθέτησης Αρχειοθέτησης."
+  },
+  "Invalid extended media atom.": {
+    "origin": "M2M100-418M-local",
+    "text": "Αδυναμική επέκταση του ατόμου των μέσων ενημέρωσης."
+  },
+  "Invalid hard link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Δύσκολη σκληρή σύνδεση."
+  },
+  "Invalid key for %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Απαλλαγμένο κλειδί για %1$@."
+  },
+  "Invalid macOS ACL text. Preserve the !#acl 1 header and use valid entries.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Αναπηρία macOS ACL Διατηρήστε τον τίτλο #acl 1 και χρησιμοποιήστε έγκυρες εγγραφές."
+  },
+  "Invalid media atom header.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ανεπαρκής ατομικός επικεφαλής μέσων."
+  },
+  "Invalid media atom size.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ατομική μέτρηση ατομικού μεγέθους."
+  },
+  "Invalid media atom.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ατομική αναπηρία των μέσων ενημέρωσης."
+  },
+  "Invalid media file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ακυρωμένο αρχείο μέσων ενημέρωσης."
+  },
+  "Invalid name": {
+    "origin": "Files:InvalidTagNameWarning",
+    "text": "Μη έγκυρο όνομα"
+  },
+  "Invalid remote URL.": {
+    "origin": "M2M100-418M-local",
+    "text": "Απαγόρευση απομακρυσμένου URL."
+  },
+  "Invalid settings document.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Εγκυροποιημένο έγγραφο εγκατάστασης."
+  },
+  "Invalid tag metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Απαλλαγή των μεταδεδομένων."
+  },
+  "Invalid tag name or color.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Απαγόρευση ονόματος ή χρώματος."
+  },
+  "Invalid theme colors or appearance.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ακυρωμένο χρώμα ή εμφάνιση."
+  },
+  "Invalid volume size": {
+    "origin": "M2M100-418M-local",
+    "text": "Απαγόρευση μεγέθους"
+  },
+  "Invert selection": {
+    "origin": "Files:InvertSelection",
+    "text": "Αναστροφή επιλογής"
+  },
+  "Item properties": {
+    "origin": "M2M100-418M-local",
+    "text": "Ετικέτες Ιδιότητες"
+  },
+  "Items move into .MacFiles-Recovery on this server, including folder contents. Use Undo remote to restore them during this session.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Τα στοιχεία μετακινούνται .MacFiles-Recovery σε αυτόν τον διακομιστή, συμπεριλαμβανομένου του περιεχομένου φακέλου. χρησιμοποιήστε το Undo remote για να τα αποκαταστήσετε κατά τη διάρκεια αυτής της συνεδρίας."
+  },
+  "Keep MacFiles open": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Κρατήστε MacFiles Άνοιγμα"
+  },
+  "Keep both": {
+    "origin": "M2M100-418M-local",
+    "text": "Κρατήστε και τα δύο"
+  },
+  "Keep both creates numbered names. Replace moves previous versions to Trash and supports Undo. Folders are replaced as a whole.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Κρατήστε και τα δύο δημιουργεί αριθμημένα ονόματα. η αντικατάσταση μεταφέρει προηγούμενες εκδόσεις σε Trash και υποστηρίζει Undo. Τα φάκελα αντικαθίστανται συνολικά."
+  },
+  "Keep running after closing windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Συνεχίστε να τρέχετε μετά το κλείσιμο των παραθύρων"
+  },
+  "Keep window on top": {
+    "origin": "M2M100-418M-local",
+    "text": "Κρατήστε το παράθυρο πάνω"
+  },
+  "Keyboard shortcuts": {
+    "origin": "M2M100-418M-local",
+    "text": "Κλειδιά Κλειδιά"
+  },
+  "Keyboard shortcuts…": {
+    "origin": "M2M100-418M-local",
+    "text": "Κλειδιά κλειδιού..."
+  },
+  "Keywords (comma separated)": {
+    "origin": "M2M100-418M-local",
+    "text": "Λέξεις κλειδιά (όπως ξεχωριστά)"
+  },
+  "Kind": {
+    "origin": "Files:Type",
+    "text": "Τύπος"
+  },
+  "Label": {
+    "origin": "M2M100-418M-local",
+    "text": "Ετικέτες"
+  },
+  "Language": {
+    "origin": "Files:PropertyLanguage",
+    "text": "Γλώσσα"
+  },
+  "Large icons": {
+    "origin": "M2M100-418M-local",
+    "text": "Μεγάλες ΙΚΟΝΕΣ"
+  },
+  "Launch at login": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ξεκινήστε στο login"
+  },
+  "Layout": {
+    "origin": "Files:Layout",
+    "text": "Διάταξη"
+  },
+  "Left": {
+    "origin": "Files:Left",
+    "text": "Αριστερά"
+  },
+  "Let the current operation finish before quitting.": {
+    "origin": "M2M100-418M-local",
+    "text": "Αφήστε την τρέχουσα λειτουργία να τελειώσει πριν εγκαταλείψει."
+  },
+  "Libraries": {
+    "origin": "Files:SidebarLibraries",
+    "text": "Βιβλιοθήκες"
+  },
+  "Library": {
+    "origin": "Files:Library",
+    "text": "Βιβλιοθήκη"
+  },
+  "Library name": {
+    "origin": "M2M100-418M-local",
+    "text": "Βιβλιοθήκη όνομα"
+  },
+  "Library properties…": {
+    "origin": "M2M100-418M-local",
+    "text": "Ιδιότητες βιβλιοθήκης..."
+  },
+  "Library/Application Support/MacFiles/known_hosts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Βιβλιοθήκη / Υποστήριξη εφαρμογώνMacFilesΓνωστός / Hosts"
+  },
+  "Library/Mobile Documents": {
+    "origin": "M2M100-418M-local",
+    "text": "Βιβλιοθήκη / κινητά έγγραφα"
+  },
+  "Library/Mobile Documents/com~apple~CloudDocs": {
+    "origin": "M2M100-418M-local",
+    "text": "Βιβλιοθήκη/Mobile Documents/com~apple~CloudDocs"
+  },
+  "Light": {
+    "origin": "Files:LightTheme",
+    "text": "Ανοιχτό"
+  },
+  "Link target": {
+    "origin": "M2M100-418M-local",
+    "text": "Στόχος Link"
+  },
+  "List": {
+    "origin": "Files:List",
+    "text": "Λίστα"
+  },
+  "List folders before files": {
+    "origin": "M2M100-418M-local",
+    "text": "Λίστα φακέλων πριν από τα αρχεία"
+  },
+  "Loading…": {
+    "origin": "Files:Loading",
+    "text": "Φόρτωση..."
+  },
+  "Local": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Τοπική"
+  },
+  "Local download removal requested.": {
+    "origin": "M2M100-418M-local",
+    "text": "Τοποθετημένη απομάκρυνση κατόπιν αιτήματος."
+  },
+  "Local file": {
+    "origin": "M2M100-418M-local",
+    "text": "Τοπικό αρχείο"
+  },
+  "Location": {
+    "origin": "Files:Location",
+    "text": "Τοποθεσία:"
+  },
+  "Lock screen and wallpaper settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Κλείσιμο οθόνης και ταπετσαρία ρυθμίσεις..."
+  },
+  "Locked": {
+    "origin": "M2M100-418M-local",
+    "text": "Κλειδωμένο"
+  },
+  "Macintosh HD": {
+    "origin": "M2M100-418M-local",
+    "text": "Μακιγιάζ HD"
+  },
+  "Make alias": {
+    "origin": "M2M100-418M-local",
+    "text": "Κάντε το alias"
+  },
+  "Make alias…": {
+    "origin": "M2M100-418M-local",
+    "text": "Κάντε το alias..."
+  },
+  "Manage account in provider app": {
+    "origin": "M2M100-418M-local",
+    "text": "Διαχείριση λογαριασμού στην εφαρμογή προμηθευτή"
+  },
+  "Manage cloud accounts…": {
+    "origin": "M2M100-418M-local",
+    "text": "Διαχείριση λογαριασμών cloud..."
+  },
+  "Manage tags": {
+    "origin": "Files:ManageTags",
+    "text": "Διαχείριση ετικετών"
+  },
+  "Maximum bytes": {
+    "origin": "M2M100-418M-local",
+    "text": "Μέγιστο Μπάτι"
+  },
+  "Media export did not complete.": {
+    "origin": "M2M100-418M-local",
+    "text": "Η εξαγωγή των μέσων ενημέρωσης δεν ολοκληρώθηκε."
+  },
+  "Media metadata is too large.": {
+    "origin": "M2M100-418M-local",
+    "text": "Τα μεταδεδομένα των μέσων ενημέρωσης είναι πολύ μεγάλα."
+  },
+  "Medium icons": {
+    "origin": "M2M100-418M-local",
+    "text": "Μειονεκτήματα ICO"
+  },
+  "Minimize": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Μίνιμα"
+  },
+  "Minimum bytes": {
+    "origin": "M2M100-418M-local",
+    "text": "Μινιμίνι Μπάτι"
+  },
+  "Minimum size exceeds maximum size.": {
+    "origin": "M2M100-418M-local",
+    "text": "Το ελάχιστο μέγεθος υπερβαίνει το μέγιστο μέγεθος."
+  },
+  "Mode": {
+    "origin": "M2M100-418M-local",
+    "text": "Μόδα"
+  },
+  "Modified": {
+    "origin": "Files:Modified",
+    "text": "Τροποποιήθηκε"
+  },
+  "Modified after": {
+    "origin": "M2M100-418M-local",
+    "text": "Αλλαγή μετά"
+  },
+  "Month": {
+    "origin": "Files:Month",
+    "text": "Μήνας"
+  },
+  "More actions": {
+    "origin": "M2M100-418M-local",
+    "text": "Περισσότερες δράσεις"
+  },
+  "Mount share…": {
+    "origin": "M2M100-418M-local",
+    "text": "Η ΜΟΡΤΙΑ ΜΕΣΑ..."
+  },
+  "Mounted network locations appear here. Connect to a server to browse another location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Οι τοποθεσίες δικτύου που τοποθετούνται εμφανίζονται εδώ. Συνδεθείτε σε έναν διακομιστή για να περιηγηθείτε σε άλλη τοποθεσία."
+  },
+  "Move %1$@ remote items to recovery?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Κινούμε %1$@ Απομακρυσμένα αντικείμενα για ανάκαμψη;"
+  },
+  "Move %1$@ to Trash?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Κινούμε %1$@ Για να σπάσει;"
+  },
+  "Move here": {
+    "origin": "Files:PinToSidebarByDraggingCaptionText",
+    "text": "Μετακίνηση εδώ"
+  },
+  "Move nested files to this folder. Existing names and symbolic links are left in place. Empty subfolders go to Trash. You can undo this operation.": {
+    "origin": "M2M100-418M-local",
+    "text": "Μετακινήστε τα αποστειρωμένα αρχεία σε αυτό το φάκελο. Τα υπάρχοντα ονόματα και οι συμβολικές συνδέσεις παραμένουν στη θέση τους. Αδειά υποδιαγράμματα πηγαίνουν στο Trash. Μπορείτε να αφαιρέσετε αυτή τη λειτουργία."
+  },
+  "Move to Trash": {
+    "origin": "M2M100-418M-local",
+    "text": "Μετακίνηση στο Τράις"
+  },
+  "Move to Trash…": {
+    "origin": "M2M100-418M-local",
+    "text": "Να μετακινηθείς..."
+  },
+  "Move to recovery": {
+    "origin": "M2M100-418M-local",
+    "text": "Μετακίνηση στην ανάκαμψη"
+  },
+  "Move to recovery folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Μετακίνηση στην αποκατάσταση φάκελο..."
+  },
+  "Movies": {
+    "origin": "M2M100-418M-local",
+    "text": "Κινηματογραφίες"
+  },
+  "Moving": {
+    "origin": "M2M100-418M-local",
+    "text": "Μετακίνηση"
+  },
+  "Moving files": {
+    "origin": "M2M100-418M-local",
+    "text": "Μετακίνηση αρχείων"
+  },
+  "Moving to Trash": {
+    "origin": "M2M100-418M-local",
+    "text": "Πηγαίνετε στο Τράις"
+  },
+  "Multiple items": {
+    "origin": "M2M100-418M-local",
+    "text": "Πολλαπλά αντικείμενα"
+  },
+  "Music": {
+    "origin": "Files:Music",
+    "text": "Μουσική"
+  },
+  "My MacFiles theme": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ΜΟΥ MacFiles Θέμα"
+  },
+  "My library": {
+    "origin": "M2M100-418M-local",
+    "text": "Η βιβλιοθήκη μου"
+  },
+  "My search": {
+    "origin": "M2M100-418M-local",
+    "text": "Η αναζήτηση μου"
+  },
+  "Name": {
+    "origin": "Files:NameWithColon",
+    "text": "Όνομα:"
+  },
+  "Native macOS extended attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ΓΕΝΙΚΟΙ macOS Επέκταση χαρακτηριστικών"
+  },
+  "Natural language search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Αναζήτηση φυσικής γλώσσας"
+  },
+  "Navigate": {
+    "origin": "M2M100-418M-local",
+    "text": "Ναυτιλία"
+  },
+  "Network": {
+    "origin": "Files:Network",
+    "text": "Δίκτυο"
+  },
+  "New": {
+    "origin": "Files:BaseLayoutContextFlyoutNew.Label",
+    "text": "Δημιουργία"
+  },
+  "New archive file": {
+    "origin": "M2M100-418M-local",
+    "text": "Νέα αρχεία"
+  },
+  "New archive folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Νέο αρχείο φάκελο"
+  },
+  "New branch": {
+    "origin": "Files:NewBranch",
+    "text": "Νέα διακλάδωση"
+  },
+  "New file from template": {
+    "origin": "M2M100-418M-local",
+    "text": "Νέο αρχείο από το πρότυπο"
+  },
+  "New folder": {
+    "origin": "Files:NewFolder",
+    "text": "Νέος φάκελος"
+  },
+  "New folder…": {
+    "origin": "Files:NewFolder",
+    "text": "Νέος φάκελος"
+  },
+  "New from template": {
+    "origin": "M2M100-418M-local",
+    "text": "Νέα από τον Ναό"
+  },
+  "New from template…": {
+    "origin": "M2M100-418M-local",
+    "text": "Νέα από τον Ναό..."
+  },
+  "New name": {
+    "origin": "M2M100-418M-local",
+    "text": "Νέο όνομα"
+  },
+  "New remote file": {
+    "origin": "M2M100-418M-local",
+    "text": "Νέα απομακρυσμένα αρχεία"
+  },
+  "New remote folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Νέα απομακρυσμένη φάκελο"
+  },
+  "New tab": {
+    "origin": "Files:NewTab",
+    "text": "Νέα καρτέλα"
+  },
+  "New tab · ⌘T": {
+    "origin": "Files:NewTab",
+    "text": "Νέα καρτέλα · ⌘T"
+  },
+  "New text file": {
+    "origin": "M2M100-418M-local",
+    "text": "Νέο αρχείο κειμένου"
+  },
+  "New text file…": {
+    "origin": "M2M100-418M-local",
+    "text": "Νέο αρχείο κειμένου..."
+  },
+  "New window": {
+    "origin": "Files:NewWindow",
+    "text": "Νέο παράθυρο"
+  },
+  "Next layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Επόμενο Λέιουτ"
+  },
+  "Next tab": {
+    "origin": "M2M100-418M-local",
+    "text": "Επόμενο TAB"
+  },
+  "No": {
+    "origin": "Files:No",
+    "text": "Όχι"
+  },
+  "No IDE selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Δεν επιλέγεται"
+  },
+  "No application could open ‘%1$@’.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Καμία αίτηση δεν μπορεί να ανοίξει»%1$@’."
+  },
+  "No archive entry was extracted.": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν έχει αποσυρθεί κανένα αρχείο."
+  },
+  "No archive is open.": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν ανοίγει κανένα αρχείο."
+  },
+  "No archive was produced.": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν παράγεται κανένα αρχείο."
+  },
+  "No commits yet": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν δεσμεύονται ακόμα"
+  },
+  "No files were extracted.": {
+    "origin": "M2M100-418M-local",
+    "text": "Κανένα αρχείο δεν εξάγεται."
+  },
+  "No matching items": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν ταιριάζουν τα αντικείμενα"
+  },
+  "No movie header was found.": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν βρέθηκε ο τίτλος ταινίας."
+  },
+  "No operations recorded.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Δεν καταγράφονται επιχειρήσεις."
+  },
+  "No readable macOS code signature.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Δεν διαβάζεται macOS Κώδικας υπογραφής .\n\n"
+  },
+  "No selection": {
+    "origin": "M2M100-418M-local",
+    "text": "Καμία επιλογή"
+  },
+  "No settings match your search.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Δεν υπάρχουν ρυθμίσεις που να ταιριάζουν με την αναζήτηση σας."
+  },
+  "No tracked diff. New files appear after staging.": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν παρακολουθείται diff. νέα αρχεία εμφανίζονται μετά την αποσπάση."
+  },
+  "None": {
+    "origin": "Files:CompressionLevelNone",
+    "text": "Κανένα"
+  },
+  "Not enough free space to finish extraction.": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν υπάρχει αρκετός ελεύθερος χώρος για την ολοκλήρωση της εκχύλισης."
+  },
+  "Not managed by a detected cloud provider": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν διαχειρίζεται ένας εντοπισμένος πάροχος cloud"
+  },
+  "Not used": {
+    "origin": "M2M100-418M-local",
+    "text": "Δεν χρησιμοποιείται"
+  },
+  "Numbered names": {
+    "origin": "M2M100-418M-local",
+    "text": "Αριθμητικά ονόματα"
+  },
+  "OK": {
+    "origin": "Files:OK",
+    "text": "ΟΚ"
+  },
+  "Older": {
+    "origin": "M2M100-418M-local",
+    "text": "ΓΕΡΝΑ"
+  },
+  "Online only": {
+    "origin": "M2M100-418M-local",
+    "text": "Μόνο online"
+  },
+  "Only an uploaded iCloud file without conflicts can have its local download removed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Μόνο ένα ανεβάσιμο iCloud Το αρχείο χωρίς συγκρούσεις μπορεί να έχει την τοπική λήψη αφαιρεθεί."
+  },
+  "Only images can be rotated.": {
+    "origin": "M2M100-418M-local",
+    "text": "Μόνο οι εικόνες μπορούν να περιστρέφονται."
+  },
+  "Open": {
+    "origin": "Files:Open",
+    "text": "Άνοιγμα"
+  },
+  "Open / Preview": {
+    "origin": "M2M100-418M-local",
+    "text": "Ανοιχτό / Προβλέψεις"
+  },
+  "Open Login Items settings": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ανοίξτε τις ρυθμίσεις στοιχείων σύνδεσης"
+  },
+  "Open MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Άνοιγμα MacFiles"
+  },
+  "Open System Settings for iCloud": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ανοιχτές ρυθμίσεις για iCloud"
+  },
+  "Open a repository, initialize this folder, or clone a repository.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ανοίξτε ένα αποθηκευτικό, ξεκινήστε αυτό το φάκελο ή κλωνοποιήστε ένα αποθηκευτικό."
+  },
+  "Open all folders in tabs": {
+    "origin": "M2M100-418M-local",
+    "text": "Ανοίξτε όλα τα φάκελα σε καρτέλες"
+  },
+  "Open containing folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Ανοιχτό φάκελο περιεχομένου"
+  },
+  "Open external folders in new windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ανοίξτε εξωτερικά φακέλους σε νέα παράθυρα"
+  },
+  "Open file location": {
+    "origin": "Files:OpenFileLocation",
+    "text": "Άνοιγμα θέσης αρχείου"
+  },
+  "Open folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Ανοιχτό φάκελο"
+  },
+  "Open folders in new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ανοίξτε φακέλους σε νέες καρτέλες"
+  },
+  "Open folder…": {
+    "origin": "M2M100-418M-local",
+    "text": "Ανοιχτό φάκελο..."
+  },
+  "Open in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ανοιχτό στο IDE"
+  },
+  "Open in IDE uses the selected application. Open repository in IDE resolves the Git repository root first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Το Open in IDE χρησιμοποιεί την επιλεγμένη εφαρμογή. το Open repository in IDE επιλύει το Git Πρώτα η ρίζα."
+  },
+  "Open in Terminal": {
+    "origin": "M2M100-418M-local",
+    "text": "Ανοιχτό στο Τερματικό"
+  },
+  "Open in new tab": {
+    "origin": "Files:OpenInNewTab",
+    "text": "Άνοιγμα σε νέα καρτέλα"
+  },
+  "Open in new window": {
+    "origin": "Files:OpenInNewWindow",
+    "text": "Άνοιγμα σε νέο παράθυρο"
+  },
+  "Open in other pane": {
+    "origin": "M2M100-418M-local",
+    "text": "Ανοιχτό σε άλλα κέντρα"
+  },
+  "Open log file": {
+    "origin": "Files:OpenLogFile",
+    "text": "Open log file"
+  },
+  "Open new tabs with dual panes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ανοίξτε νέες καρτέλες με διπλά πάνελ"
+  },
+  "Open repository in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ανοιχτό αποθηκευτικό σε IDE"
+  },
+  "Open selection": {
+    "origin": "M2M100-418M-local",
+    "text": "Ανοιχτή επιλογή"
+  },
+  "Open target folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Ανοιχτό στόχο φάκελο"
+  },
+  "Open with": {
+    "origin": "Files:OpenWith",
+    "text": "Άνοιγμα με"
+  },
+  "Open with application": {
+    "origin": "M2M100-418M-local",
+    "text": "Ανοιχτό με αίτηση"
+  },
+  "Open with application…": {
+    "origin": "M2M100-418M-local",
+    "text": "Ανοιχτό με αίτηση..."
+  },
+  "Open with…": {
+    "origin": "Files:OpenWith",
+    "text": "Άνοιγμα με"
+  },
+  "Open-ended media atoms require remuxing before editing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Τα ατόματα ανοικτών μέσων απαιτούν αναμνησμό πριν από την επεξεργασία."
+  },
+  "OpenAllTaggedItems": {
+    "origin": "Files:OpenAllTaggedItems",
+    "text": "Άνοιγμα όλων"
+  },
+  "OpenLogFile": {
+    "origin": "Files:OpenLogFile",
+    "text": "Open log file"
+  },
+  "Operation completed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Η επιχείρηση ολοκληρώθηκε."
+  },
+  "Operation failed": {
+    "origin": "M2M100-418M-local",
+    "text": "Η επιχείρηση αποτύχει"
+  },
+  "Operations": {
+    "origin": "M2M100-418M-local",
+    "text": "Επιχειρήσεις"
+  },
+  "Operations (%1$@ queued)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Οι επιχειρήσεις (%1$@ ΠΟΔΟΣ)"
+  },
+  "Operations…": {
+    "origin": "M2M100-418M-local",
+    "text": "Επιχειρήσεις..."
+  },
+  "Orange": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ΟΡΓΑΝΑ"
+  },
+  "Original location": {
+    "origin": "M2M100-418M-local",
+    "text": "Αρχική τοποθεσία"
+  },
+  "Original locations are remembered for items deleted by MacFiles, including across launches.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Οι αρχικές τοποθεσίες θυμούνται για αντικείμενα που διαγράφονται από MacFilesσυμπεριλαμβανομένων των εκτοξευτών."
+  },
+  "Original name": {
+    "origin": "M2M100-418M-local",
+    "text": "Πρωτότυπο όνομα"
+  },
+  "Overcast": {
+    "origin": "Files:Overcast",
+    "text": "Νεφελώδης"
+  },
+  "Owner": {
+    "origin": "Files:PropertyFileOwner",
+    "text": "Ιδιοκτήτης"
+  },
+  "Owner UID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ιδιοκτήτης UID"
+  },
+  "Ownership updated.": {
+    "origin": "M2M100-418M-local",
+    "text": "Η ιδιοκτησία ενημερώνεται."
+  },
+  "POSIX permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "POSIX Δικαιώματα"
+  },
+  "Password": {
+    "origin": "Files:Password",
+    "text": "Κωδικός πρόσβασης"
+  },
+  "Password (optional, AES-256)": {
+    "origin": "M2M100-418M-local",
+    "text": "Κωδικός πρόσβασης (επιλεγμένο, AES-256)"
+  },
+  "Password / key passphrase (optional)": {
+    "origin": "M2M100-418M-local",
+    "text": "Λογαριασμός / κλειδί (επιλεκτικά)"
+  },
+  "Password protection is supported for ZIP archives.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Η προστασία του κωδικού πρόσβασης υποστηρίζεται για ZIP Αρχεία ."
+  },
+  "Paste": {
+    "origin": "Files:Paste",
+    "text": "Επικόλληση"
+  },
+  "Paste and drop transfers queue behind the current operation. Completed changes remain available through Undo. Copy cancellation stops the staged transfer before publishing it. Undo history is restored across launches.": {
+    "origin": "M2M100-418M-local",
+    "text": "Πατήστε και ρίξτε τις μεταβιβάσεις πίσω από την τρέχουσα λειτουργία. Οι ολοκληρωμένες αλλαγές παραμένουν διαθέσιμες μέσω Undo. Η ακύρωση αντιγράφων σταματά τη μεταβίβαση πριν από τη δημοσίευσή της. Η ιστορία Undo αποκαταστάθηκε σε όλες τις εκδόσεις."
+  },
+  "Paste files": {
+    "origin": "M2M100-418M-local",
+    "text": "Πάρτε τα αρχεία"
+  },
+  "Paste shortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "Επικόλληση συντόμευσης"
+  },
+  "Paste the files into a permanent folder before creating aliases to them.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Βάλτε τα αρχεία σε ένα μόνιμο φάκελο πριν δημιουργήσετε συμμαχίες για αυτά."
+  },
+  "PasteItemToSelectionDescription": {
+    "origin": "Files:PasteItemToSelectionDescription",
+    "text": "Paste items to the selected folder"
+  },
+  "PasteShortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "Επικόλληση συντόμευσης"
+  },
+  "Path": {
+    "origin": "Files:ExtractToPath",
+    "text": "Διαδρομή"
+  },
+  "Pattern": {
+    "origin": "M2M100-418M-local",
+    "text": "Μοντέλο"
+  },
+  "Permanently delete %1$@ items?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Μόνιμα διαγράψτε %1$@ Τα αντικείμενα;"
+  },
+  "Permissions": {
+    "origin": "Files:Permissions",
+    "text": "Δικαιώματα"
+  },
+  "Permissions are enforced by the server. FTP servers must support SITE CHMOD; SFTP uses SSH permissions.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Οι άδειες επιβάλλονται από τον διακομιστή. FTP Οι διακομιστές πρέπει να υποστηρίζουν τον ιστότοπο CHMOD. SFTP Χρησιμοποιεί SSH Δικαιώματα"
+  },
+  "Permissions are stored in the archive. Changes rebuild it and support Undo.": {
+    "origin": "M2M100-418M-local",
+    "text": "Οι άδειες αποθηκεύονται στο αρχείο. οι αλλαγές ανακατασκευάζουν και υποστηρίζουν το Undo."
+  },
+  "Permissions updated.": {
+    "origin": "M2M100-418M-local",
+    "text": "Αναβαθμίζονται οι άδειες."
+  },
+  "Permissions…": {
+    "origin": "Files:Permissions",
+    "text": "Δικαιώματα"
+  },
+  "Pick up where you left off": {
+    "origin": "M2M100-418M-local",
+    "text": "Πάρτε το μέρος που αφήσατε"
+  },
+  "Pictures": {
+    "origin": "Files:Pictures",
+    "text": "Εικόνες"
+  },
+  "Pin this folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Πίντε αυτό το φάκελο"
+  },
+  "Pin to sidebar": {
+    "origin": "Files:PinFolderToSidebar",
+    "text": "Καρφίτσωμα στην Πλαϊνή μπάρα"
+  },
+  "Pinned": {
+    "origin": "Files:Pinned",
+    "text": "Καρφιτσωμένα"
+  },
+  "Pinned folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Πινέζικο φάκελο"
+  },
+  "Play All": {
+    "origin": "Files:PlayAll",
+    "text": "Play All"
+  },
+  "PlayAll": {
+    "origin": "Files:PlayAll",
+    "text": "Play All"
+  },
+  "Port": {
+    "origin": "M2M100-418M-local",
+    "text": "Πορτογαλία"
+  },
+  "Preparing copy": {
+    "origin": "M2M100-418M-local",
+    "text": "Προετοιμασία αντιγράφων"
+  },
+  "Preparing move": {
+    "origin": "M2M100-418M-local",
+    "text": "Προετοιμασία κίνησης"
+  },
+  "Presentation is saved with this virtual location.": {
+    "origin": "M2M100-418M-local",
+    "text": "Η παρουσίαση αποθηκεύεται με αυτή την εικονική τοποθεσία."
+  },
+  "Press the shortcut…": {
+    "origin": "M2M100-418M-local",
+    "text": "Πιέστε το σύντομο..."
+  },
+  "Preview": {
+    "origin": "Files:Preview",
+    "text": "Προεπισκόπηση"
+  },
+  "Previous layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Προηγούμενο Layout"
+  },
+  "Previous tab": {
+    "origin": "M2M100-418M-local",
+    "text": "Προηγούμενο TAB"
+  },
+  "Properties": {
+    "origin": "Files:OpenProperties",
+    "text": "Ιδιότητες"
+  },
+  "Properties…": {
+    "origin": "Files:OpenProperties",
+    "text": "Ιδιότητες"
+  },
+  "Property": {
+    "origin": "M2M100-418M-local",
+    "text": "ιδιοκτησία"
+  },
+  "Protocol": {
+    "origin": "M2M100-418M-local",
+    "text": "Πρωτόκολλο"
+  },
+  "Provider controls in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ο πάροχος ελέγχει την Finder"
+  },
+  "Pull": {
+    "origin": "M2M100-418M-local",
+    "text": "ΠΟΥΛ"
+  },
+  "Purple": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Πούρλας"
+  },
+  "Push": {
+    "origin": "M2M100-418M-local",
+    "text": "Πούσκα"
+  },
+  "Queued": {
+    "origin": "M2M100-418M-local",
+    "text": "ΠΡΟΣΚΛΗΨΗ"
+  },
+  "Quick access": {
+    "origin": "Files:QuickAccess",
+    "text": "Γρήγορη πρόσβαση"
+  },
+  "Quit MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Έξοδος MacFiles"
+  },
+  "Readable": {
+    "origin": "M2M100-418M-local",
+    "text": "Διαβάσιμη"
+  },
+  "Recent files": {
+    "origin": "Files:RecentFiles",
+    "text": "Πρόσφατα αρχεία"
+  },
+  "Recent folders": {
+    "origin": "M2M100-418M-local",
+    "text": "Πρόσφατες φάκελοι"
+  },
+  "Reconnect to the same server and account, then retry Undo. The remote recovery data remains in .MacFiles-Recovery.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Επανασυνδεθείτε στον ίδιο διακομιστή και τον λογαριασμό, στη συνέχεια ανακαλέστε Undo. τα δεδομένα απομακρυσμένης ανάκτησης παραμένουν στο .MacFiles-Recovery."
+  },
+  "Record shortcut": {
+    "origin": "M2M100-418M-local",
+    "text": "Κορυφαία ρεκόρ"
+  },
+  "Red": {
+    "origin": "Files:Red",
+    "text": "Κόκκινο"
+  },
+  "Redo": {
+    "origin": "Files:Redo",
+    "text": "Επανάληψη"
+  },
+  "Redo file operation": {
+    "origin": "M2M100-418M-local",
+    "text": "Επεξεργασία αρχείων"
+  },
+  "Redoing": {
+    "origin": "M2M100-418M-local",
+    "text": "Μείωση"
+  },
+  "Refresh": {
+    "origin": "Files:Refresh",
+    "text": "Ανανέωση"
+  },
+  "Refresh · ⌘R": {
+    "origin": "Files:Refresh",
+    "text": "Ανανέωση · ⌘R"
+  },
+  "Regular expression": {
+    "origin": "M2M100-418M-local",
+    "text": "Τακτική έκφραση"
+  },
+  "Release notes": {
+    "origin": "Files:ReleaseNotes",
+    "text": "Σημειώσεις έκδοσης"
+  },
+  "Reload": {
+    "origin": "M2M100-418M-local",
+    "text": "ΡΕΦΑΛΙΣΜΟΣ"
+  },
+  "Remember password in Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Θυμηθείτε τον κωδικό πρόσβασης στο Keychain"
+  },
+  "Remote operation on %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Η απομακρυσμένη λειτουργία %1$@"
+  },
+  "Remote path": {
+    "origin": "M2M100-418M-local",
+    "text": "Απομακρυσμένος δρόμος"
+  },
+  "Remote paths cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Οι απομακρυσμένες διαδρομές δεν μπορούν να περιέχουν γραμμικές διακοπές ή NUL χαρακτήρες ."
+  },
+  "Remotes": {
+    "origin": "Files:Remotes",
+    "text": "Απομακρυσμένα"
+  },
+  "Remove": {
+    "origin": "Files:Remove",
+    "text": "Αφαίρεση"
+  },
+  "Remove attribute…": {
+    "origin": "M2M100-418M-local",
+    "text": "Αφαιρέστε τα χαρακτηριστικά..."
+  },
+  "Remove background image": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Αφαιρέστε το φόντο"
+  },
+  "Remove download": {
+    "origin": "M2M100-418M-local",
+    "text": "Αφαιρέστε το download"
+  },
+  "Remove entries…": {
+    "origin": "M2M100-418M-local",
+    "text": "Αφαίρεση εισιτηρίων..."
+  },
+  "Remove from archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Αφαίρεση από τα αρχεία"
+  },
+  "Remove library": {
+    "origin": "M2M100-418M-local",
+    "text": "Αφαιρέστε τη βιβλιοθήκη"
+  },
+  "Remove local download…": {
+    "origin": "M2M100-418M-local",
+    "text": "Κατεβάστε το τοπικό download..."
+  },
+  "Remove references": {
+    "origin": "M2M100-418M-local",
+    "text": "Αφαιρέστε τις αναφορές"
+  },
+  "Remove saved credentials": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Απομάκρυνση αποθηκευμένων πιστοποιητικών"
+  },
+  "Remove saved folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Απομάκρυνση αποθηκευμένου φακέλου"
+  },
+  "Remove saved search": {
+    "origin": "M2M100-418M-local",
+    "text": "Απομάκρυνση αποθηκευμένης αναζήτησης"
+  },
+  "Remove selected entries from the archive?": {
+    "origin": "M2M100-418M-local",
+    "text": "Αφαιρέστε τις επιλεγμένες εγγραφές από το αρχείο;"
+  },
+  "Remove tags": {
+    "origin": "Files:RemoveTags",
+    "text": "Remove tags"
+  },
+  "Remove the local download?": {
+    "origin": "M2M100-418M-local",
+    "text": "Απομακρύνετε την τοπική λήψη;"
+  },
+  "Remove ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Αφαίρεση »%1$@’?"
+  },
+  "RemoveTags": {
+    "origin": "Files:RemoveTags",
+    "text": "Remove tags"
+  },
+  "Removing tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Αφαίρεση ετικετών"
+  },
+  "Rename": {
+    "origin": "Files:Rename",
+    "text": "Μετονομασία"
+  },
+  "Rename %1$@ items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Αναμνησμός %1$@ Ετικέτες"
+  },
+  "Rename archive entry": {
+    "origin": "M2M100-418M-local",
+    "text": "Εισαγωγή αρχείων"
+  },
+  "Rename entry…": {
+    "origin": "M2M100-418M-local",
+    "text": "Εισαγωγικό όνομα..."
+  },
+  "Rename failed. Your item is preserved at %1$@. %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Το όνομα αποτυγχάνει. το στοιχείο σας διατηρείται στο %1$@. %2$@"
+  },
+  "Rename remote item": {
+    "origin": "M2M100-418M-local",
+    "text": "Ανακαλεί απομακρυσμένα αντικείμενα"
+  },
+  "Rename…": {
+    "origin": "Files:Rename",
+    "text": "Μετονομασία"
+  },
+  "Renaming": {
+    "origin": "M2M100-418M-local",
+    "text": "Ανακαίνιση"
+  },
+  "Renaming items": {
+    "origin": "M2M100-418M-local",
+    "text": "Ανακαίνιση αντικειμένων"
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Finder uses the macOS palette; custom colors and stable IDs are retained by MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ανακαίνιση ή διαγραφή ενός αποθηκευμένου ετικέτα ενημερώσεις αρχείων που βρέθηκαν από SpotlightΤα μη ενδεικτικά ή μη προσβάσιμα αρχεία μπορεί να διατηρούν την παλιά ετικέτα. Finder Χρησιμοποιεί το macOS παλέτα, τα προσαρμοσμένα χρώματα και οι σταθερές αναγνωριστικές ταυτότητες διατηρούνται από MacFiles."
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Tag colors use the macOS palette.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ανακαίνιση ή διαγραφή ενός αποθηκευμένου ετικέτα ενημερώσεις αρχείων που βρέθηκαν από Spotlight.Unindexed ή inaccessible αρχεία μπορεί να διατηρήσει την παλιά ετικέτα. macOS Παλίτα"
+  },
+  "Reopen closed tab": {
+    "origin": "M2M100-418M-local",
+    "text": "Επανακλεισμένος Κλειστός Κλειστός"
+  },
+  "Replace": {
+    "origin": "M2M100-418M-local",
+    "text": "Αντικατάσταση"
+  },
+  "Replace this item's ACL?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Αντικαταστήστε αυτό το στοιχείο ACL?"
+  },
+  "Replace with": {
+    "origin": "M2M100-418M-local",
+    "text": "Αντικαταστήστε με"
+  },
+  "Replace, keeping backup": {
+    "origin": "M2M100-418M-local",
+    "text": "Αντικατάσταση, διατήρηση αντιγράφων ασφαλείας"
+  },
+  "Report an issue": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Αναφέρετε ένα θέμα"
+  },
+  "Repository": {
+    "origin": "M2M100-418M-local",
+    "text": "Αποκατάσταση"
+  },
+  "Repository URL": {
+    "origin": "M2M100-418M-local",
+    "text": "Ετικέτες URL"
+  },
+  "Requesting cloud download": {
+    "origin": "M2M100-418M-local",
+    "text": "Κατεβάστε το Cloud"
+  },
+  "Reset": {
+    "origin": "M2M100-418M-local",
+    "text": "Επαναφορά"
+  },
+  "Reset all": {
+    "origin": "M2M100-418M-local",
+    "text": "Ανακαλύψτε όλα"
+  },
+  "Reset icon": {
+    "origin": "M2M100-418M-local",
+    "text": "Επαναφορά Icon"
+  },
+  "Reset pinned folders": {
+    "origin": "M2M100-418M-local",
+    "text": "Ανακαλύψτε τα αρχεία"
+  },
+  "Restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Επανεκκίνηση MacFiles"
+  },
+  "Restore all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Επαναφορά όλων"
+  },
+  "Restore command defaults": {
+    "origin": "M2M100-418M-local",
+    "text": "Επαναφορά παραγραφών εντολών"
+  },
+  "Restore here": {
+    "origin": "M2M100-418M-local",
+    "text": "ΕΠΙΣΤΡΟΦΗ ΕΔΩ"
+  },
+  "Restore original location": {
+    "origin": "M2M100-418M-local",
+    "text": "Αποκαταστήστε την αρχική τοποθεσία"
+  },
+  "Restore previous folder viewer": {
+    "origin": "M2M100-418M-local",
+    "text": "Αποκατάσταση προηγούμενου φακέλου προβολής"
+  },
+  "Restore tabs at launch": {
+    "origin": "M2M100-418M-local",
+    "text": "Επαναφορά των καρτών στην εκκίνηση"
+  },
+  "Restore to…": {
+    "origin": "M2M100-418M-local",
+    "text": "Επαναφορά στο..."
+  },
+  "Restoring from Trash": {
+    "origin": "M2M100-418M-local",
+    "text": "Επαναφορά από την Τραχ"
+  },
+  "Results come from the macOS Spotlight index. Unindexed folders are not included.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Τα αποτελέσματα προέρχονται από την macOS Spotlight Δείκτης: Δεν συμπεριλαμβάνονται αδιαίρετες φάκελοι."
+  },
+  "Results in this folder and subfolders": {
+    "origin": "M2M100-418M-local",
+    "text": "Αποτελέσματα σε αυτό το φάκελο και υποκαταστήματα"
+  },
+  "Retargeting shortcut": {
+    "origin": "M2M100-418M-local",
+    "text": "Επαναφορά βραχυκύκλωσης"
+  },
+  "Retarget…": {
+    "origin": "M2M100-418M-local",
+    "text": "Επαναφορά..."
+  },
+  "Reveal": {
+    "origin": "M2M100-418M-local",
+    "text": "Αποκάλυψη"
+  },
+  "Reveal in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ανακαλύψτε στο Finder"
+  },
+  "Reverse tab scroll direction": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Επέστρεψε την κατεύθυνση"
+  },
+  "Review server fingerprint…": {
+    "origin": "M2M100-418M-local",
+    "text": "Δείκτης δακτυλικών αποτυπωμάτων server..."
+  },
+  "Right": {
+    "origin": "Files:Right",
+    "text": "Δεξιά"
+  },
+  "Rotate left": {
+    "origin": "Files:RotateLeft",
+    "text": "Περιστροφή αριστερά"
+  },
+  "Rotate right": {
+    "origin": "Files:RotateRight",
+    "text": "Περιστροφή δεξιά"
+  },
+  "Rotating left": {
+    "origin": "M2M100-418M-local",
+    "text": "Ρυθμίσεις Αριστερά"
+  },
+  "Rotating right": {
+    "origin": "M2M100-418M-local",
+    "text": "Ρυθμίσεις δεξιά"
+  },
+  "Running": {
+    "origin": "M2M100-418M-local",
+    "text": "τρέξιμο"
+  },
+  "SFTP (SSH keys)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SFTP (SSH Κλειδιά )"
+  },
+  "SMB, AFP, or WebDAV share": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SMB, AFPή WebDAV Κοινή χρήση"
+  },
+  "SSH known-host verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH Γνωστός-χρήστης επαλήθευση"
+  },
+  "SSH passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH Οι κωδικοί πρόσβασης δεν μπορούν να περιέχουν γραμμικές διακοπές ή NUL χαρακτήρες ."
+  },
+  "Save": {
+    "origin": "Files:Save",
+    "text": "Αποθήκευση"
+  },
+  "Save attribute": {
+    "origin": "M2M100-418M-local",
+    "text": "Αποθηκεύστε τα χαρακτηριστικά"
+  },
+  "Save folder layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Αποθηκεύστε το folder layout"
+  },
+  "Save metadata": {
+    "origin": "M2M100-418M-local",
+    "text": "Αποθηκεύστε τα μεταδεδομένα"
+  },
+  "Save search": {
+    "origin": "M2M100-418M-local",
+    "text": "Αποθηκεύστε την αναζήτηση"
+  },
+  "Save search…": {
+    "origin": "M2M100-418M-local",
+    "text": "Σώστε την αναζήτηση..."
+  },
+  "Save to Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Σωτήστε το Keychain"
+  },
+  "Saved connections": {
+    "origin": "M2M100-418M-local",
+    "text": "Εξοικονομημένες συνδέσεις"
+  },
+  "Saved searches": {
+    "origin": "M2M100-418M-local",
+    "text": "Αποθηκευμένες αναζητήσεις"
+  },
+  "Saved. The token will be used for GitHub HTTPS operations.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Το token θα χρησιμοποιηθεί για τις λειτουργίες GitHub HTTPS."
+  },
+  "Seafoam": {
+    "origin": "Files:Seafoam",
+    "text": "Αφρός θάλασσας"
+  },
+  "Search": {
+    "origin": "Files:Key.BrowserSearch",
+    "text": "Αναζήτηση"
+  },
+  "Search %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Αναζήτηση %1$@"
+  },
+  "Search %1$@ · Return searches subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Αναζήτηση %1$@ · Επιστροφή αναζήτησης υποκαταστήματα"
+  },
+  "Search available actions": {
+    "origin": "M2M100-418M-local",
+    "text": "Αναζήτηση διαθέσιμων δράσεων"
+  },
+  "Search commands": {
+    "origin": "M2M100-418M-local",
+    "text": "εντολές αναζήτησης"
+  },
+  "Search folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Αναζήτηση φάκελος"
+  },
+  "Search settings": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Αναζήτηση Ρυθμίσεις"
+  },
+  "Search stopped.": {
+    "origin": "M2M100-418M-local",
+    "text": "Η αναζήτηση σταμάτησε."
+  },
+  "Search subfolders": {
+    "origin": "M2M100-418M-local",
+    "text": "Αναζήτηση υποσυνδέσεων"
+  },
+  "Security": {
+    "origin": "Files:Security",
+    "text": "Ασφάλεια"
+  },
+  "Select": {
+    "origin": "Files:NavToolbarSelectionOptions.Label",
+    "text": "Επιλογή"
+  },
+  "Select a file to view its diff.": {
+    "origin": "M2M100-418M-local",
+    "text": "Επιλέξτε ένα αρχείο για να δείτε το diff του."
+  },
+  "Select a macOS alias or symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Επιλέξτε Α macOS Σημαντικό ή σύμβολο σύνδεσης."
+  },
+  "Select a regular media file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Επιλέξτε ένα τακτικό αρχείο μέσων ενημέρωσης."
+  },
+  "Select all": {
+    "origin": "Files:SelectAll",
+    "text": "Επιλογή όλων"
+  },
+  "Select an archive": {
+    "origin": "M2M100-418M-local",
+    "text": "Επιλέξτε ένα αρχείο"
+  },
+  "Select an item to see its details.": {
+    "origin": "M2M100-418M-local",
+    "text": "Επιλέξτε ένα στοιχείο για να δείτε τις λεπτομέρειες."
+  },
+  "Select archive entries to remove.": {
+    "origin": "M2M100-418M-local",
+    "text": "Επιλέξτε αρχεία εισόδου για να αφαιρέσετε."
+  },
+  "Select on hover": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Επιλέξτε το Hover"
+  },
+  "Select previous folder when navigating up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Επιλέξτε το προηγούμενο φάκελο κατά την πλοήγηση"
+  },
+  "Select uniquely named items to archive.": {
+    "origin": "M2M100-418M-local",
+    "text": "Επιλέξτε μοναδικά ονομασμένα στοιχεία για αρχείο."
+  },
+  "Selected items": {
+    "origin": "M2M100-418M-local",
+    "text": "Επιλεγμένα αντικείμενα"
+  },
+  "Selected items have duplicate names. Archive them separately.": {
+    "origin": "M2M100-418M-local",
+    "text": "Τα επιλεγμένα στοιχεία έχουν διπλές ονόματα. αρχειοθετήστε τα ξεχωριστά."
+  },
+  "Selection checkboxes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ΕΠΙΛΟΓΗ ΤΕΧΝΟΛΟΓΙΑΣ"
+  },
+  "Separate file and folder counts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ξεχωριστά αρχεία και φάκελοι υπολογίζονται"
+  },
+  "Separator": {
+    "origin": "M2M100-418M-local",
+    "text": "Διαχωριστής"
+  },
+  "Server": {
+    "origin": "M2M100-418M-local",
+    "text": "Σέρβερ"
+  },
+  "Set as app background": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "Ορισμός ως φόντο εφαρμογών"
+  },
+  "Set as wallpaper": {
+    "origin": "M2M100-418M-local",
+    "text": "Συσκευαστείτε ως χαρτοφυλάκιο"
+  },
+  "Set default": {
+    "origin": "M2M100-418M-local",
+    "text": "Εισαγωγή default"
+  },
+  "SetAsAppBackground": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "Ορισμός ως φόντο εφαρμογών"
+  },
+  "Settings": {
+    "origin": "Files:Settings",
+    "text": "Ρυθμίσεις"
+  },
+  "Settings file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Εισαγωγή αρχείου"
+  },
+  "Settings saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Οι ρυθμίσεις αποθηκεύονται."
+  },
+  "Settings…": {
+    "origin": "Files:Settings",
+    "text": "Ρυθμίσεις"
+  },
+  "Share": {
+    "origin": "Files:Share",
+    "text": "Κοινή χρήση"
+  },
+  "Share…": {
+    "origin": "Files:Share",
+    "text": "Κοινή χρήση"
+  },
+  "Shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Σελί"
+  },
+  "Shortcut": {
+    "origin": "Files:Shortcut",
+    "text": "Συντόμευση"
+  },
+  "Shortcuts apply in the explorer. Text fields keep native editing behavior. Resolve duplicate assignments before applying.": {
+    "origin": "M2M100-418M-local",
+    "text": "Οι συντομεύσεις εφαρμόζονται στον εξερευνητή. τα πεδία κειμένου διατηρούν τη συμπεριφορά επεξεργασίας μητρικού χαρακτήρα. Επίλυση διπλών καθηκόντων πριν από την εφαρμογή."
+  },
+  "Show dotfiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Εμφάνιση DOTFILES"
+  },
+  "Show hidden files": {
+    "origin": "M2M100-418M-local",
+    "text": "Εμφάνιση κρυμμένων αρχείων"
+  },
+  "Show in folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Εμφάνιση στο φάκελο"
+  },
+  "Show log in folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Εμφάνιση λογαριασμών στο φάκελο"
+  },
+  "Show menu bar icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Εμφάνιση μενού bar icon"
+  },
+  "Show package contents": {
+    "origin": "M2M100-418M-local",
+    "text": "Εμφάνιση περιεχομένου πακέτου"
+  },
+  "Show shelf button": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Εμφάνιση κουμπιού Shelf"
+  },
+  "Show staged diff": {
+    "origin": "M2M100-418M-local",
+    "text": "Ετικέτες ΔΙΑΔΕΙΞΗ DIF"
+  },
+  "Show status bar": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Εμφάνιση Status Bar"
+  },
+  "Show tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Εμφάνιση δράσης Tab"
+  },
+  "Show thumbnails": {
+    "origin": "Files:SettingsFilesAndFoldersShowThumbnails",
+    "text": "Εμφάνιση μικρογραφιών"
+  },
+  "ShowFileExtensions": {
+    "origin": "Files:ShowFileExtensions",
+    "text": "File extensions"
+  },
+  "Sidebar": {
+    "origin": "Files:Sidebar",
+    "text": "Πλαϊνή μπάρα"
+  },
+  "Signature": {
+    "origin": "M2M100-418M-local",
+    "text": "υπογραφή"
+  },
+  "Signature integrity verification failed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Η επαλήθευση ακεραιότητας της υπογραφής απέτυχε."
+  },
+  "Signature integrity verified. This does not constitute a notarization or malware assessment.": {
+    "origin": "M2M100-418M-local",
+    "text": "Η ακεραιότητα της υπογραφής επαληθεύεται.Αυτό δεν συνιστά μια αξιολόγηση νοσηλείας ή κακόβουλου λογισμικού."
+  },
+  "Signatures": {
+    "origin": "M2M100-418M-local",
+    "text": "υπογραφές"
+  },
+  "Single file": {
+    "origin": "M2M100-418M-local",
+    "text": "Μοναδικό αρχείο"
+  },
+  "Single folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Μοναδικό φάκελο"
+  },
+  "Single-click columns": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ενιαία κλικ στήλη"
+  },
+  "Single-click files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Μοναδικό κλικ αρχεία"
+  },
+  "Single-click folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Μοναδικό κλικ"
+  },
+  "Size": {
+    "origin": "Files:SizeLabel",
+    "text": "Μέγεθος:"
+  },
+  "Size units": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Μέγεθος μονάδων"
+  },
+  "Skip": {
+    "origin": "Files:Skip",
+    "text": "Παράλειψη"
+  },
+  "Skip existing": {
+    "origin": "M2M100-418M-local",
+    "text": "ΣΚΙΠ ΥΠΑΡΧΕΙ"
+  },
+  "Small icons": {
+    "origin": "M2M100-418M-local",
+    "text": "Μικρές ΙΚΟΝΕΣ"
+  },
+  "Smooth scrolling": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Μικρή στρογγυλή"
+  },
+  "Solid": {
+    "origin": "Files:Solid",
+    "text": "Συμπαγές"
+  },
+  "Some files could not be updated. The saved tag was retained so you can retry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ορισμένα αρχεία δεν θα μπορούσαν να ενημερωθούν. η αποθηκευμένη ετικέτα διατηρήθηκε έτσι ώστε να μπορείτε να αποσύρετε."
+  },
+  "Some items could not be read.": {
+    "origin": "M2M100-418M-local",
+    "text": "Κάποια πράγματα δεν μπορούσαν να διαβάσουν."
+  },
+  "Some items couldn’t be completed": {
+    "origin": "M2M100-418M-local",
+    "text": "Μερικά στοιχεία δεν μπορούσαν να ολοκληρωθούν"
+  },
+  "Some items have no recorded original location. Select them and use Restore to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Μερικά στοιχεία δεν έχουν αρχική τοποθεσία καταγραφής. επιλέξτε τα και χρησιμοποιήστε Αποκατάσταση για να..."
+  },
+  "Sort": {
+    "origin": "Files:Sort",
+    "text": "Ταξινόμηση"
+  },
+  "Sort by": {
+    "origin": "Files:SortBy",
+    "text": "Ταξινόμηση κατά"
+  },
+  "SortFilesAndFoldersTogether": {
+    "origin": "Files:SortFilesAndFoldersTogether",
+    "text": "Ταξινόμηση αρχείων και φακέλων μαζί"
+  },
+  "SortFilesFirst": {
+    "origin": "Files:SortFilesFirst",
+    "text": "Ταξινόμηση αρχείων πρώτα"
+  },
+  "SortFoldersFirst": {
+    "origin": "Files:SortFoldersFirst",
+    "text": "Ταξινόμηση φακέλων πρώτα"
+  },
+  "Source code": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Κωδικός πηγής"
+  },
+  "Special device entries cannot be extracted: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Οι ειδικές εγγραφές συσκευών δεν μπορούν να εξαγοράζονται: %1$@"
+  },
+  "Split archives use ZIP or 7z format.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Χρησιμοποιήστε τα διαχωρισμένα αρχεία ZIP ή 7z Μορφή"
+  },
+  "Split into volumes (MiB, optional)": {
+    "origin": "M2M100-418M-local",
+    "text": "Διαχωρισμός σε όγκους (MiB, προαιρετική)"
+  },
+  "Stage all": {
+    "origin": "M2M100-418M-local",
+    "text": "Στάδιο Όλοι"
+  },
+  "Stage selected": {
+    "origin": "M2M100-418M-local",
+    "text": "Στάδιο επιλεγμένο"
+  },
+  "Staged all changes": {
+    "origin": "M2M100-418M-local",
+    "text": "Στάση όλων των αλλαγών"
+  },
+  "Staged selected files": {
+    "origin": "M2M100-418M-local",
+    "text": "Επεξεργασμένα επιλεγμένα αρχεία"
+  },
+  "Start": {
+    "origin": "Files:Start",
+    "text": "Start"
+  },
+  "Start folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Ξεκινήστε το φάκελο"
+  },
+  "Startup": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup"
+  },
+  "Startup and tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup και Tabs"
+  },
+  "Startup folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup αρχεία"
+  },
+  "Startup folders are used when session restoration is disabled. An empty list opens Home.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Τα αρχεία εκκίνησης χρησιμοποιούνται όταν η αποκατάσταση της συνεδρίας είναι απενεργοποιημένη. Μια κενή λίστα ανοίγει το Home."
+  },
+  "Status": {
+    "origin": "Files:StatusWithColon",
+    "text": "Κατάσταση:"
+  },
+  "Stop": {
+    "origin": "M2M100-418M-local",
+    "text": "Σταματήστε"
+  },
+  "Stopped before the next item. Completed items were kept.": {
+    "origin": "M2M100-418M-local",
+    "text": "Σταμάτησαν πριν από το επόμενο στοιχείο. ολοκληρωμένα στοιχεία διατηρήθηκαν."
+  },
+  "Storage settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Συσκευές αποθήκευσης..."
+  },
+  "Storm": {
+    "origin": "Files:Storm",
+    "text": "Θύελλα"
+  },
+  "Stretch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Στερεά"
+  },
+  "Switch to new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Μετακίνηση σε νέες καρτέλες"
+  },
+  "Switched to %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Μετασχηματίστηκε σε %1$@"
+  },
+  "Symbolic Link": {
+    "origin": "M2M100-418M-local",
+    "text": "Σύμβολο σύνδεσης"
+  },
+  "Symbolic link": {
+    "origin": "M2M100-418M-local",
+    "text": "Σύμβολο σύνδεσης"
+  },
+  "Sync": {
+    "origin": "Files:GitSync",
+    "text": "Συγχρονισμός"
+  },
+  "Sync conflict": {
+    "origin": "M2M100-418M-local",
+    "text": "Συγκρούσεις Sync"
+  },
+  "Sync error": {
+    "origin": "M2M100-418M-local",
+    "text": "Σύνδεση σφάλματος"
+  },
+  "Synced": {
+    "origin": "M2M100-418M-local",
+    "text": "Σύνθεση"
+  },
+  "Synchronize folder preferences": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Συγχρονισμός των προτιμήσεων φακέλου"
+  },
+  "System": {
+    "origin": "Files:SystemTimeStyle",
+    "text": "Σύστημα"
+  },
+  "TLS certificate verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "TLS Πιστοποιητικό Ελέγχου"
+  },
+  "Tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Δράσεις Tab"
+  },
+  "Tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Τάβες"
+  },
+  "Tag": {
+    "origin": "Files:Tag",
+    "text": "Ετικέτα"
+  },
+  "Tag (blank = all tags)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag (λευκό = όλα τα tag)"
+  },
+  "Tag color": {
+    "origin": "Files:TagColor",
+    "text": "Χρώμα ετικέτας"
+  },
+  "Tag name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag ονομασία"
+  },
+  "Tag names must be unique.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Τα ονόματα πρέπει να είναι μοναδικά."
+  },
+  "Tag update failed and original metadata could not be restored: ": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ετικέτα αναβάθμιση αποτυχημένο και αρχικά μεταδεδομένα δεν θα μπορούσε να αποκατασταθεί: "
+  },
+  "Tagged items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tagged αντικείμενα"
+  },
+  "Tags": {
+    "origin": "Files:FileTags",
+    "text": "Ετικέτες"
+  },
+  "Tags, separated by commas": {
+    "origin": "M2M100-418M-local",
+    "text": "Ετικέτες, διαχωρισμένα από Commas"
+  },
+  "Target": {
+    "origin": "Files:PropertyItemTarget",
+    "text": "Στόχος"
+  },
+  "Terminal": {
+    "origin": "M2M100-418M-local",
+    "text": "Τερματικό"
+  },
+  "Test IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Δοκιμή IDE"
+  },
+  "The ACL failed validation.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Η ACL Αποτυχημένη επικύρωση."
+  },
+  "The command failed (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Η εντολή αποτυγχάνει (%1$@)."
+  },
+  "The custom icon and saved layout belong to the selected item.": {
+    "origin": "M2M100-418M-local",
+    "text": "Το προσαρμοσμένο εικονίδιο και η αποθηκευμένη διάταξη ανήκουν στο επιλεγμένο στοιχείο."
+  },
+  "The destination connection changed. Drop the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Η σύνδεση προορισμού έχει αλλάξει. ρίξτε τα αρχεία ξανά."
+  },
+  "The destination connection changed. Paste the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Η σύνδεση προορισμού έχει αλλάξει.Πάρε ξανά τα αρχεία."
+  },
+  "The destination is not an accessible folder.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ο προορισμός δεν είναι ένα προσβάσιμο φάκελο."
+  },
+  "The icon could not be changed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Το εικονίδιο δεν μπορεί να αλλάξει."
+  },
+  "The icon could not be reset.": {
+    "origin": "M2M100-418M-local",
+    "text": "Το εικονίδιο δεν μπορεί να επανασταθεί."
+  },
+  "The media container did not retain: ": {
+    "origin": "M2M100-418M-local",
+    "text": "Το περιεχόμενο των μέσων ενημέρωσης δεν διατηρεί: "
+  },
+  "The media tracks cannot be preserved in this container.": {
+    "origin": "M2M100-418M-local",
+    "text": "Τα ίχνη των μέσων ενημέρωσης δεν μπορούν να αποθηκευτούν σε αυτό το δοχείο."
+  },
+  "The new shortcut target does not exist.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ο νέος στόχος δεν υπάρχει."
+  },
+  "The old shortcut is in Trash, but macOS did not return its location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Το παλιό κομμάτι είναι σε τράχη, αλλά macOS Δεν επέστρεψε τη θέση του."
+  },
+  "The original archive remains recoverable with Undo.": {
+    "origin": "M2M100-418M-local",
+    "text": "Το αρχικό αρχείο παραμένει ανανεώσιμο με το Undo."
+  },
+  "The server did not return a valid host-key list.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ο διακομιστής δεν επέστρεψε μια έγκυρη λίστα κλειδιών φιλοξενίας."
+  },
+  "The server recovery path is occupied by a file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Η διαδρομή αποκατάστασης του διακομιστή απασχολείται από ένα αρχείο."
+  },
+  "The server returned an unsafe or unsupported filename.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ο διακομιστής επέστρεψε ένα ασφαλή ή μη υποστηριζόμενο όνομα αρχείου."
+  },
+  "The server returned an unsupported directory listing. No transfer was started.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ο διακομιστής επέστρεψε μια μη υποστηριζόμενη λίστα διευθύνσεων. Δεν ξεκίνησε καμία μεταφορά."
+  },
+  "The shortcut will point to %1$@. The target file itself is not modified.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Η σύντομη αναφορά θα υποδεικνύει ότι %1$@Το ίδιο το αρχείο δεν τροποποιείται."
+  },
+  "The slideshow changes desktop wallpaper while MacFiles is running. It resumes at launch when enabled. macOS controls the lock screen wallpaper separately.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Η οθόνη αλλάζει το wallpaper desktop ενώ MacFiles Επαναλαμβάνεται η εκκίνηση όταν είναι ενεργοποιημένη. macOS ελέγχει το χαρτοφυλάκιο οθόνης κλειδαριά ξεχωριστά."
+  },
+  "The system script could not be compiled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Το σενάριο του συστήματος δεν μπορούσε να συνταχθεί."
+  },
+  "The system script could not be created.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Το σενάριο του συστήματος δεν μπορούσε να δημιουργηθεί."
+  },
+  "The transfer selection changed. Cut the items again.": {
+    "origin": "M2M100-418M-local",
+    "text": "Η επιλογή μεταφοράς έχει αλλάξει.Κατακόψτε τα στοιχεία ξανά."
+  },
+  "The uploaded data did not match its source. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "text": "Τα δεδομένα που ανεβάστηκαν δεν ταιριάζουν με την πηγή του. η πηγή διατηρήθηκε."
+  },
+  "The uploaded iCloud copy remains available. macOS will download it again when needed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Το uploaded iCloud Το αντίγραφο παραμένει διαθέσιμο. macOS Θα το κατεβάσετε ξανά όταν χρειαστεί."
+  },
+  "Theme": {
+    "origin": "Files:SettingsAppearanceTheme",
+    "text": "Θέμα"
+  },
+  "These items will be removed from Trash. This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "text": "Αυτά τα στοιχεία θα αφαιρεθούν από το Trash. αυτό δεν μπορεί να μην απορριφθεί."
+  },
+  "Third-party providers do not expose a common public sync-completion API. Available locally describes downloaded bytes, not upload completion. Download requests do not pin files permanently.": {
+    "origin": "M2M100-418M-local",
+    "text": "Οι πάροχοι τρίτων δεν εκθέτουν ένα κοινό δημόσιο συγχρονιστικό API ολοκλήρωσης. Διατίθεται τοπικά περιγράφει τα bajts που κατεβάζονται, δεν κατεβάζονται ολοκλήρωση."
+  },
+  "This FTP server cannot create symbolic links. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Αυτό το FTP Ο διακομιστής δεν μπορεί να δημιουργήσει συμβολικές συνδέσεις. η πηγή διατηρήθηκε."
+  },
+  "This Mac": {
+    "origin": "M2M100-418M-local",
+    "text": "Αυτό το Mac"
+  },
+  "This alias contains a target cycle.": {
+    "origin": "M2M100-418M-local",
+    "text": "Αυτό το alias περιέχει έναν στόχο κύκλου."
+  },
+  "This archive format is read-only. Extract it and create a ZIP or 7z archive to edit its contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Αυτή η μορφή αρχείων είναι μόνο ανάγνωση. εξάγετε το και δημιουργήστε ένα ZIP ή 7z Αρχείο για να επεξεργαστεί το περιεχόμενό του."
+  },
+  "This archive or server protocol does not expose macOS extended attributes. Extract or download the item to manage attributes on its local copy.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Αυτό το αρχείο ή το πρωτόκολλο διακομιστή δεν εκθέτει macOS Εξέταση ή λήψη του στοιχείου για τη διαχείριση των χαρακτηριστικών στο τοπικό αντίγραφο του."
+  },
+  "This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Αυτό δεν μπορεί να απορριφθεί."
+  },
+  "This changes the registered folder viewer. Finder still manages the desktop and macOS file dialogs. You can restore the previous viewer here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Αυτό αλλάζει το εγγεγραμμένο φάκελο προβολής. Finder διαχειρίζεται το γραφείο και macOS Εδώ μπορείτε να επαναφέρετε τον προηγούμενο προβολέα."
+  },
+  "This changes which users can access the item. Export the existing ACL first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Αυτές οι αλλαγές που οι χρήστες μπορούν να αποκτήσουν πρόσβαση στο στοιχείο. εξαγωγή του υπάρχοντος ACL Πρώτα αν χρειάζεστε αντίγραφο ασφαλείας."
+  },
+  "This folder is empty": {
+    "origin": "Files:EmptyFolder.Text",
+    "text": "Αυτός ο φάκελος είναι άδειος."
+  },
+  "This location is not ready for transfers.": {
+    "origin": "M2M100-418M-local",
+    "text": "Αυτή η τοποθεσία δεν είναι έτοιμη για μεταφορές."
+  },
+  "This media format cannot be edited by the native exporter.": {
+    "origin": "M2M100-418M-local",
+    "text": "Αυτή η μορφή μέσων ενημέρωσης δεν μπορεί να τροποποιηθεί από τον εγχώριο εξαγωγέα."
+  },
+  "This metadata container uses indexed keys; edit it with its native media application.": {
+    "origin": "M2M100-418M-local",
+    "text": "Αυτό το μεταδεδοτικό περιέκτη χρησιμοποιεί τα ενδεικτικά κλειδιά, το επεξεργάζεται με την εφαρμογή των ιθαγενών μέσων ενημέρωσης."
+  },
+  "This operation cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "text": "Αυτή η επιχείρηση δεν μπορεί να απορριφθεί."
+  },
+  "This removes the attribute from this file. Export its bytes first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "text": "Αυτό αφαιρεί το χαρακτηριστικό από αυτό το αρχείο. Εξάγετε τα bytes του πρώτα αν χρειάζεστε μια αντιγράφηση ασφαλείας."
+  },
+  "Thumbnail cache limit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Το όριο του cache"
+  },
+  "Thumbnails": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Τούμπα"
+  },
+  "Thumbnails are cached in memory. The limit applies to decoded images.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Τα εικονογραφικά είναι κρυμμένα στη μνήμη. το όριο ισχύει για αποκωδικοποιημένες εικόνες."
+  },
+  "Tiles": {
+    "origin": "M2M100-418M-local",
+    "text": "Τίλας"
+  },
+  "Title": {
+    "origin": "Files:PropertyTitle",
+    "text": "Τίτλος"
+  },
+  "Today": {
+    "origin": "Files:Today",
+    "text": "Σήμερα"
+  },
+  "Toggle compact overlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "Εναλλαγή συμπαγούς επικάλυψης"
+  },
+  "Toggle details pane": {
+    "origin": "M2M100-418M-local",
+    "text": "Σχετικά με τις λεπτομέρειες, pane"
+  },
+  "Toggle dual pane": {
+    "origin": "Files:ToggleDualPane",
+    "text": "Εναλλαγή διπλού παραθύρου"
+  },
+  "Toggle filter header": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "Εναλλαγή κεφαλίδας φίλτρου"
+  },
+  "Toggle full screen": {
+    "origin": "M2M100-418M-local",
+    "text": "Συγκεντρώστε την πλήρη οθόνη"
+  },
+  "Toggle selection": {
+    "origin": "Files:ToggleSelect",
+    "text": "Εναλλαγή επιλογής"
+  },
+  "ToggleCompactOverlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "Εναλλαγή συμπαγούς επικάλυψης"
+  },
+  "ToggleFilterHeader": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "Εναλλαγή κεφαλίδας φίλτρου"
+  },
+  "ToggleSelect": {
+    "origin": "Files:ToggleSelect",
+    "text": "Εναλλαγή επιλογής"
+  },
+  "ToggleSidebar": {
+    "origin": "Files:ToggleSidebar",
+    "text": "Εναλλαγή της πλευρικής μπάρας"
+  },
+  "ToggleToolbar": {
+    "origin": "Files:ToggleToolbar",
+    "text": "Εναλλαγή γραμμής εργαλείων"
+  },
+  "Too many nested aliases.": {
+    "origin": "M2M100-418M-local",
+    "text": "Υπάρχουν πάρα πολλές συμμαχίες."
+  },
+  "Tools": {
+    "origin": "M2M100-418M-local",
+    "text": "Εργαλεία"
+  },
+  "Top": {
+    "origin": "Files:Top",
+    "text": "Πάνω"
+  },
+  "Total size": {
+    "origin": "M2M100-418M-local",
+    "text": "Συνολικό μέγεθος"
+  },
+  "Transfer failed": {
+    "origin": "M2M100-418M-local",
+    "text": "Η μεταφορά αποτύχει"
+  },
+  "Trash": {
+    "origin": "Files:RecycleBin",
+    "text": "Κάδος Ανακύκλωσης"
+  },
+  "Trash on this Mac and connected volumes": {
+    "origin": "M2M100-418M-local",
+    "text": "Σπάσει σε αυτό το Mac και συνδεδεμένα όγκους"
+  },
+  "Trust": {
+    "origin": "M2M100-418M-local",
+    "text": "εμπιστοσύνη"
+  },
+  "Trust this SSH server?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Πιστέψτε αυτό SSH Ο διακομιστής;"
+  },
+  "Trust verified fingerprints": {
+    "origin": "M2M100-418M-local",
+    "text": "Εμπιστευμένα αποτυπώματα"
+  },
+  "Try again": {
+    "origin": "M2M100-418M-local",
+    "text": "Δοκιμάστε ξανά"
+  },
+  "Under window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "κάτω από το παράθυρο"
+  },
+  "Undo": {
+    "origin": "Files:Undo",
+    "text": "Αναίρεση"
+  },
+  "Undo file operation": {
+    "origin": "M2M100-418M-local",
+    "text": "Η λειτουργία του αρχείου"
+  },
+  "Undoing": {
+    "origin": "M2M100-418M-local",
+    "text": "ΜΑΤΥΡΙΑ"
+  },
+  "Unencrypted FTP": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ανεκρυπτογραφημένο FTP"
+  },
+  "Universal": {
+    "origin": "Files:Universal",
+    "text": "Καθολική"
+  },
+  "Unknown": {
+    "origin": "Files:Unknown",
+    "text": "Άγνωστο"
+  },
+  "Unknown shortcut command.": {
+    "origin": "M2M100-418M-local",
+    "text": "Απίστευτη εντολή λήξης."
+  },
+  "Unpin": {
+    "origin": "Files:Unpin",
+    "text": "Ξεκαρφίτσωμα"
+  },
+  "Unsafe archive link target.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ανεξάρτητο αρχείο σύνδεσης στόχος."
+  },
+  "Unstage": {
+    "origin": "M2M100-418M-local",
+    "text": "Απεργία"
+  },
+  "Unstaged selected files": {
+    "origin": "M2M100-418M-local",
+    "text": "Απαλλαγή επιλεγμένων αρχείων"
+  },
+  "Unsupported Git action.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Απαράδεκτος Git δράση ."
+  },
+  "Unsupported archive entry name or listing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ανεπιθύμητο αρχείο εισόδου ή καταχώριση."
+  },
+  "Unsupported file type in transfer.": {
+    "origin": "M2M100-418M-local",
+    "text": "Μη υποστηριζόμενος τύπος αρχείου στη μεταφορά."
+  },
+  "Unsupported metadata container version.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ανεπιθύμητη έκδοση μεταδεδομένων."
+  },
+  "Unsupported movie header.": {
+    "origin": "M2M100-418M-local",
+    "text": "Χωρίς υποστήριξη ηχογράφηση ταινιών."
+  },
+  "Untagged": {
+    "origin": "Files:Untagged",
+    "text": "Χωρίς ετικέτα"
+  },
+  "Up": {
+    "origin": "Files:Key.Up",
+    "text": "Πάνω"
+  },
+  "Up one level": {
+    "origin": "M2M100-418M-local",
+    "text": "Αύξηση ενός επιπέδου"
+  },
+  "Up one level · ⌘↑": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Σε ένα επίπεδο · ⌘↑"
+  },
+  "Updates native macOS tags for all selected items. Leave empty to remove tags.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ενημέρωση Ιδιωτικού macOS Tags για όλα τα επιλεγμένα στοιχεία. αφήστε κενό για να αφαιρέσετε τις ετικέτες."
+  },
+  "Updating archive": {
+    "origin": "M2M100-418M-local",
+    "text": "Ενημέρωση Αρχείο"
+  },
+  "Updating media metadata": {
+    "origin": "M2M100-418M-local",
+    "text": "Ενημέρωση των μέσων ενημέρωσης"
+  },
+  "Updating permissions": {
+    "origin": "M2M100-418M-local",
+    "text": "Ενημέρωση των αδειών"
+  },
+  "Upload": {
+    "origin": "M2M100-418M-local",
+    "text": "ΑΥΤΟΚΙΝΗΤΟ"
+  },
+  "Upload failed. The original remains at %1$@; the pending upload is %2$@. %3$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Το πρωτότυπο αποτύχει.Το αρχικό παραμένει στο %1$@Η αναμέτρηση του upload είναι %2$@. %3$@"
+  },
+  "Upload files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Εισαγωγή αρχείων..."
+  },
+  "Upload regular files or folders; symbolic links are not followed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Κατεβάστε τακτικά αρχεία ή φακέλους. συμβολικές συνδέσεις δεν ακολουθούνται."
+  },
+  "Uploading": {
+    "origin": "M2M100-418M-local",
+    "text": "Κατεβάστε"
+  },
+  "Upstream Files issues": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Προβλήματα Upstream αρχεία"
+  },
+  "Use Copy and Paste or Download to transfer remote items.": {
+    "origin": "M2M100-418M-local",
+    "text": "Χρησιμοποιήστε Copy and Paste ή Download για τη μεταφορά απομακρυσμένων στοιχείων."
+  },
+  "Use Copy or Extract to transfer archive contents.": {
+    "origin": "M2M100-418M-local",
+    "text": "Χρησιμοποιήστε αντιγραφή ή εξαγωγή για τη μεταφορά περιεχομένου αρχείου."
+  },
+  "Use MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Χρήση MacFiles"
+  },
+  "Use MacFiles for folder URLs?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Χρήση MacFiles Για τα URL του φακέλου;"
+  },
+  "Use MacFiles for folder URLs…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Χρήση MacFiles Για τις URLs του φακέλου..."
+  },
+  "User": {
+    "origin": "M2M100-418M-local",
+    "text": "Χρήστης"
+  },
+  "Username": {
+    "origin": "Files:CredentialDialogUserName.PlaceholderText",
+    "text": "Όνομα χρήστη"
+  },
+  "Uses SSH keys or the password above. Host-key verification remains enabled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Χρήση SSH κλειδιά ή τον κωδικό πρόσβασης παραπάνω. η επαλήθευση κλειδιού φιλοξενίας παραμένει ενεργοποιημένη."
+  },
+  "Uses the on-device Apple Intelligence model when available. Otherwise searches the words you entered. No file content is sent to a server.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Χρησιμοποιήστε το μοντέλο Apple Intelligence στη συσκευή όταν είναι διαθέσιμο. Διαφορετικά, αναζητάτε τις λέξεις που εισάγετε. Δεν αποστέλλεται περιεχόμενο αρχείου σε έναν διακομιστή."
+  },
+  "Value": {
+    "origin": "M2M100-418M-local",
+    "text": "Αξία"
+  },
+  "Verified host keys saved for MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Τα κλειδιά αποθήκευσης αποθηκεύονται για MacFiles."
+  },
+  "Vertical alignment": {
+    "origin": "Files:VerticalAlignment",
+    "text": "Κατακόρυφη στοίχιση"
+  },
+  "Vertical split": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vertical διαίρεση"
+  },
+  "View": {
+    "origin": "M2M100-418M-local",
+    "text": "Βλέπετε"
+  },
+  "Volume": {
+    "origin": "M2M100-418M-local",
+    "text": "Το όγκο"
+  },
+  "Volume available": {
+    "origin": "M2M100-418M-local",
+    "text": "Διαθέσιμο όγκο"
+  },
+  "Volume capacity": {
+    "origin": "M2M100-418M-local",
+    "text": "Ποσότητα όγκου"
+  },
+  "Volume case sensitive": {
+    "origin": "M2M100-418M-local",
+    "text": "Ο όγκος των περιπτώσεων ευαίσθητος"
+  },
+  "Volume read only": {
+    "origin": "M2M100-418M-local",
+    "text": "Ο όγκος διαβάζεται μόνο"
+  },
+  "Volumes must be at least 1 KiB.": {
+    "origin": "M2M100-418M-local",
+    "text": "Οι όγκοι πρέπει να είναι τουλάχιστον 1 KiB."
+  },
+  "Waiting to sync": {
+    "origin": "M2M100-418M-local",
+    "text": "Περιμένοντας να συγχρονιστεί"
+  },
+  "Wallpaper could not be changed": {
+    "origin": "M2M100-418M-local",
+    "text": "Το χαρτί δεν μπορεί να αλλάξει"
+  },
+  "Wallpaper slideshow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ετικέτες Slideshow"
+  },
+  "Wallpaper slideshow…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Σκηνή Slideshow..."
+  },
+  "Warn when changing file extensions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Προειδοποιήστε όταν αλλάζετε επέκταση αρχείων"
+  },
+  "When an item exists": {
+    "origin": "M2M100-418M-local",
+    "text": "Όταν υπάρχει ένα στοιχείο"
+  },
+  "When names conflict, choose Keep both, Replace, or Skip. Replaced versions and deleted items go to the macOS Trash. Undo and redo are retained across launches and shared by open windows.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Όταν τα ονόματα συγκρούονται, επιλέξτε Διατηρήστε και τα δύο, αντικαταστήστε ή σπρώξτε. macOS Το Undo και το Redo διατηρούνται σε όλες τις εκκίνηση και μοιράζονται από τα ανοιχτά παράθυρα."
+  },
+  "Working…": {
+    "origin": "M2M100-418M-local",
+    "text": "Δουλεύει..."
+  },
+  "Writable": {
+    "origin": "M2M100-418M-local",
+    "text": "ΓΡΑΜΜΑΤΑ"
+  },
+  "Writes embedded metadata. Image files may be re-encoded; the original remains recoverable with Undo. Audio and video edits preserve encoded tracks. Unsupported containers keep the original.": {
+    "origin": "M2M100-418M-local",
+    "text": "Γράφει ενσωματωμένα μεταδεδομένα. τα αρχεία εικόνας μπορούν να κωδικοποιηθούν εκ νέου. το πρωτότυπο παραμένει ανακτήσιμο με το Undo. Η επεξεργασία ήχου και βίντεο διατηρεί κρυπτογραφημένες αποστάσεις. Τα μη υποστηριζόμενα δοχεία διατηρούν το πρωτότυπο."
+  },
+  "Year": {
+    "origin": "Files:Year",
+    "text": "Έτος"
+  },
+  "Yellow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Κίτρινο"
+  },
+  "Yes": {
+    "origin": "Files:Yes",
+    "text": "Ναι"
+  },
+  "Yesterday": {
+    "origin": "Files:Yesterday",
+    "text": "Χθες"
+  },
+  "You can restore these items with Undo or from the Trash.": {
+    "origin": "M2M100-418M-local",
+    "text": "Μπορείτε να αποκαταστήσετε αυτά τα στοιχεία με το Undo ή από το Trash."
+  },
+  "Your files, your way.": {
+    "origin": "M2M100-418M-local",
+    "text": "Τα αρχεία σας, ο δρόμος σας."
+  },
+  "Your pinned folders": {
+    "origin": "M2M100-418M-local",
+    "text": "Τα κρυμμένα σου φακέλους"
+  },
+  "Zoom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ζωμ"
+  },
+  "macOS aliases and symbolic links refer to a target path. Windows shortcut arguments and Run as administrator flags do not have alias equivalents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Οι συμμαχίες και οι συμβολικές συνδέσεις αναφέρονται σε ένα μονοπάτι στόχου. Windows Λίγα λόγια και εκτελούνται ως σημαίες διαχειριστή δεν έχουν ισοδύναμα alias."
+  },
+  "macOS integration": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS ΕΝΕΡΓΑΣΙΑ"
+  },
+  "macOS moved the previous version to Trash but did not return its location. The new version was not installed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS μετακόμισε την προηγούμενη έκδοση στο Trash αλλά δεν επέστρεψε τη θέση της."
+  },
+  "macOS returned %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Επιστρέφει %1$@."
+  },
+  "macOS uses Mach-O architectures and the application's minimum OS version. Windows compatibility modes, DPI overrides and administrator flags cannot be applied to a native Mac app.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Χρησιμοποιεί Mach-O αρχιτεκτονικές και η ελάχιστη έκδοση OS της εφαρμογής. Windows Οι τρόποι συμβατότητας, οι υπερδομές DPI και οι σημαίες του διαχειριστή δεν μπορούν να εφαρμοστούν σε μια εγχώρια εφαρμογή Mac."
+  }
+}

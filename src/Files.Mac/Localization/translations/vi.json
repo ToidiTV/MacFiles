@@ -1,0 +1,5165 @@
+{
+  "%1$@ MB": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ MB"
+  },
+  "%1$@ Trash location(s) could not be read. macOS may require Full Disk Access for Trash. Items listed here remain available to manage.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Trash location(s) không thể đọc được. macOS có thể yêu cầu truy cập Full Disk cho Trash. Các mục được liệt kê ở đây vẫn có sẵn để quản lý."
+  },
+  "%1$@ destination name(s) already exist": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Tên mục đích(s) đã tồn tại"
+  },
+  "%1$@ entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ nhập khẩu"
+  },
+  "%1$@ folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Thư mục"
+  },
+  "%1$@ folders · %2$@ files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Bảng viên · %2$@ tệp"
+  },
+  "%1$@ folders · saves to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ file · save to %2$@"
+  },
+  "%1$@ free of %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Tự do của %2$@"
+  },
+  "%1$@ inaccessible": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ không thể tiếp cận"
+  },
+  "%1$@ is assigned more than once.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ được giao nhiều hơn một lần."
+  },
+  "%1$@ is reserved by macOS or the application window.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ được bảo lưu bởi macOS hoặc cửa sổ ứng dụng."
+  },
+  "%1$@ is reserved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ được bảo lưu."
+  },
+  "%1$@ item(s) ready to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ mục(s) sẵn sàng để %2$@"
+  },
+  "%1$@ selected items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Các mục được chọn"
+  },
+  "%1$@. Sync completion is managed by the provider and is not reported through public file metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@.Sync hoàn thành được quản lý bởi nhà cung cấp và không được báo cáo thông qua các metadata tập tin công cộng."
+  },
+  "A different key is already trusted for this host. Review the changed key with the server administrator before replacing it.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Một chìa khóa khác đã được tin cậy cho host này. kiểm tra chìa khóa đã thay đổi với người quản trị máy chủ trước khi thay thế nó."
+  },
+  "A familiar place for everything.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Một nơi quen thuộc cho mọi thứ."
+  },
+  "A file operation is still running": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Một file hoạt động vẫn đang chạy"
+  },
+  "A folder cannot be copied or moved inside itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Một thư mục không thể được sao chép hoặc di chuyển bên trong nó."
+  },
+  "A shortcut cannot target itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Một đoạn ngắn không thể tự nhắm mục tiêu."
+  },
+  "ACL updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ACL Cập nhật"
+  },
+  "About": {
+    "origin": "Files:About",
+    "text": "Giới thiệu"
+  },
+  "About MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Giới thiệu MacFiles"
+  },
+  "Accent color (hex)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Màu sắc (hex)"
+  },
+  "Access control list — native macOS syntax": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Danh sách kiểm soát truy cập - Native macOS syntax"
+  },
+  "Access token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "truy cập token"
+  },
+  "Accounts, authentication and sync preferences are managed by each provider’s native app. Removing a saved folder here does not unlink its account or delete files.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tài khoản, xác thực và tùy chọn đồng bộ được quản lý bởi ứng dụng bản địa của mỗi nhà cung cấp.Tắt một thư mục được lưu ở đây không liên kết tài khoản của nó hoặc xóa tệp."
+  },
+  "Action unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hành động không sẵn dùng"
+  },
+  "Actions": {
+    "origin": "Files:Actions",
+    "text": "Phím tắt tác vụ"
+  },
+  "Adaptive": {
+    "origin": "Files:Adaptive",
+    "text": "Chuyển bố cục tự động"
+  },
+  "Adaptive layout": {
+    "origin": "Files:Adaptive",
+    "text": "Chuyển bố cục tự động"
+  },
+  "Add": {
+    "origin": "Files:Add",
+    "text": "Thêm"
+  },
+  "Add cloud folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thêm Cloud folder..."
+  },
+  "Add current selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thêm sự lựa chọn hiện tại"
+  },
+  "Add files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thêm file..."
+  },
+  "Add folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thêm folder..."
+  },
+  "Add images…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thêm hình ảnh..."
+  },
+  "Add prefix": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "thêm Prefix"
+  },
+  "Add saved tag": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thêm Save Tag"
+  },
+  "Add selection to shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thêm sự lựa chọn vào shelf"
+  },
+  "Add startup folders…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thêm Startup folder..."
+  },
+  "Add suffix": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thêm suffix"
+  },
+  "Add to library": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thêm vào thư viện"
+  },
+  "Add to shelf": {
+    "origin": "Files:AddToShelf",
+    "text": "Thêm vào ngăn tạm"
+  },
+  "Advanced": {
+    "origin": "Files:Advanced",
+    "text": "Nâng cao"
+  },
+  "Advanced search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tìm kiếm nâng cao"
+  },
+  "Advanced search…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tìm kiếm tiên tiến..."
+  },
+  "Album": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Album"
+  },
+  "Allocated size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tỷ lệ phân bổ"
+  },
+  "Already assigned to %1$@. Remove that assignment first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "đã được trao cho %1$@- Trước hết hãy loại bỏ nhiệm vụ đó."
+  },
+  "Always show operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Luôn hiển thị các hoạt động"
+  },
+  "Always visible": {
+    "origin": "Files:AlwaysVisible",
+    "text": "Luôn hiện"
+  },
+  "Always-visible items are combined with the current selection context. Cloud items add their own controls.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các mục luôn có thể nhìn thấy được kết hợp với bối cảnh lựa chọn hiện tại. các mục đám mây thêm kiểm soát riêng của họ."
+  },
+  "Ambiguous archive listing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Danh sách tài liệu khôn ngoan."
+  },
+  "Ambiguous media metadata containers.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các container metadata phương tiện thông minh."
+  },
+  "Any": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "bất kỳ"
+  },
+  "App language (restart to apply)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ngôn ngữ ứng dụng (được khởi động lại để áp dụng)"
+  },
+  "Appearance": {
+    "origin": "Files:Appearance",
+    "text": "Giao diện"
+  },
+  "Application": {
+    "origin": "Files:Application",
+    "text": "Ứng dụng"
+  },
+  "Application unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ứng dụng không sẵn dùng"
+  },
+  "Applies owner, group, and other permissions to the selected items only.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chỉ áp dụng chủ sở hữu, nhóm và các quyền khác cho các mục được chọn."
+  },
+  "Apply": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ứng dụng"
+  },
+  "Apply ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ứng dụng ACL…"
+  },
+  "Apply UID %1$@ and GID %2$@ to this item only.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ứng dụng UID %1$@ và GID %2$@ Chỉ với mục này thôi."
+  },
+  "Apply attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ứng dụng attributes"
+  },
+  "Apply file permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ứng dụng file permissions"
+  },
+  "Apply owner/group…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ứng dụng chủ sở hữu / nhóm ..."
+  },
+  "Approve MacFiles in Login Items in System Settings.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "chấp thuận MacFiles trong Login Items in System Settings."
+  },
+  "Archive": {
+    "origin": "Files:Archive",
+    "text": "Tệp nén"
+  },
+  "Archive attempts to write through a link or file: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive cố gắng viết thông qua một liên kết hoặc tệp: %1$@"
+  },
+  "Archive contains an unsafe path: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tài liệu chứa một con đường không an toàn: %1$@"
+  },
+  "Archive contains an unsafe symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tài liệu chứa một liên kết biểu tượng không an toàn."
+  },
+  "Archive editing cannot traverse symbolic links.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bản chỉnh sửa lưu trữ không thể vượt qua các liên kết biểu tượng."
+  },
+  "Archive link escapes its destination.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive link thoát khỏi điểm đến của nó."
+  },
+  "Archive link target is too long.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mục tiêu liên kết lưu trữ quá dài."
+  },
+  "Archive operation failed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive hoạt động thất bại"
+  },
+  "Archive password (if needed)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive password (nếu cần thiết)"
+  },
+  "Archive password (leave blank if unencrypted)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tài liệu mật khẩu (lời bỏ trắng nếu không được mã hóa)"
+  },
+  "Archive passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các mật khẩu lưu trữ không thể chứa các đoạn đường hoặc NUL nhân vật"
+  },
+  "Archive path escapes the destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hướng dẫn lưu trữ chạy trốn đến đích: %1$@"
+  },
+  "Archive root": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive root"
+  },
+  "Archive symbolic link escapes the destination.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Link biểu tượng lưu trữ thoát khỏi điểm đến."
+  },
+  "Arrange panes side by side": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cài đặt Panes Side by Side"
+  },
+  "Arrange panes top and bottom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Đặt các bảng trên và dưới"
+  },
+  "Artist": {
+    "origin": "Files:Artist",
+    "text": "Nghệ sĩ"
+  },
+  "Artist / author": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nghệ sĩ / tác giả"
+  },
+  "Ascending": {
+    "origin": "Files:Ascending",
+    "text": "Tăng dần"
+  },
+  "Attribute name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tên tài sản"
+  },
+  "Attributes": {
+    "origin": "Files:Attributes",
+    "text": "Thuộc tính"
+  },
+  "Attributes updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tính năng được cập nhật"
+  },
+  "Auto-fit columns": {
+    "origin": "Files:AutoFitColumns",
+    "text": "Tự động căn chỉnh cột"
+  },
+  "AutoFitColumns": {
+    "origin": "Files:AutoFitColumns",
+    "text": "Tự động căn chỉnh cột"
+  },
+  "Available locally": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Có sẵn tại địa phương"
+  },
+  "Back": {
+    "origin": "Files:Back",
+    "text": "Quay lại"
+  },
+  "Back · ⌘[": {
+    "origin": "Files:Back",
+    "text": "Quay lại · ⌘["
+  },
+  "Backdrop material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Màn hình Backdrop"
+  },
+  "Backdrop materials use macOS visual effects. Standard system controls and monospaced content retain their system fonts.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sử dụng vật liệu Backdrop macOS Hiệu ứng hình ảnh: Hệ thống kiểm soát tiêu chuẩn và nội dung đơn vị giữ lại các phông chữ hệ thống của họ."
+  },
+  "Background": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "nền"
+  },
+  "Background color (blank = system)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Màu nền (màu trắng = hệ thống)"
+  },
+  "Background image": {
+    "origin": "Files:BackgroundImage",
+    "text": "Hình nền"
+  },
+  "Background image and status": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hình nền và trạng thái"
+  },
+  "Background image opacity": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hình nền opacity"
+  },
+  "Background mode keeps the menu bar icon available so you can reopen MacFiles or quit it.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "chế độ nền giữ cho biểu tượng thanh menu có sẵn để bạn có thể mở lại MacFiles Hoặc bỏ nó."
+  },
+  "Background preset": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hình nền Preset"
+  },
+  "Base": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cơ sở"
+  },
+  "Base64": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bảng 64"
+  },
+  "Based on the Files Community explorer’s shell, MVVM, command, and storage architecture. Built with Swift, AppKit, and SwiftUI.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dựa trên các file Community Explorer shell, MVVM, command, và lưu trữ kiến trúc. Được xây dựng với Swift, AppKit, và SwiftUI."
+  },
+  "Binary": {
+    "origin": "Files:Binary",
+    "text": "Nhị phân"
+  },
+  "Blue": {
+    "origin": "Files:Blue",
+    "text": "Xanh dương"
+  },
+  "Bottom": {
+    "origin": "Files:Bottom",
+    "text": "Bên dưới"
+  },
+  "Browse all tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tải tất cả tags"
+  },
+  "Browse archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse Tài liệu"
+  },
+  "Browse archive…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse Archive..."
+  },
+  "Browse tagged items…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse tagged mục..."
+  },
+  "Browsing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browsing"
+  },
+  "Browsing interactions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browsing tương tác"
+  },
+  "Bulk rename": {
+    "origin": "Files:BulkRename",
+    "text": "Đổi tên hàng loạt"
+  },
+  "Bulk rename requires items from one folder.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tên đầy đủ đòi hỏi các mục từ một thư mục."
+  },
+  "Bulk rename…": {
+    "origin": "Files:BulkRename",
+    "text": "Đổi tên hàng loạt"
+  },
+  "Bytes": {
+    "origin": "Files:Bytes",
+    "text": "Byte"
+  },
+  "Cache thumbnails": {
+    "origin": "Files:CacheThumbnails",
+    "text": "Lưu hình xem trước vào bộ nhớ đệm"
+  },
+  "Calculate combined size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tính toán kích thước kết hợp"
+  },
+  "Calculate folder size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tính toán kích thước folder"
+  },
+  "Calculate folder sizes": {
+    "origin": "Files:CalculateFolderSizes",
+    "text": "Tính toán kích cỡ thư mục"
+  },
+  "Calculate hashes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tính toán hashes"
+  },
+  "Calculate total size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tính toán tổng kích thước"
+  },
+  "Calculating hashes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tính toán hash..."
+  },
+  "Camouflage": {
+    "origin": "Files:Camouflage",
+    "text": "Rằn ri"
+  },
+  "Cancel": {
+    "origin": "Files:Cancel",
+    "text": "Hủy bỏ"
+  },
+  "Cancel calculation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hủy tính toán"
+  },
+  "Cancel operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "hủy hoạt động"
+  },
+  "Cancel queued operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hủy hoạt động Queued"
+  },
+  "Cancelled": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "hủy"
+  },
+  "Cancelled before starting.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hủy trước khi bắt đầu."
+  },
+  "Cancelled before starting. No files were changed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Đã hủy trước khi bắt đầu. không có file được thay đổi."
+  },
+  "Cancelling the current operation…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hủy hoạt động hiện tại..."
+  },
+  "Cannot allocate archive entry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể phân bổ file entry."
+  },
+  "Cannot allocate archive reader.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể phân bổ Archive Reader."
+  },
+  "Cannot allocate archive writer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể phân bổ các tác giả tài liệu."
+  },
+  "Cannot archive special device: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể lưu trữ thiết bị đặc biệt: %1$@"
+  },
+  "Cannot create archive entry: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể tạo file entry: %1$@"
+  },
+  "Cannot create subprocess output file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể tạo file output subprocess."
+  },
+  "Cannot decode image.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể xóa hình ảnh."
+  },
+  "Cannot prepare SSH authentication.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể chuẩn bị SSH xác thực ."
+  },
+  "Cannot prepare command input.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể chuẩn bị lệnh input."
+  },
+  "Cannot read %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể đọc %1$@"
+  },
+  "Cannot read image metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể đọc được hình ảnh metadata."
+  },
+  "Cannot remove the archive root.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể xóa root file."
+  },
+  "Cannot rename the archive root.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể đổi tên lại gốc file."
+  },
+  "Cannot restore archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể khôi phục lại file hard link."
+  },
+  "Cannot rotate image.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể xoay hình ảnh"
+  },
+  "Center": {
+    "origin": "Files:Center",
+    "text": "Chính giữa"
+  },
+  "Change file extension?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thay đổi file extension?"
+  },
+  "Change ownership?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thay đổi sở hữu?"
+  },
+  "Change provider app…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thay đổi ứng dụng nhà cung cấp"
+  },
+  "Change the shortcut target?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thay đổi mục tiêu shortcut?"
+  },
+  "Changes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thay đổi"
+  },
+  "Changing the extension may prevent the file from opening in its usual application.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thay đổi phần mở rộng có thể ngăn chặn tệp mở trong ứng dụng thông thường của nó."
+  },
+  "Choose IDE…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chọn IDE..."
+  },
+  "Choose a destination to restore": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chọn một điểm đến để khôi phục"
+  },
+  "Choose a file to calculate hashes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chọn một tệp để tính toán hash."
+  },
+  "Choose a new destination and a repository URL.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chọn một điểm đến mới và URL lưu trữ."
+  },
+  "Choose a regular cloud file to download.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chọn một tệp đám mây thường xuyên để tải về."
+  },
+  "Choose a single file or folder to customize its icon.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chọn một tệp hoặc thư mục để tùy chỉnh biểu tượng của nó."
+  },
+  "Choose a supported single-frame image (JPEG, PNG, TIFF or HEIC).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chọn một hình ảnh một khung được hỗ trợ (JPEG, PNG, TIFF hoặc HEIC)."
+  },
+  "Choose a template file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chọn Template File"
+  },
+  "Choose custom icon…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chọn tùy chọn icon..."
+  },
+  "Choose folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chọn folder..."
+  },
+  "Choose one item to edit ownership or ACLs.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chọn một mục để chỉnh sửa sở hữu hoặc ACLs."
+  },
+  "Choose one item to view extended attributes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chọn một mục để xem các thuộc tính mở rộng."
+  },
+  "Choose provider app…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chọn ứng dụng nhà cung cấp..."
+  },
+  "Clear": {
+    "origin": "Files:Key.Clear",
+    "text": "Xóa"
+  },
+  "Clear finished": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chọn xong"
+  },
+  "Clear selection": {
+    "origin": "Files:ClearSelection",
+    "text": "Bỏ lựa chọn"
+  },
+  "Clear thumbnail cache": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cache nhỏ gọn"
+  },
+  "Clone": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Clone"
+  },
+  "Clone repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Quá trình Clone"
+  },
+  "Clone…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Clone..."
+  },
+  "Close": {
+    "origin": "Files:Close",
+    "text": "Đóng"
+  },
+  "Close details": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "chi tiết gần"
+  },
+  "Close other tabs": {
+    "origin": "Files:CloseOtherTabs",
+    "text": "Đóng các thẻ khác"
+  },
+  "Close tab": {
+    "origin": "Files:CloseTab",
+    "text": "Đóng thẻ"
+  },
+  "Close tabs to the left": {
+    "origin": "Files:CloseTabsToTheLeft",
+    "text": "Đóng các thẻ bên trái"
+  },
+  "Close tabs to the right": {
+    "origin": "Files:CloseTabsToTheRight",
+    "text": "Đóng các thẻ bên phải"
+  },
+  "Close window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "cửa sổ gần"
+  },
+  "Cloud": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "đám mây"
+  },
+  "Cloud accounts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tài khoản Cloud"
+  },
+  "Cloud accounts and folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tài khoản đám mây và thư mục"
+  },
+  "Cloud availability and synchronization": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tính sẵn có đám mây và đồng bộ hóa"
+  },
+  "Cloud folder name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mây tên folder"
+  },
+  "Cloud items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mây mục"
+  },
+  "Cloud provider": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud nhà cung cấp"
+  },
+  "Cloud providers installed on this Mac appear in the sidebar through their native File Provider folders.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các nhà cung cấp đám mây được cài đặt trên Mac này xuất hiện trong thanh bên thông qua bản địa của họ File Provider Thư mục"
+  },
+  "Cloud status": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "trạng thái Cloud"
+  },
+  "Cloud status…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tính năng Cloud..."
+  },
+  "Cloud storage": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud lưu trữ"
+  },
+  "Collapse folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tải folder"
+  },
+  "Collapsed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "sụp đổ"
+  },
+  "Collect file references from different folders, then copy or move them together.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thu thập tham chiếu tệp từ các thư mục khác nhau, sau đó sao chép hoặc di chuyển chúng cùng nhau."
+  },
+  "Columns": {
+    "origin": "Files:Columns",
+    "text": "Cột"
+  },
+  "Columns layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Layout Columns"
+  },
+  "Command": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lệnh"
+  },
+  "Command output exceeded 16 MiB; no truncated result was accepted.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kết quả lệnh vượt quá 16 MiB; không có kết quả truncated được chấp nhận."
+  },
+  "Command palette": {
+    "origin": "Files:CommandPalette",
+    "text": "Bảng lệnh"
+  },
+  "Command palette…": {
+    "origin": "Files:CommandPalette",
+    "text": "Bảng lệnh"
+  },
+  "Commit created": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Commit tạo ra"
+  },
+  "Commit message": {
+    "origin": "Files:CommitMessage",
+    "text": "Mô tả commit"
+  },
+  "Commit staged": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Commit Đã Đang"
+  },
+  "Compact file rows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "file compact file runs"
+  },
+  "Compare these SHA-256 fingerprints with your server administrator before trusting %1$@:%2$@.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "So sánh những SHA-256 Nhập dấu vân tay với người quản trị máy chủ của bạn trước khi tin tưởng %1$@:%2$@.\n\n"
+  },
+  "Compatibility": {
+    "origin": "Files:Compatibility",
+    "text": "Tương thích"
+  },
+  "Completed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "hoàn thành"
+  },
+  "Completed with errors": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Đã hoàn thành sai lầm"
+  },
+  "Compress": {
+    "origin": "Files:Compress",
+    "text": "Nén"
+  },
+  "CompressIntoSevenZip": {
+    "origin": "Files:CompressIntoSevenZip",
+    "text": "Tạo tệp nén 7z"
+  },
+  "CompressIntoZip": {
+    "origin": "Files:CompressIntoZip",
+    "text": "Tạo tệp nén zip"
+  },
+  "Compressed movie headers require remuxing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các bộ phim phức tạp đòi hỏi phải được khử trùng."
+  },
+  "Compressing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ấn Độ"
+  },
+  "Compress…": {
+    "origin": "Files:Compress",
+    "text": "Nén"
+  },
+  "Confirm moving files to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kiểm tra chuyển các tập tin đến Trash"
+  },
+  "Confirmations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "xác nhận"
+  },
+  "Conflicts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "xung đột"
+  },
+  "Connect": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "liên kết"
+  },
+  "Connect to server": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kết nối với server"
+  },
+  "Connect to server…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kết nối với server..."
+  },
+  "Connect to the server first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kết nối với máy chủ trước tiên."
+  },
+  "Connected folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mã liên kết"
+  },
+  "Connected to this Mac": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kết nối với Mac này"
+  },
+  "Contains UTF-8 text": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "chứa UTF-8 văn bản"
+  },
+  "Content search includes text, PDF, Office and OpenDocument files. Unsupported, locked and online-only files are counted as skipped.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tìm kiếm nội dung bao gồm các tệp văn bản, PDF, Office và OpenDocument. Không hỗ trợ, khóa và các tệp trực tuyến chỉ được tính là bị bỏ qua."
+  },
+  "Content type": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Loại nội dung"
+  },
+  "Contents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nội dung"
+  },
+  "Context": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Context"
+  },
+  "Context menu": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "menu nội dung"
+  },
+  "Copy": {
+    "origin": "Files:Copy",
+    "text": "Sao chép"
+  },
+  "Copy app version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bản sao App Version"
+  },
+  "Copy hashes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bản sao hashes"
+  },
+  "Copy here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "sao chép tại đây"
+  },
+  "Copy macOS version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sao chép macOS Phiên bản"
+  },
+  "Copy path": {
+    "origin": "Files:CopyPath",
+    "text": "Sao chép đường dẫn"
+  },
+  "Copy report": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bản sao báo cáo"
+  },
+  "Copy selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bản sao được chọn"
+  },
+  "CopyItemPathWithQuotes": {
+    "origin": "Files:CopyItemPathWithQuotes",
+    "text": "Sao chép đường dẫn đã chọn kèm dấu ngoặc kép"
+  },
+  "CopyPathDescription": {
+    "origin": "Files:CopyPathDescription",
+    "text": "Sao chép đường dẫn thư mục hiện tại"
+  },
+  "CopyPathWithQuotes": {
+    "origin": "Files:CopyPathWithQuotes",
+    "text": "Sao chép đường dẫn kèm dấu ngoặc kép"
+  },
+  "Copying": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "sao chép"
+  },
+  "Copying archive entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "sao chép file entries"
+  },
+  "Copying files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "sao chép file"
+  },
+  "Copyright": {
+    "origin": "Files:PropertyCopyright",
+    "text": "Bản quyền"
+  },
+  "Could not find an available filename.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tôi không thể tìm thấy một tên file có sẵn."
+  },
+  "Could not prepare archive contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể chuẩn bị nội dung lưu trữ."
+  },
+  "Could not remove GitHub credentials from Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể xóa các tín hiệu GitHub từ Keychain."
+  },
+  "Could not save GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể lưu các tín dụng GitHub trong Keychain."
+  },
+  "Could not save the edited image; the original was kept.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể lưu được hình ảnh được chỉnh sửa; bản gốc đã được giữ lại."
+  },
+  "Could not save the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể lưu mật khẩu trong Keychain (%1$@)."
+  },
+  "Could not update GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể cập nhật GitHub tín dụng trong Keychain."
+  },
+  "Could not update the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể cập nhật mật khẩu trong Keychain (%1$@)."
+  },
+  "Couldn’t change the folder viewer": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể thay đổi folder viewer"
+  },
+  "Couldn’t eject volume": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể xóa khối lượng"
+  },
+  "Couldn’t open files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể mở file"
+  },
+  "Couldn’t open folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể mở thư mục"
+  },
+  "Couldn’t open this file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể mở file này"
+  },
+  "Couldn’t open this location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể mở vị trí này"
+  },
+  "Couldn’t resolve alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể giải quyết alias"
+  },
+  "Couldn’t restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không thể khởi động lại MacFiles"
+  },
+  "Create": {
+    "origin": "Files:Create",
+    "text": "Tạo"
+  },
+  "Create a GitHub token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tạo token GitHub"
+  },
+  "Create alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tạo alias"
+  },
+  "Create archive": {
+    "origin": "Files:CreateArchive",
+    "text": "Tạo tệp nén"
+  },
+  "Create library…": {
+    "origin": "Files:FolderWidgetCreateNewLibraryDialogTitleText",
+    "text": "Tạo thư viện"
+  },
+  "Create shortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "Tạo lối tắt"
+  },
+  "Create zip archive": {
+    "origin": "Files:CompressIntoZip",
+    "text": "Tạo tệp nén zip"
+  },
+  "CreateFolderWithSelection": {
+    "origin": "Files:CreateFolderWithSelection",
+    "text": "Tạo thư mục từ lựa chọn"
+  },
+  "CreateShortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "Tạo lối tắt"
+  },
+  "CreateShortcutFromDialogDescription": {
+    "origin": "Files:CreateShortcutFromDialogDescription",
+    "text": "Tạo lối tắt mới đến khoản mục bất kỳ"
+  },
+  "Created": {
+    "origin": "Files:PropertiesCreated.Text",
+    "text": "Đã tạo:"
+  },
+  "Creating alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tạo alias"
+  },
+  "Creating from template": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tạo từ template"
+  },
+  "Custom": {
+    "origin": "Files:Custom",
+    "text": "Tùy chỉnh"
+  },
+  "Custom icon applied.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Icon tùy chỉnh được áp dụng"
+  },
+  "Custom tag color (hex, optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Màu sắc thẻ tùy chỉnh (hex, tùy chọn)"
+  },
+  "Custom theme": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chủ đề tùy chỉnh"
+  },
+  "Customization": {
+    "origin": "Files:Customization",
+    "text": "Tùy chỉnh"
+  },
+  "Customize toolbar": {
+    "origin": "Files:CustomizeToolbar",
+    "text": "Tuỳ chỉnh thanh công cụ"
+  },
+  "Customize toolbar…": {
+    "origin": "Files:CustomizeToolbar",
+    "text": "Tuỳ chỉnh thanh công cụ"
+  },
+  "Cut": {
+    "origin": "Files:Cut",
+    "text": "Cắt"
+  },
+  "Dark": {
+    "origin": "Files:DarkTheme",
+    "text": "Tối"
+  },
+  "Date created": {
+    "origin": "Files:DateCreated",
+    "text": "Ngày tạo"
+  },
+  "Date deleted": {
+    "origin": "Files:DateDeleted",
+    "text": "Ngày xóa"
+  },
+  "Date format": {
+    "origin": "Files:DateFormat",
+    "text": "Định dạng thời gian"
+  },
+  "Date modified": {
+    "origin": "Files:DateModifiedLowerCase",
+    "text": "Ngày sửa đổi"
+  },
+  "Day": {
+    "origin": "Files:Day",
+    "text": "Ngày"
+  },
+  "Decimal": {
+    "origin": "Files:Decimal",
+    "text": "Thập phân"
+  },
+  "Decrease size": {
+    "origin": "Files:DecreaseSize",
+    "text": "Giảm kích thước"
+  },
+  "Default": {
+    "origin": "Files:Default",
+    "text": "Mặc định"
+  },
+  "Default folder layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Layout folder mặc định"
+  },
+  "Default grouping": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nhóm giả định"
+  },
+  "Default save location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lựa chọn Save Location"
+  },
+  "Default sorting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Định nghĩa sorting"
+  },
+  "Delete": {
+    "origin": "Files:Delete",
+    "text": "Xóa bỏ"
+  },
+  "Delete permanently": {
+    "origin": "Files:DeletePermanently",
+    "text": "Xóa vĩnh viễn"
+  },
+  "Delete saved tag and remove it from indexed files?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Xóa thẻ được lưu và xóa nó từ các tệp indexed?"
+  },
+  "Delete selected permanently…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Xóa được chọn liên tục..."
+  },
+  "Deleting permanently": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "xóa vĩnh viễn"
+  },
+  "Description": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mô tả"
+  },
+  "Desktop": {
+    "origin": "Files:Desktop",
+    "text": "Màn hình chính"
+  },
+  "Destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Đích: %1$@"
+  },
+  "Detached HEAD": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "đầu trượt"
+  },
+  "Details": {
+    "origin": "Files:Details",
+    "text": "Chi tiết"
+  },
+  "Details layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chi tiết layout"
+  },
+  "Details pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "chi tiết pane"
+  },
+  "Developer tools": {
+    "origin": "Files:DevTools",
+    "text": "Công cụ phát triển"
+  },
+  "Development": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "phát triển"
+  },
+  "Diagnostics": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "chẩn đoán"
+  },
+  "Diagnostics opened": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chẩn đoán mở"
+  },
+  "Disconnect": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Khởi động"
+  },
+  "Documents": {
+    "origin": "Files:Documents",
+    "text": "Tài liệu"
+  },
+  "Done": {
+    "origin": "Files:Close",
+    "text": "Đóng"
+  },
+  "Double-click empty space to go up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Double-click không gian trống để đi lên"
+  },
+  "Download": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "tải xuống"
+  },
+  "Download files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tải file..."
+  },
+  "Download here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Download tại đây"
+  },
+  "Download requested. iCloud may complete it asynchronously.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Download được yêu cầu iCloud Có thể hoàn thành nó không đồng bộ."
+  },
+  "Downloaded": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "tải xuống"
+  },
+  "Downloading": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "tải xuống"
+  },
+  "Downloads": {
+    "origin": "Files:Downloads",
+    "text": "Tải xuống"
+  },
+  "Drives": {
+    "origin": "Files:Drives",
+    "text": "Ổ lưu trữ"
+  },
+  "Dual pane": {
+    "origin": "Files:DualPaneCategory",
+    "text": "Chế độ hai ngăn"
+  },
+  "Duplicate": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Duplicate Đơn"
+  },
+  "Duplicate archive paths cannot be extracted safely.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các con đường lưu trữ duplicate không thể được rút ra an toàn."
+  },
+  "Duplicate tab": {
+    "origin": "Files:DuplicateTab",
+    "text": "Nhân đôi thẻ"
+  },
+  "Edit": {
+    "origin": "Files:Edit",
+    "text": "Chỉnh sửa"
+  },
+  "Edit POSIX permissions for selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chỉnh sửa POSIX Giấy phép cho sự lựa chọn"
+  },
+  "Edit address · ⌘L": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit địa chỉ ⌘L"
+  },
+  "Edit archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit Tài liệu"
+  },
+  "Edit in TextEdit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit trong TextEdit"
+  },
+  "Edit media metadata": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tải Media Metadata"
+  },
+  "Edit media metadata…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tải Media Metadata..."
+  },
+  "Edit or import the settings document, then Apply to validate and save. Language changes require a restart.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit or import the settings document, then Apply to validate and save. thay đổi ngôn ngữ yêu cầu khởi động lại."
+  },
+  "Edit permissions on the link's target instead.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thay vào đó, chỉnh sửa các quyền trên mục tiêu của liên kết."
+  },
+  "Edit settings file…": {
+    "origin": "Files:EditSettingsFile",
+    "text": "Chỉnh sửa tệp cài đặt"
+  },
+  "Edit tags": {
+    "origin": "Files:EditTags",
+    "text": "Chỉnh sửa nhãn"
+  },
+  "Edit tags…": {
+    "origin": "Files:EditTags",
+    "text": "Chỉnh sửa nhãn"
+  },
+  "Edit the archive target instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tạo mục tiêu lưu trữ thay vì một liên kết biểu tượng."
+  },
+  "Edit the target's attributes instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tạo các thuộc tính của mục tiêu thay vì một liên kết biểu tượng."
+  },
+  "Edits apply to this item only. Ownership changes require existing system permission; MacFiles does not elevate itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bản chỉnh sửa chỉ áp dụng cho mục này. thay đổi sở hữu yêu cầu giấy phép hệ thống hiện có; MacFiles Không nâng cao bản thân."
+  },
+  "Eject": {
+    "origin": "Files:Eject",
+    "text": "Gỡ bỏ"
+  },
+  "Empty": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "trống"
+  },
+  "Empty accessible Trash…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Trash Trash Trash Trash Trash Trash Trash Trash Trash Trash Trash Trash Trash Trash Trash Trash Trash..."
+  },
+  "Empty archive entry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vào sổ lưu trữ trống"
+  },
+  "Encoding": {
+    "origin": "Files:Encoding",
+    "text": "Mã hóa"
+  },
+  "Encrypted": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "mã hóa"
+  },
+  "Enter a GitHub username and a valid access token.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nhập tên người dùng GitHub và token truy cập hợp lệ."
+  },
+  "Enter a commit message.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nhập một thông điệp cam kết"
+  },
+  "Enter a name without a slash or colon. The name cannot be empty, ‘.’, or ‘..’.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nhập một tên mà không có mảnh vỡ hoặc cột. Tên không thể trống rỗng, '.', hoặc '..'."
+  },
+  "Enter a size from 1 to 1,048,576 MiB.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nhập kích thước từ 1 đến 1,048,576 MiB."
+  },
+  "Enter a valid host, username, and port.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nhập một host hợp lệ, tên người dùng và cổng."
+  },
+  "Enter an SMB, AFP, or WebDAV address.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nhập một SMB, AFPhoặc WebDAV Địa chỉ"
+  },
+  "Enter an attribute name of 1–127 UTF-8 bytes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nhập tên thuộc tính 1–127 UTF-8 Byte"
+  },
+  "Enter compact overlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "Mở chế độ thu gọn"
+  },
+  "Enter numeric user and group IDs.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nhập số người dùng và ID nhóm."
+  },
+  "Enter password:": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nhập mật khẩu:"
+  },
+  "Enter permissions from 000 to 777.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nhập giấy phép từ 000 đến 777."
+  },
+  "Enter the archive password before editing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nhập mật khẩu lưu trữ trước khi chỉnh sửa."
+  },
+  "Enter three octal digits, for example 644 or 755.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nhập ba chữ số octal, ví dụ: 644 hoặc 755."
+  },
+  "Enter whole numbers for byte limits.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nhập số đầy đủ cho giới hạn byte."
+  },
+  "EnterCompactOverlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "Mở chế độ thu gọn"
+  },
+  "Executable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "thực thi"
+  },
+  "Executable format": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "định dạng thực hiện"
+  },
+  "Exit compact overlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "Thoát chế độ thu gọn"
+  },
+  "ExitCompactOverlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "Thoát chế độ thu gọn"
+  },
+  "Expand folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "mở rộng folder"
+  },
+  "Expanded": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "mở rộng"
+  },
+  "Export ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "xuất khẩu ACL…"
+  },
+  "Export bytes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thu nhập byte..."
+  },
+  "Export theme…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chủ đề xuất khẩu..."
+  },
+  "Export…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "xuất khẩu..."
+  },
+  "Extended attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tính năng mở rộng"
+  },
+  "Extended attributes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tính năng mở rộng..."
+  },
+  "Extensions are preserved. Conflicts stop the batch before any names change.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các cuộc xung đột dừng chuỗi trước khi bất kỳ tên thay đổi."
+  },
+  "Extensions: txt, swift, pdf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tải về: txt, swift, pdf"
+  },
+  "Extra large icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Icon lớn hơn"
+  },
+  "Extract": {
+    "origin": "Files:Extract",
+    "text": "Giải nén"
+  },
+  "Extract all…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Khóa tất cả..."
+  },
+  "Extract here": {
+    "origin": "Files:ExtractHere",
+    "text": "Giải nén tại đây"
+  },
+  "Extract here (Smart)": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "Giải nén tại đây (thông minh)"
+  },
+  "Extract selected…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thuốc được chọn..."
+  },
+  "Extract to child folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tải về Child folder"
+  },
+  "Extract to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Khai thác cho..."
+  },
+  "ExtractHere": {
+    "origin": "Files:ExtractHere",
+    "text": "Giải nén tại đây"
+  },
+  "ExtractHereSmart": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "Giải nén tại đây (thông minh)"
+  },
+  "Extracted entry size does not match its header.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kích thước đầu vào thu được không phù hợp với tiêu đề của nó."
+  },
+  "Extracting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Khóa"
+  },
+  "Extracts into a new folder; existing files are kept.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thêm vào một thư mục mới; các tệp hiện có được lưu trữ."
+  },
+  "FTP over TLS": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "FTP qua TLS"
+  },
+  "Failed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "thất bại"
+  },
+  "Fetch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Fetch"
+  },
+  "File": {
+    "origin": "Files:File",
+    "text": "Tệp"
+  },
+  "File actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "File hành động"
+  },
+  "File hashes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "file hashes"
+  },
+  "File information": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "File thông tin"
+  },
+  "File operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "File hoạt động"
+  },
+  "File operations in this window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "File hoạt động trong cửa sổ này"
+  },
+  "File shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "file shelf"
+  },
+  "File shelf…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "file shelf..."
+  },
+  "File size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "file kích thước"
+  },
+  "Files": {
+    "origin": "Files:SecurityAdvancedFlagsFilesLabel",
+    "text": "tệp"
+  },
+  "Files size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "file kích thước"
+  },
+  "Files you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các tập tin bạn mở sẽ xuất hiện ở đây."
+  },
+  "Fill": {
+    "origin": "Files:Fill",
+    "text": "Kéo giãn"
+  },
+  "Filter entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Filter nhập khẩu"
+  },
+  "Find": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tìm kiếm"
+  },
+  "Find and replace": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tìm và thay thế"
+  },
+  "Finder Get Info unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder Nhận thông tin không sẵn dùng"
+  },
+  "Finder Get Info…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder Nhận thông tin..."
+  },
+  "Finder's desktop and other apps' Open/Save dialogs remain managed by macOS.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder's desktop and other apps' Open/Save đối thoại vẫn được quản lý bởi macOS."
+  },
+  "First letter": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "lá thư đầu tiên"
+  },
+  "Fit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "phù hợp"
+  },
+  "Flatten": {
+    "origin": "Files:Flatten",
+    "text": "Khử thư mục con"
+  },
+  "Flatten folder": {
+    "origin": "Files:FlattenFolder",
+    "text": "Khử thư mục con"
+  },
+  "Flatten folder…": {
+    "origin": "Files:FlattenFolder",
+    "text": "Khử thư mục con"
+  },
+  "Flatten ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Đơn giản »%1$@’?"
+  },
+  "Flattening folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Flattening thư mục"
+  },
+  "Focus other pane": {
+    "origin": "Files:FocusOtherPane",
+    "text": "Chuyển đến ngăn còn lại"
+  },
+  "Folder": {
+    "origin": "Files:Folder",
+    "text": "Thư mục"
+  },
+  "Folder contents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Folder nội dung"
+  },
+  "Folder contents are not included in this total.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nội dung thư mục không được bao gồm trong tổng này."
+  },
+  "Folder layout saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Folder layout đã được tiết kiệm."
+  },
+  "Folder path": {
+    "origin": "Files:FolderPath",
+    "text": "Đường dẫn thư mục"
+  },
+  "Folder presentation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Folder trình bày"
+  },
+  "Folder sizes are calculated in the background after Refresh. Large or network folders may take longer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kích thước thư mục được tính toán trong nền sau khi Tải lại. thư mục lớn hoặc mạng có thể mất nhiều thời gian hơn."
+  },
+  "Folder unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Folder không sẵn dùng"
+  },
+  "Folders": {
+    "origin": "Files:Folders",
+    "text": "Thư mục"
+  },
+  "Folders you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các thư mục bạn mở sẽ xuất hiện ở đây."
+  },
+  "Font": {
+    "origin": "Files:Font",
+    "text": "Phông chữ"
+  },
+  "Font and material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Font và vật liệu"
+  },
+  "Forget saved": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "quên được cứu"
+  },
+  "Format": {
+    "origin": "Files:FormatDriveText",
+    "text": "Định dạng"
+  },
+  "Format drive in Disk Utility…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Format drive trong Disk Utility..."
+  },
+  "Forward": {
+    "origin": "Files:Forward",
+    "text": "Chuyển tiếp"
+  },
+  "Forward · ⌘]": {
+    "origin": "Files:Forward",
+    "text": "Chuyển tiếp · ⌘]"
+  },
+  "Fragmented media metadata cannot be edited without remuxing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các metadata của phương tiện truyền thông phân đoạn không thể được chỉnh sửa mà không cần remux."
+  },
+  "Gallery": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gallery"
+  },
+  "Gallery layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gallery Đánh giá"
+  },
+  "General": {
+    "origin": "Files:General",
+    "text": "Chung"
+  },
+  "Git operation in %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git hoạt động trong %1$@"
+  },
+  "Git repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git repository"
+  },
+  "Git repository…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git Nhà kho..."
+  },
+  "GitHub account": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tài khoản GitHub"
+  },
+  "GitHub username": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tên người dùng GitHub"
+  },
+  "Go to path": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Đi theo đường"
+  },
+  "Go to path…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Đi theo con đường..."
+  },
+  "Gray": {
+    "origin": "Files:Gray",
+    "text": "Xám"
+  },
+  "Green": {
+    "origin": "Files:Green",
+    "text": "Xanh lục"
+  },
+  "Group": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nhóm"
+  },
+  "Group GID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nhóm GID"
+  },
+  "Group ascending": {
+    "origin": "Files:GroupAscendingDescription",
+    "text": "Sắp xếp nhóm theo thứ tự tăng dần"
+  },
+  "Group by": {
+    "origin": "Files:GroupBy",
+    "text": "Nhóm theo"
+  },
+  "Group by date unit": {
+    "origin": "Files:GroupByDateUnit",
+    "text": "Nhóm theo đơn vị"
+  },
+  "HTTPS Git operations can use a GitHub access token stored in your macOS Keychain. Choose the repositories and permissions when creating the token. Existing Git authentication remains in use when no MacFiles account is saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "HTTPS Git các hoạt động có thể sử dụng một token truy cập GitHub được lưu trữ trong macOS Keychain.Chọn các kho lưu trữ và quyền khi tạo token. Git xác thực vẫn được sử dụng khi không MacFiles Tài khoản được tiết kiệm."
+  },
+  "Hard Link": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Link cứng"
+  },
+  "Hashes": {
+    "origin": "Files:Hashes",
+    "text": "Hash"
+  },
+  "Hashes are available for a single file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hashes có sẵn cho một tệp duy nhất."
+  },
+  "Header": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "đầu"
+  },
+  "Help": {
+    "origin": "Files:Help",
+    "text": "Trợ giúp"
+  },
+  "Hidden": {
+    "origin": "Files:Hidden",
+    "text": "Ẩn"
+  },
+  "Hidden files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "file ẩn"
+  },
+  "History": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lịch sử"
+  },
+  "Home": {
+    "origin": "Files:Key.Home",
+    "text": "Trang chủ"
+  },
+  "Horizontal alignment": {
+    "origin": "Files:HorizontalAlignment",
+    "text": "Căn ngang"
+  },
+  "IDE opened.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "IDE mở"
+  },
+  "Icon": {
+    "origin": "Files:Icon",
+    "text": "Biểu tượng"
+  },
+  "Icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Icon"
+  },
+  "Icons layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Icon Layout"
+  },
+  "Image alignment": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hình ảnh Alignment"
+  },
+  "Image fit": {
+    "origin": "Files:ImageFit",
+    "text": "Khớp cỡ ảnh"
+  },
+  "Import theme…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chủ đề nhập khẩu..."
+  },
+  "Imported. Apply to save.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cung cấp: Đăng ký để tiết kiệm."
+  },
+  "Import…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "nhập khẩu..."
+  },
+  "Incomplete archive listing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Danh sách tài liệu không đầy đủ."
+  },
+  "Increase size": {
+    "origin": "Files:IncreaseSize",
+    "text": "Tăng kích thước"
+  },
+  "Indexed document, image, audio, video and filesystem metadata supplied by Spotlight. Tags can be edited with the Tags tool.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tài liệu, hình ảnh, âm thanh, video và dữ liệu hệ thống tệp được cung cấp bởi SpotlightTags có thể được chỉnh sửa bằng công cụ Tags."
+  },
+  "Indexed files updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các file indexed được cập nhật."
+  },
+  "Initialize": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "khởi đầu"
+  },
+  "Initialize repository here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bắt đầu repository tại đây"
+  },
+  "Install certificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "Cài đặt chứng chỉ"
+  },
+  "Install font": {
+    "origin": "Files:InstallFont",
+    "text": "Cài đặt phông chữ"
+  },
+  "InstallCertificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "Cài đặt chứng chỉ"
+  },
+  "InstallFont": {
+    "origin": "Files:InstallFont",
+    "text": "Cài đặt phông chữ"
+  },
+  "Interval in seconds": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thời gian trong giây"
+  },
+  "Invalid Base64 data.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dữ liệu không hợp lệ Base64"
+  },
+  "Invalid SSH host or port.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "khuyết tật SSH Khách sạn hoặc cảng"
+  },
+  "Invalid archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid file hard link."
+  },
+  "Invalid archive link target.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid Archive Link mục tiêu."
+  },
+  "Invalid extended media atom.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid mở rộng phương tiện nguyên tử."
+  },
+  "Invalid hard link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mối liên kết cứng không hợp lệ"
+  },
+  "Invalid key for %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chìa khóa không hợp lệ cho %1$@."
+  },
+  "Invalid macOS ACL text. Preserve the !#acl 1 header and use valid entries.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "khuyết tật macOS ACL Lưu tên !#acl 1 và sử dụng các bài đăng hợp lệ."
+  },
+  "Invalid media atom header.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid Media Atom Header (tạm dịch: tiêu đề nguyên tử)"
+  },
+  "Invalid media atom size.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Độ phân giải nguyên tử không hợp lệ."
+  },
+  "Invalid media atom.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Khả năng Media Atome"
+  },
+  "Invalid media file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "file media không hợp lệ."
+  },
+  "Invalid name": {
+    "origin": "Files:InvalidTagNameWarning",
+    "text": "Tên không hợp lệ"
+  },
+  "Invalid remote URL.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "URL từ xa không hợp lệ"
+  },
+  "Invalid settings document.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tài liệu thiết lập không hợp lệ."
+  },
+  "Invalid tag metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tính năng Invalid tag metadata"
+  },
+  "Invalid tag name or color.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid tag tên hoặc màu sắc."
+  },
+  "Invalid theme colors or appearance.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Màu sắc hoặc ngoại hình chủ đề không hợp lệ."
+  },
+  "Invalid volume size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Số lượng Invalid"
+  },
+  "Invert selection": {
+    "origin": "Files:InvertSelection",
+    "text": "Đảo lựa chọn"
+  },
+  "Item properties": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chủ đề Properties"
+  },
+  "Items move into .MacFiles-Recovery on this server, including folder contents. Use Undo remote to restore them during this session.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các mục di chuyển vào .MacFiles-Recovery trên máy chủ này, bao gồm nội dung thư mục. Sử dụng Undo từ xa để khôi phục chúng trong phiên này."
+  },
+  "Keep MacFiles open": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "giữ MacFiles Mở"
+  },
+  "Keep both": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "giữ cả hai"
+  },
+  "Keep both creates numbered names. Replace moves previous versions to Trash and supports Undo. Folders are replaced as a whole.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Giữ cả hai tạo ra tên số. thay thế di chuyển các phiên bản trước sang Trash và hỗ trợ Undo."
+  },
+  "Keep running after closing windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tiếp tục chạy sau khi đóng cửa sổ"
+  },
+  "Keep window on top": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Giữ cửa sổ ở trên"
+  },
+  "Keyboard shortcuts": {
+    "origin": "Files:KeyboardShortcuts",
+    "text": "Lối tắt bàn phím"
+  },
+  "Keyboard shortcuts…": {
+    "origin": "Files:KeyboardShortcuts",
+    "text": "Lối tắt bàn phím"
+  },
+  "Keywords (comma separated)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Từ khóa (như phân biệt)"
+  },
+  "Kind": {
+    "origin": "Files:Type",
+    "text": "Loại"
+  },
+  "Label": {
+    "origin": "Files:Label",
+    "text": "Tiêu đề"
+  },
+  "Language": {
+    "origin": "Files:PropertyLanguage",
+    "text": "Ngôn ngữ"
+  },
+  "Large icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Icon lớn"
+  },
+  "Launch at login": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bắt đầu tại login"
+  },
+  "Layout": {
+    "origin": "Files:Layout",
+    "text": "Bố cục"
+  },
+  "Left": {
+    "origin": "Files:Left",
+    "text": "Bên trái"
+  },
+  "Let the current operation finish before quitting.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hãy để hoạt động hiện tại kết thúc trước khi rời đi."
+  },
+  "Libraries": {
+    "origin": "Files:SidebarLibraries",
+    "text": "Thư viện"
+  },
+  "Library": {
+    "origin": "Files:Library",
+    "text": "Thư viện"
+  },
+  "Library name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thư viện tên"
+  },
+  "Library properties…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tài sản thư viện..."
+  },
+  "Library/Application Support/MacFiles/known_hosts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thư viện / Hỗ trợ ứng dụngMacFiles/known_hosts"
+  },
+  "Library/Mobile Documents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thư viện / Tài liệu di động"
+  },
+  "Library/Mobile Documents/com~apple~CloudDocs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thư viện / Tài liệu di động/com~apple~CloudDocs"
+  },
+  "Light": {
+    "origin": "Files:LightTheme",
+    "text": "Sáng"
+  },
+  "Link target": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Link mục tiêu"
+  },
+  "List": {
+    "origin": "Files:List",
+    "text": "D.sách"
+  },
+  "List folders before files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Danh sách các thư mục trước khi tập tin"
+  },
+  "Loading…": {
+    "origin": "Files:Loading",
+    "text": "Đang tải..."
+  },
+  "Local": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "địa phương"
+  },
+  "Local download removal requested.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Download địa phương đã được yêu cầu."
+  },
+  "Local file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "file địa phương"
+  },
+  "Location": {
+    "origin": "Files:Location",
+    "text": "Vị trí:"
+  },
+  "Lock screen and wallpaper settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Màn hình khóa và cài đặt nền..."
+  },
+  "Locked": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "khóa"
+  },
+  "Macintosh HD": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Đánh giá Macintosh HD"
+  },
+  "Make alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lời bài hát Alias"
+  },
+  "Make alias…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tạo ra alias..."
+  },
+  "Manage account in provider app": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Quản lý tài khoản trong ứng dụng nhà cung cấp"
+  },
+  "Manage cloud accounts…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Quản lý tài khoản Cloud"
+  },
+  "Manage tags": {
+    "origin": "Files:ManageTags",
+    "text": "Quản lý nhãn"
+  },
+  "Maximum bytes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tối đa byte"
+  },
+  "Media export did not complete.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các phương tiện truyền thông không hoàn thành."
+  },
+  "Media metadata is too large.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các phương tiện truyền thông quá lớn."
+  },
+  "Medium icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Icon trung bình"
+  },
+  "Minimize": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "giảm thiểu"
+  },
+  "Minimum bytes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tối thiểu byte"
+  },
+  "Minimum size exceeds maximum size.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kích thước tối thiểu vượt quá kích thước tối đa."
+  },
+  "Mode": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thời trang"
+  },
+  "Modified": {
+    "origin": "Files:Modified",
+    "text": "Đã sửa đổi"
+  },
+  "Modified after": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thay đổi sau"
+  },
+  "Month": {
+    "origin": "Files:Month",
+    "text": "Tháng"
+  },
+  "More actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hơn hành động"
+  },
+  "Mount share…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "núi chia sẻ..."
+  },
+  "Mounted network locations appear here. Connect to a server to browse another location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các vị trí mạng được lắp đặt sẽ xuất hiện ở đây. Kết nối với một máy chủ để duyệt một vị trí khác."
+  },
+  "Move %1$@ remote items to recovery?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Di chuyển %1$@ Các mặt hàng từ xa để phục hồi?"
+  },
+  "Move %1$@ to Trash?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Di chuyển %1$@ để trash?"
+  },
+  "Move here": {
+    "origin": "Files:PinToSidebarByDraggingCaptionText",
+    "text": "Di chuyển đến đây"
+  },
+  "Move nested files to this folder. Existing names and symbolic links are left in place. Empty subfolders go to Trash. You can undo this operation.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Di chuyển các tệp sôi vào thư mục này. tên hiện có và liên kết biểu tượng được để lại tại chỗ. Các subfolders trống đi đến Trash. Bạn có thể bỏ qua hoạt động này."
+  },
+  "Move to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chuyển đến Trash"
+  },
+  "Move to Trash…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chuyển đến Trash..."
+  },
+  "Move to recovery": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chuyển sang phục hồi"
+  },
+  "Move to recovery folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chuyển sang thư mục phục hồi..."
+  },
+  "Movies": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "phim ảnh"
+  },
+  "Moving": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "di chuyển"
+  },
+  "Moving files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "File chuyển động"
+  },
+  "Moving to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chuyển đến Trash"
+  },
+  "Multiple items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "nhiều mục"
+  },
+  "Music": {
+    "origin": "Files:Music",
+    "text": "Nhạc"
+  },
+  "My MacFiles theme": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "của tôi MacFiles Chủ đề"
+  },
+  "My library": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thư viện của tôi"
+  },
+  "My search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tìm kiếm của tôi"
+  },
+  "Name": {
+    "origin": "Files:NameWithColon",
+    "text": "Tên:"
+  },
+  "Native macOS extended attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "người bản địa macOS Tính năng mở rộng"
+  },
+  "Natural language search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tìm kiếm ngôn ngữ tự nhiên"
+  },
+  "Navigate": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Navigate Thuyền"
+  },
+  "Network": {
+    "origin": "Files:Network",
+    "text": "Mạng"
+  },
+  "New": {
+    "origin": "Files:BaseLayoutContextFlyoutNew.Label",
+    "text": "Mới"
+  },
+  "New archive file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "file mới"
+  },
+  "New archive folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tài liệu mới folder"
+  },
+  "New branch": {
+    "origin": "Files:NewBranch",
+    "text": "Nhánh mới"
+  },
+  "New file from template": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "file mới từ template"
+  },
+  "New folder": {
+    "origin": "Files:NewFolder",
+    "text": "Thư mục mới"
+  },
+  "New folder…": {
+    "origin": "Files:NewFolder",
+    "text": "Thư mục mới"
+  },
+  "New from template": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mới từ Template"
+  },
+  "New from template…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mới từ Template"
+  },
+  "New name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tên mới"
+  },
+  "New remote file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "file remote mới"
+  },
+  "New remote folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mẫu Remote mới"
+  },
+  "New tab": {
+    "origin": "Files:NewTab",
+    "text": "Thẻ mới"
+  },
+  "New tab · ⌘T": {
+    "origin": "Files:NewTab",
+    "text": "Thẻ mới · ⌘T"
+  },
+  "New text file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "file văn bản mới"
+  },
+  "New text file…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tài liệu văn bản mới..."
+  },
+  "New window": {
+    "origin": "Files:NewWindow",
+    "text": "Cửa sổ mới"
+  },
+  "Next layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Layout tiếp theo"
+  },
+  "Next tab": {
+    "origin": "Files:NextTab",
+    "text": "Thẻ tiếp theo"
+  },
+  "No": {
+    "origin": "Files:No",
+    "text": "Không"
+  },
+  "No IDE selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không chọn IDE"
+  },
+  "No application could open ‘%1$@’.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không có ứng dụng nào có thể mở được”.%1$@’."
+  },
+  "No archive entry was extracted.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không có file entry được rút ra."
+  },
+  "No archive is open.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không có tài liệu nào mở."
+  },
+  "No archive was produced.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không có tài liệu nào được sản xuất."
+  },
+  "No commits yet": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "chưa cam kết"
+  },
+  "No files were extracted.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không có tệp nào được rút ra."
+  },
+  "No matching items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không phù hợp các mục"
+  },
+  "No movie header was found.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không tìm thấy bộ phim tiêu đề nào."
+  },
+  "No operations recorded.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không có hoạt động ghi lại."
+  },
+  "No readable macOS code signature.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không đọc macOS code chữ ký\n\n"
+  },
+  "No selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không lựa chọn"
+  },
+  "No settings match your search.": {
+    "origin": "Files:NoSearchResults",
+    "text": "Không có cài đặt nào khớp với tìm kiếm của bạn."
+  },
+  "No tracked diff. New files appear after staging.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không được theo dõi diff. Các tập tin mới sẽ xuất hiện sau khi cài đặt."
+  },
+  "None": {
+    "origin": "Files:CompressionLevelNone",
+    "text": "Không có"
+  },
+  "Not enough free space to finish extraction.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không đủ không gian miễn phí để hoàn thành khai thác."
+  },
+  "Not managed by a detected cloud provider": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không được quản lý bởi một nhà cung cấp đám mây được phát hiện"
+  },
+  "Not used": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không sử dụng"
+  },
+  "Numbered names": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Số tên"
+  },
+  "OK": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "OK"
+  },
+  "Older": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "già"
+  },
+  "Online only": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chỉ Online"
+  },
+  "Only an uploaded iCloud file without conflicts can have its local download removed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chỉ có một upload iCloud file mà không có xung đột có thể có tải xuống địa phương của nó đã được xóa."
+  },
+  "Only images can be rotated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chỉ có hình ảnh mới có thể được xoay."
+  },
+  "Open": {
+    "origin": "Files:Open",
+    "text": "Mở"
+  },
+  "Open / Preview": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Khởi mở / Preview"
+  },
+  "Open Login Items settings": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open Login Items Thiết lập"
+  },
+  "Open MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mở MacFiles"
+  },
+  "Open System Settings for iCloud": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cài đặt hệ thống mở cho iCloud"
+  },
+  "Open a repository, initialize this folder, or clone a repository.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mở một kho lưu trữ, khởi động thư mục này, hoặc clone một kho lưu trữ."
+  },
+  "Open all folders in tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mở tất cả các thư mục trong tab"
+  },
+  "Open containing folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mở folder chứa"
+  },
+  "Open external folders in new windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mở các thư mục bên ngoài trong cửa sổ mới"
+  },
+  "Open file location": {
+    "origin": "Files:OpenFileLocation",
+    "text": "Mở vị trí tệp"
+  },
+  "Open folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Khởi mở folder"
+  },
+  "Open folders in new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mở thư mục trong tab mới"
+  },
+  "Open folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mở folder..."
+  },
+  "Open in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mở trong IDE"
+  },
+  "Open in IDE uses the selected application. Open repository in IDE resolves the Git repository root first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open in IDE sử dụng ứng dụng được chọn. Open repository in IDE giải quyết Git Đầu tiên là root."
+  },
+  "Open in Terminal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Khởi mở tại Terminal"
+  },
+  "Open in new tab": {
+    "origin": "Files:OpenInNewTab",
+    "text": "Mở trong thẻ mới"
+  },
+  "Open in new window": {
+    "origin": "Files:OpenInNewWindow",
+    "text": "Mở trong cửa sổ mới"
+  },
+  "Open in other pane": {
+    "origin": "Files:OpenInOtherPane",
+    "text": "Mở trong ngăn khác"
+  },
+  "Open log file": {
+    "origin": "Files:OpenLogFile",
+    "text": "Mở tệp nhật ký"
+  },
+  "Open new tabs with dual panes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mở các tab mới với Dual Panes"
+  },
+  "Open repository in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Khởi mở lưu trữ trong IDE"
+  },
+  "Open selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lựa chọn mở"
+  },
+  "Open target folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mục tiêu mở folder"
+  },
+  "Open with": {
+    "origin": "Files:OpenWith",
+    "text": "Mở bằng"
+  },
+  "Open with application": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "mở với ứng dụng"
+  },
+  "Open with application…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "mở với ứng dụng..."
+  },
+  "Open with…": {
+    "origin": "Files:OpenWith",
+    "text": "Mở bằng"
+  },
+  "Open-ended media atoms require remuxing before editing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các nguyên tử phương tiện mở cần phải được khôi phục trước khi chỉnh sửa."
+  },
+  "OpenAllTaggedItems": {
+    "origin": "Files:OpenAllTaggedItems",
+    "text": "Mở tất cả"
+  },
+  "OpenLogFile": {
+    "origin": "Files:OpenLogFile",
+    "text": "Mở tệp nhật ký"
+  },
+  "Operation completed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chiến dịch hoàn thành."
+  },
+  "Operation failed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hoạt động thất bại"
+  },
+  "Operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "hoạt động"
+  },
+  "Operations (%1$@ queued)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các hoạt động (%1$@ Quếng"
+  },
+  "Operations…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hoạt động..."
+  },
+  "Orange": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Naranh"
+  },
+  "Original location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vị trí ban đầu"
+  },
+  "Original locations are remembered for items deleted by MacFiles, including across launches.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Địa điểm ban đầu được ghi nhớ cho các mục bị xóa bởi MacFilesTrong khi đó, trong tất cả các khởi động."
+  },
+  "Original name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tên gốc"
+  },
+  "Overcast": {
+    "origin": "Files:Overcast",
+    "text": "Âm u"
+  },
+  "Owner": {
+    "origin": "Files:PropertyFileOwner",
+    "text": "Chủ sở hữu"
+  },
+  "Owner UID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chủ sở hữu UID"
+  },
+  "Ownership updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chủ sở hữu cập nhật"
+  },
+  "POSIX permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "POSIX Quyền truy cập"
+  },
+  "Password": {
+    "origin": "Files:Password",
+    "text": "Mật khẩu"
+  },
+  "Password (optional, AES-256)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "mật khẩu (tùy chọn, AES-256)"
+  },
+  "Password / key passphrase (optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Password / Key Password (tùy chọn)"
+  },
+  "Password protection is supported for ZIP archives.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bảo vệ mật khẩu được hỗ trợ cho ZIP Tài liệu ."
+  },
+  "Paste": {
+    "origin": "Files:Paste",
+    "text": "Dán"
+  },
+  "Paste and drop transfers queue behind the current operation. Completed changes remain available through Undo. Copy cancellation stops the staged transfer before publishing it. Undo history is restored across launches.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cài đặt và drop chuyển đổi vỏ đằng sau hoạt động hiện tại. Thay đổi hoàn thành vẫn có sẵn thông qua Undo. Copy cancellation stops the staged transfer before publishing it. Undo history is restored across lanches."
+  },
+  "Paste files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Đặt file"
+  },
+  "Paste shortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "Dán dưới dạng lối tắt"
+  },
+  "Paste the files into a permanent folder before creating aliases to them.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Đặt các tập tin vào một thư mục vĩnh viễn trước khi tạo liên kết với chúng."
+  },
+  "PasteItemToSelectionDescription": {
+    "origin": "Files:PasteItemToSelectionDescription",
+    "text": "Dán khoản mục vào thư mục đã chọn"
+  },
+  "PasteShortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "Dán dưới dạng lối tắt"
+  },
+  "Path": {
+    "origin": "Files:ExtractToPath",
+    "text": "Đường dẫn"
+  },
+  "Pattern": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "mô hình"
+  },
+  "Permanently delete %1$@ items?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Xóa vĩnh viễn %1$@ Các mục?"
+  },
+  "Permissions": {
+    "origin": "Files:Permissions",
+    "text": "Quyền truy cập"
+  },
+  "Permissions are enforced by the server. FTP servers must support SITE CHMOD; SFTP uses SSH permissions.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các giấy phép được thực hiện bởi máy chủ. FTP Các máy chủ phải hỗ trợ CHMOD; SFTP Sử dụng SSH Quyền truy cập"
+  },
+  "Permissions are stored in the archive. Changes rebuild it and support Undo.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các giấy phép được lưu trữ trong hồ sơ. thay đổi xây dựng lại nó và hỗ trợ Undo."
+  },
+  "Permissions updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Giấy phép được cập nhật"
+  },
+  "Permissions…": {
+    "origin": "Files:Permissions",
+    "text": "Quyền truy cập"
+  },
+  "Pick up where you left off": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chọn lên nơi bạn rời đi"
+  },
+  "Pictures": {
+    "origin": "Files:Pictures",
+    "text": "Hình ảnh"
+  },
+  "Pin this folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pin file này"
+  },
+  "Pin to sidebar": {
+    "origin": "Files:PinFolderToSidebar",
+    "text": "Ghim vào thanh bên"
+  },
+  "Pinned": {
+    "origin": "Files:Pinned",
+    "text": "Đã ghim"
+  },
+  "Pinned folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mã phím"
+  },
+  "Play All": {
+    "origin": "Files:PlayAll",
+    "text": "Phát tất cả"
+  },
+  "PlayAll": {
+    "origin": "Files:PlayAll",
+    "text": "Phát tất cả"
+  },
+  "Port": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "cảng"
+  },
+  "Preparing copy": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chuẩn bị copy"
+  },
+  "Preparing move": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chuẩn bị chuyển động"
+  },
+  "Presentation is saved with this virtual location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Giới thiệu được lưu với vị trí ảo này."
+  },
+  "Press the shortcut…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nhấn vào shortcut..."
+  },
+  "Preview": {
+    "origin": "Files:Preview",
+    "text": "Xem trước"
+  },
+  "Previous layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Layout trước"
+  },
+  "Previous tab": {
+    "origin": "Files:PreviousTab",
+    "text": "Thẻ trước đó"
+  },
+  "Properties": {
+    "origin": "Files:OpenProperties",
+    "text": "Thuộc tính"
+  },
+  "Properties…": {
+    "origin": "Files:OpenProperties",
+    "text": "Thuộc tính"
+  },
+  "Property": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "bất động sản"
+  },
+  "Protocol": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nghị định thư"
+  },
+  "Provider controls in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nhà cung cấp kiểm soát trong Finder"
+  },
+  "Pull": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pull"
+  },
+  "Purple": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Đồ Purple"
+  },
+  "Push": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nhấn"
+  },
+  "Queued": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Quả"
+  },
+  "Quick access": {
+    "origin": "Files:QuickAccess",
+    "text": "Truy cập nhanh"
+  },
+  "Quit MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thoát MacFiles"
+  },
+  "Readable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Đọc"
+  },
+  "Recent files": {
+    "origin": "Files:RecentFiles",
+    "text": "Tệp gần đây"
+  },
+  "Recent folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tài liệu gần đây"
+  },
+  "Reconnect to the same server and account, then retry Undo. The remote recovery data remains in .MacFiles-Recovery.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kết nối lại với cùng một máy chủ và tài khoản, sau đó rút Undo. dữ liệu khôi phục từ xa vẫn còn trong .MacFiles-Recovery."
+  },
+  "Record shortcut": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rekord ngắn"
+  },
+  "Red": {
+    "origin": "Files:Red",
+    "text": "Đỏ"
+  },
+  "Redo": {
+    "origin": "Files:Redo",
+    "text": "Làm lại"
+  },
+  "Redo file operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Redo file hoạt động"
+  },
+  "Redoing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Redoing"
+  },
+  "Refresh": {
+    "origin": "Files:Refresh",
+    "text": "Làm mới"
+  },
+  "Refresh · ⌘R": {
+    "origin": "Files:Refresh",
+    "text": "Làm mới · ⌘R"
+  },
+  "Regular expression": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "biểu hiện thường xuyên"
+  },
+  "Release notes": {
+    "origin": "Files:ReleaseNotes",
+    "text": "Nội dung bản cập nhật"
+  },
+  "Reload": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "tải lại"
+  },
+  "Remember password in Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nhớ mật khẩu trong Keychain"
+  },
+  "Remote operation on %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hoạt động từ xa trên %1$@"
+  },
+  "Remote path": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Đường xa"
+  },
+  "Remote paths cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các con đường từ xa không thể chứa các cơn gián đoạn đường hoặc NUL nhân vật"
+  },
+  "Remotes": {
+    "origin": "Files:Remotes",
+    "text": "Máy chủ"
+  },
+  "Remove": {
+    "origin": "Files:Remove",
+    "text": "Loại bỏ"
+  },
+  "Remove attribute…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Xóa tài sản..."
+  },
+  "Remove background image": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Xóa hình ảnh nền"
+  },
+  "Remove download": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tải Download"
+  },
+  "Remove entries…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Xóa các entries..."
+  },
+  "Remove from archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Xóa khỏi Archive"
+  },
+  "Remove library": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "xóa thư viện"
+  },
+  "Remove local download…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tải về Local Download..."
+  },
+  "Remove references": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Xóa các tham chiếu"
+  },
+  "Remove saved credentials": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Xóa các tín dụng được tiết kiệm"
+  },
+  "Remove saved folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Xóa thư mục được lưu"
+  },
+  "Remove saved search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Xóa tìm kiếm được tiết kiệm"
+  },
+  "Remove selected entries from the archive?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Xóa các bài đăng được chọn từ lưu trữ?"
+  },
+  "Remove tags": {
+    "origin": "Files:RemoveTags",
+    "text": "Gỡ bỏ nhãn"
+  },
+  "Remove the local download?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Xóa tải địa phương?"
+  },
+  "Remove ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "xóa »%1$@’?"
+  },
+  "RemoveTags": {
+    "origin": "Files:RemoveTags",
+    "text": "Gỡ bỏ nhãn"
+  },
+  "Removing tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "xóa tags"
+  },
+  "Rename": {
+    "origin": "Files:Rename",
+    "text": "Đổi tên"
+  },
+  "Rename %1$@ items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Đổi tên %1$@ mục"
+  },
+  "Rename archive entry": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Danh sách Archive entry"
+  },
+  "Rename entry…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lời bài hát: Rename..."
+  },
+  "Rename failed. Your item is preserved at %1$@. %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rename thất bại. item của bạn được giữ lại tại %1$@. %2$@"
+  },
+  "Rename remote item": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Đặt tên mục từ xa"
+  },
+  "Rename…": {
+    "origin": "Files:Rename",
+    "text": "Đổi tên"
+  },
+  "Renaming": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Đổi lại"
+  },
+  "Renaming items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Đổi lại các mục"
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Finder uses the macOS palette; custom colors and stable IDs are retained by MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Đổi lại hoặc xóa các tập tin cập nhật tag được lưu bởi SpotlightCác tệp không được chỉ định hoặc không thể truy cập có thể giữ thẻ cũ. Finder Sử dụng The macOS palette; màu tùy chỉnh và ID ổn định được giữ bằng MacFiles."
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Tag colors use the macOS palette.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Đổi lại hoặc xóa các tập tin cập nhật tag được lưu bởi SpotlightCác tệp không được chỉ định hoặc không thể truy cập có thể giữ thẻ cũ. macOS Palette của bạn"
+  },
+  "Reopen closed tab": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Khởi mở lại tab"
+  },
+  "Replace": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "thay thế"
+  },
+  "Replace this item's ACL?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thay thế mục này ACL?"
+  },
+  "Replace with": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thay thế với"
+  },
+  "Replace, keeping backup": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thay thế, lưu trữ backup"
+  },
+  "Report an issue": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Báo cáo một vấn đề"
+  },
+  "Repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Repository"
+  },
+  "Repository URL": {
+    "origin": "Files:RepositoryURL",
+    "text": "URL kho lưu trữ"
+  },
+  "Requesting cloud download": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tải về Cloud Download"
+  },
+  "Reset": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Đặt lại"
+  },
+  "Reset all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Đặt lại tất cả"
+  },
+  "Reset icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Đặt lại icon"
+  },
+  "Reset pinned folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Đặt lại các file pin"
+  },
+  "Restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Khởi động lại MacFiles"
+  },
+  "Restore all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "khôi phục tất cả"
+  },
+  "Restore command defaults": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "khôi phục lệnh default"
+  },
+  "Restore here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "khôi phục tại đây"
+  },
+  "Restore original location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "khôi phục vị trí ban đầu"
+  },
+  "Restore previous folder viewer": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "khôi phục folder viewers trước"
+  },
+  "Restore tabs at launch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "khôi phục tabs khi khởi động"
+  },
+  "Restore to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Khôi phục lại cho..."
+  },
+  "Restoring from Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Phục hồi từ Trash"
+  },
+  "Results come from the macOS Spotlight index. Unindexed folders are not included.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kết quả đến từ macOS Spotlight index: Các thư mục không được chỉ định không được bao gồm."
+  },
+  "Results in this folder and subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kết quả trong thư mục này và subfolders"
+  },
+  "Retargeting shortcut": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lập tắt shortcut"
+  },
+  "Retarget…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Retarget..."
+  },
+  "Reveal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Khám phá"
+  },
+  "Reveal in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Khám phá trong Finder"
+  },
+  "Reverse tab scroll direction": {
+    "origin": "Files:ReverseTabScrollDirection",
+    "text": "Đảo chiều cuộn thẻ"
+  },
+  "Review server fingerprint…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Đánh giá ngón tay máy chủ"
+  },
+  "Right": {
+    "origin": "Files:Right",
+    "text": "Bên phải"
+  },
+  "Rotate left": {
+    "origin": "Files:RotateLeft",
+    "text": "Xoay trái"
+  },
+  "Rotate right": {
+    "origin": "Files:RotateRight",
+    "text": "Xoay phải"
+  },
+  "Rotating left": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "xoay trái"
+  },
+  "Rotating right": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "xoay bên phải"
+  },
+  "Running": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "chạy"
+  },
+  "SFTP (SSH keys)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SFTP (SSH Chìa khóa"
+  },
+  "SMB, AFP, or WebDAV share": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SMB, AFPhoặc WebDAV Chia sẻ"
+  },
+  "SSH known-host verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH Kiểm tra khách hàng"
+  },
+  "SSH passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH mật khẩu không thể chứa các đoạn đường hoặc NUL nhân vật"
+  },
+  "Save": {
+    "origin": "Files:Save",
+    "text": "Lưu"
+  },
+  "Save attribute": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Save Attribute Đánh giá"
+  },
+  "Save folder layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lưu folder layout"
+  },
+  "Save metadata": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bảo vệ metadata"
+  },
+  "Save search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tìm kiếm Save"
+  },
+  "Save search…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tìm kiếm Save..."
+  },
+  "Save to Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Save to Keychain"
+  },
+  "Saved connections": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kết nối được tiết kiệm"
+  },
+  "Saved searches": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tìm kiếm tiết kiệm"
+  },
+  "Saved. The token will be used for GitHub HTTPS operations.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Token sẽ được sử dụng cho các hoạt động GitHub HTTPS."
+  },
+  "Seafoam": {
+    "origin": "Files:Seafoam",
+    "text": "Xanh pastel"
+  },
+  "Search": {
+    "origin": "Files:Key.BrowserSearch",
+    "text": "Tìm kiếm"
+  },
+  "Search %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tìm kiếm %1$@"
+  },
+  "Search %1$@ · Return searches subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tìm kiếm %1$@ · Trở lại tìm kiếm subfolders"
+  },
+  "Search available actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tìm kiếm các hành động có sẵn"
+  },
+  "Search commands": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lệnh tìm kiếm"
+  },
+  "Search folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tìm kiếm folder"
+  },
+  "Search settings": {
+    "origin": "Files:SearchSettings",
+    "text": "Tìm kiếm cài đặt..."
+  },
+  "Search stopped.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tìm kiếm dừng lại"
+  },
+  "Search subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tìm kiếm Subfolders"
+  },
+  "Security": {
+    "origin": "Files:Security",
+    "text": "Bảo mật"
+  },
+  "Select": {
+    "origin": "Files:NavToolbarSelectionOptions.Label",
+    "text": "Chọn"
+  },
+  "Select a file to view its diff.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chọn một tệp để xem diff của nó."
+  },
+  "Select a macOS alias or symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chọn A macOS Alias hoặc liên kết biểu tượng."
+  },
+  "Select a regular media file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chọn một tập tin truyền thông thường xuyên."
+  },
+  "Select all": {
+    "origin": "Files:SelectAll",
+    "text": "Chọn tất cả"
+  },
+  "Select an archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chọn một file"
+  },
+  "Select an item to see its details.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chọn một mục để xem chi tiết."
+  },
+  "Select archive entries to remove.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chọn file để xóa."
+  },
+  "Select on hover": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chọn trên hover"
+  },
+  "Select previous folder when navigating up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chọn thư mục trước khi di chuyển lên"
+  },
+  "Select uniquely named items to archive.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chọn các mục được đặt tên độc đáo để lưu trữ."
+  },
+  "Selected items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các mục được chọn"
+  },
+  "Selected items have duplicate names. Archive them separately.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các mục được chọn có tên duplicate. lưu trữ chúng riêng biệt."
+  },
+  "Selection checkboxes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chọn hộp kiểm"
+  },
+  "Separate file and folder counts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tính toán tệp và thư mục riêng biệt"
+  },
+  "Separator": {
+    "origin": "Files:Separator",
+    "text": "Dấu phân cách"
+  },
+  "Server": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "máy chủ"
+  },
+  "Set as app background": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "Hình nền ứng dụng"
+  },
+  "Set as wallpaper": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thiết lập như wallpaper"
+  },
+  "Set default": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thiết lập default"
+  },
+  "SetAsAppBackground": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "Hình nền ứng dụng"
+  },
+  "Settings": {
+    "origin": "Files:Settings",
+    "text": "Cài đặt"
+  },
+  "Settings file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cài đặt file"
+  },
+  "Settings saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cài đặt được tiết kiệm."
+  },
+  "Settings…": {
+    "origin": "Files:Settings",
+    "text": "Cài đặt"
+  },
+  "Share": {
+    "origin": "Files:Share",
+    "text": "Chia sẻ"
+  },
+  "Share…": {
+    "origin": "Files:Share",
+    "text": "Chia sẻ"
+  },
+  "Shelf": {
+    "origin": "Files:Shelf",
+    "text": "Ngăn tạm"
+  },
+  "Shortcut": {
+    "origin": "Files:Shortcut",
+    "text": "Lối tắt"
+  },
+  "Shortcuts apply in the explorer. Text fields keep native editing behavior. Resolve duplicate assignments before applying.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Shortcuts áp dụng trong Explorer. Text fields keep native editing behavior. Giải quyết các nhiệm vụ duplicate trước khi áp dụng."
+  },
+  "Show dotfiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hiển thị dotfiles"
+  },
+  "Show hidden files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hiển thị các file ẩn"
+  },
+  "Show in folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hiển thị trong folder"
+  },
+  "Show log in folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hiển thị log trong folder"
+  },
+  "Show menu bar icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hiển thị menu bar icon"
+  },
+  "Show package contents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hiển thị gói nội dung"
+  },
+  "Show shelf button": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hiển thị Shelf button"
+  },
+  "Show staged diff": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hiển thị DIF"
+  },
+  "Show status bar": {
+    "origin": "Files:ShowStatusBar",
+    "text": "Hiện thanh trạng thái"
+  },
+  "Show tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hiển thị tab hành động"
+  },
+  "Show thumbnails": {
+    "origin": "Files:SettingsFilesAndFoldersShowThumbnails",
+    "text": "Hiện hình xem trước"
+  },
+  "ShowFileExtensions": {
+    "origin": "Files:ShowFileExtensions",
+    "text": "Phần mở rộng tệp"
+  },
+  "Sidebar": {
+    "origin": "Files:Sidebar",
+    "text": "Thanh bên"
+  },
+  "Signature": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "chữ ký"
+  },
+  "Signature integrity verification failed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kiểm tra tính toàn vẹn của chữ ký thất bại."
+  },
+  "Signature integrity verified. This does not constitute a notarization or malware assessment.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chứng nhận tính toàn vẹn của chữ ký. điều này không phải là một thông báo hoặc đánh giá phần mềm độc hại."
+  },
+  "Signatures": {
+    "origin": "Files:Signatures",
+    "text": "Chữ ký"
+  },
+  "Single file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "File đơn"
+  },
+  "Single folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mẫu đơn"
+  },
+  "Single-click columns": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cột Single-Click"
+  },
+  "Single-click files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tệp Single-Click"
+  },
+  "Single-click folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mã đơn click"
+  },
+  "Size": {
+    "origin": "Files:SizeLabel",
+    "text": "Kích cỡ:"
+  },
+  "Size units": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Số đơn vị"
+  },
+  "Skip": {
+    "origin": "Files:Skip",
+    "text": "Bỏ qua"
+  },
+  "Skip existing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Skip hiện có"
+  },
+  "Small icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Icon nhỏ"
+  },
+  "Smooth scrolling": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Smooth scrolling mỏng"
+  },
+  "Solid": {
+    "origin": "Files:Solid",
+    "text": "Màu đơn"
+  },
+  "Some files could not be updated. The saved tag was retained so you can retry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Một số tệp không thể được cập nhật. thẻ được lưu giữ để bạn có thể rút lại."
+  },
+  "Some items could not be read.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Một số bài viết không thể đọc được."
+  },
+  "Some items couldn’t be completed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Một số mục không thể hoàn thành"
+  },
+  "Some items have no recorded original location. Select them and use Restore to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Một số mục không có vị trí ban đầu được ghi lại. chọn chúng và sử dụng khôi phục để..."
+  },
+  "Sort": {
+    "origin": "Files:Sort",
+    "text": "Sắp xếp"
+  },
+  "Sort by": {
+    "origin": "Files:SortBy",
+    "text": "Sắp xếp theo"
+  },
+  "SortFilesAndFoldersTogether": {
+    "origin": "Files:SortFilesAndFoldersTogether",
+    "text": "Sắp xếp tệp chung với thư mục"
+  },
+  "SortFilesFirst": {
+    "origin": "Files:SortFilesFirst",
+    "text": "Sắp xếp tệp lên đầu"
+  },
+  "SortFoldersFirst": {
+    "origin": "Files:SortFoldersFirst",
+    "text": "Sắp xếp thư mục lên đầu"
+  },
+  "Source code": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mã nguồn"
+  },
+  "Special device entries cannot be extracted: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các bản ghi thiết bị đặc biệt không thể được rút ra: %1$@"
+  },
+  "Split archives use ZIP or 7z format.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sử dụng phân chia file ZIP hoặc 7z Định dạng"
+  },
+  "Split into volumes (MiB, optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chia thành khối lượng (MiB, tùy chọn)"
+  },
+  "Stage all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bước tất cả"
+  },
+  "Stage selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "giai đoạn được chọn"
+  },
+  "Staged all changes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thời hạn tất cả thay đổi"
+  },
+  "Staged selected files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Staged Selected File - Các tập tin được chọn"
+  },
+  "Start": {
+    "origin": "Files:Start",
+    "text": "Bắt đầu"
+  },
+  "Start folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bắt đầu folder"
+  },
+  "Startup": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "khởi động"
+  },
+  "Startup and tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup và Tabs"
+  },
+  "Startup folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup thư mục"
+  },
+  "Startup folders are used when session restoration is disabled. An empty list opens Home.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các thư mục khởi động được sử dụng khi khôi phục phiên bị vô hiệu hóa. một danh sách trống mở Home."
+  },
+  "Status": {
+    "origin": "Files:StatusWithColon",
+    "text": "Trạng thái:"
+  },
+  "Stop": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "dừng lại"
+  },
+  "Stopped before the next item. Completed items were kept.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Đã dừng lại trước khi mục tiếp theo. các mục hoàn thành đã được giữ lại."
+  },
+  "Storage settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cài đặt lưu trữ..."
+  },
+  "Storm": {
+    "origin": "Files:Storm",
+    "text": "Giông bão"
+  },
+  "Stretch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Stretch"
+  },
+  "Switch to new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chuyển sang tabs mới"
+  },
+  "Switched to %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chuyển đổi đến %1$@"
+  },
+  "Symbolic Link": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Link biểu tượng"
+  },
+  "Symbolic link": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "liên kết biểu tượng"
+  },
+  "Sync": {
+    "origin": "Files:GitSync",
+    "text": "Sync"
+  },
+  "Sync conflict": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sync xung đột"
+  },
+  "Sync error": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lỗi Sync"
+  },
+  "Synced": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "đồng bộ"
+  },
+  "Synchronize folder preferences": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Đồng bộ hóa các tùy chọn thư mục"
+  },
+  "System": {
+    "origin": "Files:SystemTimeStyle",
+    "text": "Hệ thống"
+  },
+  "TLS certificate verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "TLS Giấy chứng nhận xác minh"
+  },
+  "Tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tab hành động"
+  },
+  "Tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "TABS"
+  },
+  "Tag": {
+    "origin": "Files:Tag",
+    "text": "Nhãn"
+  },
+  "Tag (blank = all tags)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag (blank = tất cả tags)"
+  },
+  "Tag color": {
+    "origin": "Files:TagColor",
+    "text": "Màu nhãn"
+  },
+  "Tag name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag tên"
+  },
+  "Tag names must be unique.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag tên phải độc đáo."
+  },
+  "Tag update failed and original metadata could not be restored: ": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag update thất bại và metadata ban đầu không thể được khôi phục: "
+  },
+  "Tagged items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tagged mục"
+  },
+  "Tags": {
+    "origin": "Files:FileTags",
+    "text": "Nhãn"
+  },
+  "Tags, separated by commas": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tags, tách biệt bởi commas"
+  },
+  "Target": {
+    "origin": "Files:PropertyItemTarget",
+    "text": "Đích"
+  },
+  "Terminal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Terminal"
+  },
+  "Test IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kiểm tra IDE"
+  },
+  "The ACL failed validation.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cái ACL Không xác nhận."
+  },
+  "The command failed (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lệnh thất bại (%1$@)."
+  },
+  "The custom icon and saved layout belong to the selected item.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các biểu tượng tùy chỉnh và bố trí được tiết kiệm thuộc về mục đã chọn."
+  },
+  "The destination connection changed. Drop the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kết nối mục tiêu đã thay đổi. xóa các tệp một lần nữa."
+  },
+  "The destination connection changed. Paste the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kết nối mục tiêu đã thay đổi. lưu lại các tệp."
+  },
+  "The destination is not an accessible folder.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mục đích không phải là một thư mục có thể truy cập."
+  },
+  "The icon could not be changed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Icon không thể thay đổi."
+  },
+  "The icon could not be reset.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Icon không thể được đặt lại."
+  },
+  "The media container did not retain: ": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bộ chứa truyền thông không giữ lại: "
+  },
+  "The media tracks cannot be preserved in this container.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các dấu vết truyền thông không thể được giữ trong container này."
+  },
+  "The new shortcut target does not exist.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mục tiêu shortcut mới không tồn tại."
+  },
+  "The old shortcut is in Trash, but macOS did not return its location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lâu đài cũ đang ở trong trash, nhưng macOS Không quay lại vị trí của mình."
+  },
+  "The original archive remains recoverable with Undo.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tài liệu gốc vẫn có thể phục hồi với Undo."
+  },
+  "The server did not return a valid host-key list.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Máy chủ không trả về một danh sách chìa khóa lưu trữ hợp lệ."
+  },
+  "The server recovery path is occupied by a file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Con đường phục hồi máy chủ được chiếm bởi một tệp."
+  },
+  "The server returned an unsafe or unsupported filename.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Máy chủ trả về một tên tệp không an toàn hoặc không được hỗ trợ."
+  },
+  "The server returned an unsupported directory listing. No transfer was started.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Máy chủ trả về một danh sách thư mục không được hỗ trợ.Không có chuyển đổi bắt đầu."
+  },
+  "The shortcut will point to %1$@. The target file itself is not modified.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mức ngắn sẽ chỉ ra rằng %1$@Bản thân tập tin mục tiêu không được sửa đổi."
+  },
+  "The slideshow changes desktop wallpaper while MacFiles is running. It resumes at launch when enabled. macOS controls the lock screen wallpaper separately.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Slideshow thay đổi nền desktop trong khi MacFiles chạy. nó khởi động lại khi bật. macOS Kiểm soát nền màn hình khóa riêng biệt."
+  },
+  "The system script could not be compiled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Script của hệ thống không thể được biên soạn."
+  },
+  "The system script could not be created.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hệ thống script không thể được tạo ra."
+  },
+  "The transfer selection changed. Cut the items again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lựa chọn chuyển đổi thay đổi. cắt các mục một lần nữa."
+  },
+  "The uploaded data did not match its source. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dữ liệu tải lên không phù hợp với nguồn của nó. nguồn được giữ lại."
+  },
+  "The uploaded iCloud copy remains available. macOS will download it again when needed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "tải lên iCloud Bản sao vẫn còn sẵn dùng macOS Bạn sẽ tải lại khi cần thiết."
+  },
+  "Theme": {
+    "origin": "Files:SettingsAppearanceTheme",
+    "text": "Chủ đề"
+  },
+  "These items will be removed from Trash. This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Những mục này sẽ được loại bỏ từ Trash. điều này không thể bị bỏ qua."
+  },
+  "Third-party providers do not expose a common public sync-completion API. Available locally describes downloaded bytes, not upload completion. Download requests do not pin files permanently.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các nhà cung cấp bên thứ ba không tiết lộ một API tổng hợp công cộng. Có sẵn địa phương mô tả các byte tải xuống, không tải về hoàn thành. Yêu cầu tải xuống không pin tệp vĩnh viễn."
+  },
+  "This FTP server cannot create symbolic links. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Đây là FTP máy chủ không thể tạo các liên kết biểu tượng. nguồn được giữ lại."
+  },
+  "This Mac": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mac này"
+  },
+  "This alias contains a target cycle.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Alias này chứa một chu kỳ mục tiêu."
+  },
+  "This archive format is read-only. Extract it and create a ZIP or 7z archive to edit its contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Định dạng lưu trữ này chỉ được đọc.Thuyết xuất nó và tạo một ZIP hoặc 7z lưu trữ để chỉnh sửa nội dung."
+  },
+  "This archive or server protocol does not expose macOS extended attributes. Extract or download the item to manage attributes on its local copy.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lưu trữ hoặc giao thức máy chủ này không tiết lộ macOS extract hoặc download the item to manage attributes on its local copy. (từ hoặc tải xuống mục để quản lý các thuộc tính trên bản sao địa phương của nó)."
+  },
+  "This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Điều này không thể bị bỏ qua."
+  },
+  "This changes the registered folder viewer. Finder still manages the desktop and macOS file dialogs. You can restore the previous viewer here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Điều này thay đổi trình duyệt thư mục đã đăng ký. Finder quản lý máy tính bảng và macOS file dialogs. bạn có thể khôi phục trình duyệt trước đây ở đây."
+  },
+  "This changes which users can access the item. Export the existing ACL first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Những thay đổi này mà người dùng có thể truy cập mục. xuất hiện ACL Đầu tiên nếu bạn cần một bản sao lưu."
+  },
+  "This folder is empty": {
+    "origin": "Files:EmptyFolder.Text",
+    "text": "Thư mục này đang trống."
+  },
+  "This location is not ready for transfers.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vị trí này không sẵn sàng cho việc chuyển giao."
+  },
+  "This media format cannot be edited by the native exporter.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Định dạng phương tiện này không thể được chỉnh sửa bởi nhà xuất khẩu bản địa."
+  },
+  "This metadata container uses indexed keys; edit it with its native media application.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bộ chứa metadata này sử dụng chìa khóa được chỉ định; chỉnh sửa nó với ứng dụng phương tiện truyền thông bản địa của nó."
+  },
+  "This operation cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hoạt động này không thể bị loại trừ."
+  },
+  "This removes the attribute from this file. Export its bytes first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Điều này loại bỏ thuộc tính từ tệp này. xuất byte đầu tiên nếu bạn cần sao lưu."
+  },
+  "Thumbnail cache limit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thumbnail cache giới hạn"
+  },
+  "Thumbnails": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thumbnails"
+  },
+  "Thumbnails are cached in memory. The limit applies to decoded images.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thumbnails được lưu trữ trong bộ nhớ. giới hạn áp dụng cho hình ảnh bị mã hóa."
+  },
+  "Tiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tinh"
+  },
+  "Title": {
+    "origin": "Files:PropertyTitle",
+    "text": "Tiêu đề"
+  },
+  "Today": {
+    "origin": "Files:Today",
+    "text": "Hôm nay"
+  },
+  "Toggle compact overlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "Bật tắt chế độ thu gọn"
+  },
+  "Toggle details pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thông tin chi tiết pane"
+  },
+  "Toggle dual pane": {
+    "origin": "Files:ToggleDualPane",
+    "text": "Bật tắt hai ngăn"
+  },
+  "Toggle filter header": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "Bật tắt công cụ lọc"
+  },
+  "Toggle full screen": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cùng màn hình đầy đủ"
+  },
+  "Toggle selection": {
+    "origin": "Files:ToggleSelect",
+    "text": "Đảo lựa chọn cuối"
+  },
+  "ToggleCompactOverlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "Bật tắt chế độ thu gọn"
+  },
+  "ToggleFilterHeader": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "Bật tắt công cụ lọc"
+  },
+  "ToggleSelect": {
+    "origin": "Files:ToggleSelect",
+    "text": "Đảo lựa chọn cuối"
+  },
+  "ToggleSidebar": {
+    "origin": "Files:ToggleSidebar",
+    "text": "Bật tắt thanh bên"
+  },
+  "ToggleToolbar": {
+    "origin": "Files:ToggleToolbar",
+    "text": "Bật tắt thanh công cụ"
+  },
+  "Too many nested aliases.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "quá nhiều Alias nô lệ."
+  },
+  "Tools": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Công cụ"
+  },
+  "Top": {
+    "origin": "Files:Top",
+    "text": "Bên trên"
+  },
+  "Total size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tổng kích thước"
+  },
+  "Transfer failed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chuyển đổi thất bại"
+  },
+  "Trash": {
+    "origin": "Files:RecycleBin",
+    "text": "Thùng rác"
+  },
+  "Trash on this Mac and connected volumes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Trash trên Mac này và khối lượng kết nối"
+  },
+  "Trust": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "tin tưởng"
+  },
+  "Trust this SSH server?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tin vào điều này SSH máy chủ ?"
+  },
+  "Trust verified fingerprints": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Đánh dấu ngón tay được xác minh"
+  },
+  "Try again": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cố gắng lại"
+  },
+  "Under window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "dưới cửa sổ"
+  },
+  "Undo": {
+    "origin": "Files:Undo",
+    "text": "Hoàn tác"
+  },
+  "Undo file operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "file hoạt động"
+  },
+  "Undoing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Những"
+  },
+  "Unencrypted FTP": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "không mã hóa FTP"
+  },
+  "Universal": {
+    "origin": "Files:Universal",
+    "text": "Phổ thông"
+  },
+  "Unknown": {
+    "origin": "Files:Unknown",
+    "text": "Không xác định"
+  },
+  "Unknown shortcut command.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lệnh shortcut chưa biết"
+  },
+  "Unpin": {
+    "origin": "Files:Unpin",
+    "text": "Bỏ ghim"
+  },
+  "Unsafe archive link target.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không an toàn Archive Link mục tiêu."
+  },
+  "Unstage": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Unstage Đánh giá"
+  },
+  "Unstaged selected files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các tập tin được chọn"
+  },
+  "Unsupported Git action.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không hỗ trợ Git Tác vụ"
+  },
+  "Unsupported archive entry name or listing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không hỗ trợ tên đăng nhập hoặc danh sách."
+  },
+  "Unsupported file type in transfer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không hỗ trợ file type trong transfer."
+  },
+  "Unsupported metadata container version.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không hỗ trợ phiên bản container metadata."
+  },
+  "Unsupported movie header.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Không hỗ trợ bộ phim tiêu đề"
+  },
+  "Untagged": {
+    "origin": "Files:Untagged",
+    "text": "Chưa gắn nhãn"
+  },
+  "Up": {
+    "origin": "Files:Key.Up",
+    "text": "Lên"
+  },
+  "Up one level": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "lên một cấp độ"
+  },
+  "Up one level · ⌘↑": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "lên một cấp độ ⌘↑"
+  },
+  "Updates native macOS tags for all selected items. Leave empty to remove tags.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bản cập nhật Native macOS Tags cho tất cả các mục được chọn. để trống để loại bỏ tags."
+  },
+  "Updating archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "cập nhật Archive"
+  },
+  "Updating media metadata": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tính năng Media Metadata"
+  },
+  "Updating permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cập nhật giấy phép"
+  },
+  "Upload": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "tải lên"
+  },
+  "Upload failed. The original remains at %1$@; the pending upload is %2$@. %3$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "tải thất bại. bản gốc vẫn còn ở %1$@• Tính năng nâng cấp là %2$@. %3$@"
+  },
+  "Upload files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tải file..."
+  },
+  "Upload regular files or folders; symbolic links are not followed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tải lên các tập tin hoặc thư mục thường xuyên; các liên kết biểu tượng không được theo dõi."
+  },
+  "Uploading": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "tải lên"
+  },
+  "Upstream Files issues": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Upstream file vấn đề"
+  },
+  "Use Copy and Paste or Download to transfer remote items.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sử dụng Copy and Paste hoặc Download để chuyển các mục từ xa."
+  },
+  "Use Copy or Extract to transfer archive contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sử dụng Copy hoặc Extract để chuyển tài liệu."
+  },
+  "Use MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sử dụng MacFiles"
+  },
+  "Use MacFiles for folder URLs?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sử dụng MacFiles Đối với folder URL?"
+  },
+  "Use MacFiles for folder URLs…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sử dụng MacFiles Đối với folder URL..."
+  },
+  "User": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Người dùng"
+  },
+  "Username": {
+    "origin": "Files:CredentialDialogUserName.PlaceholderText",
+    "text": "Tên người dùng"
+  },
+  "Uses SSH keys or the password above. Host-key verification remains enabled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sử dụng SSH Chìa khóa hoặc mật khẩu ở trên. Host-key xác minh vẫn được bật."
+  },
+  "Uses the on-device Apple Intelligence model when available. Otherwise searches the words you entered. No file content is sent to a server.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sử dụng mô hình Apple Intelligence trên thiết bị khi có sẵn. nếu không tìm kiếm các từ bạn nhập. Không có nội dung tệp được gửi đến một máy chủ."
+  },
+  "Value": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "giá trị"
+  },
+  "Verified host keys saved for MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Chìa khóa lưu trữ đã được kiểm tra MacFiles."
+  },
+  "Vertical alignment": {
+    "origin": "Files:VerticalAlignment",
+    "text": "Căn dọc"
+  },
+  "Vertical split": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vertical phân chia"
+  },
+  "View": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Xem"
+  },
+  "Volume": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Số lượng"
+  },
+  "Volume available": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Số lượng có sẵn"
+  },
+  "Volume capacity": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Khả năng Volume"
+  },
+  "Volume case sensitive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Số lượng trường hợp nhạy cảm"
+  },
+  "Volume read only": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Số lượng chỉ đọc"
+  },
+  "Volumes must be at least 1 KiB.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Số lượng phải có ít nhất 1 KiB."
+  },
+  "Waiting to sync": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Đang chờ Sync"
+  },
+  "Wallpaper could not be changed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hình nền không thể thay đổi"
+  },
+  "Wallpaper slideshow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hình nền slideshow"
+  },
+  "Wallpaper slideshow…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hình nền slideshow..."
+  },
+  "Warn when changing file extensions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cảnh báo khi thay đổi file extensions"
+  },
+  "When an item exists": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Khi một mục tồn tại"
+  },
+  "When names conflict, choose Keep both, Replace, or Skip. Replaced versions and deleted items go to the macOS Trash. Undo and redo are retained across launches and shared by open windows.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Khi các tên xung đột, chọn Giữ cả hai, Thay thế, hoặc Tắt. phiên bản thay thế và các mục bị xóa đi đến macOS Trash. Undo và redo được giữ lại trên tất cả các khởi động và được chia sẻ bởi cửa sổ mở."
+  },
+  "Working…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "làm việc..."
+  },
+  "Writable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "viết"
+  },
+  "Writes embedded metadata. Image files may be re-encoded; the original remains recoverable with Undo. Audio and video edits preserve encoded tracks. Unsupported containers keep the original.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Viết các metadata tích hợp. tập tin hình ảnh có thể được mã hóa lại; bản gốc vẫn có thể được khôi phục với Undo. chỉnh sửa âm thanh và video giữ lại các dấu vết mã hóa. containers không hỗ trợ giữ nguyên bản."
+  },
+  "Year": {
+    "origin": "Files:Year",
+    "text": "Năm"
+  },
+  "Yellow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Màu vàng"
+  },
+  "Yes": {
+    "origin": "Files:Yes",
+    "text": "Có"
+  },
+  "Yesterday": {
+    "origin": "Files:Yesterday",
+    "text": "Hôm qua"
+  },
+  "You can restore these items with Undo or from the Trash.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bạn có thể khôi phục các mục này với Undo hoặc từ Trash."
+  },
+  "Your files, your way.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các file của bạn, con đường của bạn."
+  },
+  "Your pinned folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Các phím mọc của bạn"
+  },
+  "Zoom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Zoom"
+  },
+  "macOS aliases and symbolic links refer to a target path. Windows shortcut arguments and Run as administrator flags do not have alias equivalents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Alias và các liên kết biểu tượng đề cập đến một con đường mục tiêu. Windows Các lập luận ngắn và chạy như các lá cờ quản trị không có tương đương alias."
+  },
+  "macOS integration": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Integration"
+  },
+  "macOS moved the previous version to Trash but did not return its location. The new version was not installed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Chuyển phiên bản trước sang Trash nhưng không quay lại vị trí. phiên bản mới không được cài đặt."
+  },
+  "macOS returned %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS trở lại %1$@."
+  },
+  "macOS uses Mach-O architectures and the application's minimum OS version. Windows compatibility modes, DPI overrides and administrator flags cannot be applied to a native Mac app.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Sử dụng Mach-O kiến trúc và phiên bản OS tối thiểu của ứng dụng. Windows Các chế độ tương thích, DPI overrides và lá cờ quản trị viên không thể được áp dụng cho một ứng dụng Mac bản địa."
+  }
+}

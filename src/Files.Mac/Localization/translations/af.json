@@ -1,0 +1,4675 @@
+{
+  "%1$@ MB": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ MB"
+  },
+  "%1$@ Trash location(s) could not be read. macOS may require Full Disk Access for Trash. Items listed here remain available to manage.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Die plek(s) kan nie lees nie. macOS kan Full Disk Access vir Trash vereis word. die items wat hier verwys word, bly beskikbaar om te beheer."
+  },
+  "%1$@ destination name(s) already exist": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Die bestemming name(s) is reeds bestaan"
+  },
+  "%1$@ entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Inskrywing"
+  },
+  "%1$@ folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Die folder"
+  },
+  "%1$@ folders · %2$@ files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ die folder; %2$@ lêers"
+  },
+  "%1$@ folders · saves to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ 'n versoekers bespaar die %2$@"
+  },
+  "%1$@ free of %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Vrije van %2$@"
+  },
+  "%1$@ inaccessible": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Ontoeganklike"
+  },
+  "%1$@ is assigned more than once.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Dit word meer as 'n keer toegekend."
+  },
+  "%1$@ is reserved by macOS or the application window.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Dit is gereserveer deur macOS Of die aansoek venster."
+  },
+  "%1$@ is reserved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Dit is reserveer."
+  },
+  "%1$@ item(s) ready to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ die item(s) is gereed om %2$@"
+  },
+  "%1$@ selected items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Selekte items"
+  },
+  "%1$@. Sync completion is managed by the provider and is not reported through public file metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@Sync voltooiing word beheer deur die provider en word nie gemeld deur openbare bestand metadata nie."
+  },
+  "A different key is already trusted for this host. Review the changed key with the server administrator before replacing it.": {
+    "origin": "M2M100-418M-local",
+    "text": "'N ander sleutel is reeds vertrou vir hierdie host. Die veranderde sleutel met die serveradministrator oorweeg voordat dit vervang word."
+  },
+  "A familiar place for everything.": {
+    "origin": "M2M100-418M-local",
+    "text": "'n bekende plek vir alles."
+  },
+  "A file operation is still running": {
+    "origin": "M2M100-418M-local",
+    "text": "'N File-operasie is nog steeds in werking"
+  },
+  "A folder cannot be copied or moved inside itself.": {
+    "origin": "M2M100-418M-local",
+    "text": "'N folder kan nie kopieer of in homself verhuis word nie."
+  },
+  "A shortcut cannot target itself.": {
+    "origin": "M2M100-418M-local",
+    "text": "'N kortskakel kan nie self target nie."
+  },
+  "ACL updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ACL Die update."
+  },
+  "About": {
+    "origin": "Files:About",
+    "text": "Oor"
+  },
+  "About MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Oor MacFiles"
+  },
+  "Accent color (hex)": {
+    "origin": "M2M100-418M-local",
+    "text": "Die kleur (hex)"
+  },
+  "Access control list — native macOS syntax": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die toegangsbeheersing - native macOS Syntaxe"
+  },
+  "Access token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "toegang tot Token"
+  },
+  "Accounts, authentication and sync preferences are managed by each provider’s native app. Removing a saved folder here does not unlink its account or delete files.": {
+    "origin": "M2M100-418M-local",
+    "text": "Konto's, authentikasie en synk-voorkeure word beheer deur elke provider se native app. Die verwijdering van 'n gespaarde map hier sluit nie sy rekening af of die bestande verwyder nie."
+  },
+  "Action unavailable": {
+    "origin": "M2M100-418M-local",
+    "text": "Handeling ontoeganklik"
+  },
+  "Actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Aktiewe"
+  },
+  "Adaptive": {
+    "origin": "Files:Adaptive",
+    "text": "Automatically choose the best layout"
+  },
+  "Adaptive layout": {
+    "origin": "Files:Adaptive",
+    "text": "Automatically choose the best layout"
+  },
+  "Add": {
+    "origin": "Files:Add",
+    "text": "Voeg By"
+  },
+  "Add cloud folder…": {
+    "origin": "M2M100-418M-local",
+    "text": "Ek het 'n cloud folder..."
+  },
+  "Add current selection": {
+    "origin": "M2M100-418M-local",
+    "text": "Voeg die huidige selectie toe"
+  },
+  "Add files…": {
+    "origin": "M2M100-418M-local",
+    "text": "Voeg die bestellings..."
+  },
+  "Add folder…": {
+    "origin": "M2M100-418M-local",
+    "text": "Voeg 'n folder..."
+  },
+  "Add images…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Voeg foto’s toe..."
+  },
+  "Add prefix": {
+    "origin": "M2M100-418M-local",
+    "text": "Voeg 'n prefix"
+  },
+  "Add saved tag": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Voeg 'n beveiligde tag"
+  },
+  "Add selection to shelf": {
+    "origin": "M2M100-418M-local",
+    "text": "Voeg 'n selectie aan Shelf"
+  },
+  "Add startup folders…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Voeg 'n start-up folder aan."
+  },
+  "Add suffix": {
+    "origin": "M2M100-418M-local",
+    "text": "Voeg 'n suffix"
+  },
+  "Add to library": {
+    "origin": "M2M100-418M-local",
+    "text": "Voeg toe aan die bibliotheek"
+  },
+  "Add to shelf": {
+    "origin": "M2M100-418M-local",
+    "text": "Voeg toe aan Shelf"
+  },
+  "Advanced": {
+    "origin": "Files:Advanced",
+    "text": "Gevorderde"
+  },
+  "Advanced search": {
+    "origin": "M2M100-418M-local",
+    "text": "Geavanceerde soek"
+  },
+  "Advanced search…": {
+    "origin": "M2M100-418M-local",
+    "text": "Geavanceerde navorsing..."
+  },
+  "Album": {
+    "origin": "M2M100-418M-local",
+    "text": "Album"
+  },
+  "Allocated size": {
+    "origin": "M2M100-418M-local",
+    "text": "Gedeelde grootte"
+  },
+  "Already assigned to %1$@. Remove that assignment first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hy is reeds aan die %1$@Verwyder die taak eers."
+  },
+  "Always show operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Almal die operasie"
+  },
+  "Always visible": {
+    "origin": "M2M100-418M-local",
+    "text": "Almal duidelik"
+  },
+  "Always-visible items are combined with the current selection context. Cloud items add their own controls.": {
+    "origin": "M2M100-418M-local",
+    "text": "Always-visible items word gecombineer met die huidige seleksie konteks. Cloud items voeg hul eie beheers toe."
+  },
+  "Ambiguous archive listing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ambiguïe archief verwysing."
+  },
+  "Ambiguous media metadata containers.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ambige media metadate containers."
+  },
+  "Any": {
+    "origin": "M2M100-418M-local",
+    "text": "Elke"
+  },
+  "App language (restart to apply)": {
+    "origin": "M2M100-418M-local",
+    "text": "App taal (herstart om te gebruik)"
+  },
+  "Appearance": {
+    "origin": "Files:Appearance",
+    "text": "Voorkoms"
+  },
+  "Application": {
+    "origin": "Files:Application",
+    "text": "Toepassing"
+  },
+  "Application unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Aanvraag ontoeganklik"
+  },
+  "Applies owner, group, and other permissions to the selected items only.": {
+    "origin": "M2M100-418M-local",
+    "text": "Gebruik die eigenaar, groep, en ander toestemming vir die geselte items slegs."
+  },
+  "Apply": {
+    "origin": "M2M100-418M-local",
+    "text": "Aanvraag"
+  },
+  "Apply ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Aanvraag ACL…"
+  },
+  "Apply UID %1$@ and GID %2$@ to this item only.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Aanvraag UID %1$@ en GID %2$@ Alleen vir hierdie item."
+  },
+  "Apply attributes": {
+    "origin": "M2M100-418M-local",
+    "text": "Gebruik 'n attribut"
+  },
+  "Apply file permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gee die toestemming van die bestand"
+  },
+  "Apply owner/group…": {
+    "origin": "M2M100-418M-local",
+    "text": "Die werknemer / groep ..."
+  },
+  "Approve MacFiles in Login Items in System Settings.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "goedkeuring MacFiles in Login items in die stelsel instellings."
+  },
+  "Archive": {
+    "origin": "M2M100-418M-local",
+    "text": "Archief"
+  },
+  "Archive attempts to write through a link or file: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archief probeer om te skryf deur middel van 'n skakel of bestand: %1$@"
+  },
+  "Archive contains an unsafe path: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archief bevat 'n onveilig pad: %1$@"
+  },
+  "Archive contains an unsafe symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Archief bevat 'n onveilig symbolieke link."
+  },
+  "Archive editing cannot traverse symbolic links.": {
+    "origin": "M2M100-418M-local",
+    "text": "Archief bewerkings kan nie symbolieke links oorkom nie."
+  },
+  "Archive link escapes its destination.": {
+    "origin": "M2M100-418M-local",
+    "text": "Archief link ontsnap sy bestemming."
+  },
+  "Archive link target is too long.": {
+    "origin": "M2M100-418M-local",
+    "text": "Archief link doel is te lang."
+  },
+  "Archive operation failed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die archiefwerk misluk."
+  },
+  "Archive password (if needed)": {
+    "origin": "M2M100-418M-local",
+    "text": "Archief passwoord (indien nodig)"
+  },
+  "Archive password (leave blank if unencrypted)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archief passwoord (leef blank as onskrypte nie)"
+  },
+  "Archive passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archiefvoordels kan nie line-breaks bevat nie of NUL Die karakters."
+  },
+  "Archive path escapes the destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archief pad ontsnap die bestemming: %1$@"
+  },
+  "Archive root": {
+    "origin": "M2M100-418M-local",
+    "text": "Archief vir Root"
+  },
+  "Archive symbolic link escapes the destination.": {
+    "origin": "M2M100-418M-local",
+    "text": "Archief simboliese skakel ontsnap die bestemming."
+  },
+  "Arrange panes side by side": {
+    "origin": "M2M100-418M-local",
+    "text": "Sluit die paneel aan die kant"
+  },
+  "Arrange panes top and bottom": {
+    "origin": "M2M100-418M-local",
+    "text": "Sluit op die top en onder"
+  },
+  "Artist": {
+    "origin": "Files:Artist",
+    "text": "Kunstenaar"
+  },
+  "Artist / author": {
+    "origin": "M2M100-418M-local",
+    "text": "Kunstenaar / skrywer"
+  },
+  "Ascending": {
+    "origin": "Files:Ascending",
+    "text": "Stygende"
+  },
+  "Attribute name": {
+    "origin": "M2M100-418M-local",
+    "text": "Die naam van die attribut"
+  },
+  "Attributes": {
+    "origin": "Files:Attributes",
+    "text": "Kenmerke:"
+  },
+  "Attributes updated.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die eienskappe is geactualiseer."
+  },
+  "Auto-fit columns": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Auto-vriendelike kolonne"
+  },
+  "AutoFitColumns": {
+    "origin": "Files:AutoFitColumns",
+    "text": "Auto-fit columns"
+  },
+  "Available locally": {
+    "origin": "M2M100-418M-local",
+    "text": "Lokal toeganklike"
+  },
+  "Back": {
+    "origin": "Files:Back",
+    "text": "Terug (Alt+Linkerpyltjie)"
+  },
+  "Back · ⌘[": {
+    "origin": "Files:Back",
+    "text": "Terug (Alt+Linkerpyltjie) · ⌘["
+  },
+  "Backdrop material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Behandelings materiaal"
+  },
+  "Backdrop materials use macOS visual effects. Standard system controls and monospaced content retain their system fonts.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gebruik van agtergrond materiaal macOS visuele effekte. 'n standaard-systeem-kontrole en monospace-inhoud bewaar hul systeem-fonte."
+  },
+  "Background": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "agtergrond"
+  },
+  "Background color (blank = system)": {
+    "origin": "M2M100-418M-local",
+    "text": "Die kleur van die agtergrond (blank = systeem)"
+  },
+  "Background image": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "agtergrond beeld"
+  },
+  "Background image and status": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die beeld en status van die agtergrond"
+  },
+  "Background image opacity": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die beeld opaciteit"
+  },
+  "Background mode keeps the menu bar icon available so you can reopen MacFiles or quit it.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Background modus hou die menu bar-ikone beskikbaar, sodat jy weer kan open MacFiles Of verlaat dit."
+  },
+  "Background preset": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Oor die achtergrond"
+  },
+  "Base": {
+    "origin": "M2M100-418M-local",
+    "text": "Die basis"
+  },
+  "Base64": {
+    "origin": "M2M100-418M-local",
+    "text": "Die gebaseer 64"
+  },
+  "Based on the Files Community explorer’s shell, MVVM, command, and storage architecture. Built with Swift, AppKit, and SwiftUI.": {
+    "origin": "M2M100-418M-local",
+    "text": "Gebaseer op die Files Community Explorer se shell, MVVM, bevel en opslagarchitek. Buite met Swift, AppKit, en SwiftUI."
+  },
+  "Binary": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die binêre"
+  },
+  "Blue": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Blau"
+  },
+  "Bottom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die onderkant"
+  },
+  "Browse all tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse al die tags"
+  },
+  "Browse archive": {
+    "origin": "M2M100-418M-local",
+    "text": "Browse archief"
+  },
+  "Browse archive…": {
+    "origin": "M2M100-418M-local",
+    "text": "Browse archief ..."
+  },
+  "Browse tagged items…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse getagged items..."
+  },
+  "Browsing": {
+    "origin": "M2M100-418M-local",
+    "text": "Browsing"
+  },
+  "Browsing interactions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browsing Interaksie"
+  },
+  "Bulk rename": {
+    "origin": "M2M100-418M-local",
+    "text": "Grote naam"
+  },
+  "Bulk rename requires items from one folder.": {
+    "origin": "M2M100-418M-local",
+    "text": "Bulk rename vereis items van 'n folder."
+  },
+  "Bulk rename…": {
+    "origin": "M2M100-418M-local",
+    "text": "Volg die naam..."
+  },
+  "Bytes": {
+    "origin": "Files:Bytes",
+    "text": "Grepe"
+  },
+  "Cache thumbnails": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Verduidelik die miniature"
+  },
+  "Calculate combined size": {
+    "origin": "M2M100-418M-local",
+    "text": "Bereken die kombineerde grootte"
+  },
+  "Calculate folder size": {
+    "origin": "M2M100-418M-local",
+    "text": "Bereken die folder grootte"
+  },
+  "Calculate folder sizes": {
+    "origin": "Files:CalculateFolderSizes",
+    "text": "Bereken vouergroottes"
+  },
+  "Calculate hashes…": {
+    "origin": "M2M100-418M-local",
+    "text": "Verduidelik die hashes."
+  },
+  "Calculate total size": {
+    "origin": "M2M100-418M-local",
+    "text": "Bereken die totale grootte"
+  },
+  "Calculating hashes…": {
+    "origin": "M2M100-418M-local",
+    "text": "Die berekening van hashes."
+  },
+  "Camouflage": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kameel"
+  },
+  "Cancel": {
+    "origin": "Files:Cancel",
+    "text": "Kanselleer"
+  },
+  "Cancel calculation": {
+    "origin": "M2M100-418M-local",
+    "text": "Verduidelik die berekening"
+  },
+  "Cancel operation": {
+    "origin": "M2M100-418M-local",
+    "text": "Vernietig die operasie"
+  },
+  "Cancel queued operation": {
+    "origin": "M2M100-418M-local",
+    "text": "Onttrek die operasie"
+  },
+  "Cancelled": {
+    "origin": "M2M100-418M-local",
+    "text": "vernietig"
+  },
+  "Cancelled before starting.": {
+    "origin": "M2M100-418M-local",
+    "text": "Dit is geannuleer voordat dit begin."
+  },
+  "Cancelled before starting. No files were changed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Dit is geannuleer voordat jy begin. geen bestande verander het nie."
+  },
+  "Cancelling the current operation…": {
+    "origin": "M2M100-418M-local",
+    "text": "Om die huidige operasie te annuleer..."
+  },
+  "Cannot allocate archive entry.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ek kan geen archief invoer gee nie."
+  },
+  "Cannot allocate archive reader.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ek kan nie 'n archief lees nie."
+  },
+  "Cannot allocate archive writer.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ek kan nie 'n archiefskrywer gee nie."
+  },
+  "Cannot archive special device: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kan nie spesiale toestel archiveer nie: %1$@"
+  },
+  "Cannot create archive entry: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kan nie 'n archief ingedeel word nie: %1$@"
+  },
+  "Cannot create subprocess output file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Dit kan nie subproces output bestand skep nie."
+  },
+  "Cannot decode image.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ek kan nie die beeld dekodeer nie."
+  },
+  "Cannot prepare SSH authentication.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kan nie voorberei nie SSH die authentikasie."
+  },
+  "Cannot prepare command input.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kan nie die bevel invoeg nie."
+  },
+  "Cannot read %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kan nie lees nie %1$@"
+  },
+  "Cannot read image metadata.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ek kan nie metadata lees nie."
+  },
+  "Cannot remove the archive root.": {
+    "origin": "M2M100-418M-local",
+    "text": "Dit kan nie die archiefroet verwyder nie."
+  },
+  "Cannot rename the archive root.": {
+    "origin": "M2M100-418M-local",
+    "text": "Jy kan nie die archiefwortel hernoem nie."
+  },
+  "Cannot restore archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ek kan nie hardlink archief herstel nie."
+  },
+  "Cannot rotate image.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ek kan nie die beeld roteer nie."
+  },
+  "Center": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Centrum"
+  },
+  "Change file extension?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Verandering van die bestand verlenging?"
+  },
+  "Change ownership?": {
+    "origin": "M2M100-418M-local",
+    "text": "Verandering van eie?"
+  },
+  "Change provider app…": {
+    "origin": "M2M100-418M-local",
+    "text": "Verandering van die app..."
+  },
+  "Change the shortcut target?": {
+    "origin": "M2M100-418M-local",
+    "text": "Verandering van die kortdoel?"
+  },
+  "Changes": {
+    "origin": "M2M100-418M-local",
+    "text": "veranderings"
+  },
+  "Changing the extension may prevent the file from opening in its usual application.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die verandering van die uitbreiding kan die bestand verhindern om in sy gebruiklike toepassing te open."
+  },
+  "Choose IDE…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kies die IDE..."
+  },
+  "Choose a destination to restore": {
+    "origin": "M2M100-418M-local",
+    "text": "Kies 'n bestemming om te herstel"
+  },
+  "Choose a file to calculate hashes.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kies 'n bestand om hashes te bereken."
+  },
+  "Choose a new destination and a repository URL.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kies 'n nuwe bestemming en 'n repository URL."
+  },
+  "Choose a regular cloud file to download.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kies 'n reguliere cloud-bestand om te download."
+  },
+  "Choose a single file or folder to customize its icon.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kies 'n enkele bestand of map om sy icoon aan te pas."
+  },
+  "Choose a supported single-frame image (JPEG, PNG, TIFF or HEIC).": {
+    "origin": "M2M100-418M-local",
+    "text": "Kies 'n ondersteunde eenframe beeld (JPEG, PNG, TIFF of HEIC)."
+  },
+  "Choose a template file": {
+    "origin": "M2M100-418M-local",
+    "text": "Kies 'n template bestand"
+  },
+  "Choose custom icon…": {
+    "origin": "M2M100-418M-local",
+    "text": "Kies 'n gewone icon."
+  },
+  "Choose folder…": {
+    "origin": "M2M100-418M-local",
+    "text": "Kies die folder..."
+  },
+  "Choose one item to edit ownership or ACLs.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kies 'n item om eigendom of ACL's te bewerk."
+  },
+  "Choose one item to view extended attributes.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kies 'n item om uitgebreide attributes te sien."
+  },
+  "Choose provider app…": {
+    "origin": "M2M100-418M-local",
+    "text": "Kies 'n aanbieder van die app."
+  },
+  "Clear": {
+    "origin": "Files:Key.Clear",
+    "text": "Maak Skoon"
+  },
+  "Clear finished": {
+    "origin": "M2M100-418M-local",
+    "text": "duidelik beëind"
+  },
+  "Clear selection": {
+    "origin": "Files:ClearSelection",
+    "text": "Vee seleksie uit"
+  },
+  "Clear thumbnail cache": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "'n duidelike mini-cache"
+  },
+  "Clone": {
+    "origin": "M2M100-418M-local",
+    "text": "Kloon"
+  },
+  "Clone repository": {
+    "origin": "M2M100-418M-local",
+    "text": "Kloon reposeer"
+  },
+  "Clone…": {
+    "origin": "M2M100-418M-local",
+    "text": "Die klone..."
+  },
+  "Close": {
+    "origin": "Files:Close",
+    "text": "Sluit"
+  },
+  "Close details": {
+    "origin": "M2M100-418M-local",
+    "text": "naby detail"
+  },
+  "Close other tabs": {
+    "origin": "Files:CloseOtherTabs",
+    "text": "Sluit ander duimgidse"
+  },
+  "Close tab": {
+    "origin": "M2M100-418M-local",
+    "text": "naby die tab"
+  },
+  "Close tabs to the left": {
+    "origin": "M2M100-418M-local",
+    "text": "Naaste tabs na die linker"
+  },
+  "Close tabs to the right": {
+    "origin": "Files:CloseTabsToTheRight",
+    "text": "Sluit duimgidse na regs"
+  },
+  "Close window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "naby die venster"
+  },
+  "Cloud": {
+    "origin": "M2M100-418M-local",
+    "text": "die wolk"
+  },
+  "Cloud accounts": {
+    "origin": "M2M100-418M-local",
+    "text": "Cloud-rekening"
+  },
+  "Cloud accounts and folders": {
+    "origin": "M2M100-418M-local",
+    "text": "Cloud-rekenings en mappen"
+  },
+  "Cloud availability and synchronization": {
+    "origin": "M2M100-418M-local",
+    "text": "Cloud beskikbaarheid en synchronisasie"
+  },
+  "Cloud folder name": {
+    "origin": "M2M100-418M-local",
+    "text": "Die naam van die wolk"
+  },
+  "Cloud items": {
+    "origin": "M2M100-418M-local",
+    "text": "Die wolk items"
+  },
+  "Cloud provider": {
+    "origin": "M2M100-418M-local",
+    "text": "die cloud provider"
+  },
+  "Cloud providers installed on this Mac appear in the sidebar through their native File Provider folders.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud providers wat op hierdie Mac geïnstalleer word, verskyn in die kantbalk deur middel van hul oorspronklike File Provider die folder."
+  },
+  "Cloud status": {
+    "origin": "M2M100-418M-local",
+    "text": "Wolke status"
+  },
+  "Cloud status…": {
+    "origin": "M2M100-418M-local",
+    "text": "Die wolk staat..."
+  },
+  "Cloud storage": {
+    "origin": "M2M100-418M-local",
+    "text": "Cloud opslag"
+  },
+  "Collapse folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Vervalte folder"
+  },
+  "Collapsed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "gebroken"
+  },
+  "Collect file references from different folders, then copy or move them together.": {
+    "origin": "M2M100-418M-local",
+    "text": "Verzamel bestandse referensies van verskillende mappe, dan kopieer of vervoer hulle saam."
+  },
+  "Columns": {
+    "origin": "Files:Columns",
+    "text": "Kolomme"
+  },
+  "Columns layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Die kolonne van Layout"
+  },
+  "Command": {
+    "origin": "M2M100-418M-local",
+    "text": "Komandoe"
+  },
+  "Command output exceeded 16 MiB; no truncated result was accepted.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die komando-uitgang het meer as 16 MiB oversteek; geen truncated result is geaccepteer nie."
+  },
+  "Command palette": {
+    "origin": "M2M100-418M-local",
+    "text": "Komandeer die palet"
+  },
+  "Command palette…": {
+    "origin": "M2M100-418M-local",
+    "text": "Komandeer die palet."
+  },
+  "Commit created": {
+    "origin": "M2M100-418M-local",
+    "text": "Kommissies wat geskep is"
+  },
+  "Commit message": {
+    "origin": "M2M100-418M-local",
+    "text": "Kom in die boodskap"
+  },
+  "Commit staged": {
+    "origin": "M2M100-418M-local",
+    "text": "Verbintenis vir Stage"
+  },
+  "Compact file rows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kompakt fail reëls"
+  },
+  "Compare these SHA-256 fingerprints with your server administrator before trusting %1$@:%2$@.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vergelijk hierdie SHA-256 Vingerprints met jou server administrator voordat jy vertrou %1$@:%2$@.\n\n"
+  },
+  "Compatibility": {
+    "origin": "Files:Compatibility",
+    "text": "Verenigbaarheid"
+  },
+  "Completed": {
+    "origin": "M2M100-418M-local",
+    "text": "voltooi"
+  },
+  "Completed with errors": {
+    "origin": "M2M100-418M-local",
+    "text": "Vervulling met foute"
+  },
+  "Compress": {
+    "origin": "Files:Compress",
+    "text": "Rits"
+  },
+  "CompressIntoSevenZip": {
+    "origin": "Files:CompressIntoSevenZip",
+    "text": "Create 7z archive"
+  },
+  "CompressIntoZip": {
+    "origin": "Files:CompressIntoZip",
+    "text": "Create zip archive"
+  },
+  "Compressed movie headers require remuxing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kompressiewe film hoofdoeleer vereis remuxing."
+  },
+  "Compressing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kompressie"
+  },
+  "Compress…": {
+    "origin": "Files:Compress",
+    "text": "Rits"
+  },
+  "Confirm moving files to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Confirm die beweeg van die bestande na Trash"
+  },
+  "Confirmations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "bevestigings"
+  },
+  "Conflicts": {
+    "origin": "M2M100-418M-local",
+    "text": "Konflikte"
+  },
+  "Connect": {
+    "origin": "M2M100-418M-local",
+    "text": "verbinding"
+  },
+  "Connect to server": {
+    "origin": "M2M100-418M-local",
+    "text": "verbinding met die server"
+  },
+  "Connect to server…": {
+    "origin": "M2M100-418M-local",
+    "text": "Die verbinding met die server."
+  },
+  "Connect to the server first.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kom eers na die server aan."
+  },
+  "Connected folder": {
+    "origin": "M2M100-418M-local",
+    "text": "verbindte folder"
+  },
+  "Connected to this Mac": {
+    "origin": "M2M100-418M-local",
+    "text": "Geskakel met hierdie Mac"
+  },
+  "Contains UTF-8 text": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Inhoud UTF-8 Tekste"
+  },
+  "Content search includes text, PDF, Office and OpenDocument files. Unsupported, locked and online-only files are counted as skipped.": {
+    "origin": "M2M100-418M-local",
+    "text": "Inhoudszoek sluit in tekst, PDF, Office en OpenDocument-bestande. Onbeheerde, gesloten en net online-bestande word bereken as verslaan."
+  },
+  "Content type": {
+    "origin": "M2M100-418M-local",
+    "text": "Inhoud tipe"
+  },
+  "Contents": {
+    "origin": "M2M100-418M-local",
+    "text": "Inhoud"
+  },
+  "Context": {
+    "origin": "M2M100-418M-local",
+    "text": "Kontekst"
+  },
+  "Context menu": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kontekst menu"
+  },
+  "Copy": {
+    "origin": "Files:Copy",
+    "text": "Kopieer"
+  },
+  "Copy app version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kopieer die app versie"
+  },
+  "Copy hashes": {
+    "origin": "M2M100-418M-local",
+    "text": "Kopieer die hashes"
+  },
+  "Copy here": {
+    "origin": "M2M100-418M-local",
+    "text": "Kopieer hier"
+  },
+  "Copy macOS version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kopieer macOS Weergawe"
+  },
+  "Copy path": {
+    "origin": "Files:CopyPath",
+    "text": "Kopieer pad"
+  },
+  "Copy report": {
+    "origin": "M2M100-418M-local",
+    "text": "Kopieer die verslag"
+  },
+  "Copy selected": {
+    "origin": "M2M100-418M-local",
+    "text": "Kopieer die geselekte"
+  },
+  "CopyItemPathWithQuotes": {
+    "origin": "Files:CopyItemPathWithQuotes",
+    "text": "Copy selected item path with quotes"
+  },
+  "CopyPathDescription": {
+    "origin": "Files:CopyPathDescription",
+    "text": "Copy path of the current directory"
+  },
+  "CopyPathWithQuotes": {
+    "origin": "Files:CopyPathWithQuotes",
+    "text": "Kopieer pad met aanhalings"
+  },
+  "Copying": {
+    "origin": "M2M100-418M-local",
+    "text": "Kopieer"
+  },
+  "Copying archive entries": {
+    "origin": "M2M100-418M-local",
+    "text": "Kopieer archief ingeslag"
+  },
+  "Copying files": {
+    "origin": "M2M100-418M-local",
+    "text": "Kopieer die bestellings"
+  },
+  "Copyright": {
+    "origin": "Files:PropertyCopyright",
+    "text": "Kopiereg"
+  },
+  "Could not find an available filename.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ek kon nie 'n beskikbaar filenaam vind nie."
+  },
+  "Could not prepare archive contents.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ek kan nie archiefinhoud berei nie."
+  },
+  "Could not remove GitHub credentials from Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kan nie GitHub-krediteite van die Keychain."
+  },
+  "Could not save GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kan nie die GitHub-krediteite in Keychain."
+  },
+  "Could not save the edited image; the original was kept.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ek kon nie die bewerkte beeld bewaar nie; die oorspronklike is bewaar nie."
+  },
+  "Could not save the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ek kan nie die wachtwoord in Keychain (%1$@)."
+  },
+  "Could not update GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Moenie die GitHub-krediteite nie updates nie Keychain."
+  },
+  "Could not update the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ek kan nie die wachtwoord in die Keychain (%1$@)."
+  },
+  "Couldn’t change the folder viewer": {
+    "origin": "M2M100-418M-local",
+    "text": "Kan nie die folder-viswer verander nie"
+  },
+  "Couldn’t eject volume": {
+    "origin": "M2M100-418M-local",
+    "text": "Ek kan nie die volume uitbreek nie."
+  },
+  "Couldn’t open files": {
+    "origin": "M2M100-418M-local",
+    "text": "Kan nie die bestellings oopmaak nie"
+  },
+  "Couldn’t open folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Moenie die folder oopmaak nie"
+  },
+  "Couldn’t open this file": {
+    "origin": "M2M100-418M-local",
+    "text": "Ek kon nie hierdie bestand oopmaak nie."
+  },
+  "Couldn’t open this location": {
+    "origin": "M2M100-418M-local",
+    "text": "Ek kon hierdie plek nie oopmaak nie."
+  },
+  "Couldn’t resolve alias": {
+    "origin": "M2M100-418M-local",
+    "text": "Ek kan nie 'n alias oplos nie."
+  },
+  "Couldn’t restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kan nie weer begin nie MacFiles"
+  },
+  "Create": {
+    "origin": "Files:Create",
+    "text": "Skep"
+  },
+  "Create a GitHub token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Maak 'n GitHub token"
+  },
+  "Create alias": {
+    "origin": "M2M100-418M-local",
+    "text": "Maak 'n alias"
+  },
+  "Create archive": {
+    "origin": "M2M100-418M-local",
+    "text": "Maak die archief"
+  },
+  "Create library…": {
+    "origin": "Files:FolderWidgetCreateNewLibraryDialogTitleText",
+    "text": "Skep biblioteek"
+  },
+  "Create shortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "Skep kortpad"
+  },
+  "Create zip archive": {
+    "origin": "Files:CompressIntoZip",
+    "text": "Create zip archive"
+  },
+  "CreateFolderWithSelection": {
+    "origin": "Files:CreateFolderWithSelection",
+    "text": "Skep omslag met seleksie"
+  },
+  "CreateShortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "Skep kortpad"
+  },
+  "CreateShortcutFromDialogDescription": {
+    "origin": "Files:CreateShortcutFromDialogDescription",
+    "text": "Create new shortcut to any item"
+  },
+  "Created": {
+    "origin": "Files:PropertiesCreated.Text",
+    "text": "Geskep:"
+  },
+  "Creating alias": {
+    "origin": "M2M100-418M-local",
+    "text": "Skep die alias"
+  },
+  "Creating from template": {
+    "origin": "M2M100-418M-local",
+    "text": "Maak van die tempel"
+  },
+  "Custom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die Custom"
+  },
+  "Custom icon applied.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die Icon is aangepas."
+  },
+  "Custom tag color (hex, optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kies die kleur van die tag (hex, optiewe)"
+  },
+  "Custom theme": {
+    "origin": "M2M100-418M-local",
+    "text": "Kies die tema"
+  },
+  "Customization": {
+    "origin": "Files:Customization",
+    "text": "Aanpassing"
+  },
+  "Customize toolbar": {
+    "origin": "M2M100-418M-local",
+    "text": "Aanpassing van gereedskap"
+  },
+  "Customize toolbar…": {
+    "origin": "M2M100-418M-local",
+    "text": "Aanpassing van gereedskap..."
+  },
+  "Cut": {
+    "origin": "Files:Cut",
+    "text": "Knip"
+  },
+  "Dark": {
+    "origin": "Files:DarkTheme",
+    "text": "Donker"
+  },
+  "Date created": {
+    "origin": "Files:DateCreated",
+    "text": "Datum geskep"
+  },
+  "Date deleted": {
+    "origin": "Files:DateDeleted",
+    "text": "Datum geskrap"
+  },
+  "Date format": {
+    "origin": "Files:DateFormat",
+    "text": "Datumformaat"
+  },
+  "Date modified": {
+    "origin": "Files:DateModifiedLowerCase",
+    "text": "Datum gewysig"
+  },
+  "Day": {
+    "origin": "Files:Day",
+    "text": "Day"
+  },
+  "Decimal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Decimale"
+  },
+  "Decrease size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Verminder die grootte"
+  },
+  "Default": {
+    "origin": "Files:Default",
+    "text": "Verstek"
+  },
+  "Default folder layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die default folder layout"
+  },
+  "Default grouping": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Defekte groepering"
+  },
+  "Default save location": {
+    "origin": "M2M100-418M-local",
+    "text": "Defensie bespaar ligging"
+  },
+  "Default sorting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Defensie Sorteer"
+  },
+  "Delete": {
+    "origin": "Files:Delete",
+    "text": "Skrap"
+  },
+  "Delete permanently": {
+    "origin": "M2M100-418M-local",
+    "text": "Verwyder permanent"
+  },
+  "Delete saved tag and remove it from indexed files?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Verwyder die gespaarde tag en verwyder dit van die geïndekteerde bestande?"
+  },
+  "Delete selected permanently…": {
+    "origin": "M2M100-418M-local",
+    "text": "Verwijder gewilde permanent ..."
+  },
+  "Deleting permanently": {
+    "origin": "M2M100-418M-local",
+    "text": "Verwyder permanent"
+  },
+  "Description": {
+    "origin": "M2M100-418M-local",
+    "text": "Beskrywing"
+  },
+  "Desktop": {
+    "origin": "Files:Desktop",
+    "text": "Weskskerm"
+  },
+  "Destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die bestemming: %1$@"
+  },
+  "Detached HEAD": {
+    "origin": "M2M100-418M-local",
+    "text": "Gede verwyder"
+  },
+  "Details": {
+    "origin": "Files:Details",
+    "text": "Besonderhede"
+  },
+  "Details layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Detail Layout"
+  },
+  "Details pane": {
+    "origin": "M2M100-418M-local",
+    "text": "Die besonderhede pane"
+  },
+  "Developer tools": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ontwikkelaars gereedskap"
+  },
+  "Development": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ontwikkeling"
+  },
+  "Diagnostics": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Diagnose"
+  },
+  "Diagnostics opened": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Diagnose geopend"
+  },
+  "Disconnect": {
+    "origin": "M2M100-418M-local",
+    "text": "Ontbinding"
+  },
+  "Documents": {
+    "origin": "Files:Documents",
+    "text": "Dokumente"
+  },
+  "Done": {
+    "origin": "Files:Close",
+    "text": "Sluit"
+  },
+  "Double-click empty space to go up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Double-klik 'n leeg ruimte om te gaan"
+  },
+  "Download": {
+    "origin": "M2M100-418M-local",
+    "text": "Die Download"
+  },
+  "Download files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Download die bestellings."
+  },
+  "Download here": {
+    "origin": "M2M100-418M-local",
+    "text": "Download hier"
+  },
+  "Download requested. iCloud may complete it asynchronously.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Download is gevra. iCloud Dit kan asynchronous vervul word."
+  },
+  "Downloaded": {
+    "origin": "M2M100-418M-local",
+    "text": "Download deur"
+  },
+  "Downloading": {
+    "origin": "M2M100-418M-local",
+    "text": "Downloading"
+  },
+  "Downloads": {
+    "origin": "Files:Downloads",
+    "text": "Aflaaie"
+  },
+  "Drives": {
+    "origin": "Files:Drives",
+    "text": "Skywe"
+  },
+  "Dual pane": {
+    "origin": "M2M100-418M-local",
+    "text": "Die twee pane"
+  },
+  "Duplicate": {
+    "origin": "M2M100-418M-local",
+    "text": "Duplikasie"
+  },
+  "Duplicate archive paths cannot be extracted safely.": {
+    "origin": "M2M100-418M-local",
+    "text": "Duplikate archiefpads kan nie veilig geëxtrakteer word nie."
+  },
+  "Duplicate tab": {
+    "origin": "Files:DuplicateTab",
+    "text": "Dupliseer oortjie"
+  },
+  "Edit": {
+    "origin": "Files:Edit",
+    "text": "Redigeer"
+  },
+  "Edit POSIX permissions for selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Redigeer POSIX Vergunning vir Selektie"
+  },
+  "Edit address · ⌘L": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "die adres van Edit; ⌘L"
+  },
+  "Edit archive": {
+    "origin": "M2M100-418M-local",
+    "text": "Edit die archief"
+  },
+  "Edit in TextEdit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit in die tekst"
+  },
+  "Edit media metadata": {
+    "origin": "M2M100-418M-local",
+    "text": "Die media metadata"
+  },
+  "Edit media metadata…": {
+    "origin": "M2M100-418M-local",
+    "text": "Met die media metadata..."
+  },
+  "Edit or import the settings document, then Apply to validate and save. Language changes require a restart.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit of import die instellingsdokument, dan Apply om te valideer en te slaan. taal veranderinge vereis 'n herstart."
+  },
+  "Edit permissions on the link's target instead.": {
+    "origin": "M2M100-418M-local",
+    "text": "Edit toestemming op die doel van die link in plaas daarvan."
+  },
+  "Edit settings file…": {
+    "origin": "Files:EditSettingsFile",
+    "text": "Edit settings file"
+  },
+  "Edit tags": {
+    "origin": "Files:EditTags",
+    "text": "Redigeer lêermerkers"
+  },
+  "Edit tags…": {
+    "origin": "Files:EditTags",
+    "text": "Redigeer lêermerkers"
+  },
+  "Edit the archive target instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Edit die archiefdoel in plaas van 'n simboliese link."
+  },
+  "Edit the target's attributes instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Rediger die attributes van die doel in plaas van 'n simboliese link."
+  },
+  "Edits apply to this item only. Ownership changes require existing system permission; MacFiles does not elevate itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Editeer geld slegs vir hierdie item. Eigentyn verander vereis bestaande stelselvergunning; MacFiles Hy verhoog nie homself nie."
+  },
+  "Eject": {
+    "origin": "Files:Eject",
+    "text": "Ontkoppel"
+  },
+  "Empty": {
+    "origin": "M2M100-418M-local",
+    "text": "Vakantiewe"
+  },
+  "Empty accessible Trash…": {
+    "origin": "M2M100-418M-local",
+    "text": "Vreem toeganklike trash ..."
+  },
+  "Empty archive entry.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vaste archief ingang."
+  },
+  "Encoding": {
+    "origin": "M2M100-418M-local",
+    "text": "Kodeer"
+  },
+  "Encrypted": {
+    "origin": "M2M100-418M-local",
+    "text": "Geskrypte"
+  },
+  "Enter a GitHub username and a valid access token.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Voer 'n GitHub gebruikersnaam en 'n geldig toegang token."
+  },
+  "Enter a commit message.": {
+    "origin": "M2M100-418M-local",
+    "text": "Voer 'n kompromiss boodskap."
+  },
+  "Enter a name without a slash or colon. The name cannot be empty, ‘.’, or ‘..’.": {
+    "origin": "M2M100-418M-local",
+    "text": "Voer 'n naam sonder 'n slash of kolom. Die naam kan nie leeg wees nie, '.', of '..'."
+  },
+  "Enter a size from 1 to 1,048,576 MiB.": {
+    "origin": "M2M100-418M-local",
+    "text": "Voer 'n grootte van 1 tot 1,048,576 MiB."
+  },
+  "Enter a valid host, username, and port.": {
+    "origin": "M2M100-418M-local",
+    "text": "Voer 'n geldig host, gebruikersnaam en port."
+  },
+  "Enter an SMB, AFP, or WebDAV address.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kom in 'n SMB, AFPOf WebDAV Adres"
+  },
+  "Enter an attribute name of 1–127 UTF-8 bytes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Voer 'n attribut naam van 1-127 UTF-8 Grepe"
+  },
+  "Enter compact overlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "Voer kompakte oorleg in"
+  },
+  "Enter numeric user and group IDs.": {
+    "origin": "M2M100-418M-local",
+    "text": "Voer 'n aantal gebruikers en groep ID's."
+  },
+  "Enter password:": {
+    "origin": "M2M100-418M-local",
+    "text": "Voer die wachtwoord:"
+  },
+  "Enter permissions from 000 to 777.": {
+    "origin": "M2M100-418M-local",
+    "text": "Voer toestemming van 000 tot 777 in."
+  },
+  "Enter the archive password before editing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Voordat jy die archiefvoordeel invoeg voordat jy bewerk word."
+  },
+  "Enter three octal digits, for example 644 or 755.": {
+    "origin": "M2M100-418M-local",
+    "text": "Voer drie octale digite, byvoorbeeld 644 of 755."
+  },
+  "Enter whole numbers for byte limits.": {
+    "origin": "M2M100-418M-local",
+    "text": "Voer hele getalle vir byte limiet."
+  },
+  "EnterCompactOverlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "Voer kompakte oorleg in"
+  },
+  "Executable": {
+    "origin": "M2M100-418M-local",
+    "text": "Uitvoerbaar"
+  },
+  "Executable format": {
+    "origin": "M2M100-418M-local",
+    "text": "Uitvoerbaar formaat"
+  },
+  "Exit compact overlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "Verlaat kompakte oorleg"
+  },
+  "ExitCompactOverlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "Verlaat kompakte oorleg"
+  },
+  "Expand folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Uitbreiding van die folder"
+  },
+  "Expanded": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Uitbreiding"
+  },
+  "Export ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Eksport ACL…"
+  },
+  "Export bytes…": {
+    "origin": "M2M100-418M-local",
+    "text": "Uitvoer byte ..."
+  },
+  "Export theme…": {
+    "origin": "M2M100-418M-local",
+    "text": "Die uitvoer..."
+  },
+  "Export…": {
+    "origin": "M2M100-418M-local",
+    "text": "Die uitvoer..."
+  },
+  "Extended attributes": {
+    "origin": "M2M100-418M-local",
+    "text": "Uitgestrekte eienskappe"
+  },
+  "Extended attributes…": {
+    "origin": "M2M100-418M-local",
+    "text": "Uitgestrekte eienskappe..."
+  },
+  "Extensions are preserved. Conflicts stop the batch before any names change.": {
+    "origin": "M2M100-418M-local",
+    "text": "Conflicts stop die batch voordat enige naam verander."
+  },
+  "Extensions: txt, swift, pdf": {
+    "origin": "M2M100-418M-local",
+    "text": "Uitbreidings: TXT, Swift en PDF"
+  },
+  "Extra large icons": {
+    "origin": "M2M100-418M-local",
+    "text": "'N Ekstreem groot ikone"
+  },
+  "Extract": {
+    "origin": "Files:Extract",
+    "text": "Uitreksel"
+  },
+  "Extract all…": {
+    "origin": "M2M100-418M-local",
+    "text": "Ek het al die..."
+  },
+  "Extract here": {
+    "origin": "Files:ExtractHere",
+    "text": "Onttrek hier"
+  },
+  "Extract here (Smart)": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "Extract here (Smart)"
+  },
+  "Extract selected…": {
+    "origin": "M2M100-418M-local",
+    "text": "Ekstrakte gesel ..."
+  },
+  "Extract to child folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ekstrakte aan die kinderfolder"
+  },
+  "Extract to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ekstrakte vir..."
+  },
+  "ExtractHere": {
+    "origin": "Files:ExtractHere",
+    "text": "Onttrek hier"
+  },
+  "ExtractHereSmart": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "Extract here (Smart)"
+  },
+  "Extracted entry size does not match its header.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die ingebruikte ingang grootte voldoen nie aan sy header nie."
+  },
+  "Extracting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ekstraktie"
+  },
+  "Extracts into a new folder; existing files are kept.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ekstrakte in 'n nuwe folder; bestaande bestande word bewaar."
+  },
+  "FTP over TLS": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "FTP oor TLS"
+  },
+  "Failed": {
+    "origin": "M2M100-418M-local",
+    "text": "mislukte"
+  },
+  "Fetch": {
+    "origin": "M2M100-418M-local",
+    "text": "Vreugde"
+  },
+  "File": {
+    "origin": "Files:File",
+    "text": "Lêer"
+  },
+  "File actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Fil aksies"
+  },
+  "File hashes": {
+    "origin": "M2M100-418M-local",
+    "text": "Hoofdstuk Hash"
+  },
+  "File information": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Informasie van die bestand"
+  },
+  "File operations": {
+    "origin": "M2M100-418M-local",
+    "text": "Filoperasies"
+  },
+  "File operations in this window": {
+    "origin": "M2M100-418M-local",
+    "text": "Fil-operasies in hierdie venster"
+  },
+  "File shelf": {
+    "origin": "M2M100-418M-local",
+    "text": "Files van Shelf"
+  },
+  "File shelf…": {
+    "origin": "M2M100-418M-local",
+    "text": "Vervolglik is die file shelf..."
+  },
+  "File size": {
+    "origin": "M2M100-418M-local",
+    "text": "File grootte"
+  },
+  "Files": {
+    "origin": "Files:SecurityAdvancedFlagsFilesLabel",
+    "text": "lêers"
+  },
+  "Files size": {
+    "origin": "M2M100-418M-local",
+    "text": "Files grootte"
+  },
+  "Files you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Files wat jy oopmaak, sal hier verskyn."
+  },
+  "Fill": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Volg"
+  },
+  "Filter entries": {
+    "origin": "M2M100-418M-local",
+    "text": "Filter invoer"
+  },
+  "Find": {
+    "origin": "M2M100-418M-local",
+    "text": "Vind die"
+  },
+  "Find and replace": {
+    "origin": "M2M100-418M-local",
+    "text": "Vind en vervang"
+  },
+  "Finder Get Info unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder Maak inligting nie beskikbaar nie"
+  },
+  "Finder Get Info…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder Gee die info..."
+  },
+  "Finder's desktop and other apps' Open/Save dialogs remain managed by macOS.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder's desktop en ander apps' Open/Save dialoog word beheer deur macOS."
+  },
+  "First letter": {
+    "origin": "M2M100-418M-local",
+    "text": "Eerste brief"
+  },
+  "Fit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vriendelik"
+  },
+  "Flatten": {
+    "origin": "M2M100-418M-local",
+    "text": "Die vlakte"
+  },
+  "Flatten folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Vloer die folder"
+  },
+  "Flatten folder…": {
+    "origin": "M2M100-418M-local",
+    "text": "Vervolglik die folder..."
+  },
+  "Flatten ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "’n vlakke%1$@’?"
+  },
+  "Flattening folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Vloer die folder"
+  },
+  "Focus other pane": {
+    "origin": "M2M100-418M-local",
+    "text": "Fokus op ander pane"
+  },
+  "Folder": {
+    "origin": "Files:Folder",
+    "text": "Omslag"
+  },
+  "Folder contents": {
+    "origin": "M2M100-418M-local",
+    "text": "Inhoud van Folder"
+  },
+  "Folder contents are not included in this total.": {
+    "origin": "M2M100-418M-local",
+    "text": "Folderinhoud is nie in hierdie totaal opgenoteer nie."
+  },
+  "Folder layout saved.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die Layout is gered."
+  },
+  "Folder path": {
+    "origin": "Files:FolderPath",
+    "text": "Omslagpad"
+  },
+  "Folder presentation": {
+    "origin": "M2M100-418M-local",
+    "text": "Folder presentasie"
+  },
+  "Folder sizes are calculated in the background after Refresh. Large or network folders may take longer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Foldergrootte word in die agtergrond na Refresh berek. Grote of netwerkfolder kan langer neem."
+  },
+  "Folder unavailable": {
+    "origin": "M2M100-418M-local",
+    "text": "Ontoeganklike folder"
+  },
+  "Folders": {
+    "origin": "M2M100-418M-local",
+    "text": "Folders"
+  },
+  "Folders you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die folder wat jy oopmaak, sal hier verskyn."
+  },
+  "Font": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die font"
+  },
+  "Font and material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Skrif en materiaal"
+  },
+  "Forget saved": {
+    "origin": "M2M100-418M-local",
+    "text": "Vergeet gered"
+  },
+  "Format": {
+    "origin": "Files:FormatDriveText",
+    "text": "Formaat"
+  },
+  "Format drive in Disk Utility…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "In die disk gebruik word die diske..."
+  },
+  "Forward": {
+    "origin": "Files:Forward",
+    "text": "Vorentoe (Alt+Regterpyltjie)"
+  },
+  "Forward · ⌘]": {
+    "origin": "Files:Forward",
+    "text": "Vorentoe (Alt+Regterpyltjie) · ⌘]"
+  },
+  "Fragmented media metadata cannot be edited without remuxing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Fragmenteerde media metadata kan nie sonder remuxing bewerk word nie."
+  },
+  "Gallery": {
+    "origin": "M2M100-418M-local",
+    "text": "Galerië"
+  },
+  "Gallery layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Galerië Layout"
+  },
+  "General": {
+    "origin": "Files:General",
+    "text": "Algemeen"
+  },
+  "Git operation in %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git Operasie in %1$@"
+  },
+  "Git repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git Repository"
+  },
+  "Git repository…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git Die repositorium..."
+  },
+  "GitHub account": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die GitHub rekening"
+  },
+  "GitHub username": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gebruikersnaam GitHub"
+  },
+  "Go to path": {
+    "origin": "M2M100-418M-local",
+    "text": "Gaan na die pad"
+  },
+  "Go to path…": {
+    "origin": "M2M100-418M-local",
+    "text": "Gaan na die pad..."
+  },
+  "Gray": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gras"
+  },
+  "Green": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Groen"
+  },
+  "Group": {
+    "origin": "M2M100-418M-local",
+    "text": "Groep"
+  },
+  "Group GID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Groep GID"
+  },
+  "Group ascending": {
+    "origin": "Files:GroupAscendingDescription",
+    "text": "Sort groups in ascending order"
+  },
+  "Group by": {
+    "origin": "M2M100-418M-local",
+    "text": "Groep by"
+  },
+  "Group by date unit": {
+    "origin": "Files:GroupByDateUnit",
+    "text": "Group by date unit"
+  },
+  "HTTPS Git operations can use a GitHub access token stored in your macOS Keychain. Choose the repositories and permissions when creating the token. Existing Git authentication remains in use when no MacFiles account is saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "HTTPS Git Operasies kan 'n GitHub-toegang token gebruik wat in jou macOS Keychain. Selek die repositories en toestemmings wanneer die token skep. Git Die authenticatie bly in gebruik wanneer nie MacFiles Die rekening is gered."
+  },
+  "Hard Link": {
+    "origin": "M2M100-418M-local",
+    "text": "Harde link"
+  },
+  "Hashes": {
+    "origin": "Files:Hashes",
+    "text": "Huts-waardes"
+  },
+  "Hashes are available for a single file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Hashes is beskikbaar vir 'n enkele bestand."
+  },
+  "Header": {
+    "origin": "M2M100-418M-local",
+    "text": "Hoofstuk"
+  },
+  "Help": {
+    "origin": "Files:Help",
+    "text": "Help"
+  },
+  "Hidden": {
+    "origin": "Files:Hidden",
+    "text": "Versteekte"
+  },
+  "Hidden files": {
+    "origin": "M2M100-418M-local",
+    "text": "verborge data"
+  },
+  "History": {
+    "origin": "M2M100-418M-local",
+    "text": "Die geskiedenis"
+  },
+  "Home": {
+    "origin": "Files:Key.Home",
+    "text": "Tuis"
+  },
+  "Horizontal alignment": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Horisontaal aanpassing"
+  },
+  "IDE opened.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hier is open."
+  },
+  "Icon": {
+    "origin": "M2M100-418M-local",
+    "text": "die ikone"
+  },
+  "Icons": {
+    "origin": "M2M100-418M-local",
+    "text": "Ikones"
+  },
+  "Icons layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Ikon se Layout"
+  },
+  "Image alignment": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Foto aanpassing"
+  },
+  "Image fit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die beeld fit"
+  },
+  "Import theme…": {
+    "origin": "M2M100-418M-local",
+    "text": "Die invoer..."
+  },
+  "Imported. Apply to save.": {
+    "origin": "M2M100-418M-local",
+    "text": "Genoeg word. verwys om te bespar."
+  },
+  "Import…": {
+    "origin": "M2M100-418M-local",
+    "text": "Die invoer..."
+  },
+  "Incomplete archive listing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Onvolledige archiefverwysing."
+  },
+  "Increase size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Verhoog grootte"
+  },
+  "Indexed document, image, audio, video and filesystem metadata supplied by Spotlight. Tags can be edited with the Tags tool.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Indekseerde dokumente, beeld, audio, video en bestuursysteem metadata geleë deur Spotlight. Tags kan bewerk word met die Tag tool."
+  },
+  "Indexed files updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Geïndekteerde bestellings word geactualiseer."
+  },
+  "Initialize": {
+    "origin": "M2M100-418M-local",
+    "text": "Initialiseer"
+  },
+  "Initialize repository here": {
+    "origin": "M2M100-418M-local",
+    "text": "Begin die repository hier"
+  },
+  "Install certificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "Install certificate"
+  },
+  "Install font": {
+    "origin": "Files:InstallFont",
+    "text": "Install font"
+  },
+  "InstallCertificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "Install certificate"
+  },
+  "InstallFont": {
+    "origin": "Files:InstallFont",
+    "text": "Install font"
+  },
+  "Interval in seconds": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Interval in sekondes"
+  },
+  "Invalid Base64 data.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalid Base64 data."
+  },
+  "Invalid SSH host or port.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invaliditeit SSH die huis of die haven."
+  },
+  "Invalid archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalid archief hard link."
+  },
+  "Invalid archive link target.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalid arkiewe link doel."
+  },
+  "Invalid extended media atom.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalid uitbreide media atome."
+  },
+  "Invalid hard link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Dis 'n onvalide harde link."
+  },
+  "Invalid key for %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die sleutel vir %1$@."
+  },
+  "Invalid macOS ACL text. Preserve the !#acl 1 header and use valid entries.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invaliditeit macOS ACL Sorg die !#acl 1 header en gebruik geldig ingeslagte."
+  },
+  "Invalid media atom header.": {
+    "origin": "M2M100-418M-local",
+    "text": "Onvoldoende media atome header."
+  },
+  "Invalid media atom size.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalid media atome grootte."
+  },
+  "Invalid media atom.": {
+    "origin": "M2M100-418M-local",
+    "text": "Onvoldoende media atome."
+  },
+  "Invalid media file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalid media bestand."
+  },
+  "Invalid name": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalide naam"
+  },
+  "Invalid remote URL.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalid Remote URL."
+  },
+  "Invalid settings document.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invaliditeit van die dokumente."
+  },
+  "Invalid tag metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Onvalide metadata word verwys."
+  },
+  "Invalid tag name or color.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid tag naam of kleur."
+  },
+  "Invalid theme colors or appearance.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalid tema kleur of uitstryding."
+  },
+  "Invalid volume size": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalid volume grootte"
+  },
+  "Invert selection": {
+    "origin": "Files:InvertSelection",
+    "text": "Keer seleksie om"
+  },
+  "Item properties": {
+    "origin": "M2M100-418M-local",
+    "text": "Die eienskappe van die item"
+  },
+  "Items move into .MacFiles-Recovery on this server, including folder contents. Use Undo remote to restore them during this session.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die items gaan in .MacFiles-Recovery op hierdie server, met inbegrip van folder inhoud. Gebruik Undo remote om hulle te herstel tydens hierdie sesie."
+  },
+  "Keep MacFiles open": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hou die MacFiles Maak oop"
+  },
+  "Keep both": {
+    "origin": "M2M100-418M-local",
+    "text": "Hou beide"
+  },
+  "Keep both creates numbered names. Replace moves previous versions to Trash and supports Undo. Folders are replaced as a whole.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Behoud beide skep getal name. vervang verplaas vorige versies na Trash en ondersteun Undo. Folders word as geheel vervang."
+  },
+  "Keep running after closing windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gaan na die sluiting van die venster"
+  },
+  "Keep window on top": {
+    "origin": "M2M100-418M-local",
+    "text": "Hou die venster op die top"
+  },
+  "Keyboard shortcuts": {
+    "origin": "M2M100-418M-local",
+    "text": "Keyboard kortkomste"
+  },
+  "Keyboard shortcuts…": {
+    "origin": "M2M100-418M-local",
+    "text": "Keyboard kortkomste..."
+  },
+  "Keywords (comma separated)": {
+    "origin": "M2M100-418M-local",
+    "text": "Keywords (soos gesonder)"
+  },
+  "Kind": {
+    "origin": "Files:Type",
+    "text": "Soort:"
+  },
+  "Label": {
+    "origin": "M2M100-418M-local",
+    "text": "Label"
+  },
+  "Language": {
+    "origin": "Files:PropertyLanguage",
+    "text": "Taal"
+  },
+  "Large icons": {
+    "origin": "M2M100-418M-local",
+    "text": "Grote Ikones"
+  },
+  "Launch at login": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Begin met login"
+  },
+  "Layout": {
+    "origin": "Files:Layout",
+    "text": "Uitleg"
+  },
+  "Left": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Links"
+  },
+  "Let the current operation finish before quitting.": {
+    "origin": "M2M100-418M-local",
+    "text": "Laat die huidige werking beëind word voordat jy verlaat."
+  },
+  "Libraries": {
+    "origin": "Files:SidebarLibraries",
+    "text": "Biblioteke"
+  },
+  "Library": {
+    "origin": "Files:Library",
+    "text": "Biblioteek"
+  },
+  "Library name": {
+    "origin": "M2M100-418M-local",
+    "text": "Bibliotheek naam"
+  },
+  "Library properties…": {
+    "origin": "M2M100-418M-local",
+    "text": "Die bibliotheek se eigendom..."
+  },
+  "Library/Application Support/MacFiles/known_hosts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bibliotheek / Aanvraag ondersteuningMacFilesKennis van die gastheer"
+  },
+  "Library/Mobile Documents": {
+    "origin": "M2M100-418M-local",
+    "text": "Bibliotheek / Mobiele Dokumente"
+  },
+  "Library/Mobile Documents/com~apple~CloudDocs": {
+    "origin": "M2M100-418M-local",
+    "text": "Boekboek/Mobile Dokumente/com~apple~CloudDocs"
+  },
+  "Light": {
+    "origin": "Files:LightTheme",
+    "text": "Lig"
+  },
+  "Link target": {
+    "origin": "M2M100-418M-local",
+    "text": "Link tot doel"
+  },
+  "List": {
+    "origin": "M2M100-418M-local",
+    "text": "Liste"
+  },
+  "List folders before files": {
+    "origin": "M2M100-418M-local",
+    "text": "Verwys mappen vóór die bestande"
+  },
+  "Loading…": {
+    "origin": "M2M100-418M-local",
+    "text": "Die loading..."
+  },
+  "Local": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lokale"
+  },
+  "Local download removal requested.": {
+    "origin": "M2M100-418M-local",
+    "text": "Lokale download verwijdering gevra."
+  },
+  "Local file": {
+    "origin": "M2M100-418M-local",
+    "text": "Lokale bestellings"
+  },
+  "Location": {
+    "origin": "M2M100-418M-local",
+    "text": "Lokasie"
+  },
+  "Lock screen and wallpaper settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lock skerm en wallpaper instellings..."
+  },
+  "Locked": {
+    "origin": "M2M100-418M-local",
+    "text": "verblyf"
+  },
+  "Macintosh HD": {
+    "origin": "M2M100-418M-local",
+    "text": "Die Macintosh HD"
+  },
+  "Make alias": {
+    "origin": "M2M100-418M-local",
+    "text": "Maak 'n alias"
+  },
+  "Make alias…": {
+    "origin": "M2M100-418M-local",
+    "text": "Maak die alias..."
+  },
+  "Manage account in provider app": {
+    "origin": "M2M100-418M-local",
+    "text": "Maak 'n rekening in die provider app"
+  },
+  "Manage cloud accounts…": {
+    "origin": "M2M100-418M-local",
+    "text": "In die Cloud-rekening word..."
+  },
+  "Manage tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Managering van tags"
+  },
+  "Maximum bytes": {
+    "origin": "M2M100-418M-local",
+    "text": "Maximale byte"
+  },
+  "Media export did not complete.": {
+    "origin": "M2M100-418M-local",
+    "text": "Media-export is nie voltooid nie."
+  },
+  "Media metadata is too large.": {
+    "origin": "M2M100-418M-local",
+    "text": "Media metadata is te groot."
+  },
+  "Medium icons": {
+    "origin": "M2M100-418M-local",
+    "text": "Die gemiddelde ikone"
+  },
+  "Minimize": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Minimaal"
+  },
+  "Minimum bytes": {
+    "origin": "M2M100-418M-local",
+    "text": "Minimale byte"
+  },
+  "Minimum size exceeds maximum size.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die minimaal grootte is die maksimum grootte."
+  },
+  "Mode": {
+    "origin": "M2M100-418M-local",
+    "text": "Modes"
+  },
+  "Modified": {
+    "origin": "M2M100-418M-local",
+    "text": "veranderde"
+  },
+  "Modified after": {
+    "origin": "M2M100-418M-local",
+    "text": "Verandering na"
+  },
+  "Month": {
+    "origin": "Files:Month",
+    "text": "Month"
+  },
+  "More actions": {
+    "origin": "M2M100-418M-local",
+    "text": "Meer aksies"
+  },
+  "Mount share…": {
+    "origin": "M2M100-418M-local",
+    "text": "Die berg deel..."
+  },
+  "Mounted network locations appear here. Connect to a server to browse another location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Moetnetwerklokasies word hier verskyn.Verbind tot 'n server om 'n ander plek te navors."
+  },
+  "Move %1$@ remote items to recovery?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "verby %1$@ Remote items vir herstel?"
+  },
+  "Move %1$@ to Trash?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "verby %1$@ Om te tref?"
+  },
+  "Move here": {
+    "origin": "Files:PinToSidebarByDraggingCaptionText",
+    "text": "Beweeg hier"
+  },
+  "Move nested files to this folder. Existing names and symbolic links are left in place. Empty subfolders go to Trash. You can undo this operation.": {
+    "origin": "M2M100-418M-local",
+    "text": "Move nested files na hierdie map. bestaande name en simboliese links word in die plek verlaat. Vaste subfolder gaan na Trash. Jy kan hierdie operasie ontdoen."
+  },
+  "Move to Trash": {
+    "origin": "M2M100-418M-local",
+    "text": "Gaan om te tref"
+  },
+  "Move to Trash…": {
+    "origin": "M2M100-418M-local",
+    "text": "Om te beweeg..."
+  },
+  "Move to recovery": {
+    "origin": "M2M100-418M-local",
+    "text": "Gaan na herstel"
+  },
+  "Move to recovery folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Om te gaan na die herstel folder..."
+  },
+  "Movies": {
+    "origin": "M2M100-418M-local",
+    "text": "Filme"
+  },
+  "Moving": {
+    "origin": "M2M100-418M-local",
+    "text": "Beweeg"
+  },
+  "Moving files": {
+    "origin": "M2M100-418M-local",
+    "text": "Verplaatsing van die bestand"
+  },
+  "Moving to Trash": {
+    "origin": "M2M100-418M-local",
+    "text": "Gaan na die trash"
+  },
+  "Multiple items": {
+    "origin": "M2M100-418M-local",
+    "text": "Baie items"
+  },
+  "Music": {
+    "origin": "Files:Music",
+    "text": "Musiek"
+  },
+  "My MacFiles theme": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "My MacFiles Tema"
+  },
+  "My library": {
+    "origin": "M2M100-418M-local",
+    "text": "My bibliotheek"
+  },
+  "My search": {
+    "origin": "M2M100-418M-local",
+    "text": "My soek"
+  },
+  "Name": {
+    "origin": "M2M100-418M-local",
+    "text": "Naam"
+  },
+  "Native macOS extended attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Oorspronklike macOS Uitgestrekte eienskappe"
+  },
+  "Natural language search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Natuurlike taal soek"
+  },
+  "Navigate": {
+    "origin": "M2M100-418M-local",
+    "text": "Navigeer"
+  },
+  "Network": {
+    "origin": "Files:Network",
+    "text": "Netwerk"
+  },
+  "New": {
+    "origin": "Files:BaseLayoutContextFlyoutNew.Label",
+    "text": "Nuwe"
+  },
+  "New archive file": {
+    "origin": "M2M100-418M-local",
+    "text": "nuwe archief"
+  },
+  "New archive folder": {
+    "origin": "M2M100-418M-local",
+    "text": "nuwe archief folder"
+  },
+  "New branch": {
+    "origin": "M2M100-418M-local",
+    "text": "Die nuwe bui"
+  },
+  "New file from template": {
+    "origin": "M2M100-418M-local",
+    "text": "Nieu bestand van die template"
+  },
+  "New folder": {
+    "origin": "Files:NewFolder",
+    "text": "Nuwe omslag"
+  },
+  "New folder…": {
+    "origin": "Files:NewFolder",
+    "text": "Nuwe omslag"
+  },
+  "New from template": {
+    "origin": "M2M100-418M-local",
+    "text": "Nieu van die tempel"
+  },
+  "New from template…": {
+    "origin": "M2M100-418M-local",
+    "text": "Nieu van die tempel."
+  },
+  "New name": {
+    "origin": "M2M100-418M-local",
+    "text": "nuwe naam"
+  },
+  "New remote file": {
+    "origin": "M2M100-418M-local",
+    "text": "Nieuwe afstandsbestand"
+  },
+  "New remote folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Nieuwe afstandsdoek"
+  },
+  "New tab": {
+    "origin": "Files:NewTab",
+    "text": "Nuwe oortjie"
+  },
+  "New tab · ⌘T": {
+    "origin": "Files:NewTab",
+    "text": "Nuwe oortjie · ⌘T"
+  },
+  "New text file": {
+    "origin": "M2M100-418M-local",
+    "text": "nuwe tekstbestand"
+  },
+  "New text file…": {
+    "origin": "M2M100-418M-local",
+    "text": "Die nuwe tekstbestand..."
+  },
+  "New window": {
+    "origin": "M2M100-418M-local",
+    "text": "nuwe venster"
+  },
+  "Next layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Volgende Layout"
+  },
+  "Next tab": {
+    "origin": "M2M100-418M-local",
+    "text": "Volgende TAB"
+  },
+  "No": {
+    "origin": "Files:No",
+    "text": "Nee"
+  },
+  "No IDE selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Geen IDE gesel nie"
+  },
+  "No application could open ‘%1$@’.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Geen aanvraag kan geopend word nie.”%1$@’."
+  },
+  "No archive entry was extracted.": {
+    "origin": "M2M100-418M-local",
+    "text": "Geen archief ingedeel is nie."
+  },
+  "No archive is open.": {
+    "origin": "M2M100-418M-local",
+    "text": "Geen archief is oop nie."
+  },
+  "No archive was produced.": {
+    "origin": "M2M100-418M-local",
+    "text": "Geen archief is geprodueer nie."
+  },
+  "No commits yet": {
+    "origin": "M2M100-418M-local",
+    "text": "Geen belofte nog nie"
+  },
+  "No files were extracted.": {
+    "origin": "M2M100-418M-local",
+    "text": "Geen dossiers is geëxtraheer nie."
+  },
+  "No matching items": {
+    "origin": "M2M100-418M-local",
+    "text": "Geen matige items"
+  },
+  "No movie header was found.": {
+    "origin": "M2M100-418M-local",
+    "text": "Geen film header is gevind nie."
+  },
+  "No operations recorded.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Geen operasie geregistreer nie."
+  },
+  "No readable macOS code signature.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "nie leesbaar macOS Kode van ondertekening.\n\n"
+  },
+  "No selection": {
+    "origin": "M2M100-418M-local",
+    "text": "Geen selectie"
+  },
+  "No settings match your search.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Geen instellings voldoen aan jou soek nie."
+  },
+  "No tracked diff. New files appear after staging.": {
+    "origin": "M2M100-418M-local",
+    "text": "Geen gevolgd diff. Niewe bestande sal na die staking verskyn nie."
+  },
+  "None": {
+    "origin": "Files:CompressionLevelNone",
+    "text": "Geen"
+  },
+  "Not enough free space to finish extraction.": {
+    "origin": "M2M100-418M-local",
+    "text": "Nie genoeg gratis ruimte om die extractie te beëindig nie."
+  },
+  "Not managed by a detected cloud provider": {
+    "origin": "M2M100-418M-local",
+    "text": "Geen beheer deur 'n geïdentifiseerde cloud provider"
+  },
+  "Not used": {
+    "origin": "M2M100-418M-local",
+    "text": "Gebruik nie"
+  },
+  "Numbered names": {
+    "origin": "M2M100-418M-local",
+    "text": "Numerêre Naam"
+  },
+  "OK": {
+    "origin": "M2M100-418M-local",
+    "text": "OK"
+  },
+  "Older": {
+    "origin": "M2M100-418M-local",
+    "text": "ouderdom"
+  },
+  "Online only": {
+    "origin": "M2M100-418M-local",
+    "text": "Net net online"
+  },
+  "Only an uploaded iCloud file without conflicts can have its local download removed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Alleen 'n upload iCloud 'n bestand sonder konflik kan die plaaslike download verwyder word."
+  },
+  "Only images can be rotated.": {
+    "origin": "M2M100-418M-local",
+    "text": "Alleen die foto’s kan roteer word."
+  },
+  "Open": {
+    "origin": "Files:Open",
+    "text": "Maak oop"
+  },
+  "Open / Preview": {
+    "origin": "M2M100-418M-local",
+    "text": "Open en voorspel"
+  },
+  "Open Login Items settings": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open Login items instellings"
+  },
+  "Open MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Maak oop MacFiles"
+  },
+  "Open System Settings for iCloud": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open die stelsel voor iCloud"
+  },
+  "Open a repository, initialize this folder, or clone a repository.": {
+    "origin": "M2M100-418M-local",
+    "text": "Open 'n repositorium, begin hierdie map of kloneer 'n repositorium."
+  },
+  "Open all folders in tabs": {
+    "origin": "M2M100-418M-local",
+    "text": "Open al die mappe in die tabs"
+  },
+  "Open containing folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Open die inhoud van folder"
+  },
+  "Open external folders in new windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open eksterne maps in nuwe venster"
+  },
+  "Open file location": {
+    "origin": "Files:OpenFileLocation",
+    "text": "Maak lêerligging oop"
+  },
+  "Open folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Open die folder"
+  },
+  "Open folders in new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open folder in nuwe tabs"
+  },
+  "Open folder…": {
+    "origin": "M2M100-418M-local",
+    "text": "Die open folder..."
+  },
+  "Open in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open in IDE"
+  },
+  "Open in IDE uses the selected application. Open repository in IDE resolves the Git repository root first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open in IDE gebruik die geselekte toepassing. Open repository in IDE oplos die Git Die spoor van die eerste."
+  },
+  "Open in Terminal": {
+    "origin": "M2M100-418M-local",
+    "text": "Open in die terminal"
+  },
+  "Open in new tab": {
+    "origin": "Files:OpenInNewTab",
+    "text": "Maak oop in nuwe oortjie"
+  },
+  "Open in new window": {
+    "origin": "Files:OpenInNewWindow",
+    "text": "Maak oop in nuwe venster"
+  },
+  "Open in other pane": {
+    "origin": "M2M100-418M-local",
+    "text": "Open in 'n ander pane"
+  },
+  "Open log file": {
+    "origin": "Files:OpenLogFile",
+    "text": "Open log file"
+  },
+  "Open new tabs with dual panes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open nuwe tabs met dual panes"
+  },
+  "Open repository in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open rekenaar in IDE"
+  },
+  "Open selection": {
+    "origin": "M2M100-418M-local",
+    "text": "Open selectie"
+  },
+  "Open target folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Open doelmateriaal"
+  },
+  "Open with": {
+    "origin": "Files:OpenWith",
+    "text": "Maak oop met"
+  },
+  "Open with application": {
+    "origin": "M2M100-418M-local",
+    "text": "Open met aansoek"
+  },
+  "Open with application…": {
+    "origin": "M2M100-418M-local",
+    "text": "Open by die aanvraag..."
+  },
+  "Open with…": {
+    "origin": "Files:OpenWith",
+    "text": "Maak oop met"
+  },
+  "Open-ended media atoms require remuxing before editing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Open-end media atome vereis remuxing voor die bewerking."
+  },
+  "OpenAllTaggedItems": {
+    "origin": "Files:OpenAllTaggedItems",
+    "text": "Open all"
+  },
+  "OpenLogFile": {
+    "origin": "Files:OpenLogFile",
+    "text": "Open log file"
+  },
+  "Operation completed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die operasie is voltooid."
+  },
+  "Operation failed": {
+    "origin": "M2M100-418M-local",
+    "text": "Operasie misluk"
+  },
+  "Operations": {
+    "origin": "M2M100-418M-local",
+    "text": "Operasie"
+  },
+  "Operations (%1$@ queued)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die werklikheid (%1$@ die koning)"
+  },
+  "Operations…": {
+    "origin": "M2M100-418M-local",
+    "text": "Die operasie..."
+  },
+  "Orange": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Oranje"
+  },
+  "Original location": {
+    "origin": "M2M100-418M-local",
+    "text": "Oorspronklike plek"
+  },
+  "Original locations are remembered for items deleted by MacFiles, including across launches.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Oorspronklike plekke word herinner vir items wat deur MacFilesInclusief in die hele begin."
+  },
+  "Original name": {
+    "origin": "M2M100-418M-local",
+    "text": "Oorspronklike naam"
+  },
+  "Overcast": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Verhoogde"
+  },
+  "Owner": {
+    "origin": "Files:PropertyFileOwner",
+    "text": "Eienaar"
+  },
+  "Owner UID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Eienaar UID"
+  },
+  "Ownership updated.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die besigheid is geactualiseer."
+  },
+  "POSIX permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "POSIX Toestemmings"
+  },
+  "Password": {
+    "origin": "Files:Password",
+    "text": "Wagwoord"
+  },
+  "Password (optional, AES-256)": {
+    "origin": "M2M100-418M-local",
+    "text": "Password (optieel, AES-256)"
+  },
+  "Password / key passphrase (optional)": {
+    "origin": "M2M100-418M-local",
+    "text": "Password / sleutelpasswoord (optieel)"
+  },
+  "Password protection is supported for ZIP archives.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Passwordbescherming word ondersteun vir ZIP die archief."
+  },
+  "Paste": {
+    "origin": "Files:Paste",
+    "text": "Plak"
+  },
+  "Paste and drop transfers queue behind the current operation. Completed changes remain available through Undo. Copy cancellation stops the staged transfer before publishing it. Undo history is restored across launches.": {
+    "origin": "M2M100-418M-local",
+    "text": "Paste en drop transfers kooi agter die huidige werking. voltooi veranderings bly beskikbaar deur Undo. Kopie annulering stop die stappe transfers voordat dit gepubliseer word. Undo geskiedenis word herstel oor lanseerings."
+  },
+  "Paste files": {
+    "origin": "M2M100-418M-local",
+    "text": "Passeer die lêers"
+  },
+  "Paste shortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "Paste shortcut"
+  },
+  "Paste the files into a permanent folder before creating aliases to them.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pas die bestande in 'n permanente map voordat hulle aliasies skep."
+  },
+  "PasteItemToSelectionDescription": {
+    "origin": "Files:PasteItemToSelectionDescription",
+    "text": "Paste items to the selected folder"
+  },
+  "PasteShortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "Paste shortcut"
+  },
+  "Path": {
+    "origin": "M2M100-418M-local",
+    "text": "Die pad"
+  },
+  "Pattern": {
+    "origin": "M2M100-418M-local",
+    "text": "die patroon"
+  },
+  "Permanently delete %1$@ items?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Permanente verwyder %1$@ Die items?"
+  },
+  "Permissions": {
+    "origin": "Files:Permissions",
+    "text": "Toestemmings"
+  },
+  "Permissions are enforced by the server. FTP servers must support SITE CHMOD; SFTP uses SSH permissions.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die vergunning word deur die server uitgevoer. FTP Server moet die SITE CHMOD ondersteun; SFTP Gebruik SSH Toestemmings"
+  },
+  "Permissions are stored in the archive. Changes rebuild it and support Undo.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die toestemming word in die archief bewaar. verander herbou dit en ondersteun Undo."
+  },
+  "Permissions updated.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die vergunning word geactualiseer."
+  },
+  "Permissions…": {
+    "origin": "Files:Permissions",
+    "text": "Toestemmings"
+  },
+  "Pick up where you left off": {
+    "origin": "M2M100-418M-local",
+    "text": "Kyk waar jy verlaat"
+  },
+  "Pictures": {
+    "origin": "Files:Pictures",
+    "text": "Prente"
+  },
+  "Pin this folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Pin hierdie folder"
+  },
+  "Pin to sidebar": {
+    "origin": "Files:PinFolderToSidebar",
+    "text": "Speld aan kantbalk vas"
+  },
+  "Pinned": {
+    "origin": "Files:Pinned",
+    "text": "Vasgespeld"
+  },
+  "Pinned folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Vervolglik die folder"
+  },
+  "Play All": {
+    "origin": "Files:PlayAll",
+    "text": "Play All"
+  },
+  "PlayAll": {
+    "origin": "Files:PlayAll",
+    "text": "Play All"
+  },
+  "Port": {
+    "origin": "M2M100-418M-local",
+    "text": "Die haven"
+  },
+  "Preparing copy": {
+    "origin": "M2M100-418M-local",
+    "text": "Voorbereiding van kopie"
+  },
+  "Preparing move": {
+    "origin": "M2M100-418M-local",
+    "text": "Voorbereiding vir beweging"
+  },
+  "Presentation is saved with this virtual location.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die presentasie word gespeel met hierdie virtuele plek."
+  },
+  "Press the shortcut…": {
+    "origin": "M2M100-418M-local",
+    "text": "Druk die kortskakel..."
+  },
+  "Preview": {
+    "origin": "M2M100-418M-local",
+    "text": "Voorbeeld"
+  },
+  "Previous layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vorige Layout"
+  },
+  "Previous tab": {
+    "origin": "M2M100-418M-local",
+    "text": "Vorige TAB"
+  },
+  "Properties": {
+    "origin": "Files:OpenProperties",
+    "text": "Eienskappe"
+  },
+  "Properties…": {
+    "origin": "Files:OpenProperties",
+    "text": "Eienskappe"
+  },
+  "Property": {
+    "origin": "M2M100-418M-local",
+    "text": "Eigendom"
+  },
+  "Protocol": {
+    "origin": "M2M100-418M-local",
+    "text": "Protokolle"
+  },
+  "Provider controls in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Aanbieders beheer die Finder"
+  },
+  "Pull": {
+    "origin": "M2M100-418M-local",
+    "text": "Die Pull"
+  },
+  "Purple": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die Purple"
+  },
+  "Push": {
+    "origin": "M2M100-418M-local",
+    "text": "Die PUSH"
+  },
+  "Queued": {
+    "origin": "M2M100-418M-local",
+    "text": "Vreugde"
+  },
+  "Quick access": {
+    "origin": "M2M100-418M-local",
+    "text": "Snelle toegang"
+  },
+  "Quit MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Verwyder MacFiles"
+  },
+  "Readable": {
+    "origin": "M2M100-418M-local",
+    "text": "leesbaar"
+  },
+  "Recent files": {
+    "origin": "Files:RecentFiles",
+    "text": "Onlangse lêers"
+  },
+  "Recent folders": {
+    "origin": "M2M100-418M-local",
+    "text": "Onlangse folder"
+  },
+  "Reconnect to the same server and account, then retry Undo. The remote recovery data remains in .MacFiles-Recovery.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Re-verbind na dieselfde server en rekening, dan terugkeer Undo. Die afstandsoplossing data bly in .MacFiles-Recovery."
+  },
+  "Record shortcut": {
+    "origin": "M2M100-418M-local",
+    "text": "Rekord kort"
+  },
+  "Red": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "rooi"
+  },
+  "Redo": {
+    "origin": "M2M100-418M-local",
+    "text": "Vervolg"
+  },
+  "Redo file operation": {
+    "origin": "M2M100-418M-local",
+    "text": "Redo-bestandsewerking"
+  },
+  "Redoing": {
+    "origin": "M2M100-418M-local",
+    "text": "Vermindering"
+  },
+  "Refresh": {
+    "origin": "Files:Refresh",
+    "text": "Verfris"
+  },
+  "Refresh · ⌘R": {
+    "origin": "Files:Refresh",
+    "text": "Verfris · ⌘R"
+  },
+  "Regular expression": {
+    "origin": "M2M100-418M-local",
+    "text": "Regionale uitdrukking"
+  },
+  "Release notes": {
+    "origin": "Files:ReleaseNotes",
+    "text": "Release Notes"
+  },
+  "Reload": {
+    "origin": "M2M100-418M-local",
+    "text": "Verwysing"
+  },
+  "Remember password in Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vergeet die wachtwoord in Keychain"
+  },
+  "Remote operation on %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die afstandsoperasie op %1$@"
+  },
+  "Remote path": {
+    "origin": "M2M100-418M-local",
+    "text": "Die afgelope pad"
+  },
+  "Remote paths cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Remote pads kan nie line-breukke bevat nie of NUL Die karakters."
+  },
+  "Remotes": {
+    "origin": "M2M100-418M-local",
+    "text": "Verwyder"
+  },
+  "Remove": {
+    "origin": "Files:Remove",
+    "text": "Verwyder"
+  },
+  "Remove attribute…": {
+    "origin": "M2M100-418M-local",
+    "text": "Verwyder die attribut."
+  },
+  "Remove background image": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Verwyder agtergrond beeld"
+  },
+  "Remove download": {
+    "origin": "M2M100-418M-local",
+    "text": "Verwyder die download"
+  },
+  "Remove entries…": {
+    "origin": "M2M100-418M-local",
+    "text": "Verwijder die ingang..."
+  },
+  "Remove from archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Verwyder van die archief"
+  },
+  "Remove library": {
+    "origin": "M2M100-418M-local",
+    "text": "Verwyder die bibliotheek"
+  },
+  "Remove local download…": {
+    "origin": "M2M100-418M-local",
+    "text": "Verwyder die lokaal download."
+  },
+  "Remove references": {
+    "origin": "M2M100-418M-local",
+    "text": "Verwijder referensies"
+  },
+  "Remove saved credentials": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Verwyder gespaarde vertroue"
+  },
+  "Remove saved folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Verwyder gespaarde folder"
+  },
+  "Remove saved search": {
+    "origin": "M2M100-418M-local",
+    "text": "Verwyder gespaar soek"
+  },
+  "Remove selected entries from the archive?": {
+    "origin": "M2M100-418M-local",
+    "text": "Verwyder geselekte inskrifte van die archief?"
+  },
+  "Remove tags": {
+    "origin": "Files:RemoveTags",
+    "text": "Remove tags"
+  },
+  "Remove the local download?": {
+    "origin": "M2M100-418M-local",
+    "text": "Verwyder die plaaslike download?"
+  },
+  "Remove ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Verwyder ‘%1$@’?"
+  },
+  "RemoveTags": {
+    "origin": "Files:RemoveTags",
+    "text": "Remove tags"
+  },
+  "Removing tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Verwyder die tags"
+  },
+  "Rename": {
+    "origin": "Files:Rename",
+    "text": "Hernoem"
+  },
+  "Rename %1$@ items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die naam %1$@ Die items"
+  },
+  "Rename archive entry": {
+    "origin": "M2M100-418M-local",
+    "text": "Archief van die ingang"
+  },
+  "Rename entry…": {
+    "origin": "M2M100-418M-local",
+    "text": "Vervanging van die entry..."
+  },
+  "Rename failed. Your item is preserved at %1$@. %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rename misluk. jou item is bewaard by %1$@. %2$@"
+  },
+  "Rename remote item": {
+    "origin": "M2M100-418M-local",
+    "text": "Remote item verwys"
+  },
+  "Rename…": {
+    "origin": "Files:Rename",
+    "text": "Hernoem"
+  },
+  "Renaming": {
+    "origin": "M2M100-418M-local",
+    "text": "Renameer"
+  },
+  "Renaming items": {
+    "origin": "M2M100-418M-local",
+    "text": "Renameer die items"
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Finder uses the macOS palette; custom colors and stable IDs are retained by MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Renameer of verwyder 'n bewaarde tag-update-bestande wat deur SpotlightOnindexed of ontoeganklike bestande kan die ou tag bewaar. Finder Gebruik die macOS palette; aangepaste kleur en stabiele ID's word bewaar deur MacFiles."
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Tag colors use the macOS palette.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Renameer of verwyder 'n bewaarde tag-update-bestande wat deur Spotlight. Unindexed of inaccessible files kan die ou tag bewaar. macOS die palet."
+  },
+  "Reopen closed tab": {
+    "origin": "M2M100-418M-local",
+    "text": "Open weer gesloten tab"
+  },
+  "Replace": {
+    "origin": "M2M100-418M-local",
+    "text": "vervanging"
+  },
+  "Replace this item's ACL?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vervang die item ACL?"
+  },
+  "Replace with": {
+    "origin": "M2M100-418M-local",
+    "text": "vervang met"
+  },
+  "Replace, keeping backup": {
+    "origin": "M2M100-418M-local",
+    "text": "Vervang, bewaar backup"
+  },
+  "Report an issue": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vertel 'n probleem"
+  },
+  "Repository": {
+    "origin": "M2M100-418M-local",
+    "text": "Repositorie"
+  },
+  "Repository URL": {
+    "origin": "M2M100-418M-local",
+    "text": "Register vir URL"
+  },
+  "Requesting cloud download": {
+    "origin": "M2M100-418M-local",
+    "text": "Vraag om die cloud te download"
+  },
+  "Reset": {
+    "origin": "M2M100-418M-local",
+    "text": "herstel"
+  },
+  "Reset all": {
+    "origin": "M2M100-418M-local",
+    "text": "herstel alles"
+  },
+  "Reset icon": {
+    "origin": "M2M100-418M-local",
+    "text": "Verstel die Ikon"
+  },
+  "Reset pinned folders": {
+    "origin": "M2M100-418M-local",
+    "text": "Register die opgedankte mappe"
+  },
+  "Restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "weer begin MacFiles"
+  },
+  "Restore all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Herstel alles"
+  },
+  "Restore command defaults": {
+    "origin": "M2M100-418M-local",
+    "text": "Herstel van die bestelling defekte"
+  },
+  "Restore here": {
+    "origin": "M2M100-418M-local",
+    "text": "herstel hier"
+  },
+  "Restore original location": {
+    "origin": "M2M100-418M-local",
+    "text": "Herstel die oorspronklike plek"
+  },
+  "Restore previous folder viewer": {
+    "origin": "M2M100-418M-local",
+    "text": "Herstel van die vorige folder viewers"
+  },
+  "Restore tabs at launch": {
+    "origin": "M2M100-418M-local",
+    "text": "Herstel van tabs by die lanseer"
+  },
+  "Restore to…": {
+    "origin": "M2M100-418M-local",
+    "text": "Om te herstel..."
+  },
+  "Restoring from Trash": {
+    "origin": "M2M100-418M-local",
+    "text": "Herstel van Trash"
+  },
+  "Results come from the macOS Spotlight index. Unindexed folders are not included.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die resultate kom van die macOS Spotlight Indeks: Onindeksed mappe is nie inbegreep nie."
+  },
+  "Results in this folder and subfolders": {
+    "origin": "M2M100-418M-local",
+    "text": "Resultate in hierdie folder en subfolders"
+  },
+  "Retargeting shortcut": {
+    "origin": "M2M100-418M-local",
+    "text": "Verstel van kortskakels"
+  },
+  "Retarget…": {
+    "origin": "M2M100-418M-local",
+    "text": "Vervolglik..."
+  },
+  "Reveal": {
+    "origin": "M2M100-418M-local",
+    "text": "Verduidelik"
+  },
+  "Reveal in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ontdek in Finder"
+  },
+  "Reverse tab scroll direction": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Omgekeer tab scroll richting"
+  },
+  "Review server fingerprint…": {
+    "origin": "M2M100-418M-local",
+    "text": "Verwysing van die server vingerafdruk"
+  },
+  "Right": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die reg"
+  },
+  "Rotate left": {
+    "origin": "Files:RotateLeft",
+    "text": "Roteer linksom"
+  },
+  "Rotate right": {
+    "origin": "Files:RotateRight",
+    "text": "Roteer regsom"
+  },
+  "Rotating left": {
+    "origin": "M2M100-418M-local",
+    "text": "Router links"
+  },
+  "Rotating right": {
+    "origin": "M2M100-418M-local",
+    "text": "Router reg"
+  },
+  "Running": {
+    "origin": "M2M100-418M-local",
+    "text": "Ronde"
+  },
+  "SFTP (SSH keys)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SFTP (SSH die sleutel"
+  },
+  "SMB, AFP, or WebDAV share": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SMB, AFPOf WebDAV Deel"
+  },
+  "SSH known-host verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH Kennis-host verifikasies"
+  },
+  "SSH passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH 'N Password kan geen lijnbreuke bevat nie of NUL Die karakters."
+  },
+  "Save": {
+    "origin": "Files:Save",
+    "text": "Stoor"
+  },
+  "Save attribute": {
+    "origin": "M2M100-418M-local",
+    "text": "Bespaar die attribut"
+  },
+  "Save folder layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Bespreek die folder layout"
+  },
+  "Save metadata": {
+    "origin": "M2M100-418M-local",
+    "text": "Bespaar metadata"
+  },
+  "Save search": {
+    "origin": "M2M100-418M-local",
+    "text": "Bespaar soek"
+  },
+  "Save search…": {
+    "origin": "M2M100-418M-local",
+    "text": "Save die soek..."
+  },
+  "Save to Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Save by Keychain"
+  },
+  "Saved connections": {
+    "origin": "M2M100-418M-local",
+    "text": "Besparende verbindings"
+  },
+  "Saved searches": {
+    "origin": "M2M100-418M-local",
+    "text": "Bespaar soek"
+  },
+  "Saved. The token will be used for GitHub HTTPS operations.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die token sal gebruik word vir GitHub HTTPS-operasies."
+  },
+  "Seafoam": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Seafoam"
+  },
+  "Search": {
+    "origin": "Files:Key.BrowserSearch",
+    "text": "Soek"
+  },
+  "Search %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Soeking %1$@"
+  },
+  "Search %1$@ · Return searches subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Soeking %1$@ · terugkeer soek subfolders"
+  },
+  "Search available actions": {
+    "origin": "M2M100-418M-local",
+    "text": "Soek die beschikbare aksies"
+  },
+  "Search commands": {
+    "origin": "M2M100-418M-local",
+    "text": "Soek bevel"
+  },
+  "Search folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Soek folder"
+  },
+  "Search settings": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Settings vir soek"
+  },
+  "Search stopped.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die soek is gestopt."
+  },
+  "Search subfolders": {
+    "origin": "M2M100-418M-local",
+    "text": "Soek onderliggings"
+  },
+  "Security": {
+    "origin": "Files:Security",
+    "text": "Sekuriteit"
+  },
+  "Select": {
+    "origin": "Files:NavToolbarSelectionOptions.Label",
+    "text": "Kies"
+  },
+  "Select a file to view its diff.": {
+    "origin": "M2M100-418M-local",
+    "text": "Selek 'n bestand om sy diff te sien."
+  },
+  "Select a macOS alias or symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kies 'n macOS Alias of 'n simboliese link."
+  },
+  "Select a regular media file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Selek 'n reguliere media-bestand."
+  },
+  "Select all": {
+    "origin": "M2M100-418M-local",
+    "text": "Selekteer almal"
+  },
+  "Select an archive": {
+    "origin": "M2M100-418M-local",
+    "text": "Kies 'n archief"
+  },
+  "Select an item to see its details.": {
+    "origin": "M2M100-418M-local",
+    "text": "Selek 'n item om sy details te sien."
+  },
+  "Select archive entries to remove.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kies die archief invoer om te verwyder."
+  },
+  "Select on hover": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kies op die hover"
+  },
+  "Select previous folder when navigating up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Selek die vorige folder wanneer u navigeer"
+  },
+  "Select uniquely named items to archive.": {
+    "origin": "M2M100-418M-local",
+    "text": "Selek uniek genoemde items in die archief."
+  },
+  "Selected items": {
+    "origin": "M2M100-418M-local",
+    "text": "Selekte items"
+  },
+  "Selected items have duplicate names. Archive them separately.": {
+    "origin": "M2M100-418M-local",
+    "text": "Selekte items het duplikate naam. Ark hulle afzonderlik."
+  },
+  "Selection checkboxes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Selektiewe checkboxes"
+  },
+  "Separate file and folder counts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Verskilde bestand en folder bereken"
+  },
+  "Separator": {
+    "origin": "M2M100-418M-local",
+    "text": "Separator"
+  },
+  "Server": {
+    "origin": "M2M100-418M-local",
+    "text": "die server"
+  },
+  "Set as app background": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "Set as app background"
+  },
+  "Set as wallpaper": {
+    "origin": "M2M100-418M-local",
+    "text": "Setting as 'n wallpaper"
+  },
+  "Set default": {
+    "origin": "M2M100-418M-local",
+    "text": "Stel 'n default"
+  },
+  "SetAsAppBackground": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "Set as app background"
+  },
+  "Settings": {
+    "origin": "Files:Settings",
+    "text": "Instellings"
+  },
+  "Settings file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Settings van die bestand"
+  },
+  "Settings saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die instellings is gered."
+  },
+  "Settings…": {
+    "origin": "Files:Settings",
+    "text": "Instellings"
+  },
+  "Share": {
+    "origin": "Files:Share",
+    "text": "Deel"
+  },
+  "Share…": {
+    "origin": "Files:Share",
+    "text": "Deel"
+  },
+  "Shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Skep"
+  },
+  "Shortcut": {
+    "origin": "Files:Shortcut",
+    "text": "Kortpad"
+  },
+  "Shortcuts apply in the explorer. Text fields keep native editing behavior. Resolve duplicate assignments before applying.": {
+    "origin": "M2M100-418M-local",
+    "text": "Shortcuts word in die explorer toegepas. Tekstefelde hou native bewerkings gedrag. Resolve duplikate toekennings voordat jy toepas."
+  },
+  "Show dotfiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sien die dossiers"
+  },
+  "Show hidden files": {
+    "origin": "M2M100-418M-local",
+    "text": "Geskryf verborge bestellings"
+  },
+  "Show in folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Geskryf in folder"
+  },
+  "Show log in folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kyk in die folder"
+  },
+  "Show menu bar icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sien die menu bar icon"
+  },
+  "Show package contents": {
+    "origin": "M2M100-418M-local",
+    "text": "Sien die pakket inhoud"
+  },
+  "Show shelf button": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kies die Shelf-knop"
+  },
+  "Show staged diff": {
+    "origin": "M2M100-418M-local",
+    "text": "Verwys van die diff"
+  },
+  "Show status bar": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sien die status bar"
+  },
+  "Show tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kyk op die TAB-toegings"
+  },
+  "Show thumbnails": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sien die miniature"
+  },
+  "ShowFileExtensions": {
+    "origin": "Files:ShowFileExtensions",
+    "text": "File extensions"
+  },
+  "Sidebar": {
+    "origin": "Files:Sidebar",
+    "text": "Kantbalk"
+  },
+  "Signature": {
+    "origin": "M2M100-418M-local",
+    "text": "ondertekening"
+  },
+  "Signature integrity verification failed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die ondertekening integriteit verifikasies misluk."
+  },
+  "Signature integrity verified. This does not constitute a notarization or malware assessment.": {
+    "origin": "M2M100-418M-local",
+    "text": "Signature integrity verified. Dit vorm nie 'n notarisering of malware evalueer nie."
+  },
+  "Signatures": {
+    "origin": "Files:Signatures",
+    "text": "Handtekeninge"
+  },
+  "Single file": {
+    "origin": "M2M100-418M-local",
+    "text": "'n enkele bestand"
+  },
+  "Single folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Eenvoudige folder"
+  },
+  "Single-click columns": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Eenklik kolonne"
+  },
+  "Single-click files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "'n Single-klik bestand"
+  },
+  "Single-click folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Eenklik-folders"
+  },
+  "Size": {
+    "origin": "Files:SizeLabel",
+    "text": "Grootte:"
+  },
+  "Size units": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die grootte van die eenheid"
+  },
+  "Skip": {
+    "origin": "Files:Skip",
+    "text": "Slaan oor"
+  },
+  "Skip existing": {
+    "origin": "M2M100-418M-local",
+    "text": "Ski bestaan"
+  },
+  "Small icons": {
+    "origin": "M2M100-418M-local",
+    "text": "Kleine Ikones"
+  },
+  "Smooth scrolling": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Smoedskrywing"
+  },
+  "Solid": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sterk"
+  },
+  "Some files could not be updated. The saved tag was retained so you can retry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sommige bestande kon nie gewerk word nie. Die gespaarde tag is bewaar, sodat jy kan terugtrek."
+  },
+  "Some items could not be read.": {
+    "origin": "M2M100-418M-local",
+    "text": "Sommige items kan nie lees nie."
+  },
+  "Some items couldn’t be completed": {
+    "origin": "M2M100-418M-local",
+    "text": "Sommige items kon nie voltooi word nie."
+  },
+  "Some items have no recorded original location. Select them and use Restore to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sommige items het nie die oorspronklike plek geregistreer nie. Selek hulle en gebruik herstel om te..."
+  },
+  "Sort": {
+    "origin": "Files:Sort",
+    "text": "Sorteer"
+  },
+  "Sort by": {
+    "origin": "Files:SortBy",
+    "text": "Sorteer volgens"
+  },
+  "SortFilesAndFoldersTogether": {
+    "origin": "Files:SortFilesAndFoldersTogether",
+    "text": "Sort files and folders together"
+  },
+  "SortFilesFirst": {
+    "origin": "Files:SortFilesFirst",
+    "text": "Sort files first"
+  },
+  "SortFoldersFirst": {
+    "origin": "Files:SortFoldersFirst",
+    "text": "Sort folders first"
+  },
+  "Source code": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kode oorspronklik"
+  },
+  "Special device entries cannot be extracted: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Speciale toestel-instruksie kan nie afgekry word nie: %1$@"
+  },
+  "Split archives use ZIP or 7z format.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die gebruik van die gedeelde archief ZIP of 7z Formaat"
+  },
+  "Split into volumes (MiB, optional)": {
+    "origin": "M2M100-418M-local",
+    "text": "Verdeling in volumes (MiB, optiewe)"
+  },
+  "Stage all": {
+    "origin": "M2M100-418M-local",
+    "text": "Stage van alles"
+  },
+  "Stage selected": {
+    "origin": "M2M100-418M-local",
+    "text": "Die stadium gesel"
+  },
+  "Staged all changes": {
+    "origin": "M2M100-418M-local",
+    "text": "Al die veranderinge opgestel"
+  },
+  "Staged selected files": {
+    "origin": "M2M100-418M-local",
+    "text": "Stagged geselekte bestellings"
+  },
+  "Start": {
+    "origin": "Files:Start",
+    "text": "Start"
+  },
+  "Start folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Begin die folder"
+  },
+  "Startup": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup vir"
+  },
+  "Startup and tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup en TABS"
+  },
+  "Startup folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Begin met die folder"
+  },
+  "Startup folders are used when session restoration is disabled. An empty list opens Home.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Start-up maps word gebruik wanneer die sesie herstel is uitgeschakeld. 'n leë lys oopmaak Home."
+  },
+  "Status": {
+    "origin": "M2M100-418M-local",
+    "text": "Status"
+  },
+  "Stop": {
+    "origin": "M2M100-418M-local",
+    "text": "Stop die"
+  },
+  "Stopped before the next item. Completed items were kept.": {
+    "origin": "M2M100-418M-local",
+    "text": "Vervolgens het die volgende item gestop. voltooide items is bewaar."
+  },
+  "Storage settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die opslag van die..."
+  },
+  "Storm": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Storm"
+  },
+  "Stretch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Stretch"
+  },
+  "Switch to new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Switch na nuwe tabs"
+  },
+  "Switched to %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sluit op %1$@"
+  },
+  "Symbolic Link": {
+    "origin": "M2M100-418M-local",
+    "text": "Symbolieke link"
+  },
+  "Symbolic link": {
+    "origin": "M2M100-418M-local",
+    "text": "Symbolieke link"
+  },
+  "Sync": {
+    "origin": "Files:GitSync",
+    "text": "Sync"
+  },
+  "Sync conflict": {
+    "origin": "M2M100-418M-local",
+    "text": "Synchroniseer konflikte"
+  },
+  "Sync error": {
+    "origin": "M2M100-418M-local",
+    "text": "Synchroniseer die fout"
+  },
+  "Synced": {
+    "origin": "M2M100-418M-local",
+    "text": "Synthese"
+  },
+  "Synchronize folder preferences": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Synchroniseer die folder voorkeure"
+  },
+  "System": {
+    "origin": "Files:SystemTimeStyle",
+    "text": "Stelsel"
+  },
+  "TLS certificate verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "TLS Sertifikaat verifikasies"
+  },
+  "Tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "TAB aksies"
+  },
+  "Tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "TABS"
+  },
+  "Tag": {
+    "origin": "Files:Tag",
+    "text": "Lêermerker"
+  },
+  "Tag (blank = all tags)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag (blank = al die tags)"
+  },
+  "Tag color": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag die kleur"
+  },
+  "Tag name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag die naam"
+  },
+  "Tag names must be unique.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die naam moet uniek wees."
+  },
+  "Tag update failed and original metadata could not be restored: ": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag update misluk en oorspronklike metadata kon nie herstel word nie: "
+  },
+  "Tagged items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tagged die items"
+  },
+  "Tags": {
+    "origin": "Files:FileTags",
+    "text": "Merkers"
+  },
+  "Tags, separated by commas": {
+    "origin": "M2M100-418M-local",
+    "text": "Tags, gesonder deur commas"
+  },
+  "Target": {
+    "origin": "Files:PropertyItemTarget",
+    "text": "Teiken"
+  },
+  "Terminal": {
+    "origin": "M2M100-418M-local",
+    "text": "die terminal"
+  },
+  "Test IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tester hier"
+  },
+  "The ACL failed validation.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die ACL Validasie misluk."
+  },
+  "The command failed (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die bevel is gebly (%1$@)."
+  },
+  "The custom icon and saved layout belong to the selected item.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die aangepaste ikon en gespaarde layout behoort aan die gekozen item."
+  },
+  "The destination connection changed. Drop the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die bestemming verbinding verander. die bestande weer te dra."
+  },
+  "The destination connection changed. Paste the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die bestemming verbinding verander. Pas die bestellings weer."
+  },
+  "The destination is not an accessible folder.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die bestemming is nie 'n toeganklike map nie."
+  },
+  "The icon could not be changed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die icoon kan nie verander word nie."
+  },
+  "The icon could not be reset.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die icoon kan nie herstel word nie."
+  },
+  "The media container did not retain: ": {
+    "origin": "M2M100-418M-local",
+    "text": "Die media container het nie: "
+  },
+  "The media tracks cannot be preserved in this container.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die media tracks kan nie in hierdie container bewaar word nie."
+  },
+  "The new shortcut target does not exist.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die nuwe doelwit is nie bestaan nie."
+  },
+  "The old shortcut is in Trash, but macOS did not return its location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die oudste kortskakel is in Trash, maar macOS Hy het sy plek nie teruggekeer nie."
+  },
+  "The original archive remains recoverable with Undo.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die oorspronklike archief bly herstelbaar met Undo."
+  },
+  "The server did not return a valid host-key list.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die server het nie 'n geldig host-key-liste teruggekeer nie."
+  },
+  "The server recovery path is occupied by a file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die server herstel pad word beset deur 'n bestand."
+  },
+  "The server returned an unsafe or unsupported filename.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die server het 'n onveilig of ongedekte filenaam teruggekeer."
+  },
+  "The server returned an unsupported directory listing. No transfer was started.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die server het 'n on ondersteunde direktorieliste teruggekeer. Geen transfer is begin nie."
+  },
+  "The shortcut will point to %1$@. The target file itself is not modified.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die kortstel sal aangee dat %1$@Die doelbestand self is nie gewijzig nie."
+  },
+  "The slideshow changes desktop wallpaper while MacFiles is running. It resumes at launch when enabled. macOS controls the lock screen wallpaper separately.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die slideshow verander desktop wallpaper terwyl MacFiles Dit begin weer op die start wanneer dit geopend is. macOS die vergrendeling van die skerm wallpaper gesonder."
+  },
+  "The system script could not be compiled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die skrip van die stelsel kon nie samel word nie."
+  },
+  "The system script could not be created.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die skrip van die stelsel kon nie gemaak word nie."
+  },
+  "The transfer selection changed. Cut the items again.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die vervanging se seleksie verander. Sorteer die items weer."
+  },
+  "The uploaded data did not match its source. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die opgeloste data het nie sy bron aanpas nie. die bron is bewaar."
+  },
+  "The uploaded iCloud copy remains available. macOS will download it again when needed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "die upload iCloud Kopie is beskikbaar. macOS Ek sal dit weer downloadeer wanneer dit nodig is."
+  },
+  "Theme": {
+    "origin": "Files:SettingsAppearanceTheme",
+    "text": "Tema"
+  },
+  "These items will be removed from Trash. This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "text": "Hierdie items sal verwyder word van Trash. Dit kan nie onttrek word nie."
+  },
+  "Third-party providers do not expose a common public sync-completion API. Available locally describes downloaded bytes, not upload completion. Download requests do not pin files permanently.": {
+    "origin": "M2M100-418M-local",
+    "text": "Drie-party providers wys nie 'n gemeenskaplike openbare sync-vervulling API nie. beskikbaar lokal beskryf gedownload byte, nie uploade vervulling nie. Download vrae pin nie bestande permanent nie."
+  },
+  "This FTP server cannot create symbolic links. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hierdie FTP Server kan nie symbolieke links skep nie. die bron is bewaar."
+  },
+  "This Mac": {
+    "origin": "M2M100-418M-local",
+    "text": "Hierdie Mac"
+  },
+  "This alias contains a target cycle.": {
+    "origin": "M2M100-418M-local",
+    "text": "Hierdie alias bevat 'n doelcyklus."
+  },
+  "This archive format is read-only. Extract it and create a ZIP or 7z archive to edit its contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hierdie archiefformaat is lees-on. Ek dit uit en maak 'n ZIP of 7z Archief om sy inhoud te bewerk."
+  },
+  "This archive or server protocol does not expose macOS extended attributes. Extract or download the item to manage attributes on its local copy.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hierdie archief of die serverprotocol wys nie macOS Extended attributes. Ekteer of download die item om attributes op sy plaaslike kopie te beheer."
+  },
+  "This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dit kan nie onttrek word nie."
+  },
+  "This changes the registered folder viewer. Finder still manages the desktop and macOS file dialogs. You can restore the previous viewer here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dit verander die geregistreerde foldervisor. Finder Die werkplek is die desktop en macOS Fildialoge. jy kan die vorige siener hier herstel."
+  },
+  "This changes which users can access the item. Export the existing ACL first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hierdie veranderinge wat gebruikers toegang kan hê tot die item. ACL Eerstens, as jy 'n backup nodig het."
+  },
+  "This folder is empty": {
+    "origin": "Files:EmptyFolder.Text",
+    "text": "Hierdie omslag is leeg."
+  },
+  "This location is not ready for transfers.": {
+    "origin": "M2M100-418M-local",
+    "text": "Hierdie plek is nie gereed vir transfers nie."
+  },
+  "This media format cannot be edited by the native exporter.": {
+    "origin": "M2M100-418M-local",
+    "text": "Hierdie media-formaat kan nie deur die inheemse eksporteur geëdit word nie."
+  },
+  "This metadata container uses indexed keys; edit it with its native media application.": {
+    "origin": "M2M100-418M-local",
+    "text": "Hierdie metadata-container gebruik geïndekteerde sleutels; bewerk dit met sy native media-aanvulling."
+  },
+  "This operation cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "text": "Hierdie operasie kan nie onttrek word nie."
+  },
+  "This removes the attribute from this file. Export its bytes first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "text": "Dit verwyder die attribut van hierdie bestand. Exporteer sy byte eers as jy 'n backup nodig het."
+  },
+  "Thumbnail cache limit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kies die begrensing"
+  },
+  "Thumbnails": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tombloë"
+  },
+  "Thumbnails are cached in memory. The limit applies to decoded images.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thumbnails word in die geheue geskep. Die grens geld vir gedekodeerde beelden."
+  },
+  "Tiles": {
+    "origin": "M2M100-418M-local",
+    "text": "Tils"
+  },
+  "Title": {
+    "origin": "Files:PropertyTitle",
+    "text": "Titel"
+  },
+  "Today": {
+    "origin": "Files:Today",
+    "text": "Vandag"
+  },
+  "Toggle compact overlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "Toggle compact overlay"
+  },
+  "Toggle details pane": {
+    "origin": "M2M100-418M-local",
+    "text": "Sluit die detail, pane"
+  },
+  "Toggle dual pane": {
+    "origin": "M2M100-418M-local",
+    "text": "Die dubbele pane"
+  },
+  "Toggle filter header": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "Wissel filter-kopskrif"
+  },
+  "Toggle full screen": {
+    "origin": "M2M100-418M-local",
+    "text": "Die volle skerm"
+  },
+  "Toggle selection": {
+    "origin": "Files:ToggleSelect",
+    "text": "Toggle selection"
+  },
+  "ToggleCompactOverlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "Toggle compact overlay"
+  },
+  "ToggleFilterHeader": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "Wissel filter-kopskrif"
+  },
+  "ToggleSelect": {
+    "origin": "Files:ToggleSelect",
+    "text": "Toggle selection"
+  },
+  "ToggleSidebar": {
+    "origin": "Files:ToggleSidebar",
+    "text": "Toggle the sidebar"
+  },
+  "ToggleToolbar": {
+    "origin": "Files:ToggleToolbar",
+    "text": "Toggle toolbar"
+  },
+  "Too many nested aliases.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ek het te baie aliaas."
+  },
+  "Tools": {
+    "origin": "M2M100-418M-local",
+    "text": "gereedskap"
+  },
+  "Top": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die top"
+  },
+  "Total size": {
+    "origin": "M2M100-418M-local",
+    "text": "Gesamte grootte"
+  },
+  "Transfer failed": {
+    "origin": "M2M100-418M-local",
+    "text": "Transfer misluk"
+  },
+  "Trash": {
+    "origin": "Files:RecycleBin",
+    "text": "Recycle Bin"
+  },
+  "Trash on this Mac and connected volumes": {
+    "origin": "M2M100-418M-local",
+    "text": "Geskakel op hierdie Mac en verbindte volume"
+  },
+  "Trust": {
+    "origin": "M2M100-418M-local",
+    "text": "Vertroue"
+  },
+  "Trust this SSH server?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vertroue dit SSH Die server?"
+  },
+  "Trust verified fingerprints": {
+    "origin": "M2M100-418M-local",
+    "text": "Vertroueer bevestigde vingerafdrukke"
+  },
+  "Try again": {
+    "origin": "M2M100-418M-local",
+    "text": "Probeer weer"
+  },
+  "Under window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Onder die venster"
+  },
+  "Undo": {
+    "origin": "M2M100-418M-local",
+    "text": "en die"
+  },
+  "Undo file operation": {
+    "origin": "M2M100-418M-local",
+    "text": "Onmiddellik die bestand"
+  },
+  "Undoing": {
+    "origin": "M2M100-418M-local",
+    "text": "Onttreking"
+  },
+  "Unencrypted FTP": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Onskrypte FTP"
+  },
+  "Universal": {
+    "origin": "Files:Universal",
+    "text": "Universeel"
+  },
+  "Unknown": {
+    "origin": "Files:Unknown",
+    "text": "Onbekend"
+  },
+  "Unknown shortcut command.": {
+    "origin": "M2M100-418M-local",
+    "text": "Onbekende kortste bevel."
+  },
+  "Unpin": {
+    "origin": "M2M100-418M-local",
+    "text": "Ongelukkig"
+  },
+  "Unsafe archive link target.": {
+    "origin": "M2M100-418M-local",
+    "text": "Onzekere archiewe link doel."
+  },
+  "Unstage": {
+    "origin": "M2M100-418M-local",
+    "text": "Onstaag"
+  },
+  "Unstaged selected files": {
+    "origin": "M2M100-418M-local",
+    "text": "Die geselekte bestellings"
+  },
+  "Unsupported Git action.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ongedien Git Die aktie."
+  },
+  "Unsupported archive entry name or listing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Onbevoegde archief invoer naam of listing."
+  },
+  "Unsupported file type in transfer.": {
+    "origin": "M2M100-418M-local",
+    "text": "Onbevoegde bestandstype in die transfer."
+  },
+  "Unsupported metadata container version.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ongedien metadata konteinersversie."
+  },
+  "Unsupported movie header.": {
+    "origin": "M2M100-418M-local",
+    "text": "Onbeheersing van die film header."
+  },
+  "Untagged": {
+    "origin": "M2M100-418M-local",
+    "text": "Ontsigbaar"
+  },
+  "Up": {
+    "origin": "Files:Key.Up",
+    "text": "Op (Alt+Oppyltjie)"
+  },
+  "Up one level": {
+    "origin": "M2M100-418M-local",
+    "text": "Die ene vlak"
+  },
+  "Up one level · ⌘↑": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "'n vlak op 'n ⌘↑"
+  },
+  "Updates native macOS tags for all selected items. Leave empty to remove tags.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Aktualisering van die Native macOS tags vir al die geselekte items. laat leeg om tags te verwijder."
+  },
+  "Updating archive": {
+    "origin": "M2M100-418M-local",
+    "text": "Updates van die archief"
+  },
+  "Updating media metadata": {
+    "origin": "M2M100-418M-local",
+    "text": "Metadata van die media"
+  },
+  "Updating permissions": {
+    "origin": "M2M100-418M-local",
+    "text": "Updates van toestemming"
+  },
+  "Upload": {
+    "origin": "M2M100-418M-local",
+    "text": "Verwysing"
+  },
+  "Upload failed. The original remains at %1$@; the pending upload is %2$@. %3$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die oorspronklike is gebly; die oorspronklike is gebly %1$@Die oplaad is %2$@. %3$@"
+  },
+  "Upload files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Uiteindelik die bestellings..."
+  },
+  "Upload regular files or folders; symbolic links are not followed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Uploade van reguliere bestande of mappe; simboliese links word nie gevolg nie."
+  },
+  "Uploading": {
+    "origin": "M2M100-418M-local",
+    "text": "oplaad"
+  },
+  "Upstream Files issues": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Upstream Files probleme"
+  },
+  "Use Copy and Paste or Download to transfer remote items.": {
+    "origin": "M2M100-418M-local",
+    "text": "Gebruik Kopieer en Paste of Download om remote items te dra."
+  },
+  "Use Copy or Extract to transfer archive contents.": {
+    "origin": "M2M100-418M-local",
+    "text": "Gebruik Kopieer of Ekstrak om archiefinhoud te verskaf."
+  },
+  "Use MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gebruik MacFiles"
+  },
+  "Use MacFiles for folder URLs?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gebruik MacFiles Vir die URL?"
+  },
+  "Use MacFiles for folder URLs…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gebruik MacFiles Vir die URL-folder ..."
+  },
+  "User": {
+    "origin": "M2M100-418M-local",
+    "text": "Gebruiker"
+  },
+  "Username": {
+    "origin": "Files:CredentialDialogUserName.PlaceholderText",
+    "text": "Gebruikersnaam"
+  },
+  "Uses SSH keys or the password above. Host-key verification remains enabled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gebruik SSH die sleutel of die wachtwoord hierboven. Host-key verifikasies bly aktiver."
+  },
+  "Uses the on-device Apple Intelligence model when available. Otherwise searches the words you entered. No file content is sent to a server.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gebruik die apparaat Apple Intelligence model wanneer beskikbaar is. Anders soek jy die woorde wat jy ingedeel het. Geen bestandinhoud word na 'n server gestuur nie."
+  },
+  "Value": {
+    "origin": "M2M100-418M-local",
+    "text": "waarde"
+  },
+  "Verified host keys saved for MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gevestigde host sleutels gered vir MacFiles."
+  },
+  "Vertical alignment": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vertikale aanpassing"
+  },
+  "Vertical split": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vertikaal gesplit"
+  },
+  "View": {
+    "origin": "M2M100-418M-local",
+    "text": "Uitzicht"
+  },
+  "Volume": {
+    "origin": "M2M100-418M-local",
+    "text": "Volume"
+  },
+  "Volume available": {
+    "origin": "M2M100-418M-local",
+    "text": "Volume beskikbaar"
+  },
+  "Volume capacity": {
+    "origin": "M2M100-418M-local",
+    "text": "Volume Kapasiteit"
+  },
+  "Volume case sensitive": {
+    "origin": "M2M100-418M-local",
+    "text": "Volume sensitiewe gevalle"
+  },
+  "Volume read only": {
+    "origin": "M2M100-418M-local",
+    "text": "Volume lees net"
+  },
+  "Volumes must be at least 1 KiB.": {
+    "origin": "M2M100-418M-local",
+    "text": "Volume moet ten minste 1 KiB wees."
+  },
+  "Waiting to sync": {
+    "origin": "M2M100-418M-local",
+    "text": "Verwag vir synchronise"
+  },
+  "Wallpaper could not be changed": {
+    "origin": "M2M100-418M-local",
+    "text": "Wallpaper kan nie verander word nie"
+  },
+  "Wallpaper slideshow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Geskakel die slideshow"
+  },
+  "Wallpaper slideshow…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die slideshow..."
+  },
+  "Warn when changing file extensions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Waarschuwing wanneer u bestand uitbreidings verander"
+  },
+  "When an item exists": {
+    "origin": "M2M100-418M-local",
+    "text": "Wanneer 'n item bestaan"
+  },
+  "When names conflict, choose Keep both, Replace, or Skip. Replaced versions and deleted items go to the macOS Trash. Undo and redo are retained across launches and shared by open windows.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Wanneer die name in konflik is, kies Behoud beide, vervang of skip. Vervang versies en verwijder items gaan na die macOS Undo en redo word deur die lanseerings bewaar en gedeel deur oop venster."
+  },
+  "Working…": {
+    "origin": "M2M100-418M-local",
+    "text": "werk..."
+  },
+  "Writable": {
+    "origin": "M2M100-418M-local",
+    "text": "Skryfbaar"
+  },
+  "Writes embedded metadata. Image files may be re-encoded; the original remains recoverable with Undo. Audio and video edits preserve encoded tracks. Unsupported containers keep the original.": {
+    "origin": "M2M100-418M-local",
+    "text": "Skryf ingebedeerde metadata. beeldbestande kan herkodeer word; die oorspronklike bly herstelbaar met Undo. Audio en video bewerkings bewaar gekodeerde tracks. On ondersteunde containers hou die oorspronklike."
+  },
+  "Year": {
+    "origin": "Files:Year",
+    "text": "Jaar"
+  },
+  "Yellow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gele"
+  },
+  "Yes": {
+    "origin": "Files:Yes",
+    "text": "Ja"
+  },
+  "Yesterday": {
+    "origin": "Files:Yesterday",
+    "text": "Gister"
+  },
+  "You can restore these items with Undo or from the Trash.": {
+    "origin": "M2M100-418M-local",
+    "text": "Jy kan hierdie items met Undo of van die Trash herstel."
+  },
+  "Your files, your way.": {
+    "origin": "M2M100-418M-local",
+    "text": "Jou rekenaars, jou pad."
+  },
+  "Your pinned folders": {
+    "origin": "M2M100-418M-local",
+    "text": "Jou geplaasde kaarte"
+  },
+  "Zoom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "die zoom"
+  },
+  "macOS aliases and symbolic links refer to a target path. Windows shortcut arguments and Run as administrator flags do not have alias equivalents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Aliase en simboliese links verwys na 'n doelpad. Windows kortste argumente en Run as administrator vlagge het nie alias ekwaarde nie."
+  },
+  "macOS integration": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Integrasie"
+  },
+  "macOS moved the previous version to Trash but did not return its location. The new version was not installed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS die vorige versie verhuis na Trash, maar het sy plek nie teruggekeer nie."
+  },
+  "macOS returned %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS teruggekeer %1$@."
+  },
+  "macOS uses Mach-O architectures and the application's minimum OS version. Windows compatibility modes, DPI overrides and administrator flags cannot be applied to a native Mac app.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Gebruik Mach-O die architektuur en die minimum OS-versie van die aansoek. Windows Kompatibiliteitsmodus, DPI-overrides en administratoriese vlag nie aan 'n native Mac-app toegepas word nie."
+  }
+}

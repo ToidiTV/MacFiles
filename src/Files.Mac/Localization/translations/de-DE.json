@@ -1,0 +1,4639 @@
+{
+  "%1$@ MB": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ MB"
+  },
+  "%1$@ Trash location(s) could not be read. macOS may require Full Disk Access for Trash. Items listed here remain available to manage.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Die Stellplätze(s) können nicht gelesen werden. macOS Sie benötigen möglicherweise Full Disk Access für Trash. Die hier aufgeführten Elemente bleiben zur Verwaltung verfügbar."
+  },
+  "%1$@ destination name(s) already exist": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Zielname(s) bereits vorhanden"
+  },
+  "%1$@ entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Einträge"
+  },
+  "%1$@ folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Folder"
+  },
+  "%1$@ folders · %2$@ files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Folder · %2$@ Dateien"
+  },
+  "%1$@ folders · saves to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Folders · speichert zu %2$@"
+  },
+  "%1$@ free of %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ frei von %2$@"
+  },
+  "%1$@ inaccessible": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ unzugänglich"
+  },
+  "%1$@ is assigned more than once.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Sie werden mehr als einmal zugewiesen."
+  },
+  "%1$@ is reserved by macOS or the application window.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Sie ist reserviert durch macOS oder das Applikationsfenster."
+  },
+  "%1$@ is reserved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ ist reserviert."
+  },
+  "%1$@ item(s) ready to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ Artikel(s) bereit für %2$@"
+  },
+  "%1$@ selected items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ ausgewählte Gegenstände"
+  },
+  "%1$@. Sync completion is managed by the provider and is not reported through public file metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@Die Sync-Erfüllung wird vom Anbieter verwaltet und wird nicht über öffentliche Dateimethadaten gemeldet."
+  },
+  "A different key is already trusted for this host. Review the changed key with the server administrator before replacing it.": {
+    "origin": "M2M100-418M-local",
+    "text": "Eine andere Schlüssel ist für diesen Host bereits vertraut. Überprüfen Sie den geänderten Schlüssel mit dem Server-Administrator, bevor Sie ihn ersetzen."
+  },
+  "A familiar place for everything.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ein bekannter Ort für alles."
+  },
+  "A file operation is still running": {
+    "origin": "M2M100-418M-local",
+    "text": "Eine Datei-Operation läuft noch"
+  },
+  "A folder cannot be copied or moved inside itself.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ein Ordner kann nicht kopiert oder in sich selbst bewegt werden."
+  },
+  "A shortcut cannot target itself.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ein Schwanz kann sich nicht bewegen."
+  },
+  "ACL updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ACL Aktualisiert ist."
+  },
+  "About": {
+    "origin": "Files:About",
+    "text": "Info"
+  },
+  "About MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Info MacFiles"
+  },
+  "Accent color (hex)": {
+    "origin": "M2M100-418M-local",
+    "text": "Akzente Farbe (hex)"
+  },
+  "Access control list — native macOS syntax": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Zugangskontrolle - Native macOS Syntax"
+  },
+  "Access token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Zugang zu Token"
+  },
+  "Accounts, authentication and sync preferences are managed by each provider’s native app. Removing a saved folder here does not unlink its account or delete files.": {
+    "origin": "M2M100-418M-local",
+    "text": "Konten, Authentifizierung und Synchronisierungsvorstellungen werden von der nativen App jedes Anbieters verwalten.Ein gespeicherter Ordner hier entfernen lässt seinen Konto nicht ablinken oder Dateien löschen."
+  },
+  "Action unavailable": {
+    "origin": "M2M100-418M-local",
+    "text": "Aktion unzugänglich"
+  },
+  "Actions": {
+    "origin": "Files:Actions",
+    "text": "Aktionen"
+  },
+  "Adaptive": {
+    "origin": "Files:Adaptive",
+    "text": "Automatisch das beste Layout auswählen"
+  },
+  "Adaptive layout": {
+    "origin": "Files:Adaptive",
+    "text": "Automatisch das beste Layout auswählen"
+  },
+  "Add": {
+    "origin": "Files:Add",
+    "text": "Hinzufügen"
+  },
+  "Add cloud folder…": {
+    "origin": "M2M100-418M-local",
+    "text": "Cloud Folder hinzufügen."
+  },
+  "Add current selection": {
+    "origin": "M2M100-418M-local",
+    "text": "Aktuelle Auswahl hinzufügen"
+  },
+  "Add files…": {
+    "origin": "M2M100-418M-local",
+    "text": "Datei hinzufügen..."
+  },
+  "Add folder…": {
+    "origin": "M2M100-418M-local",
+    "text": "Folder hinzufügen..."
+  },
+  "Add images…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bilder hinzufügen..."
+  },
+  "Add prefix": {
+    "origin": "M2M100-418M-local",
+    "text": "Prefix hinzufügen"
+  },
+  "Add saved tag": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Add Saved Tag"
+  },
+  "Add selection to shelf": {
+    "origin": "M2M100-418M-local",
+    "text": "Auswahl an Shelf hinzufügen"
+  },
+  "Add startup folders…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup Folder hinzufügen ..."
+  },
+  "Add suffix": {
+    "origin": "M2M100-418M-local",
+    "text": "Soffix hinzufügen"
+  },
+  "Add to library": {
+    "origin": "M2M100-418M-local",
+    "text": "Zu der Bibliothek hinzufügen"
+  },
+  "Add to shelf": {
+    "origin": "Files:AddToShelf",
+    "text": "Zur Ablage hinzufügen"
+  },
+  "Advanced": {
+    "origin": "Files:Advanced",
+    "text": "Erweitert"
+  },
+  "Advanced search": {
+    "origin": "M2M100-418M-local",
+    "text": "Fortgeschrittene Suche"
+  },
+  "Advanced search…": {
+    "origin": "M2M100-418M-local",
+    "text": "Fortgeschrittene Suche..."
+  },
+  "Album": {
+    "origin": "M2M100-418M-local",
+    "text": "Album"
+  },
+  "Allocated size": {
+    "origin": "M2M100-418M-local",
+    "text": "zur Verfügung gestellte Größe"
+  },
+  "Already assigned to %1$@. Remove that assignment first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bereits zugeteilt zu %1$@2. Entfernen Sie diese Aufgabe zuerst."
+  },
+  "Always show operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Immer Operationen zeigen"
+  },
+  "Always visible": {
+    "origin": "Files:AlwaysVisible",
+    "text": "Immer sichtbar"
+  },
+  "Always-visible items are combined with the current selection context. Cloud items add their own controls.": {
+    "origin": "M2M100-418M-local",
+    "text": "Immer sichtbare Elemente werden mit dem aktuellen Auswahlkontext kombiniert. Cloud Elemente fügen ihre eigenen Kontrolle hinzu."
+  },
+  "Ambiguous archive listing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Umfassende Archivliste."
+  },
+  "Ambiguous media metadata containers.": {
+    "origin": "M2M100-418M-local",
+    "text": "Umfassende Media-Meta-Daten Container"
+  },
+  "Any": {
+    "origin": "M2M100-418M-local",
+    "text": "Jeder"
+  },
+  "App language (restart to apply)": {
+    "origin": "M2M100-418M-local",
+    "text": "App-Sprache (auf der Anwendung wieder starten)"
+  },
+  "Appearance": {
+    "origin": "Files:Appearance",
+    "text": "Erscheinungsbild"
+  },
+  "Application": {
+    "origin": "Files:Application",
+    "text": "Anwendung"
+  },
+  "Application unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Anwendung nicht verfügbar"
+  },
+  "Applies owner, group, and other permissions to the selected items only.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die Eigentümer, Gruppe und andere Genehmigungen gelten nur für die ausgewählten Artikel."
+  },
+  "Apply": {
+    "origin": "M2M100-418M-local",
+    "text": "Anwendung"
+  },
+  "Apply ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Anwendung ACL…"
+  },
+  "Apply UID %1$@ and GID %2$@ to this item only.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Anwendung UID %1$@ und GID %2$@ Nur für diesen Punkt."
+  },
+  "Apply attributes": {
+    "origin": "M2M100-418M-local",
+    "text": "Anwendung von Attributen"
+  },
+  "Apply file permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Erlaubnis für Datei anwenden"
+  },
+  "Apply owner/group…": {
+    "origin": "M2M100-418M-local",
+    "text": "Anmelde Eigentümer/Gruppe ..."
+  },
+  "Approve MacFiles in Login Items in System Settings.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Genehmigung MacFiles in Login-Elemente in Systeminstellungen."
+  },
+  "Archive": {
+    "origin": "Files:Archive",
+    "text": "Archiv"
+  },
+  "Archive attempts to write through a link or file: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive versucht, über einen Link oder Datei zu schreiben: %1$@"
+  },
+  "Archive contains an unsafe path: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Das Archiv enthält einen unsicheren Weg: %1$@"
+  },
+  "Archive contains an unsafe symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Das Archiv enthält einen unsicheren symbolischen Link."
+  },
+  "Archive editing cannot traverse symbolic links.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die Archive-Editing kann keine symbolischen Links durchlaufen."
+  },
+  "Archive link escapes its destination.": {
+    "origin": "M2M100-418M-local",
+    "text": "Archive Link entlässt seinen Ziel."
+  },
+  "Archive link target is too long.": {
+    "origin": "M2M100-418M-local",
+    "text": "Der Archive Link-Ziel ist zu lang."
+  },
+  "Archive operation failed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die Archivfunktion erfolgte nicht."
+  },
+  "Archive password (if needed)": {
+    "origin": "M2M100-418M-local",
+    "text": "Archiv Passwort (wenn nötig)"
+  },
+  "Archive password (leave blank if unencrypted)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archiv Passwort (leicht blank, wenn nicht verschlüsselt)"
+  },
+  "Archive passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive-Passwörter können keine Linienbrechen enthalten oder NUL Die Charaktere ."
+  },
+  "Archive path escapes the destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive Path entfließt den Ziel: %1$@"
+  },
+  "Archive root": {
+    "origin": "M2M100-418M-local",
+    "text": "Archive für Root"
+  },
+  "Archive symbolic link escapes the destination.": {
+    "origin": "M2M100-418M-local",
+    "text": "Archive symbolische Link entflieht den Ziel."
+  },
+  "Arrange panes side by side": {
+    "origin": "M2M100-418M-local",
+    "text": "Panen auf Seite zu Seite arrangieren"
+  },
+  "Arrange panes top and bottom": {
+    "origin": "M2M100-418M-local",
+    "text": "Ordnen Sie Panels oben und unten"
+  },
+  "Artist": {
+    "origin": "Files:Artist",
+    "text": "Künstler"
+  },
+  "Artist / author": {
+    "origin": "M2M100-418M-local",
+    "text": "Künstler / Autor"
+  },
+  "Ascending": {
+    "origin": "Files:Ascending",
+    "text": "Aufsteigend"
+  },
+  "Attribute name": {
+    "origin": "M2M100-418M-local",
+    "text": "Attribute Name"
+  },
+  "Attributes": {
+    "origin": "Files:Attributes",
+    "text": "Attribute"
+  },
+  "Attributes updated.": {
+    "origin": "M2M100-418M-local",
+    "text": "Attribute aktualisiert."
+  },
+  "Auto-fit columns": {
+    "origin": "Files:AutoFitColumns",
+    "text": "Spalten automatisch anpassen"
+  },
+  "AutoFitColumns": {
+    "origin": "Files:AutoFitColumns",
+    "text": "Spalten automatisch anpassen"
+  },
+  "Available locally": {
+    "origin": "M2M100-418M-local",
+    "text": "lokalerweise verfügbar"
+  },
+  "Back": {
+    "origin": "Files:Back",
+    "text": "Zurück"
+  },
+  "Back · ⌘[": {
+    "origin": "Files:Back",
+    "text": "Zurück · ⌘["
+  },
+  "Backdrop material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hintergrundmaterial"
+  },
+  "Backdrop materials use macOS visual effects. Standard system controls and monospaced content retain their system fonts.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hintergrundmaterialien verwenden macOS Standard-System-Kontrolle und monospaced-Inhalte behalten ihre System-Schriftzeichen."
+  },
+  "Background": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hintergrund"
+  },
+  "Background color (blank = system)": {
+    "origin": "M2M100-418M-local",
+    "text": "Hintergrundfarbe (weiß = System)"
+  },
+  "Background image": {
+    "origin": "Files:BackgroundImage",
+    "text": "Hintergrundbild"
+  },
+  "Background image and status": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hintergrundbild und Status"
+  },
+  "Background image opacity": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hintergrundbild Opacity"
+  },
+  "Background mode keeps the menu bar icon available so you can reopen MacFiles or quit it.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hintergrundmodus hält die Menübar-Ikon zur Verfügung, so dass Sie erneut öffnen können MacFiles Oder aufhören."
+  },
+  "Background preset": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hintergrund präsentiert"
+  },
+  "Base": {
+    "origin": "M2M100-418M-local",
+    "text": "Basis"
+  },
+  "Base64": {
+    "origin": "M2M100-418M-local",
+    "text": "Basis64"
+  },
+  "Based on the Files Community explorer’s shell, MVVM, command, and storage architecture. Built with Swift, AppKit, and SwiftUI.": {
+    "origin": "M2M100-418M-local",
+    "text": "Basierend auf dem Files Community Explorer Shell, MVVM, Command und Speicherarchitektur. mit Swift, AppKit und SwiftUI gebaut."
+  },
+  "Binary": {
+    "origin": "Files:Binary",
+    "text": "Binär"
+  },
+  "Blue": {
+    "origin": "Files:Blue",
+    "text": "Blau"
+  },
+  "Bottom": {
+    "origin": "Files:Bottom",
+    "text": "Unten"
+  },
+  "Browse all tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse alle tags"
+  },
+  "Browse archive": {
+    "origin": "M2M100-418M-local",
+    "text": "Browse Archiv"
+  },
+  "Browse archive…": {
+    "origin": "M2M100-418M-local",
+    "text": "Browse Archiv..."
+  },
+  "Browse tagged items…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse tagged items..."
+  },
+  "Browsing": {
+    "origin": "M2M100-418M-local",
+    "text": "Browsing"
+  },
+  "Browsing interactions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browsing Interaktionen"
+  },
+  "Bulk rename": {
+    "origin": "Files:BulkRename",
+    "text": "Massenhafte Umbenennung"
+  },
+  "Bulk rename requires items from one folder.": {
+    "origin": "M2M100-418M-local",
+    "text": "Der Bulk-Rename erfordert Elemente aus einem Ordner."
+  },
+  "Bulk rename…": {
+    "origin": "Files:BulkRename",
+    "text": "Massenhafte Umbenennung"
+  },
+  "Bytes": {
+    "origin": "M2M100-418M-local",
+    "text": "Bytes"
+  },
+  "Cache thumbnails": {
+    "origin": "Files:CacheThumbnails",
+    "text": "Miniaturansichten zwischenspeichern"
+  },
+  "Calculate combined size": {
+    "origin": "M2M100-418M-local",
+    "text": "Berechnen Sie die kombinierte Größe"
+  },
+  "Calculate folder size": {
+    "origin": "M2M100-418M-local",
+    "text": "Berechnen Sie die Foldergröße"
+  },
+  "Calculate folder sizes": {
+    "origin": "Files:CalculateFolderSizes",
+    "text": "Ordnergrößen berechnen"
+  },
+  "Calculate hashes…": {
+    "origin": "M2M100-418M-local",
+    "text": "Die Hashes zu berechnen..."
+  },
+  "Calculate total size": {
+    "origin": "M2M100-418M-local",
+    "text": "Gesamtgröße berechnen"
+  },
+  "Calculating hashes…": {
+    "origin": "M2M100-418M-local",
+    "text": "Die Berechnung von Hash..."
+  },
+  "Camouflage": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Camouflage"
+  },
+  "Cancel": {
+    "origin": "Files:Cancel",
+    "text": "Abbrechen"
+  },
+  "Cancel calculation": {
+    "origin": "M2M100-418M-local",
+    "text": "Berechnung annullieren"
+  },
+  "Cancel operation": {
+    "origin": "M2M100-418M-local",
+    "text": "Operation abgeschafft"
+  },
+  "Cancel queued operation": {
+    "origin": "M2M100-418M-local",
+    "text": "Beendigung der Operation Queued"
+  },
+  "Cancelled": {
+    "origin": "M2M100-418M-local",
+    "text": "Widerrufen"
+  },
+  "Cancelled before starting.": {
+    "origin": "M2M100-418M-local",
+    "text": "Widerrufen vor Beginn."
+  },
+  "Cancelled before starting. No files were changed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Widerrufen vor Beginn: Keine Dateien wurden geändert."
+  },
+  "Cancelling the current operation…": {
+    "origin": "M2M100-418M-local",
+    "text": "Die derzeitige Operation zu widerrufen..."
+  },
+  "Cannot allocate archive entry.": {
+    "origin": "M2M100-418M-local",
+    "text": "Es ist nicht möglich, Archivzugang zu erteilen."
+  },
+  "Cannot allocate archive reader.": {
+    "origin": "M2M100-418M-local",
+    "text": "Sie können keine Archive-Reader erteilen."
+  },
+  "Cannot allocate archive writer.": {
+    "origin": "M2M100-418M-local",
+    "text": "Archivschriftsteller nicht zu erteilen."
+  },
+  "Cannot archive special device: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sie können keine speziellen Geräte archivieren: %1$@"
+  },
+  "Cannot create archive entry: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Es ist nicht möglich, einen Archivzugang zu erstellen: %1$@"
+  },
+  "Cannot create subprocess output file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Es ist nicht möglich, Subprozess-Ausgangsdateien zu erstellen."
+  },
+  "Cannot decode image.": {
+    "origin": "M2M100-418M-local",
+    "text": "Bild kann nicht verschlüsselt werden."
+  },
+  "Cannot prepare SSH authentication.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "nicht vorbereitet SSH die Authentifizierung."
+  },
+  "Cannot prepare command input.": {
+    "origin": "M2M100-418M-local",
+    "text": "Sie können keine Befehlinträge vorbereiten."
+  },
+  "Cannot read %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "nicht gelesen %1$@"
+  },
+  "Cannot read image metadata.": {
+    "origin": "M2M100-418M-local",
+    "text": "Man kann keine Metadaten des Bildes lesen."
+  },
+  "Cannot remove the archive root.": {
+    "origin": "M2M100-418M-local",
+    "text": "Es ist nicht möglich, den Archivwurzel zu entfernen."
+  },
+  "Cannot rename the archive root.": {
+    "origin": "M2M100-418M-local",
+    "text": "Es ist nicht möglich, den Archivwurzel neu zu nennen."
+  },
+  "Cannot restore archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Keine Erholung von Hard Link."
+  },
+  "Cannot rotate image.": {
+    "origin": "M2M100-418M-local",
+    "text": "Das Bild kann nicht rotieren."
+  },
+  "Center": {
+    "origin": "Files:Center",
+    "text": "Mittig"
+  },
+  "Change file extension?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Änderung der Datei Erweiterung?"
+  },
+  "Change ownership?": {
+    "origin": "M2M100-418M-local",
+    "text": "Änderung des Eigentums?"
+  },
+  "Change provider app…": {
+    "origin": "M2M100-418M-local",
+    "text": "Veränderung der App..."
+  },
+  "Change the shortcut target?": {
+    "origin": "M2M100-418M-local",
+    "text": "Ändern Sie das Kurzzeitraum?"
+  },
+  "Changes": {
+    "origin": "M2M100-418M-local",
+    "text": "Veränderungen"
+  },
+  "Changing the extension may prevent the file from opening in its usual application.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die Änderung der Erweiterung kann verhindern, dass die Datei in ihrer üblichen Anwendung geöffnet wird."
+  },
+  "Choose IDE…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Wählen Sie hier..."
+  },
+  "Choose a destination to restore": {
+    "origin": "M2M100-418M-local",
+    "text": "Wählen Sie ein Ziel zur Wiederherstellung"
+  },
+  "Choose a file to calculate hashes.": {
+    "origin": "M2M100-418M-local",
+    "text": "Wählen Sie eine Datei, um Hashes zu berechnen."
+  },
+  "Choose a new destination and a repository URL.": {
+    "origin": "M2M100-418M-local",
+    "text": "Wählen Sie eine neue Ziele und eine URL-Rahmen."
+  },
+  "Choose a regular cloud file to download.": {
+    "origin": "M2M100-418M-local",
+    "text": "Wählen Sie eine regelmäßige Cloud-Datei zum Download."
+  },
+  "Choose a single file or folder to customize its icon.": {
+    "origin": "M2M100-418M-local",
+    "text": "Wählen Sie eine einzige Datei oder Ordner, um die Ikon zu personalisieren."
+  },
+  "Choose a supported single-frame image (JPEG, PNG, TIFF or HEIC).": {
+    "origin": "M2M100-418M-local",
+    "text": "Wählen Sie ein unterstütztes Single-Frame-Bild (JPEG, PNG, TIFF oder HEIC)."
+  },
+  "Choose a template file": {
+    "origin": "M2M100-418M-local",
+    "text": "Wählen Sie eine Template-Datei"
+  },
+  "Choose custom icon…": {
+    "origin": "M2M100-418M-local",
+    "text": "Wählen Sie die Icon..."
+  },
+  "Choose folder…": {
+    "origin": "M2M100-418M-local",
+    "text": "Wählen Sie die Folder..."
+  },
+  "Choose one item to edit ownership or ACLs.": {
+    "origin": "M2M100-418M-local",
+    "text": "Wählen Sie ein Element, um Eigentum oder ACLs zu bearbeiten."
+  },
+  "Choose one item to view extended attributes.": {
+    "origin": "M2M100-418M-local",
+    "text": "Wählen Sie ein Element, um erweiterte Attribute anzuzeigen."
+  },
+  "Choose provider app…": {
+    "origin": "M2M100-418M-local",
+    "text": "Wählen Sie die App Provider..."
+  },
+  "Clear": {
+    "origin": "Files:Key.Clear",
+    "text": "Leeren"
+  },
+  "Clear finished": {
+    "origin": "M2M100-418M-local",
+    "text": "Klar fertig"
+  },
+  "Clear selection": {
+    "origin": "Files:ClearSelection",
+    "text": "Auswahl aufheben"
+  },
+  "Clear thumbnail cache": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Klares Mini-Cache"
+  },
+  "Clone": {
+    "origin": "Files:Clone",
+    "text": "Klonen"
+  },
+  "Clone repository": {
+    "origin": "M2M100-418M-local",
+    "text": "Clone Repository"
+  },
+  "Clone…": {
+    "origin": "Files:Clone",
+    "text": "Klonen"
+  },
+  "Close": {
+    "origin": "Files:Close",
+    "text": "Schließen"
+  },
+  "Close details": {
+    "origin": "M2M100-418M-local",
+    "text": "Nähe Details"
+  },
+  "Close other tabs": {
+    "origin": "Files:CloseOtherTabs",
+    "text": "Andere Tabs schließen"
+  },
+  "Close tab": {
+    "origin": "Files:CloseTab",
+    "text": "Tab schließen"
+  },
+  "Close tabs to the left": {
+    "origin": "Files:CloseTabsToTheLeft",
+    "text": "Tabs links schließen"
+  },
+  "Close tabs to the right": {
+    "origin": "Files:CloseTabsToTheRight",
+    "text": "Tabs rechts schließen"
+  },
+  "Close window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nächstes Fenster"
+  },
+  "Cloud": {
+    "origin": "M2M100-418M-local",
+    "text": "und Cloud"
+  },
+  "Cloud accounts": {
+    "origin": "M2M100-418M-local",
+    "text": "Cloud Konten"
+  },
+  "Cloud accounts and folders": {
+    "origin": "M2M100-418M-local",
+    "text": "Cloud-Konten und Ordner"
+  },
+  "Cloud availability and synchronization": {
+    "origin": "M2M100-418M-local",
+    "text": "Cloud Verfügbarkeit und Synchronisierung"
+  },
+  "Cloud folder name": {
+    "origin": "M2M100-418M-local",
+    "text": "Cloud Folder Name"
+  },
+  "Cloud items": {
+    "origin": "M2M100-418M-local",
+    "text": "Cloud Gegenstände"
+  },
+  "Cloud provider": {
+    "origin": "M2M100-418M-local",
+    "text": "Cloud-Anbieter"
+  },
+  "Cloud providers installed on this Mac appear in the sidebar through their native File Provider folders.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud-Providers, die auf diesem Mac installiert sind, erscheinen in der Seitenkarte über ihre Heimat File Provider Ordner"
+  },
+  "Cloud status": {
+    "origin": "M2M100-418M-local",
+    "text": "Cloud Status"
+  },
+  "Cloud status…": {
+    "origin": "M2M100-418M-local",
+    "text": "Der Cloud Status..."
+  },
+  "Cloud storage": {
+    "origin": "M2M100-418M-local",
+    "text": "Cloud Lagerung"
+  },
+  "Collapse folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Verfall der Folder"
+  },
+  "Collapsed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "kollapsen"
+  },
+  "Collect file references from different folders, then copy or move them together.": {
+    "origin": "M2M100-418M-local",
+    "text": "Sammeln Sie Dateireferenzen aus verschiedenen Ordnern, kopieren oder übertragen sie dann zusammen."
+  },
+  "Columns": {
+    "origin": "Files:Columns",
+    "text": "Spalten"
+  },
+  "Columns layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Columns Layout"
+  },
+  "Command": {
+    "origin": "M2M100-418M-local",
+    "text": "Befehl"
+  },
+  "Command output exceeded 16 MiB; no truncated result was accepted.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die Befehlleistung überschreitete 16 MiB; kein trunked Ergebnis wurde akzeptiert."
+  },
+  "Command palette": {
+    "origin": "Files:CommandPalette",
+    "text": "Befehlspalette"
+  },
+  "Command palette…": {
+    "origin": "Files:CommandPalette",
+    "text": "Befehlspalette"
+  },
+  "Commit created": {
+    "origin": "M2M100-418M-local",
+    "text": "Kompromiss geschaffen"
+  },
+  "Commit message": {
+    "origin": "Files:CommitMessage",
+    "text": "Commit-Nachricht"
+  },
+  "Commit staged": {
+    "origin": "M2M100-418M-local",
+    "text": "Kompromiss Stage"
+  },
+  "Compact file rows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Compact Datei Röhren"
+  },
+  "Compare these SHA-256 fingerprints with your server administrator before trusting %1$@:%2$@.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vergleichen Sie diese SHA-256 Fingerabdruck mit Ihrem Server-Administrator, bevor Sie vertrauen %1$@:%2$@.\n\n"
+  },
+  "Compatibility": {
+    "origin": "Files:Compatibility",
+    "text": "Kompatibilität"
+  },
+  "Completed": {
+    "origin": "M2M100-418M-local",
+    "text": "abgeschlossen"
+  },
+  "Completed with errors": {
+    "origin": "M2M100-418M-local",
+    "text": "mit Fehlern gefüllt"
+  },
+  "Compress": {
+    "origin": "Files:Compress",
+    "text": "Komprimieren"
+  },
+  "CompressIntoSevenZip": {
+    "origin": "Files:CompressIntoSevenZip",
+    "text": "7z-Archiv erstellen"
+  },
+  "CompressIntoZip": {
+    "origin": "Files:CompressIntoZip",
+    "text": "ZIP-Archiv erstellen"
+  },
+  "Compressed movie headers require remuxing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Komprimierte Filmheader erfordern Remusierung."
+  },
+  "Compressing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Komprimieren"
+  },
+  "Compress…": {
+    "origin": "Files:Compress",
+    "text": "Komprimieren"
+  },
+  "Confirm moving files to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bestätigen Sie, dass Sie Dateien zum Trash bewegen"
+  },
+  "Confirmations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bestätigungen"
+  },
+  "Conflicts": {
+    "origin": "M2M100-418M-local",
+    "text": "Konflikte"
+  },
+  "Connect": {
+    "origin": "M2M100-418M-local",
+    "text": "verbinden"
+  },
+  "Connect to server": {
+    "origin": "M2M100-418M-local",
+    "text": "Verbindung zum Server"
+  },
+  "Connect to server…": {
+    "origin": "M2M100-418M-local",
+    "text": "Anschluss an den Server..."
+  },
+  "Connect to the server first.": {
+    "origin": "M2M100-418M-local",
+    "text": "Zunächst mit dem Server verbinden."
+  },
+  "Connected folder": {
+    "origin": "M2M100-418M-local",
+    "text": "verbundene Folder"
+  },
+  "Connected to this Mac": {
+    "origin": "M2M100-418M-local",
+    "text": "mit diesem Mac verbunden"
+  },
+  "Contains UTF-8 text": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Inhalte UTF-8 Text"
+  },
+  "Content search includes text, PDF, Office and OpenDocument files. Unsupported, locked and online-only files are counted as skipped.": {
+    "origin": "M2M100-418M-local",
+    "text": "Inhaltssuche beinhaltet Text, PDF, Office und OpenDocument-Dateien.Ununterstützte, geschlossene und nur online-Dateien werden als verschoben berechnet."
+  },
+  "Content type": {
+    "origin": "M2M100-418M-local",
+    "text": "Inhaltstyp"
+  },
+  "Contents": {
+    "origin": "M2M100-418M-local",
+    "text": "Inhalte"
+  },
+  "Context": {
+    "origin": "M2M100-418M-local",
+    "text": "Kontext"
+  },
+  "Context menu": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kontextmenü"
+  },
+  "Copy": {
+    "origin": "Files:Copy",
+    "text": "Kopieren"
+  },
+  "Copy app version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kopieren von App Version"
+  },
+  "Copy hashes": {
+    "origin": "M2M100-418M-local",
+    "text": "Kopieren von Hashes"
+  },
+  "Copy here": {
+    "origin": "M2M100-418M-local",
+    "text": "Kopieren hier"
+  },
+  "Copy macOS version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Kopieren macOS Version"
+  },
+  "Copy path": {
+    "origin": "Files:CopyPath",
+    "text": "Pfad kopieren"
+  },
+  "Copy report": {
+    "origin": "M2M100-418M-local",
+    "text": "Kopie des Berichts"
+  },
+  "Copy selected": {
+    "origin": "M2M100-418M-local",
+    "text": "Kopie ausgewählt"
+  },
+  "CopyItemPathWithQuotes": {
+    "origin": "Files:CopyItemPathWithQuotes",
+    "text": "Ausgewählten Elementpfad mit Anführungszeichen kopieren"
+  },
+  "CopyPathDescription": {
+    "origin": "Files:CopyPathDescription",
+    "text": "Pfad des aktuellen Ordners kopieren"
+  },
+  "CopyPathWithQuotes": {
+    "origin": "Files:CopyPathWithQuotes",
+    "text": "Pfad mit Anführungszeichen kopieren"
+  },
+  "Copying": {
+    "origin": "M2M100-418M-local",
+    "text": "Kopieren"
+  },
+  "Copying archive entries": {
+    "origin": "M2M100-418M-local",
+    "text": "Kopieren von Archiv-Entraten"
+  },
+  "Copying files": {
+    "origin": "M2M100-418M-local",
+    "text": "Kopieren von Dateien"
+  },
+  "Copyright": {
+    "origin": "Files:PropertyCopyright",
+    "text": "Urheberrecht"
+  },
+  "Could not find an available filename.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sie konnten keinen verfügbaren Filennamen finden."
+  },
+  "Could not prepare archive contents.": {
+    "origin": "M2M100-418M-local",
+    "text": "Sie könnten keine Archivkonten vorbereiten."
+  },
+  "Could not remove GitHub credentials from Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub-Kreditationen können nicht entfernt werden Keychain."
+  },
+  "Could not save GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub-Kreditationen können nicht gespeichert werden Keychain."
+  },
+  "Could not save the edited image; the original was kept.": {
+    "origin": "M2M100-418M-local",
+    "text": "Das geänderte Bild konnte nicht gespeichert werden; das Original wurde beibehalten."
+  },
+  "Could not save the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sie können das Passwort nicht in Keychain (%1$@)."
+  },
+  "Could not update GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub-Kreditationen können nicht aktualisiert werden Keychain."
+  },
+  "Could not update the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Das Passwort kann nicht aktualisiert werden Keychain (%1$@)."
+  },
+  "Couldn’t change the folder viewer": {
+    "origin": "M2M100-418M-local",
+    "text": "Der Folder Viewer kann nicht geändert werden"
+  },
+  "Couldn’t eject volume": {
+    "origin": "M2M100-418M-local",
+    "text": "Volumen kann nicht ausgegeben werden"
+  },
+  "Couldn’t open files": {
+    "origin": "M2M100-418M-local",
+    "text": "Sie könnten keine Dateien öffnen"
+  },
+  "Couldn’t open folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Folder kann nicht geöffnet werden"
+  },
+  "Couldn’t open this file": {
+    "origin": "M2M100-418M-local",
+    "text": "Ich konnte diese Datei nicht öffnen"
+  },
+  "Couldn’t open this location": {
+    "origin": "M2M100-418M-local",
+    "text": "Ich konnte diese Lage nicht öffnen"
+  },
+  "Couldn’t resolve alias": {
+    "origin": "M2M100-418M-local",
+    "text": "Alias kann man nicht lösen"
+  },
+  "Couldn’t restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "kann nicht neu gestartet werden MacFiles"
+  },
+  "Create": {
+    "origin": "Files:Create",
+    "text": "Erstellen"
+  },
+  "Create a GitHub token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Erstellen eines GitHub-Tokens"
+  },
+  "Create alias": {
+    "origin": "M2M100-418M-local",
+    "text": "Erstellen von Alias"
+  },
+  "Create archive": {
+    "origin": "Files:CreateArchive",
+    "text": "Archiv erstellen"
+  },
+  "Create library…": {
+    "origin": "Files:FolderWidgetCreateNewLibraryDialogTitleText",
+    "text": "Bibliothek erstellen"
+  },
+  "Create shortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "Verknüpfung erstellen"
+  },
+  "Create zip archive": {
+    "origin": "Files:CompressIntoZip",
+    "text": "ZIP-Archiv erstellen"
+  },
+  "CreateFolderWithSelection": {
+    "origin": "Files:CreateFolderWithSelection",
+    "text": "Ordner mit Auswahl erstellen"
+  },
+  "CreateShortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "Verknüpfung erstellen"
+  },
+  "CreateShortcutFromDialogDescription": {
+    "origin": "Files:CreateShortcutFromDialogDescription",
+    "text": "Neue Verknüpfung zu beliebigem Element erstellen"
+  },
+  "Created": {
+    "origin": "Files:PropertiesCreated.Text",
+    "text": "Erstellt:"
+  },
+  "Creating alias": {
+    "origin": "M2M100-418M-local",
+    "text": "Erstellen von Alias"
+  },
+  "Creating from template": {
+    "origin": "M2M100-418M-local",
+    "text": "Schöpfung aus dem Template"
+  },
+  "Custom": {
+    "origin": "Files:Custom",
+    "text": "Benutzerdefiniert"
+  },
+  "Custom icon applied.": {
+    "origin": "M2M100-418M-local",
+    "text": "Custom Icon angewandt."
+  },
+  "Custom tag color (hex, optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Anpassung von Tagfarben (hex, optionale)"
+  },
+  "Custom theme": {
+    "origin": "M2M100-418M-local",
+    "text": "Personalisiertes Thema"
+  },
+  "Customization": {
+    "origin": "Files:Customization",
+    "text": "Anpassen"
+  },
+  "Customize toolbar": {
+    "origin": "Files:CustomizeToolbar",
+    "text": "Werkzeugleiste anpassen"
+  },
+  "Customize toolbar…": {
+    "origin": "Files:CustomizeToolbar",
+    "text": "Werkzeugleiste anpassen"
+  },
+  "Cut": {
+    "origin": "Files:Cut",
+    "text": "Ausschneiden"
+  },
+  "Dark": {
+    "origin": "Files:DarkTheme",
+    "text": "Dunkel"
+  },
+  "Date created": {
+    "origin": "Files:DateCreated",
+    "text": "Erstelldatum"
+  },
+  "Date deleted": {
+    "origin": "Files:DateDeleted",
+    "text": "Löschdatum"
+  },
+  "Date format": {
+    "origin": "Files:DateFormat",
+    "text": "Datumsformat"
+  },
+  "Date modified": {
+    "origin": "Files:DateModifiedLowerCase",
+    "text": "Änderungsdatum"
+  },
+  "Day": {
+    "origin": "Files:Day",
+    "text": "Tag"
+  },
+  "Decimal": {
+    "origin": "Files:Decimal",
+    "text": "Dezimal"
+  },
+  "Decrease size": {
+    "origin": "Files:DecreaseSize",
+    "text": "Größe verringern"
+  },
+  "Default": {
+    "origin": "Files:Default",
+    "text": "Standard"
+  },
+  "Default folder layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Default Folder Layout"
+  },
+  "Default grouping": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Defizite Gruppierung"
+  },
+  "Default save location": {
+    "origin": "M2M100-418M-local",
+    "text": "Default Speichern von Standort"
+  },
+  "Default sorting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Default Sortierung"
+  },
+  "Delete": {
+    "origin": "Files:Delete",
+    "text": "Löschen"
+  },
+  "Delete permanently": {
+    "origin": "Files:DeletePermanently",
+    "text": "Unwiderruflich löschen"
+  },
+  "Delete saved tag and remove it from indexed files?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Löschen Sie das gespeicherte Tag und entfernen Sie es aus indexierten Dateien?"
+  },
+  "Delete selected permanently…": {
+    "origin": "M2M100-418M-local",
+    "text": "Löschen Sie ausgewählte permanent ..."
+  },
+  "Deleting permanently": {
+    "origin": "M2M100-418M-local",
+    "text": "Ständig löschen"
+  },
+  "Description": {
+    "origin": "M2M100-418M-local",
+    "text": "Beschreibung"
+  },
+  "Desktop": {
+    "origin": "M2M100-418M-local",
+    "text": "Desktop"
+  },
+  "Destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Der Destination: %1$@"
+  },
+  "Detached HEAD": {
+    "origin": "M2M100-418M-local",
+    "text": "Abgeschlossenes Kopf"
+  },
+  "Details": {
+    "origin": "M2M100-418M-local",
+    "text": "Details"
+  },
+  "Details layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Details Layout"
+  },
+  "Details pane": {
+    "origin": "M2M100-418M-local",
+    "text": "Details Herr"
+  },
+  "Developer tools": {
+    "origin": "Files:DevTools",
+    "text": "Entwicklerwerkzeuge"
+  },
+  "Development": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Entwicklung"
+  },
+  "Diagnostics": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Diagnose"
+  },
+  "Diagnostics opened": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Diagnose geöffnet"
+  },
+  "Disconnect": {
+    "origin": "M2M100-418M-local",
+    "text": "Diskonnect"
+  },
+  "Documents": {
+    "origin": "Files:Documents",
+    "text": "Dokumente"
+  },
+  "Done": {
+    "origin": "Files:Close",
+    "text": "Schließen"
+  },
+  "Double-click empty space to go up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Doppelklick leer Raum zu gehen"
+  },
+  "Download": {
+    "origin": "M2M100-418M-local",
+    "text": "Downloaden"
+  },
+  "Download files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Download Dateien..."
+  },
+  "Download here": {
+    "origin": "M2M100-418M-local",
+    "text": "Hier herunterladen"
+  },
+  "Download requested. iCloud may complete it asynchronously.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Download gebeten wird. iCloud Sie können es asynchronisch abschließen."
+  },
+  "Downloaded": {
+    "origin": "M2M100-418M-local",
+    "text": "Downloaden"
+  },
+  "Downloading": {
+    "origin": "M2M100-418M-local",
+    "text": "Downloaden"
+  },
+  "Downloads": {
+    "origin": "M2M100-418M-local",
+    "text": "Downloads"
+  },
+  "Drives": {
+    "origin": "Files:Drives",
+    "text": "Laufwerke"
+  },
+  "Dual pane": {
+    "origin": "Files:DualPaneCategory",
+    "text": "Geteilte Ansicht"
+  },
+  "Duplicate": {
+    "origin": "M2M100-418M-local",
+    "text": "Duplikate"
+  },
+  "Duplicate archive paths cannot be extracted safely.": {
+    "origin": "M2M100-418M-local",
+    "text": "Duplikate Archivwege können nicht sicher extrahiert werden."
+  },
+  "Duplicate tab": {
+    "origin": "Files:DuplicateTab",
+    "text": "Tab duplizieren"
+  },
+  "Edit": {
+    "origin": "Files:Edit",
+    "text": "Bearbeiten"
+  },
+  "Edit POSIX permissions for selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bearbeiten POSIX Erlaubnis für die Auswahl"
+  },
+  "Edit address · ⌘L": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Adresse Edit ⌘L"
+  },
+  "Edit archive": {
+    "origin": "M2M100-418M-local",
+    "text": "Edit Archiv"
+  },
+  "Edit in TextEdit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit in TextEdit"
+  },
+  "Edit media metadata": {
+    "origin": "M2M100-418M-local",
+    "text": "Verarbeitung von Media Metadata"
+  },
+  "Edit media metadata…": {
+    "origin": "M2M100-418M-local",
+    "text": "Veröffentlichung von Media Metadata..."
+  },
+  "Edit or import the settings document, then Apply to validate and save. Language changes require a restart.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bearbeiten oder importieren Sie das Setup-Dokument, dann Anmelden Sie, um zu validieren und speichern. Sprachenänderungen erfordern eine Wiederstart."
+  },
+  "Edit permissions on the link's target instead.": {
+    "origin": "M2M100-418M-local",
+    "text": "Bearbeiten Sie die Genehmigungen auf dem Ziel des Links stattdessen."
+  },
+  "Edit settings file…": {
+    "origin": "Files:EditSettingsFile",
+    "text": "Einstellungs-Datei bearbeiten"
+  },
+  "Edit tags": {
+    "origin": "Files:EditTags",
+    "text": "Tags bearbeiten"
+  },
+  "Edit tags…": {
+    "origin": "Files:EditTags",
+    "text": "Tags bearbeiten"
+  },
+  "Edit the archive target instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Bearbeiten Sie das Archivziel anstelle eines symbolischen Links."
+  },
+  "Edit the target's attributes instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Bearbeiten Sie die Attribute des Ziels anstelle eines symbolischen Links."
+  },
+  "Edits apply to this item only. Ownership changes require existing system permission; MacFiles does not elevate itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Änderungen des Eigentums erfordern bestehende Systemerlaubnis; MacFiles Er erhöht sich nicht."
+  },
+  "Eject": {
+    "origin": "Files:Eject",
+    "text": "Auswerfen"
+  },
+  "Empty": {
+    "origin": "M2M100-418M-local",
+    "text": "Leere"
+  },
+  "Empty accessible Trash…": {
+    "origin": "M2M100-418M-local",
+    "text": "Feuer zugänglich Trash ..."
+  },
+  "Empty archive entry.": {
+    "origin": "M2M100-418M-local",
+    "text": "Feuer archiviertes Eingang."
+  },
+  "Encoding": {
+    "origin": "Files:Encoding",
+    "text": "Kodierung"
+  },
+  "Encrypted": {
+    "origin": "M2M100-418M-local",
+    "text": "verschlüsselt"
+  },
+  "Enter a GitHub username and a valid access token.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Geben Sie ein GitHub-Name und einen gültigen Zugriffstocken ein."
+  },
+  "Enter a commit message.": {
+    "origin": "M2M100-418M-local",
+    "text": "Geben Sie eine Engagementnachricht ein."
+  },
+  "Enter a name without a slash or colon. The name cannot be empty, ‘.’, or ‘..’.": {
+    "origin": "M2M100-418M-local",
+    "text": "Geben Sie ein Name ohne Schlange oder Kolonne ein. Der Name kann nicht leer sein, ‚.‘ oder ‚..‘."
+  },
+  "Enter a size from 1 to 1,048,576 MiB.": {
+    "origin": "M2M100-418M-local",
+    "text": "Geben Sie eine Größe von 1 bis 1,048,576 MiB ein."
+  },
+  "Enter a valid host, username, and port.": {
+    "origin": "M2M100-418M-local",
+    "text": "Geben Sie einen gültigen Host, Benutzername und Port ein."
+  },
+  "Enter an SMB, AFP, or WebDAV address.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Eintritt ein SMB, AFPoder WebDAV Adresse"
+  },
+  "Enter an attribute name of 1–127 UTF-8 bytes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Geben Sie einen Attributenamen von 1–127 ein UTF-8 und byte."
+  },
+  "Enter compact overlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "Zum kompakten Overlay wechseln"
+  },
+  "Enter numeric user and group IDs.": {
+    "origin": "M2M100-418M-local",
+    "text": "Geben Sie numerische Benutzer- und Gruppen-IDs ein."
+  },
+  "Enter password:": {
+    "origin": "M2M100-418M-local",
+    "text": "Geben Sie ein Passwort:"
+  },
+  "Enter permissions from 000 to 777.": {
+    "origin": "M2M100-418M-local",
+    "text": "Einführen Sie Genehmigungen von 000 bis 777."
+  },
+  "Enter the archive password before editing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Geben Sie das Archiv-Passwort vor der Bearbeitung ein."
+  },
+  "Enter three octal digits, for example 644 or 755.": {
+    "origin": "M2M100-418M-local",
+    "text": "Geben Sie drei octale Zahlen ein, zum Beispiel 644 oder 755."
+  },
+  "Enter whole numbers for byte limits.": {
+    "origin": "M2M100-418M-local",
+    "text": "Geben Sie ganze Zahlen für byte Grenzen ein."
+  },
+  "EnterCompactOverlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "Zum kompakten Overlay wechseln"
+  },
+  "Executable": {
+    "origin": "M2M100-418M-local",
+    "text": "Durchführbar"
+  },
+  "Executable format": {
+    "origin": "M2M100-418M-local",
+    "text": "Durchführbares Format"
+  },
+  "Exit compact overlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "Kompaktes Overlay verlassen"
+  },
+  "ExitCompactOverlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "Kompaktes Overlay verlassen"
+  },
+  "Expand folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Erweiterung der Folder"
+  },
+  "Expanded": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Erweiterte"
+  },
+  "Export ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ausfuhr ACL…"
+  },
+  "Export bytes…": {
+    "origin": "M2M100-418M-local",
+    "text": "Ausfuhr byte ..."
+  },
+  "Export theme…": {
+    "origin": "M2M100-418M-local",
+    "text": "Ausfuhr Thema..."
+  },
+  "Export…": {
+    "origin": "M2M100-418M-local",
+    "text": "Ausfuhr ..."
+  },
+  "Extended attributes": {
+    "origin": "M2M100-418M-local",
+    "text": "Erweiterte Attribute"
+  },
+  "Extended attributes…": {
+    "origin": "M2M100-418M-local",
+    "text": "Erweiterte Attribute ..."
+  },
+  "Extensions are preserved. Conflicts stop the batch before any names change.": {
+    "origin": "M2M100-418M-local",
+    "text": "Konflikte stoppen die Menge, bevor irgendwelche Namen ändern."
+  },
+  "Extensions: txt, swift, pdf": {
+    "origin": "M2M100-418M-local",
+    "text": "Erweiterungen: txt, swift, pdf"
+  },
+  "Extra large icons": {
+    "origin": "M2M100-418M-local",
+    "text": "Extra große Ikonen"
+  },
+  "Extract": {
+    "origin": "Files:Extract",
+    "text": "Entpacken"
+  },
+  "Extract all…": {
+    "origin": "M2M100-418M-local",
+    "text": "Entfernen Sie alle..."
+  },
+  "Extract here": {
+    "origin": "Files:ExtractHere",
+    "text": "Hier entpacken"
+  },
+  "Extract here (Smart)": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "Hier entpacken (Smart)"
+  },
+  "Extract selected…": {
+    "origin": "M2M100-418M-local",
+    "text": "Extrakt ausgewählt..."
+  },
+  "Extract to child folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Extrakt zum Kinderfolder"
+  },
+  "Extract to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Extrakt zu..."
+  },
+  "ExtractHere": {
+    "origin": "Files:ExtractHere",
+    "text": "Hier entpacken"
+  },
+  "ExtractHereSmart": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "Hier entpacken (Smart)"
+  },
+  "Extracted entry size does not match its header.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die extrahierte Eintrittsgröße entspricht ihren Header nicht."
+  },
+  "Extracting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Extrakt"
+  },
+  "Extracts into a new folder; existing files are kept.": {
+    "origin": "M2M100-418M-local",
+    "text": "Extrahieren Sie in eine neue Ordnung; bestehende Dateien werden gespeichert."
+  },
+  "FTP over TLS": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "FTP Über TLS"
+  },
+  "Failed": {
+    "origin": "M2M100-418M-local",
+    "text": "Scheitern"
+  },
+  "Fetch": {
+    "origin": "Files:GitFetch",
+    "text": "Abrufen"
+  },
+  "File": {
+    "origin": "Files:File",
+    "text": "Datei"
+  },
+  "File actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Datei Aktionen"
+  },
+  "File hashes": {
+    "origin": "M2M100-418M-local",
+    "text": "Datei Hashes"
+  },
+  "File information": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dateiinformationen"
+  },
+  "File operations": {
+    "origin": "M2M100-418M-local",
+    "text": "Dateioperationen"
+  },
+  "File operations in this window": {
+    "origin": "M2M100-418M-local",
+    "text": "Dateiaktivitäten in diesem Fenster"
+  },
+  "File shelf": {
+    "origin": "M2M100-418M-local",
+    "text": "Datei Shelf"
+  },
+  "File shelf…": {
+    "origin": "M2M100-418M-local",
+    "text": "Datei Shelf ..."
+  },
+  "File size": {
+    "origin": "M2M100-418M-local",
+    "text": "Datei Größe"
+  },
+  "Files": {
+    "origin": "Files:SecurityAdvancedFlagsFilesLabel",
+    "text": "Dateien"
+  },
+  "Files size": {
+    "origin": "M2M100-418M-local",
+    "text": "Datei Größe"
+  },
+  "Files you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die Dateien, die Sie öffnen, werden hier angezeigt."
+  },
+  "Fill": {
+    "origin": "Files:Fill",
+    "text": "Füllen"
+  },
+  "Filter entries": {
+    "origin": "M2M100-418M-local",
+    "text": "Filter Einträge"
+  },
+  "Find": {
+    "origin": "M2M100-418M-local",
+    "text": "Finde"
+  },
+  "Find and replace": {
+    "origin": "M2M100-418M-local",
+    "text": "Finden und ersetzen"
+  },
+  "Finder Get Info unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder Informationen nicht verfügbar"
+  },
+  "Finder Get Info…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder Informieren Sie sich..."
+  },
+  "Finder's desktop and other apps' Open/Save dialogs remain managed by macOS.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder\"Desktop und andere Apps\" Open/Save-Dialoge werden weiterhin durch macOS."
+  },
+  "First letter": {
+    "origin": "M2M100-418M-local",
+    "text": "Erste Brief"
+  },
+  "Fit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Fit"
+  },
+  "Flatten": {
+    "origin": "Files:Flatten",
+    "text": "Vereinfachen"
+  },
+  "Flatten folder": {
+    "origin": "Files:FlattenFolder",
+    "text": "Ordnerstruktur vereinfachen"
+  },
+  "Flatten folder…": {
+    "origin": "Files:FlattenFolder",
+    "text": "Ordnerstruktur vereinfachen"
+  },
+  "Flatten ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "„Flatten“%1$@’?"
+  },
+  "Flattening folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Flattening Folder"
+  },
+  "Focus other pane": {
+    "origin": "Files:FocusOtherPane",
+    "text": "Anderen Bereich fokussieren"
+  },
+  "Folder": {
+    "origin": "Files:Folder",
+    "text": "Ordner"
+  },
+  "Folder contents": {
+    "origin": "M2M100-418M-local",
+    "text": "Folder Inhalte"
+  },
+  "Folder contents are not included in this total.": {
+    "origin": "M2M100-418M-local",
+    "text": "Folder-Inhalte sind in diesem Gesamt nicht enthalten."
+  },
+  "Folder layout saved.": {
+    "origin": "M2M100-418M-local",
+    "text": "Folder Layout gerettet."
+  },
+  "Folder path": {
+    "origin": "Files:FolderPath",
+    "text": "Ordnerpfad"
+  },
+  "Folder presentation": {
+    "origin": "M2M100-418M-local",
+    "text": "Folder Präsentation"
+  },
+  "Folder sizes are calculated in the background after Refresh. Large or network folders may take longer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Foldergrößen werden nach Refresh im Hintergrund berechnet. große oder Netzwerkfolder können länger dauern."
+  },
+  "Folder unavailable": {
+    "origin": "M2M100-418M-local",
+    "text": "Folder nicht verfügbar"
+  },
+  "Folders": {
+    "origin": "Files:Folders",
+    "text": "Ordner"
+  },
+  "Folders you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "text": "Folder, die Sie öffnen, werden hier angezeigt."
+  },
+  "Font": {
+    "origin": "Files:Font",
+    "text": "Schriftart"
+  },
+  "Font and material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Font und Material"
+  },
+  "Forget saved": {
+    "origin": "M2M100-418M-local",
+    "text": "Vergessen gerettet"
+  },
+  "Format": {
+    "origin": "Files:FormatDriveText",
+    "text": "Formattieren"
+  },
+  "Format drive in Disk Utility…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Format Drive in Disk Utility ..."
+  },
+  "Forward": {
+    "origin": "Files:Forward",
+    "text": "Vorwärts"
+  },
+  "Forward · ⌘]": {
+    "origin": "Files:Forward",
+    "text": "Vorwärts · ⌘]"
+  },
+  "Fragmented media metadata cannot be edited without remuxing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Fragmentierte Medienmetadaten können ohne Remuxing nicht bearbeitet werden."
+  },
+  "Gallery": {
+    "origin": "M2M100-418M-local",
+    "text": "Galerie"
+  },
+  "Gallery layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Galerie Layout"
+  },
+  "General": {
+    "origin": "Files:General",
+    "text": "Allgemein"
+  },
+  "Git operation in %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git Operationen in %1$@"
+  },
+  "Git repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git repository"
+  },
+  "Git repository…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git Das Repository..."
+  },
+  "GitHub account": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub Konto"
+  },
+  "GitHub username": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub Benutzername"
+  },
+  "Go to path": {
+    "origin": "M2M100-418M-local",
+    "text": "Gehen Sie auf den Weg"
+  },
+  "Go to path…": {
+    "origin": "M2M100-418M-local",
+    "text": "Gehen Sie auf den Weg ..."
+  },
+  "Gray": {
+    "origin": "Files:Gray",
+    "text": "Grau"
+  },
+  "Green": {
+    "origin": "Files:Green",
+    "text": "Grün"
+  },
+  "Group": {
+    "origin": "M2M100-418M-local",
+    "text": "Gruppe"
+  },
+  "Group GID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gruppe GID"
+  },
+  "Group ascending": {
+    "origin": "Files:GroupAscendingDescription",
+    "text": "Gruppen in aufsteigender Reihenfolge sortieren"
+  },
+  "Group by": {
+    "origin": "Files:GroupBy",
+    "text": "Gruppieren nach"
+  },
+  "Group by date unit": {
+    "origin": "Files:GroupByDateUnit",
+    "text": "Nach Datumseinheit gruppieren"
+  },
+  "HTTPS Git operations can use a GitHub access token stored in your macOS Keychain. Choose the repositories and permissions when creating the token. Existing Git authentication remains in use when no MacFiles account is saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "HTTPS Git Operationen können einen GitHub-Access Token verwenden, der in Ihrem macOS Keychain. Wählen Sie bei der Erstellung des Tokens die Repositorien und Genehmigungen aus. Git Die Authentifizierung bleibt in Gebrauch, wenn nicht MacFiles Das Konto wird gerettet."
+  },
+  "Hard Link": {
+    "origin": "M2M100-418M-local",
+    "text": "hartes Link"
+  },
+  "Hashes": {
+    "origin": "M2M100-418M-local",
+    "text": "Hashes"
+  },
+  "Hashes are available for a single file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Hashs sind für eine einzige Datei verfügbar."
+  },
+  "Header": {
+    "origin": "M2M100-418M-local",
+    "text": "Header"
+  },
+  "Help": {
+    "origin": "Files:Help",
+    "text": "Hilfe"
+  },
+  "Hidden": {
+    "origin": "Files:Hidden",
+    "text": "Versteckt"
+  },
+  "Hidden files": {
+    "origin": "M2M100-418M-local",
+    "text": "versteckte Dateien"
+  },
+  "History": {
+    "origin": "M2M100-418M-local",
+    "text": "Geschichte"
+  },
+  "Home": {
+    "origin": "Files:Key.Home",
+    "text": "Startseite"
+  },
+  "Horizontal alignment": {
+    "origin": "Files:HorizontalAlignment",
+    "text": "Horizontale Ausrichtung"
+  },
+  "IDE opened.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hier geöffnet ist."
+  },
+  "Icon": {
+    "origin": "M2M100-418M-local",
+    "text": "Ikonen"
+  },
+  "Icons": {
+    "origin": "M2M100-418M-local",
+    "text": "Ikonen"
+  },
+  "Icons layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Ikonen Layout"
+  },
+  "Image alignment": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bildvergleichung"
+  },
+  "Image fit": {
+    "origin": "Files:ImageFit",
+    "text": "Bildanpassung"
+  },
+  "Import theme…": {
+    "origin": "M2M100-418M-local",
+    "text": "Importierung Thema ..."
+  },
+  "Imported. Apply to save.": {
+    "origin": "M2M100-418M-local",
+    "text": "Importiert. beantragen um zu speichern."
+  },
+  "Import…": {
+    "origin": "M2M100-418M-local",
+    "text": "Einfuhr ..."
+  },
+  "Incomplete archive listing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Unvollständige Archivliste."
+  },
+  "Increase size": {
+    "origin": "Files:IncreaseSize",
+    "text": "Größe vergrößern"
+  },
+  "Indexed document, image, audio, video and filesystem metadata supplied by Spotlight. Tags can be edited with the Tags tool.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Indexierte Dokumente, Bilder, Audio, Video und Dateisystemmetadata, die von SpotlightTags können mit dem Tag-Tool bearbeitet werden."
+  },
+  "Indexed files updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Indexierte Dateien aktualisiert."
+  },
+  "Initialize": {
+    "origin": "M2M100-418M-local",
+    "text": "Initialisierung"
+  },
+  "Initialize repository here": {
+    "origin": "M2M100-418M-local",
+    "text": "Initialisieren Sie das Repository hier"
+  },
+  "Install certificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "Zertifikat installieren"
+  },
+  "Install font": {
+    "origin": "Files:InstallFont",
+    "text": "Schriftart installieren"
+  },
+  "InstallCertificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "Zertifikat installieren"
+  },
+  "InstallFont": {
+    "origin": "Files:InstallFont",
+    "text": "Schriftart installieren"
+  },
+  "Interval in seconds": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Intervall in Sekunden"
+  },
+  "Invalid Base64 data.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalid Base64 Daten."
+  },
+  "Invalid SSH host or port.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid SSH Gastgeber oder Hafen."
+  },
+  "Invalid archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalid archive hard link."
+  },
+  "Invalid archive link target.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalid Archive Link Ziel."
+  },
+  "Invalid extended media atom.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalid erweitert Medienatome."
+  },
+  "Invalid hard link.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalid Hard Link."
+  },
+  "Invalid key for %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid Schlüssel für %1$@."
+  },
+  "Invalid macOS ACL text. Preserve the !#acl 1 header and use valid entries.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid macOS ACL Speichern Sie den Titel #acl 1 und verwenden Sie gültige Eingänge."
+  },
+  "Invalid media atom header.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalid Media Atom Header."
+  },
+  "Invalid media atom size.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalid Media Atomgröße."
+  },
+  "Invalid media atom.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalid Media Atom."
+  },
+  "Invalid media file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalid Media Datei."
+  },
+  "Invalid name": {
+    "origin": "Files:InvalidTagNameWarning",
+    "text": "Ungültiger Name"
+  },
+  "Invalid remote URL.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalid Remote URL."
+  },
+  "Invalid settings document.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid Settings Dokument."
+  },
+  "Invalid tag metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid Tag Metadaten."
+  },
+  "Invalid tag name or color.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid Tag Name oder Farbe."
+  },
+  "Invalid theme colors or appearance.": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalid Themefarben oder Aussehen."
+  },
+  "Invalid volume size": {
+    "origin": "M2M100-418M-local",
+    "text": "Invalid Volume Größe"
+  },
+  "Invert selection": {
+    "origin": "Files:InvertSelection",
+    "text": "Auswahl umkehren"
+  },
+  "Item properties": {
+    "origin": "M2M100-418M-local",
+    "text": "Artikel Eigenschaften"
+  },
+  "Items move into .MacFiles-Recovery on this server, including folder contents. Use Undo remote to restore them during this session.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die Elemente bewegen sich in .MacFiles-Recovery auf diesem Server, einschließlich der Inhalte der Ordner. Verwenden Sie Undo remote, um sie während dieser Sitzung zu restaurieren."
+  },
+  "Keep MacFiles open": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "halten MacFiles Öffnen"
+  },
+  "Keep both": {
+    "origin": "M2M100-418M-local",
+    "text": "Beide halten"
+  },
+  "Keep both creates numbered names. Replace moves previous versions to Trash and supports Undo. Folders are replaced as a whole.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Beide ersetzen numerierte Namen. Ersatz verlässt frühere Versionen auf Trash und unterstützt Undo. Folder werden als Ganzes ersetzt."
+  },
+  "Keep running after closing windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Fahren Sie weiter nach dem Schließen der Fenster"
+  },
+  "Keep window on top": {
+    "origin": "M2M100-418M-local",
+    "text": "Halten Sie das Fenster oben"
+  },
+  "Keyboard shortcuts": {
+    "origin": "M2M100-418M-local",
+    "text": "Keyboard Schnittstellen"
+  },
+  "Keyboard shortcuts…": {
+    "origin": "M2M100-418M-local",
+    "text": "Keyboard Schnittstellen..."
+  },
+  "Keywords (comma separated)": {
+    "origin": "M2M100-418M-local",
+    "text": "Schlüsselwörter (wie getrennt)"
+  },
+  "Kind": {
+    "origin": "Files:Type",
+    "text": "Typ"
+  },
+  "Label": {
+    "origin": "Files:Label",
+    "text": "Bezeichnung"
+  },
+  "Language": {
+    "origin": "Files:PropertyLanguage",
+    "text": "Sprache"
+  },
+  "Large icons": {
+    "origin": "M2M100-418M-local",
+    "text": "Große Ikonen"
+  },
+  "Launch at login": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Start bei Login"
+  },
+  "Layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Layout"
+  },
+  "Left": {
+    "origin": "Files:Left",
+    "text": "Links"
+  },
+  "Let the current operation finish before quitting.": {
+    "origin": "M2M100-418M-local",
+    "text": "Lassen Sie die aktuelle Operation vor dem Abzug beendet."
+  },
+  "Libraries": {
+    "origin": "Files:SidebarLibraries",
+    "text": "Bibliotheken"
+  },
+  "Library": {
+    "origin": "Files:Library",
+    "text": "Bibliothek"
+  },
+  "Library name": {
+    "origin": "M2M100-418M-local",
+    "text": "Bibliothek Name"
+  },
+  "Library properties…": {
+    "origin": "M2M100-418M-local",
+    "text": "Bibliothek Eigentum..."
+  },
+  "Library/Application Support/MacFiles/known_hosts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bibliothek / AnwendungsunterstützungMacFiles/bekannte Gastgeber"
+  },
+  "Library/Mobile Documents": {
+    "origin": "M2M100-418M-local",
+    "text": "Bibliothek / Mobildokumente"
+  },
+  "Library/Mobile Documents/com~apple~CloudDocs": {
+    "origin": "M2M100-418M-local",
+    "text": "Bibliothek/Mobile Documents/com~apple~CloudDocs"
+  },
+  "Light": {
+    "origin": "Files:LightTheme",
+    "text": "Hell"
+  },
+  "Link target": {
+    "origin": "M2M100-418M-local",
+    "text": "Link Ziel"
+  },
+  "List": {
+    "origin": "Files:List",
+    "text": "Liste"
+  },
+  "List folders before files": {
+    "origin": "M2M100-418M-local",
+    "text": "Liste der Ordner vor den Dateien"
+  },
+  "Loading…": {
+    "origin": "Files:Loading",
+    "text": "Wird geladen..."
+  },
+  "Local": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lokale"
+  },
+  "Local download removal requested.": {
+    "origin": "M2M100-418M-local",
+    "text": "Lokale Downloads entfernen verlangt."
+  },
+  "Local file": {
+    "origin": "M2M100-418M-local",
+    "text": "Lokale Datei"
+  },
+  "Location": {
+    "origin": "Files:Location",
+    "text": "Ort:"
+  },
+  "Lock screen and wallpaper settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lock-Screen und Wallpaper-Einstellungen ..."
+  },
+  "Locked": {
+    "origin": "M2M100-418M-local",
+    "text": "Lockiert"
+  },
+  "Macintosh HD": {
+    "origin": "M2M100-418M-local",
+    "text": "Die Macintosh HD"
+  },
+  "Make alias": {
+    "origin": "M2M100-418M-local",
+    "text": "Erstellen von Alias"
+  },
+  "Make alias…": {
+    "origin": "M2M100-418M-local",
+    "text": "Das macht Alias..."
+  },
+  "Manage account in provider app": {
+    "origin": "M2M100-418M-local",
+    "text": "Verwaltung des Kontos in der Anbieter-App"
+  },
+  "Manage cloud accounts…": {
+    "origin": "M2M100-418M-local",
+    "text": "Verwaltung von Cloud-Konten ..."
+  },
+  "Manage tags": {
+    "origin": "Files:ManageTags",
+    "text": "Tags verwalten"
+  },
+  "Maximum bytes": {
+    "origin": "M2M100-418M-local",
+    "text": "Maximale Byte"
+  },
+  "Media export did not complete.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die Medienausfuhr war nicht fertig."
+  },
+  "Media metadata is too large.": {
+    "origin": "M2M100-418M-local",
+    "text": "Medienmetadata sind zu groß."
+  },
+  "Medium icons": {
+    "origin": "M2M100-418M-local",
+    "text": "mittlere Ikonen"
+  },
+  "Minimize": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Minimieren"
+  },
+  "Minimum bytes": {
+    "origin": "M2M100-418M-local",
+    "text": "Minimale Byte"
+  },
+  "Minimum size exceeds maximum size.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die Mindestgröße übersteigt die maximale Größe."
+  },
+  "Mode": {
+    "origin": "M2M100-418M-local",
+    "text": "Mode"
+  },
+  "Modified": {
+    "origin": "Files:Modified",
+    "text": "Bearbeitet"
+  },
+  "Modified after": {
+    "origin": "M2M100-418M-local",
+    "text": "Änderung nach"
+  },
+  "Month": {
+    "origin": "Files:Month",
+    "text": "Monat"
+  },
+  "More actions": {
+    "origin": "M2M100-418M-local",
+    "text": "Mehr Aktionen"
+  },
+  "Mount share…": {
+    "origin": "M2M100-418M-local",
+    "text": "Die Berge teilen..."
+  },
+  "Mounted network locations appear here. Connect to a server to browse another location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die montierten Netzwerke werden hier angezeigt.Verbindung an einen Server, um eine andere Lage zu erkunden."
+  },
+  "Move %1$@ remote items to recovery?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bewegung %1$@ Remote Gegenstände zur Wiederherstellung?"
+  },
+  "Move %1$@ to Trash?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bewegung %1$@ zum Trash?"
+  },
+  "Move here": {
+    "origin": "Files:PinToSidebarByDraggingCaptionText",
+    "text": "Hierhin verschieben"
+  },
+  "Move nested files to this folder. Existing names and symbolic links are left in place. Empty subfolders go to Trash. You can undo this operation.": {
+    "origin": "M2M100-418M-local",
+    "text": "Move nested files to this folder. existing names and symbolic links are left in place. leer subfolders go to Trash. Sie können diese operation undo."
+  },
+  "Move to Trash": {
+    "origin": "M2M100-418M-local",
+    "text": "Bewegung zu Trash"
+  },
+  "Move to Trash…": {
+    "origin": "M2M100-418M-local",
+    "text": "Bewegung zum Trash..."
+  },
+  "Move to recovery": {
+    "origin": "M2M100-418M-local",
+    "text": "Bewegung zur Wiederherstellung"
+  },
+  "Move to recovery folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Umzug zur Wiederherstellung von Ordner..."
+  },
+  "Movies": {
+    "origin": "M2M100-418M-local",
+    "text": "Filme"
+  },
+  "Moving": {
+    "origin": "M2M100-418M-local",
+    "text": "Bewegung"
+  },
+  "Moving files": {
+    "origin": "M2M100-418M-local",
+    "text": "Bewegende Dateien"
+  },
+  "Moving to Trash": {
+    "origin": "M2M100-418M-local",
+    "text": "Umzug zu Trash"
+  },
+  "Multiple items": {
+    "origin": "M2M100-418M-local",
+    "text": "Mehrere Gegenstände"
+  },
+  "Music": {
+    "origin": "Files:Music",
+    "text": "Musik"
+  },
+  "My MacFiles theme": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Meine MacFiles Modus"
+  },
+  "My library": {
+    "origin": "M2M100-418M-local",
+    "text": "Meine Bibliothek"
+  },
+  "My search": {
+    "origin": "M2M100-418M-local",
+    "text": "Meine Suche"
+  },
+  "Name": {
+    "origin": "M2M100-418M-local",
+    "text": "Name"
+  },
+  "Native macOS extended attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Einheimische macOS Erweiterte Attribute"
+  },
+  "Natural language search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "natürliche Sprache suchen"
+  },
+  "Navigate": {
+    "origin": "M2M100-418M-local",
+    "text": "Navigieren"
+  },
+  "Network": {
+    "origin": "Files:Network",
+    "text": "Netzwerk"
+  },
+  "New": {
+    "origin": "Files:BaseLayoutContextFlyoutNew.Label",
+    "text": "Neu"
+  },
+  "New archive file": {
+    "origin": "M2M100-418M-local",
+    "text": "Neue Archivdateien"
+  },
+  "New archive folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Neue Archive Folder"
+  },
+  "New branch": {
+    "origin": "Files:NewBranch",
+    "text": "Neuer Branch"
+  },
+  "New file from template": {
+    "origin": "M2M100-418M-local",
+    "text": "Neue Datei aus dem Template"
+  },
+  "New folder": {
+    "origin": "Files:NewFolder",
+    "text": "Neuer Ordner"
+  },
+  "New folder…": {
+    "origin": "Files:NewFolder",
+    "text": "Neuer Ordner"
+  },
+  "New from template": {
+    "origin": "M2M100-418M-local",
+    "text": "Neues aus dem Tempel"
+  },
+  "New from template…": {
+    "origin": "M2M100-418M-local",
+    "text": "Neues aus dem Tempel..."
+  },
+  "New name": {
+    "origin": "M2M100-418M-local",
+    "text": "Neues Name"
+  },
+  "New remote file": {
+    "origin": "M2M100-418M-local",
+    "text": "Neue Remote Datei"
+  },
+  "New remote folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Neue entfernte Ordner"
+  },
+  "New tab": {
+    "origin": "Files:NewTab",
+    "text": "Neuer Tab"
+  },
+  "New tab · ⌘T": {
+    "origin": "Files:NewTab",
+    "text": "Neuer Tab · ⌘T"
+  },
+  "New text file": {
+    "origin": "M2M100-418M-local",
+    "text": "Neue Textdatei"
+  },
+  "New text file…": {
+    "origin": "M2M100-418M-local",
+    "text": "Neue Textdatei..."
+  },
+  "New window": {
+    "origin": "Files:NewWindow",
+    "text": "Neues Fenster"
+  },
+  "Next layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nächster Layout"
+  },
+  "Next tab": {
+    "origin": "Files:NextTab",
+    "text": "Nächster Tab"
+  },
+  "No": {
+    "origin": "Files:No",
+    "text": "Nein"
+  },
+  "No IDE selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Keine IDE ausgewählt"
+  },
+  "No application could open ‘%1$@’.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Keine Anwendung kann geöffnet werden »%1$@’."
+  },
+  "No archive entry was extracted.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kein Archivzugang wurde extrahiert."
+  },
+  "No archive is open.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kein Archiv ist offen."
+  },
+  "No archive was produced.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kein Archiv wurde produziert."
+  },
+  "No commits yet": {
+    "origin": "M2M100-418M-local",
+    "text": "Keine Zustimmung noch"
+  },
+  "No files were extracted.": {
+    "origin": "M2M100-418M-local",
+    "text": "Keine Dateien wurden extrahiert."
+  },
+  "No matching items": {
+    "origin": "M2M100-418M-local",
+    "text": "Keine matching items"
+  },
+  "No movie header was found.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kein Filmheader wurde gefunden."
+  },
+  "No operations recorded.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Keine Operationen aufgeführt."
+  },
+  "No readable macOS code signature.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "nicht gelesen macOS Code der Unterschrift.\n\n"
+  },
+  "No selection": {
+    "origin": "M2M100-418M-local",
+    "text": "Keine Selektion"
+  },
+  "No settings match your search.": {
+    "origin": "Files:NoSearchResults",
+    "text": "Keine Einstellungen stimmen mit deiner Suche überein."
+  },
+  "No tracked diff. New files appear after staging.": {
+    "origin": "M2M100-418M-local",
+    "text": "Keine verfolgten diff. Neue Dateien erscheinen nach dem Treiben."
+  },
+  "None": {
+    "origin": "Files:CompressionLevelNone",
+    "text": "Keine"
+  },
+  "Not enough free space to finish extraction.": {
+    "origin": "M2M100-418M-local",
+    "text": "Nicht genug freier Platz, um die Extraction zu beenden."
+  },
+  "Not managed by a detected cloud provider": {
+    "origin": "M2M100-418M-local",
+    "text": "Nicht von einem erkannten Cloud-Anbieter verwaltet"
+  },
+  "Not used": {
+    "origin": "M2M100-418M-local",
+    "text": "nicht benutzt"
+  },
+  "Numbered names": {
+    "origin": "M2M100-418M-local",
+    "text": "Numerierte Namen"
+  },
+  "OK": {
+    "origin": "M2M100-418M-local",
+    "text": "OK"
+  },
+  "Older": {
+    "origin": "M2M100-418M-local",
+    "text": "älter"
+  },
+  "Online only": {
+    "origin": "M2M100-418M-local",
+    "text": "Online nur"
+  },
+  "Only an uploaded iCloud file without conflicts can have its local download removed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nur ein hochgeladen iCloud Datei ohne Konflikte kann seine lokalen Download entfernt haben."
+  },
+  "Only images can be rotated.": {
+    "origin": "M2M100-418M-local",
+    "text": "Nur Bilder können rotiert werden."
+  },
+  "Open": {
+    "origin": "Files:Open",
+    "text": "Öffnen"
+  },
+  "Open / Preview": {
+    "origin": "M2M100-418M-local",
+    "text": "Öffnung / Preview"
+  },
+  "Open Login Items settings": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Öffnen Sie Login-Einheiten"
+  },
+  "Open MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Öffnen MacFiles"
+  },
+  "Open System Settings for iCloud": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Öffnen von Systeminstellungen für iCloud"
+  },
+  "Open a repository, initialize this folder, or clone a repository.": {
+    "origin": "M2M100-418M-local",
+    "text": "Öffnen Sie ein Repository, initialisieren Sie diese Folie oder klonen Sie ein Repository."
+  },
+  "Open all folders in tabs": {
+    "origin": "M2M100-418M-local",
+    "text": "Öffnen Sie alle Ordner in Tabs"
+  },
+  "Open containing folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Öffnen der enthaltenen Ordner"
+  },
+  "Open external folders in new windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Öffnen von externen Ordnern in neuen Fenstern"
+  },
+  "Open file location": {
+    "origin": "Files:OpenFileLocation",
+    "text": "Dateispeicherort öffnen"
+  },
+  "Open folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Öffnete Folder"
+  },
+  "Open folders in new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Folder in neuen Tabs öffnen"
+  },
+  "Open folder…": {
+    "origin": "M2M100-418M-local",
+    "text": "Offene Folder..."
+  },
+  "Open in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Öffnen in IDE"
+  },
+  "Open in IDE uses the selected application. Open repository in IDE resolves the Git repository root first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open in IDE verwendet die ausgewählte Anwendung. Open repository in IDE löst die Git Routen erstmals auf der Route."
+  },
+  "Open in Terminal": {
+    "origin": "M2M100-418M-local",
+    "text": "Eröffnung im Terminal"
+  },
+  "Open in new tab": {
+    "origin": "Files:OpenInNewTab",
+    "text": "In neuem Tab öffnen"
+  },
+  "Open in new window": {
+    "origin": "Files:OpenInNewWindow",
+    "text": "In neuem Fenster öffnen"
+  },
+  "Open in other pane": {
+    "origin": "Files:OpenInOtherPane",
+    "text": "In anderem Bereich öffnen"
+  },
+  "Open log file": {
+    "origin": "Files:OpenLogFile",
+    "text": "Log-Datei öffnen"
+  },
+  "Open new tabs with dual panes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Öffnen Sie neue Tabs mit Dual Panels"
+  },
+  "Open repository in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Öffnen der Repository in IDE"
+  },
+  "Open selection": {
+    "origin": "M2M100-418M-local",
+    "text": "Offene Auswahl"
+  },
+  "Open target folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Öffnen Zielfolder"
+  },
+  "Open with": {
+    "origin": "Files:OpenWith",
+    "text": "Öffnen mit"
+  },
+  "Open with application": {
+    "origin": "M2M100-418M-local",
+    "text": "Öffnen mit Anwendung"
+  },
+  "Open with application…": {
+    "origin": "M2M100-418M-local",
+    "text": "Eröffnet mit Anwendung..."
+  },
+  "Open with…": {
+    "origin": "Files:OpenWith",
+    "text": "Öffnen mit"
+  },
+  "Open-ended media atoms require remuxing before editing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Öffnete Medienatome erfordern Remoxing vor der Bearbeitung."
+  },
+  "OpenAllTaggedItems": {
+    "origin": "Files:OpenAllTaggedItems",
+    "text": "Alle öffnen"
+  },
+  "OpenLogFile": {
+    "origin": "Files:OpenLogFile",
+    "text": "Log-Datei öffnen"
+  },
+  "Operation completed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Operation abgeschlossen."
+  },
+  "Operation failed": {
+    "origin": "M2M100-418M-local",
+    "text": "Operation versagt"
+  },
+  "Operations": {
+    "origin": "M2M100-418M-local",
+    "text": "Operationen"
+  },
+  "Operations (%1$@ queued)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die Operationen (%1$@ von Queued)"
+  },
+  "Operations…": {
+    "origin": "M2M100-418M-local",
+    "text": "Operationen ..."
+  },
+  "Orange": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Orangen"
+  },
+  "Original location": {
+    "origin": "M2M100-418M-local",
+    "text": "Ursprüngliche Lage"
+  },
+  "Original locations are remembered for items deleted by MacFiles, including across launches.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Originalplätze werden für die von MacFilesAuch in allen Startups."
+  },
+  "Original name": {
+    "origin": "M2M100-418M-local",
+    "text": "Original Name"
+  },
+  "Overcast": {
+    "origin": "Files:Overcast",
+    "text": "Bedeckt"
+  },
+  "Owner": {
+    "origin": "Files:PropertyFileOwner",
+    "text": "Besitzer"
+  },
+  "Owner UID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Besitzer UID"
+  },
+  "Ownership updated.": {
+    "origin": "M2M100-418M-local",
+    "text": "Eigentum aktualisiert."
+  },
+  "POSIX permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "POSIX Berechtigungen"
+  },
+  "Password": {
+    "origin": "Files:Password",
+    "text": "Passwort"
+  },
+  "Password (optional, AES-256)": {
+    "origin": "M2M100-418M-local",
+    "text": "Passwort (optional, AES-256)"
+  },
+  "Password / key passphrase (optional)": {
+    "origin": "M2M100-418M-local",
+    "text": "Passwort / Schlüsselpasswort (optional)"
+  },
+  "Password protection is supported for ZIP archives.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Passwortschutz wird unterstützt für ZIP Archiven zu."
+  },
+  "Paste": {
+    "origin": "Files:Paste",
+    "text": "Einfügen"
+  },
+  "Paste and drop transfers queue behind the current operation. Completed changes remain available through Undo. Copy cancellation stops the staged transfer before publishing it. Undo history is restored across launches.": {
+    "origin": "M2M100-418M-local",
+    "text": "Paste und drop übertragen die Rücke hinter der aktuellen Operation. Vollendete Änderungen bleiben über Undo verfügbar. Kopierungsannullierung stoppt die Schritt übertragung vor der Veröffentlichung. Undo Geschichte wird über Starts wiederhergestellt."
+  },
+  "Paste files": {
+    "origin": "M2M100-418M-local",
+    "text": "Paste Datei"
+  },
+  "Paste shortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "Verknüpfung einfügen"
+  },
+  "Paste the files into a permanent folder before creating aliases to them.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Stellen Sie die Dateien in eine dauerhafte Ordnung ein, bevor Sie Aliasen für sie erstellen."
+  },
+  "PasteItemToSelectionDescription": {
+    "origin": "Files:PasteItemToSelectionDescription",
+    "text": "Elemente in den ausgewählten Ordner einfügen"
+  },
+  "PasteShortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "Verknüpfung einfügen"
+  },
+  "Path": {
+    "origin": "Files:ExtractToPath",
+    "text": "Pfad"
+  },
+  "Pattern": {
+    "origin": "M2M100-418M-local",
+    "text": "Pattern"
+  },
+  "Permanently delete %1$@ items?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ständig löschen %1$@ Gegenstände ?"
+  },
+  "Permissions": {
+    "origin": "Files:Permissions",
+    "text": "Berechtigungen"
+  },
+  "Permissions are enforced by the server. FTP servers must support SITE CHMOD; SFTP uses SSH permissions.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die Genehmigungen werden vom Server erteilt. FTP Server müssen die SITE CHMOD unterstützen; SFTP Gebrauch SSH Berechtigungen"
+  },
+  "Permissions are stored in the archive. Changes rebuild it and support Undo.": {
+    "origin": "M2M100-418M-local",
+    "text": "Genehmigungen werden im Archiv gespeichert. Änderungen erneuern sie und unterstützen Undo."
+  },
+  "Permissions updated.": {
+    "origin": "M2M100-418M-local",
+    "text": "Genehmigungen aktualisiert."
+  },
+  "Permissions…": {
+    "origin": "Files:Permissions",
+    "text": "Berechtigungen"
+  },
+  "Pick up where you left off": {
+    "origin": "M2M100-418M-local",
+    "text": "Wählen Sie auf, wo Sie verlassen"
+  },
+  "Pictures": {
+    "origin": "Files:Pictures",
+    "text": "Bilder"
+  },
+  "Pin this folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Pin dieses Orders"
+  },
+  "Pin to sidebar": {
+    "origin": "Files:PinFolderToSidebar",
+    "text": "An Seitenleiste anheften"
+  },
+  "Pinned": {
+    "origin": "Files:Pinned",
+    "text": "Angeheftet"
+  },
+  "Pinned folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Pinned Folder"
+  },
+  "Play All": {
+    "origin": "Files:PlayAll",
+    "text": "Alle abspielen"
+  },
+  "PlayAll": {
+    "origin": "Files:PlayAll",
+    "text": "Alle abspielen"
+  },
+  "Port": {
+    "origin": "M2M100-418M-local",
+    "text": "Hafen"
+  },
+  "Preparing copy": {
+    "origin": "M2M100-418M-local",
+    "text": "Kopie vorbereiten"
+  },
+  "Preparing move": {
+    "origin": "M2M100-418M-local",
+    "text": "Vorbereitung Bewegung"
+  },
+  "Presentation is saved with this virtual location.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die Präsentation wird mit diesem virtuellen Standort gespeichert."
+  },
+  "Press the shortcut…": {
+    "origin": "M2M100-418M-local",
+    "text": "Drücken Sie den Shortcut..."
+  },
+  "Preview": {
+    "origin": "Files:Preview",
+    "text": "Vorschau"
+  },
+  "Previous layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vorheriger Layout"
+  },
+  "Previous tab": {
+    "origin": "Files:PreviousTab",
+    "text": "Vorheriger Tab"
+  },
+  "Properties": {
+    "origin": "Files:OpenProperties",
+    "text": "Eigenschaften"
+  },
+  "Properties…": {
+    "origin": "Files:OpenProperties",
+    "text": "Eigenschaften"
+  },
+  "Property": {
+    "origin": "M2M100-418M-local",
+    "text": "Eigentum"
+  },
+  "Protocol": {
+    "origin": "M2M100-418M-local",
+    "text": "Protokoll"
+  },
+  "Provider controls in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Der Anbieter kontrolliert in Finder"
+  },
+  "Pull": {
+    "origin": "M2M100-418M-local",
+    "text": "Pull"
+  },
+  "Purple": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Püren"
+  },
+  "Push": {
+    "origin": "M2M100-418M-local",
+    "text": "Push"
+  },
+  "Queued": {
+    "origin": "M2M100-418M-local",
+    "text": "Die Quitte"
+  },
+  "Quick access": {
+    "origin": "Files:QuickAccess",
+    "text": "Schnellzugriff"
+  },
+  "Quit MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Beenden MacFiles"
+  },
+  "Readable": {
+    "origin": "M2M100-418M-local",
+    "text": "Lesbar"
+  },
+  "Recent files": {
+    "origin": "Files:RecentFiles",
+    "text": "Letzte Dateien"
+  },
+  "Recent folders": {
+    "origin": "M2M100-418M-local",
+    "text": "Neuere Folder"
+  },
+  "Reconnect to the same server and account, then retry Undo. The remote recovery data remains in .MacFiles-Recovery.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Wieder auf den gleichen Server und Konto verbinden, dann Undo zurückziehen. .MacFiles-Recovery."
+  },
+  "Record shortcut": {
+    "origin": "M2M100-418M-local",
+    "text": "Rekord Shortcut"
+  },
+  "Red": {
+    "origin": "Files:Red",
+    "text": "Rot"
+  },
+  "Redo": {
+    "origin": "Files:Redo",
+    "text": "Wiederherstellen"
+  },
+  "Redo file operation": {
+    "origin": "M2M100-418M-local",
+    "text": "Redo Datei Betrieb"
+  },
+  "Redoing": {
+    "origin": "M2M100-418M-local",
+    "text": "Reduzieren"
+  },
+  "Refresh": {
+    "origin": "Files:Refresh",
+    "text": "Aktualisieren"
+  },
+  "Refresh · ⌘R": {
+    "origin": "Files:Refresh",
+    "text": "Aktualisieren · ⌘R"
+  },
+  "Regular expression": {
+    "origin": "M2M100-418M-local",
+    "text": "Regelmäßige Ausdrücke"
+  },
+  "Release notes": {
+    "origin": "Files:ReleaseNotes",
+    "text": "Versionshinweise"
+  },
+  "Reload": {
+    "origin": "M2M100-418M-local",
+    "text": "Reload"
+  },
+  "Remember password in Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Passwort in Erinnerung Keychain"
+  },
+  "Remote operation on %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Entfernungstransaktionen auf %1$@"
+  },
+  "Remote path": {
+    "origin": "M2M100-418M-local",
+    "text": "Entfernter Weg"
+  },
+  "Remote paths cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Entfernte Pfade können keine Liniebrechungen enthalten oder NUL Die Charaktere ."
+  },
+  "Remotes": {
+    "origin": "Files:Remotes",
+    "text": "Remote"
+  },
+  "Remove": {
+    "origin": "Files:Remove",
+    "text": "Entfernen"
+  },
+  "Remove attribute…": {
+    "origin": "M2M100-418M-local",
+    "text": "Entfernen von Attribute..."
+  },
+  "Remove background image": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hintergrundbild entfernen"
+  },
+  "Remove download": {
+    "origin": "M2M100-418M-local",
+    "text": "Entfernen Download"
+  },
+  "Remove entries…": {
+    "origin": "M2M100-418M-local",
+    "text": "Entfernen der Eingänge..."
+  },
+  "Remove from archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Entfernen aus dem Archiv"
+  },
+  "Remove library": {
+    "origin": "M2M100-418M-local",
+    "text": "Bibliothek entfernen"
+  },
+  "Remove local download…": {
+    "origin": "M2M100-418M-local",
+    "text": "Entfernen Sie die lokalen Download..."
+  },
+  "Remove references": {
+    "origin": "M2M100-418M-local",
+    "text": "Referenzen entfernen"
+  },
+  "Remove saved credentials": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Entfernen der gespeicherten Credentials"
+  },
+  "Remove saved folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Entfernen der gespeicherten Ordner"
+  },
+  "Remove saved search": {
+    "origin": "M2M100-418M-local",
+    "text": "Entfernen der gespeicherten Suche"
+  },
+  "Remove selected entries from the archive?": {
+    "origin": "M2M100-418M-local",
+    "text": "Entfernen Sie ausgewählte Beiträge aus dem Archiv?"
+  },
+  "Remove tags": {
+    "origin": "Files:RemoveTags",
+    "text": "Tags entfernen"
+  },
+  "Remove the local download?": {
+    "origin": "M2M100-418M-local",
+    "text": "Entfernen Sie den lokalen Download?"
+  },
+  "Remove ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Entfernen »%1$@’?"
+  },
+  "RemoveTags": {
+    "origin": "Files:RemoveTags",
+    "text": "Tags entfernen"
+  },
+  "Removing tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag entfernen"
+  },
+  "Rename": {
+    "origin": "Files:Rename",
+    "text": "Umbenennen"
+  },
+  "Rename %1$@ items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rename %1$@ Gegenstände"
+  },
+  "Rename archive entry": {
+    "origin": "M2M100-418M-local",
+    "text": "Rename Archiv Eingang"
+  },
+  "Rename entry…": {
+    "origin": "M2M100-418M-local",
+    "text": "Rename Eintritt..."
+  },
+  "Rename failed. Your item is preserved at %1$@. %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Rename fehlte. Ihr Artikel wird auf %1$@. %2$@"
+  },
+  "Rename remote item": {
+    "origin": "M2M100-418M-local",
+    "text": "Rename Entfernung"
+  },
+  "Rename…": {
+    "origin": "Files:Rename",
+    "text": "Umbenennen"
+  },
+  "Renaming": {
+    "origin": "M2M100-418M-local",
+    "text": "Renamierung"
+  },
+  "Renaming items": {
+    "origin": "M2M100-418M-local",
+    "text": "Reparatur von Gegenständen"
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Finder uses the macOS palette; custom colors and stable IDs are retained by MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Wiederherstellen oder Löschung einer gespeicherten Tag-Updatesdatei, die durch SpotlightUnindexierte oder unzugängliche Dateien können das alte Tag behalten. Finder Verwenden Sie die macOS Palette; angepasene Farben und stabile IDs werden durch MacFiles."
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Tag colors use the macOS palette.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Wiederherstellen oder Löschung einer gespeicherten Tag-Updatesdatei, die durch Spotlight. Unindexierte oder unzugängliche Dateien können die alte Tag behalten. macOS Das Palette."
+  },
+  "Reopen closed tab": {
+    "origin": "M2M100-418M-local",
+    "text": "Wieder öffnen geschlossenes Tab"
+  },
+  "Replace": {
+    "origin": "M2M100-418M-local",
+    "text": "Ersatz"
+  },
+  "Replace this item's ACL?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ersatz dieses Artikels ACL?"
+  },
+  "Replace with": {
+    "origin": "M2M100-418M-local",
+    "text": "Ersatz mit"
+  },
+  "Replace, keeping backup": {
+    "origin": "M2M100-418M-local",
+    "text": "Ersatz, Backup bewahren"
+  },
+  "Report an issue": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Berichten Sie über ein Thema"
+  },
+  "Repository": {
+    "origin": "M2M100-418M-local",
+    "text": "Repositorien"
+  },
+  "Repository URL": {
+    "origin": "Files:RepositoryURL",
+    "text": "Repository-URL"
+  },
+  "Requesting cloud download": {
+    "origin": "M2M100-418M-local",
+    "text": "Cloud Download anfordern"
+  },
+  "Reset": {
+    "origin": "M2M100-418M-local",
+    "text": "Wiederherstellen"
+  },
+  "Reset all": {
+    "origin": "M2M100-418M-local",
+    "text": "Restorieren Sie alle"
+  },
+  "Reset icon": {
+    "origin": "M2M100-418M-local",
+    "text": "Wiederherstellung von Icon"
+  },
+  "Reset pinned folders": {
+    "origin": "M2M100-418M-local",
+    "text": "Wiederherstellen von gepflanzten Ordnern"
+  },
+  "Restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Neu starten MacFiles"
+  },
+  "Restore all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Restorieren Sie alle"
+  },
+  "Restore command defaults": {
+    "origin": "M2M100-418M-local",
+    "text": "Wiederherstellung von Befehldefiziten"
+  },
+  "Restore here": {
+    "origin": "M2M100-418M-local",
+    "text": "Wiederherstellen hier"
+  },
+  "Restore original location": {
+    "origin": "M2M100-418M-local",
+    "text": "Erholen Sie die ursprüngliche Lage"
+  },
+  "Restore previous folder viewer": {
+    "origin": "M2M100-418M-local",
+    "text": "Wiederherstellen der vorherigen Folder Viewer"
+  },
+  "Restore tabs at launch": {
+    "origin": "M2M100-418M-local",
+    "text": "Wiederherstellen von Tabs beim Start"
+  },
+  "Restore to…": {
+    "origin": "M2M100-418M-local",
+    "text": "Wiederherstellen zu..."
+  },
+  "Restoring from Trash": {
+    "origin": "M2M100-418M-local",
+    "text": "Wiederherstellung von Trash"
+  },
+  "Results come from the macOS Spotlight index. Unindexed folders are not included.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die Ergebnisse kommen von der macOS Spotlight Index: Unindexierte Ordner sind nicht enthalten."
+  },
+  "Results in this folder and subfolders": {
+    "origin": "M2M100-418M-local",
+    "text": "Ergebnisse in diesem Folder und Subfolder"
+  },
+  "Retargeting shortcut": {
+    "origin": "M2M100-418M-local",
+    "text": "Retargeting Shortcut"
+  },
+  "Retarget…": {
+    "origin": "M2M100-418M-local",
+    "text": "Retarget..."
+  },
+  "Reveal": {
+    "origin": "M2M100-418M-local",
+    "text": "Entdecken"
+  },
+  "Reveal in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Entdecken Sie in Finder"
+  },
+  "Reverse tab scroll direction": {
+    "origin": "Files:ReverseTabScrollDirection",
+    "text": "Tab-Scrollrichtung umkehren"
+  },
+  "Review server fingerprint…": {
+    "origin": "M2M100-418M-local",
+    "text": "Überprüfung von Server Fingerprint..."
+  },
+  "Right": {
+    "origin": "Files:Right",
+    "text": "Rechts"
+  },
+  "Rotate left": {
+    "origin": "Files:RotateLeft",
+    "text": "Gegen den Uhrzeigersinn drehen"
+  },
+  "Rotate right": {
+    "origin": "Files:RotateRight",
+    "text": "Mit dem Uhrzeigersinn drehen"
+  },
+  "Rotating left": {
+    "origin": "M2M100-418M-local",
+    "text": "Rotation links"
+  },
+  "Rotating right": {
+    "origin": "M2M100-418M-local",
+    "text": "Rotieren rechts"
+  },
+  "Running": {
+    "origin": "M2M100-418M-local",
+    "text": "Rennen"
+  },
+  "SFTP (SSH keys)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SFTP (SSH Schlüssel)"
+  },
+  "SMB, AFP, or WebDAV share": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SMB, AFPoder WebDAV Teilen"
+  },
+  "SSH known-host verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH Bekannte Host-Verifizierung"
+  },
+  "SSH passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH Passwörter können keine Linienbrechen enthalten oder NUL Die Charaktere ."
+  },
+  "Save": {
+    "origin": "Files:Save",
+    "text": "Speichern"
+  },
+  "Save attribute": {
+    "origin": "M2M100-418M-local",
+    "text": "Sparen Sie Attribute"
+  },
+  "Save folder layout": {
+    "origin": "M2M100-418M-local",
+    "text": "Speichern Sie die Folderlayout"
+  },
+  "Save metadata": {
+    "origin": "M2M100-418M-local",
+    "text": "Metadaten zu speichern"
+  },
+  "Save search": {
+    "origin": "M2M100-418M-local",
+    "text": "Suche sparen"
+  },
+  "Save search…": {
+    "origin": "M2M100-418M-local",
+    "text": "Suche zu speichern..."
+  },
+  "Save to Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sparen Sie zu Keychain"
+  },
+  "Saved connections": {
+    "origin": "M2M100-418M-local",
+    "text": "Rettete Verbindungen"
+  },
+  "Saved searches": {
+    "origin": "M2M100-418M-local",
+    "text": "Rettete Suche"
+  },
+  "Saved. The token will be used for GitHub HTTPS operations.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Der Token wird für GitHub HTTPS-Betrieb verwendet."
+  },
+  "Seafoam": {
+    "origin": "Files:Seafoam",
+    "text": "Gischt"
+  },
+  "Search": {
+    "origin": "Files:Key.BrowserSearch",
+    "text": "Suche"
+  },
+  "Search %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Suche %1$@"
+  },
+  "Search %1$@ · Return searches subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Suche %1$@ · Rückkehr Suchende Subfolders"
+  },
+  "Search available actions": {
+    "origin": "M2M100-418M-local",
+    "text": "Suche nach verfügbaren Aktionen"
+  },
+  "Search commands": {
+    "origin": "M2M100-418M-local",
+    "text": "Suchkommando"
+  },
+  "Search folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Suche Folder"
+  },
+  "Search settings": {
+    "origin": "Files:SearchSettings",
+    "text": "Einstellungen suchen..."
+  },
+  "Search stopped.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die Suche wurde gestoppt."
+  },
+  "Search subfolders": {
+    "origin": "M2M100-418M-local",
+    "text": "Suche nach Subfolders"
+  },
+  "Security": {
+    "origin": "Files:Security",
+    "text": "Sicherheit"
+  },
+  "Select": {
+    "origin": "Files:NavToolbarSelectionOptions.Label",
+    "text": "Auswählen"
+  },
+  "Select a file to view its diff.": {
+    "origin": "M2M100-418M-local",
+    "text": "Wählen Sie eine Datei aus, um ihre diff zu sehen."
+  },
+  "Select a macOS alias or symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Wählen Sie A macOS Alias oder symbolischer Link."
+  },
+  "Select a regular media file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Wählen Sie eine regelmäßige Mediendatei aus."
+  },
+  "Select all": {
+    "origin": "Files:SelectAll",
+    "text": "Alles auswählen"
+  },
+  "Select an archive": {
+    "origin": "M2M100-418M-local",
+    "text": "Wählen Sie ein Archiv"
+  },
+  "Select an item to see its details.": {
+    "origin": "M2M100-418M-local",
+    "text": "Wählen Sie ein Element aus, um seine Details zu sehen."
+  },
+  "Select archive entries to remove.": {
+    "origin": "M2M100-418M-local",
+    "text": "Wählen Sie Archive enthalten zu entfernen."
+  },
+  "Select on hover": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Wählen Sie auf Hover"
+  },
+  "Select previous folder when navigating up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Wählen Sie die vorherige Folder beim Navigieren"
+  },
+  "Select uniquely named items to archive.": {
+    "origin": "M2M100-418M-local",
+    "text": "Wählen Sie einzigartig benannte Elemente in Archiv aus."
+  },
+  "Selected items": {
+    "origin": "M2M100-418M-local",
+    "text": "ausgewählte Gegenstände"
+  },
+  "Selected items have duplicate names. Archive them separately.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die ausgewählten Elemente haben doppelte Namen. Archive sie separat."
+  },
+  "Selection checkboxes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Auswahl von Checkboxes"
+  },
+  "Separate file and folder counts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Separate Datei und Ordner zählen"
+  },
+  "Separator": {
+    "origin": "Files:Separator",
+    "text": "Trenner"
+  },
+  "Server": {
+    "origin": "M2M100-418M-local",
+    "text": "Server"
+  },
+  "Set as app background": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "Als App-Hintergrund festlegen"
+  },
+  "Set as wallpaper": {
+    "origin": "M2M100-418M-local",
+    "text": "Set als Wallpaper"
+  },
+  "Set default": {
+    "origin": "M2M100-418M-local",
+    "text": "Set Default"
+  },
+  "SetAsAppBackground": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "Als App-Hintergrund festlegen"
+  },
+  "Settings": {
+    "origin": "Files:Settings",
+    "text": "Einstellungen"
+  },
+  "Settings file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Settings Datei"
+  },
+  "Settings saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die Einstellungen gerettet."
+  },
+  "Settings…": {
+    "origin": "Files:Settings",
+    "text": "Einstellungen"
+  },
+  "Share": {
+    "origin": "Files:Share",
+    "text": "Teilen"
+  },
+  "Share…": {
+    "origin": "Files:Share",
+    "text": "Teilen"
+  },
+  "Shelf": {
+    "origin": "Files:Shelf",
+    "text": "Ablage"
+  },
+  "Shortcut": {
+    "origin": "Files:Shortcut",
+    "text": "Verknüpfung"
+  },
+  "Shortcuts apply in the explorer. Text fields keep native editing behavior. Resolve duplicate assignments before applying.": {
+    "origin": "M2M100-418M-local",
+    "text": "Kurzgeschnitten gelten im Explorer. Textfelder halten native Editing-Verhalten. Löschen Sie duplikate Aufgaben vor der Anwendung."
+  },
+  "Show dotfiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dockfiles zeigen"
+  },
+  "Show hidden files": {
+    "origin": "M2M100-418M-local",
+    "text": "zeigen versteckte Dateien"
+  },
+  "Show in folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Show in Folder"
+  },
+  "Show log in folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Log in Folder zeigen"
+  },
+  "Show menu bar icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Anzeigen Menu Bar Icon"
+  },
+  "Show package contents": {
+    "origin": "M2M100-418M-local",
+    "text": "Show Package Inhalte"
+  },
+  "Show shelf button": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Schaltfläche Shelf"
+  },
+  "Show staged diff": {
+    "origin": "M2M100-418M-local",
+    "text": "Show Stage diff"
+  },
+  "Show status bar": {
+    "origin": "Files:ShowStatusBar",
+    "text": "Statusleiste anzeigen"
+  },
+  "Show tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Show Tab Aktionen"
+  },
+  "Show thumbnails": {
+    "origin": "Files:SettingsFilesAndFoldersShowThumbnails",
+    "text": "Miniaturansichten anzeigen"
+  },
+  "ShowFileExtensions": {
+    "origin": "Files:ShowFileExtensions",
+    "text": "Dateierweiterungen"
+  },
+  "Sidebar": {
+    "origin": "Files:Sidebar",
+    "text": "Seitenleiste"
+  },
+  "Signature": {
+    "origin": "M2M100-418M-local",
+    "text": "Unterschrift"
+  },
+  "Signature integrity verification failed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die Signaturintegritätsverprüfung fehlte."
+  },
+  "Signature integrity verified. This does not constitute a notarization or malware assessment.": {
+    "origin": "M2M100-418M-local",
+    "text": "Signaturintegrität verifiziert. Dies stellt keine Notarisierung oder Malware Bewertung dar."
+  },
+  "Signatures": {
+    "origin": "Files:Signatures",
+    "text": "Signaturen"
+  },
+  "Single file": {
+    "origin": "M2M100-418M-local",
+    "text": "Single Datei"
+  },
+  "Single folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Einzigartige Folder"
+  },
+  "Single-click columns": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Single-Click Kolumne"
+  },
+  "Single-click files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Single-Click Dateien"
+  },
+  "Single-click folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Single-Click Folder"
+  },
+  "Size": {
+    "origin": "Files:SizeLabel",
+    "text": "Größe:"
+  },
+  "Size units": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Größe Einheiten"
+  },
+  "Skip": {
+    "origin": "Files:Skip",
+    "text": "Überspringen"
+  },
+  "Skip existing": {
+    "origin": "M2M100-418M-local",
+    "text": "Skip vorhanden"
+  },
+  "Small icons": {
+    "origin": "M2M100-418M-local",
+    "text": "Kleine Ikonen"
+  },
+  "Smooth scrolling": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Schmutzige Scrolling"
+  },
+  "Solid": {
+    "origin": "Files:Solid",
+    "text": "Solide"
+  },
+  "Some files could not be updated. The saved tag was retained so you can retry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Einige Dateien konnten nicht aktualisiert werden. Das gespeicherte Tag wurde beibehalten, so dass Sie zurückziehen können."
+  },
+  "Some items could not be read.": {
+    "origin": "M2M100-418M-local",
+    "text": "Einige Artikel konnten nicht gelesen werden."
+  },
+  "Some items couldn’t be completed": {
+    "origin": "M2M100-418M-local",
+    "text": "Einige Elemente konnten nicht abgeschlossen werden"
+  },
+  "Some items have no recorded original location. Select them and use Restore to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Einige Elemente haben keine ursprünglichen Standort. Wählen Sie sie aus und verwenden Sie Wiederherstellung zu..."
+  },
+  "Sort": {
+    "origin": "Files:Sort",
+    "text": "Sortieren"
+  },
+  "Sort by": {
+    "origin": "Files:SortBy",
+    "text": "Sortieren nach"
+  },
+  "SortFilesAndFoldersTogether": {
+    "origin": "Files:SortFilesAndFoldersTogether",
+    "text": "Dateien und Ordner zusammen sortieren"
+  },
+  "SortFilesFirst": {
+    "origin": "Files:SortFilesFirst",
+    "text": "Dateien zuerst sortieren"
+  },
+  "SortFoldersFirst": {
+    "origin": "Files:SortFoldersFirst",
+    "text": "Ordner zuerst sortieren"
+  },
+  "Source code": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Quellcode"
+  },
+  "Special device entries cannot be extracted: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Spezielle Geräteinträge können nicht extrahiert werden: %1$@"
+  },
+  "Split archives use ZIP or 7z format.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die Verwendung von Split-Archiven ZIP oder 7z Formattieren"
+  },
+  "Split into volumes (MiB, optional)": {
+    "origin": "M2M100-418M-local",
+    "text": "Teilen Sie in Volumen (MiB, optionale)"
+  },
+  "Stage all": {
+    "origin": "M2M100-418M-local",
+    "text": "Stufe alle"
+  },
+  "Stage selected": {
+    "origin": "M2M100-418M-local",
+    "text": "Stufe ausgewählt"
+  },
+  "Staged all changes": {
+    "origin": "M2M100-418M-local",
+    "text": "Alle Veränderungen abgeschlossen"
+  },
+  "Staged selected files": {
+    "origin": "M2M100-418M-local",
+    "text": "Staged ausgewählte Dateien"
+  },
+  "Start": {
+    "origin": "Files:Start",
+    "text": "Starten"
+  },
+  "Start folder": {
+    "origin": "M2M100-418M-local",
+    "text": "Startseite Folder"
+  },
+  "Startup": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup"
+  },
+  "Startup and tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup und Tabs"
+  },
+  "Startup folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup Folder"
+  },
+  "Startup folders are used when session restoration is disabled. An empty list opens Home.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Start-Folders werden verwendet, wenn die Session-Restoration ausgeschaltet ist. Eine leere Liste öffnet Home."
+  },
+  "Status": {
+    "origin": "M2M100-418M-local",
+    "text": "Status"
+  },
+  "Stop": {
+    "origin": "M2M100-418M-local",
+    "text": "Stoppen"
+  },
+  "Stopped before the next item. Completed items were kept.": {
+    "origin": "M2M100-418M-local",
+    "text": "Stoppete vor dem nächsten Artikel. abgeschlossenen Gegenstände wurden behalten."
+  },
+  "Storage settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Speicherinstellungen ..."
+  },
+  "Storm": {
+    "origin": "Files:Storm",
+    "text": "Sturm"
+  },
+  "Stretch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Stretch"
+  },
+  "Switch to new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Switch auf neue Tabs"
+  },
+  "Switched to %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Wechsel zum %1$@"
+  },
+  "Symbolic Link": {
+    "origin": "M2M100-418M-local",
+    "text": "Symbolische Link"
+  },
+  "Symbolic link": {
+    "origin": "M2M100-418M-local",
+    "text": "Symbolische Link"
+  },
+  "Sync": {
+    "origin": "Files:GitSync",
+    "text": "Synchronisieren"
+  },
+  "Sync conflict": {
+    "origin": "M2M100-418M-local",
+    "text": "Synchronisierung Konflikt"
+  },
+  "Sync error": {
+    "origin": "M2M100-418M-local",
+    "text": "Synchronisierung Fehler"
+  },
+  "Synced": {
+    "origin": "M2M100-418M-local",
+    "text": "Synchronisiert"
+  },
+  "Synchronize folder preferences": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Synchronisieren von Ordnervorstellungen"
+  },
+  "System": {
+    "origin": "Files:SystemTimeStyle",
+    "text": "System"
+  },
+  "TLS certificate verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "TLS Zertifizierungsprüfung"
+  },
+  "Tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tab Aktionen"
+  },
+  "Tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tabs"
+  },
+  "Tag": {
+    "origin": "M2M100-418M-local",
+    "text": "Tag"
+  },
+  "Tag (blank = all tags)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag (blank = alle tags)"
+  },
+  "Tag color": {
+    "origin": "Files:TagColor",
+    "text": "Farbe des Tags"
+  },
+  "Tag name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag Name"
+  },
+  "Tag names must be unique.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die Namen müssen einzigartig sein."
+  },
+  "Tag update failed and original metadata could not be restored: ": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag-Update fehlte und ursprüngliche Metadaten konnten nicht wiederhergestellt werden: "
+  },
+  "Tagged items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tagged Gegenstände"
+  },
+  "Tags": {
+    "origin": "M2M100-418M-local",
+    "text": "Tags"
+  },
+  "Tags, separated by commas": {
+    "origin": "M2M100-418M-local",
+    "text": "Tags, getrennt von commas"
+  },
+  "Target": {
+    "origin": "Files:PropertyItemTarget",
+    "text": "Ziel"
+  },
+  "Terminal": {
+    "origin": "M2M100-418M-local",
+    "text": "Terminal"
+  },
+  "Test IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Test IDE"
+  },
+  "The ACL failed validation.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die ACL Nicht validiert wird."
+  },
+  "The command failed (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die Befehlschaft hat nicht gelungen (%1$@)."
+  },
+  "The custom icon and saved layout belong to the selected item.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die benutzerdefinierte Ikon und die gespeicherte Layout gehören zum ausgewählten Element."
+  },
+  "The destination connection changed. Drop the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die Zielverbindung ändert sich. die Dateien erneut löschen."
+  },
+  "The destination connection changed. Paste the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die Zielverbindung ändert sich. die Dateien erneut festgelegt."
+  },
+  "The destination is not an accessible folder.": {
+    "origin": "M2M100-418M-local",
+    "text": "Das Ziel ist kein zugänglicher Ordner."
+  },
+  "The icon could not be changed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die Ikon kann nicht geändert werden."
+  },
+  "The icon could not be reset.": {
+    "origin": "M2M100-418M-local",
+    "text": "Das Icon konnte nicht wieder aufgestellt werden."
+  },
+  "The media container did not retain: ": {
+    "origin": "M2M100-418M-local",
+    "text": "Der Mediencontainer behält nicht: "
+  },
+  "The media tracks cannot be preserved in this container.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die Medienstraßen können nicht in diesem Container gespeichert werden."
+  },
+  "The new shortcut target does not exist.": {
+    "origin": "M2M100-418M-local",
+    "text": "Das neue Kurzzeitraum gibt es nicht."
+  },
+  "The old shortcut is in Trash, but macOS did not return its location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Der alte Schnitt ist in Trash, aber macOS Er kehrte seine Position nicht zurück."
+  },
+  "The original archive remains recoverable with Undo.": {
+    "origin": "M2M100-418M-local",
+    "text": "Das ursprüngliche Archiv bleibt mit Undo wiederherstellbar."
+  },
+  "The server did not return a valid host-key list.": {
+    "origin": "M2M100-418M-local",
+    "text": "Der Server kehrte keine gültige Host-Key-Liste zurück."
+  },
+  "The server recovery path is occupied by a file.": {
+    "origin": "M2M100-418M-local",
+    "text": "Der Server-Erholungsweg ist von einem Datei besetzt."
+  },
+  "The server returned an unsafe or unsupported filename.": {
+    "origin": "M2M100-418M-local",
+    "text": "Der Server hat einen unsicheren oder nicht unterstützten Dateinamen zurückgegeben."
+  },
+  "The server returned an unsupported directory listing. No transfer was started.": {
+    "origin": "M2M100-418M-local",
+    "text": "Der Server kehrte eine nicht unterstützte Katalogliste zurück. Keine Übertragung begann."
+  },
+  "The shortcut will point to %1$@. The target file itself is not modified.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die Kurze wird darauf hinweisen, dass %1$@Die Zieldatei selbst wird nicht geändert."
+  },
+  "The slideshow changes desktop wallpaper while MacFiles is running. It resumes at launch when enabled. macOS controls the lock screen wallpaper separately.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die Slideshow ändert Desktop-Tabelle während MacFiles ist laufen. Es startet erneut, wenn es aktiviert wird. macOS Kontrollieren Sie den Lock Screen Wallpaper separat."
+  },
+  "The system script could not be compiled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Das System-Script konnte nicht zusammengefasst werden."
+  },
+  "The system script could not be created.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Das System-Script konnte nicht erstellt werden."
+  },
+  "The transfer selection changed. Cut the items again.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die Übertragungswahl geändert. Cut die Artikel erneut."
+  },
+  "The uploaded data did not match its source. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "text": "Die hochgeladenen Daten entsprach ihre Quelle nicht. die Quelle wurde beibehalten."
+  },
+  "The uploaded iCloud copy remains available. macOS will download it again when needed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Die uploaded iCloud Kopie bleibt verfügbar. macOS Sie werden es dann wieder herunterladen, wenn nötig."
+  },
+  "Theme": {
+    "origin": "Files:SettingsAppearanceTheme",
+    "text": "Modus"
+  },
+  "These items will be removed from Trash. This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "text": "Diese Elemente werden von Trash entfernt. Dies kann nicht verhindert werden."
+  },
+  "Third-party providers do not expose a common public sync-completion API. Available locally describes downloaded bytes, not upload completion. Download requests do not pin files permanently.": {
+    "origin": "M2M100-418M-local",
+    "text": "Drittanbieter exponieren keine gemeinsame öffentliche Synchronisierung-Full-API. verfügbar lokal beschreibt heruntergeladenen Byten, nicht heruntergeladenen Full-Full-Full-Full-Full-Full."
+  },
+  "This FTP server cannot create symbolic links. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Diese FTP Der Server kann keine symbolischen Links erstellen.Die Quelle wurde beibehalten."
+  },
+  "This Mac": {
+    "origin": "M2M100-418M-local",
+    "text": "Dieser Mac"
+  },
+  "This alias contains a target cycle.": {
+    "origin": "M2M100-418M-local",
+    "text": "Dieser Alias enthält einen Zielzyklus."
+  },
+  "This archive format is read-only. Extract it and create a ZIP or 7z archive to edit its contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dieses Archivformat ist nur gelesen. extrahieren Sie es und erstellen Sie eine ZIP oder 7z Archivieren, um seine Inhalte zu bearbeiten."
+  },
+  "This archive or server protocol does not expose macOS extended attributes. Extract or download the item to manage attributes on its local copy.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dieses Archiv oder Server-Protokoll zeigt nicht macOS Erweiterte Attribute. extrahieren oder herunterladen Sie das Element, um Attribute auf seiner lokalen Kopie zu verwalten."
+  },
+  "This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Das kann nicht unbeachtet werden."
+  },
+  "This changes the registered folder viewer. Finder still manages the desktop and macOS file dialogs. You can restore the previous viewer here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Dies ändert den registrierten Ordner-Viewer. Finder Sie verwalten den Desktop und macOS Datei-Dialogs. Sie können hier den vorherigen Viewer wiederherstellen."
+  },
+  "This changes which users can access the item. Export the existing ACL first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Diese Änderungen, mit denen die Benutzer den Artikel zugreifen können. exportieren die bestehenden ACL Zunächst, wenn Sie eine Backup benötigen."
+  },
+  "This folder is empty": {
+    "origin": "Files:EmptyFolder.Text",
+    "text": "Dieser Ordner ist leer."
+  },
+  "This location is not ready for transfers.": {
+    "origin": "M2M100-418M-local",
+    "text": "Dieser Standort ist nicht für Transfers bereit."
+  },
+  "This media format cannot be edited by the native exporter.": {
+    "origin": "M2M100-418M-local",
+    "text": "Dieses Medienformat kann nicht von dem indigenen Exporteur bearbeitet werden."
+  },
+  "This metadata container uses indexed keys; edit it with its native media application.": {
+    "origin": "M2M100-418M-local",
+    "text": "Dieser Metadatenbehälter verwendet indexierte Schlüssel; bearbeitet es mit seiner indigenen Medienanwendung."
+  },
+  "This operation cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "text": "Diese Operation kann nicht verweigert werden."
+  },
+  "This removes the attribute from this file. Export its bytes first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "text": "Dies entfernt das Attribute aus diesem Datei. Exportieren Sie seine Byte zuerst, wenn Sie eine Backup benötigen."
+  },
+  "Thumbnail cache limit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thumbnail Cache Limit"
+  },
+  "Thumbnails": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thumbnails"
+  },
+  "Thumbnails are cached in memory. The limit applies to decoded images.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thumbnails sind in der Speicher verschlüsselt. Die Grenze gilt für gedecodierte Bilder."
+  },
+  "Tiles": {
+    "origin": "M2M100-418M-local",
+    "text": "Tilen"
+  },
+  "Title": {
+    "origin": "Files:PropertyTitle",
+    "text": "Titel"
+  },
+  "Today": {
+    "origin": "Files:Today",
+    "text": "Heute"
+  },
+  "Toggle compact overlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "Kompakte Ansicht umschalten"
+  },
+  "Toggle details pane": {
+    "origin": "M2M100-418M-local",
+    "text": "Details zum Thema Pan"
+  },
+  "Toggle dual pane": {
+    "origin": "Files:ToggleDualPane",
+    "text": "Geteilte Ansicht umschalten"
+  },
+  "Toggle filter header": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "Filter-Header umschalten"
+  },
+  "Toggle full screen": {
+    "origin": "M2M100-418M-local",
+    "text": "Vollbildschirm zusammengefasst"
+  },
+  "Toggle selection": {
+    "origin": "Files:ToggleSelect",
+    "text": "Auswahl umschalten"
+  },
+  "ToggleCompactOverlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "Kompakte Ansicht umschalten"
+  },
+  "ToggleFilterHeader": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "Filter-Header umschalten"
+  },
+  "ToggleSelect": {
+    "origin": "Files:ToggleSelect",
+    "text": "Auswahl umschalten"
+  },
+  "ToggleSidebar": {
+    "origin": "Files:ToggleSidebar",
+    "text": "Seitenleiste umschalten"
+  },
+  "ToggleToolbar": {
+    "origin": "Files:ToggleToolbar",
+    "text": "Symbolleiste umschalten"
+  },
+  "Too many nested aliases.": {
+    "origin": "M2M100-418M-local",
+    "text": "Zu viele Alias."
+  },
+  "Tools": {
+    "origin": "M2M100-418M-local",
+    "text": "Werkzeuge"
+  },
+  "Top": {
+    "origin": "Files:Top",
+    "text": "Oben"
+  },
+  "Total size": {
+    "origin": "M2M100-418M-local",
+    "text": "Gesamtgröße"
+  },
+  "Transfer failed": {
+    "origin": "M2M100-418M-local",
+    "text": "Transfer versagt"
+  },
+  "Trash": {
+    "origin": "Files:RecycleBin",
+    "text": "Papierkorb"
+  },
+  "Trash on this Mac and connected volumes": {
+    "origin": "M2M100-418M-local",
+    "text": "Trash auf diesem Mac und verbundene Volumen"
+  },
+  "Trust": {
+    "origin": "M2M100-418M-local",
+    "text": "Vertrauen"
+  },
+  "Trust this SSH server?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vertrauen Sie dies SSH Der Server?"
+  },
+  "Trust verified fingerprints": {
+    "origin": "M2M100-418M-local",
+    "text": "Vertrauen überprüfte Fingerabdrücke"
+  },
+  "Try again": {
+    "origin": "M2M100-418M-local",
+    "text": "Versuchen Sie erneut"
+  },
+  "Under window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Unter dem Fenster"
+  },
+  "Undo": {
+    "origin": "Files:Undo",
+    "text": "Rückgängig"
+  },
+  "Undo file operation": {
+    "origin": "M2M100-418M-local",
+    "text": "Undo Datei Operation"
+  },
+  "Undoing": {
+    "origin": "M2M100-418M-local",
+    "text": "Undoing"
+  },
+  "Unencrypted FTP": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Unschlüsselung FTP"
+  },
+  "Universal": {
+    "origin": "Files:Universal",
+    "text": "Universell"
+  },
+  "Unknown": {
+    "origin": "Files:Unknown",
+    "text": "Unbekannt"
+  },
+  "Unknown shortcut command.": {
+    "origin": "M2M100-418M-local",
+    "text": "Unbekannte Shortcut-Kommandos"
+  },
+  "Unpin": {
+    "origin": "Files:Unpin",
+    "text": "Loslösen"
+  },
+  "Unsafe archive link target.": {
+    "origin": "M2M100-418M-local",
+    "text": "Unsicheres Archiv Link Ziel."
+  },
+  "Unstage": {
+    "origin": "M2M100-418M-local",
+    "text": "Unstage"
+  },
+  "Unstaged selected files": {
+    "origin": "M2M100-418M-local",
+    "text": "Unstahbare ausgewählte Dateien"
+  },
+  "Unsupported Git action.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ununterstützte Git Aktion"
+  },
+  "Unsupported archive entry name or listing.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ununterstützte Archiv-Entername oder Listing."
+  },
+  "Unsupported file type in transfer.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ununterstützte Dateityp im Transfer."
+  },
+  "Unsupported metadata container version.": {
+    "origin": "M2M100-418M-local",
+    "text": "Nicht unterstützte Metadaten-Containernversion."
+  },
+  "Unsupported movie header.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ununterstützte Filmheader"
+  },
+  "Untagged": {
+    "origin": "Files:Untagged",
+    "text": "Ohne Tag"
+  },
+  "Up": {
+    "origin": "Files:Key.Up",
+    "text": "Nach oben (Alt+Pfeiltaste oben)"
+  },
+  "Up one level": {
+    "origin": "M2M100-418M-local",
+    "text": "Auf ein Niveau"
+  },
+  "Up one level · ⌘↑": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Auf einem Niveau ⌘↑"
+  },
+  "Updates native macOS tags for all selected items. Leave empty to remove tags.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Aktualisierungen Native macOS Tags für alle ausgewählten Elemente. Lassen Sie leer, um die tags zu entfernen."
+  },
+  "Updating archive": {
+    "origin": "M2M100-418M-local",
+    "text": "Aktualisierung Archiv"
+  },
+  "Updating media metadata": {
+    "origin": "M2M100-418M-local",
+    "text": "Aktualisierung von Medienmetadata"
+  },
+  "Updating permissions": {
+    "origin": "M2M100-418M-local",
+    "text": "Aktualisierung der Genehmigungen"
+  },
+  "Upload": {
+    "origin": "M2M100-418M-local",
+    "text": "Aufladen"
+  },
+  "Upload failed. The original remains at %1$@; the pending upload is %2$@. %3$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Laden fehlte. der Original bleibt auf %1$@Die abgedehnte Upgrade ist %2$@. %3$@"
+  },
+  "Upload files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Upgrade Dateien..."
+  },
+  "Upload regular files or folders; symbolic links are not followed.": {
+    "origin": "M2M100-418M-local",
+    "text": "Laden Sie regelmäßige Dateien oder Ordner herunter; symbolische Links werden nicht gefolgt."
+  },
+  "Uploading": {
+    "origin": "M2M100-418M-local",
+    "text": "Laden"
+  },
+  "Upstream Files issues": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Upstream-Dateien Probleme"
+  },
+  "Use Copy and Paste or Download to transfer remote items.": {
+    "origin": "M2M100-418M-local",
+    "text": "Verwenden Sie Kopieren und Pastieren oder Laden, um entfernte Elemente zu übertragen."
+  },
+  "Use Copy or Extract to transfer archive contents.": {
+    "origin": "M2M100-418M-local",
+    "text": "Verwenden Sie Kopieren oder Extraten, um Archivinhoud zu übertragen."
+  },
+  "Use MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gebrauch MacFiles"
+  },
+  "Use MacFiles for folder URLs?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gebrauch MacFiles Für die URLs?"
+  },
+  "Use MacFiles for folder URLs…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gebrauch MacFiles Für die Folder URLs..."
+  },
+  "User": {
+    "origin": "M2M100-418M-local",
+    "text": "Benutzer"
+  },
+  "Username": {
+    "origin": "Files:CredentialDialogUserName.PlaceholderText",
+    "text": "Benutzername"
+  },
+  "Uses SSH keys or the password above. Host-key verification remains enabled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gebrauch SSH Schlüssel oder Passwort oben. Host-Key-Verichtigung bleibt aktiviert."
+  },
+  "Uses the on-device Apple Intelligence model when available. Otherwise searches the words you entered. No file content is sent to a server.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Verwenden Sie das Apple Intelligence-Modell auf dem Gerät, wenn es verfügbar ist. Andernfalls suchen Sie nach den Wörtern, die Sie eingegeben haben. Kein Dateiinhalt wird an einen Server gesendet."
+  },
+  "Value": {
+    "origin": "M2M100-418M-local",
+    "text": "Wert"
+  },
+  "Verified host keys saved for MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Verifizierte Host-Schlüssel gespeichert für MacFiles."
+  },
+  "Vertical alignment": {
+    "origin": "Files:VerticalAlignment",
+    "text": "Vertikale Ausrichtung"
+  },
+  "Vertical split": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vertikale Spaltung"
+  },
+  "View": {
+    "origin": "M2M100-418M-local",
+    "text": "Blick"
+  },
+  "Volume": {
+    "origin": "M2M100-418M-local",
+    "text": "Volumen"
+  },
+  "Volume available": {
+    "origin": "M2M100-418M-local",
+    "text": "Volumen verfügbar"
+  },
+  "Volume capacity": {
+    "origin": "M2M100-418M-local",
+    "text": "Volume Kapazität"
+  },
+  "Volume case sensitive": {
+    "origin": "M2M100-418M-local",
+    "text": "Volume sensible Fälle"
+  },
+  "Volume read only": {
+    "origin": "M2M100-418M-local",
+    "text": "Volume nur gelesen"
+  },
+  "Volumes must be at least 1 KiB.": {
+    "origin": "M2M100-418M-local",
+    "text": "Volumen müssen mindestens 1 KiB sein."
+  },
+  "Waiting to sync": {
+    "origin": "M2M100-418M-local",
+    "text": "Warten auf Sync"
+  },
+  "Wallpaper could not be changed": {
+    "origin": "M2M100-418M-local",
+    "text": "Hintergrund kann nicht geändert werden"
+  },
+  "Wallpaper slideshow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Wallpaper Slideshow"
+  },
+  "Wallpaper slideshow…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Wallpaper Slideshow ..."
+  },
+  "Warn when changing file extensions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Warnung beim Ändern von Datei-Erweiterungen"
+  },
+  "When an item exists": {
+    "origin": "M2M100-418M-local",
+    "text": "Wenn ein Element existiert"
+  },
+  "When names conflict, choose Keep both, Replace, or Skip. Replaced versions and deleted items go to the macOS Trash. Undo and redo are retained across launches and shared by open windows.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Wenn Namen Konflikt, wählen Sie Beide, Ersatz oder Skip. ersetzt Versionen und gelöschtes Element gehen Sie auf die macOS Undo und redo werden über Starts gespeichert und von offenen Fenstern geteilt."
+  },
+  "Working…": {
+    "origin": "M2M100-418M-local",
+    "text": "Arbeiten..."
+  },
+  "Writable": {
+    "origin": "M2M100-418M-local",
+    "text": "Schreibbar"
+  },
+  "Writes embedded metadata. Image files may be re-encoded; the original remains recoverable with Undo. Audio and video edits preserve encoded tracks. Unsupported containers keep the original.": {
+    "origin": "M2M100-418M-local",
+    "text": "Schreibt eingebettete Metadaten. Image-Dateien können neu verschlüsselt werden; das Original bleibt mit Undo wiederherstellbar. Audio und Video-Edit bewahren verschlüsselte Spuren. Ununterstützte Container bewahren das Original."
+  },
+  "Year": {
+    "origin": "Files:Year",
+    "text": "Jahr"
+  },
+  "Yellow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gelb"
+  },
+  "Yes": {
+    "origin": "Files:Yes",
+    "text": "Ja"
+  },
+  "Yesterday": {
+    "origin": "Files:Yesterday",
+    "text": "Gestern"
+  },
+  "You can restore these items with Undo or from the Trash.": {
+    "origin": "M2M100-418M-local",
+    "text": "Sie können diese Artikel mit Undo oder aus dem Trash wiederherstellen."
+  },
+  "Your files, your way.": {
+    "origin": "M2M100-418M-local",
+    "text": "Ihre Dateien, Ihre Art und Weise."
+  },
+  "Your pinned folders": {
+    "origin": "M2M100-418M-local",
+    "text": "Ihre verbliebenen Folders"
+  },
+  "Zoom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Zoom"
+  },
+  "macOS aliases and symbolic links refer to a target path. Windows shortcut arguments and Run as administrator flags do not have alias equivalents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Aliasen und symbolische Verbindungen beziehen sich auf einen Zielweg. Windows Kurze Argumente und Run als Administrator-Flaggen haben keine alias-Equivalenten."
+  },
+  "macOS integration": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Integration"
+  },
+  "macOS moved the previous version to Trash but did not return its location. The new version was not installed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS die vorherige Version an Trash übertragen, aber ihre Standort nicht zurückgeben."
+  },
+  "macOS returned %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS zurückgegeben %1$@."
+  },
+  "macOS uses Mach-O architectures and the application's minimum OS version. Windows compatibility modes, DPI overrides and administrator flags cannot be applied to a native Mac app.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Gebrauch Mach-O Architektur und die Mindest-OS-Version der Anwendung. Windows Kompatibilitätsmodus, DPI-Überrunden und Administrator-Flaggen können nicht auf eine native Mac-App angewendet werden."
+  }
+}

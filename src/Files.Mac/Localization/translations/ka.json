@@ -1,0 +1,5287 @@
+{
+  "%1$@ MB": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ MB"
+  },
+  "%1$@ Trash location(s) could not be read. macOS may require Full Disk Access for Trash. Items listed here remain available to manage.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ ტრანსპორტის (რუსთავი) ადგილმდებარეობა (რუსთავი) არ შეგიძლიათ გააკეთოთ. macOS შეგიძლიათ გამოიყენოთ Full Disk Access for Trash. აქ ჩაწერილი ტექნოლოგიები შეგიძლიათ გააკეთოთ."
+  },
+  "%1$@ destination name(s) already exist": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "%1$@ entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ INTRODUCTION"
+  },
+  "%1$@ folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ ფაილი"
+  },
+  "%1$@ folders · %2$@ files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ ფაილები · %2$@ ფაილები"
+  },
+  "%1$@ folders · saves to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ ფაილები · Save to %2$@"
+  },
+  "%1$@ free of %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ უფასო %2$@"
+  },
+  "%1$@ inaccessible": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ არასოდეს უსაფრთხო"
+  },
+  "%1$@ is assigned more than once.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ გამოგზავნილია მეტი ერთხელ."
+  },
+  "%1$@ is reserved by macOS or the application window.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ ადიიიიიიიიიი რაააააააააააააააააააააააააააააააააააა macOS ან მოწყობილობების ფორმა."
+  },
+  "%1$@ is reserved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ ეს არის განხორციელებული."
+  },
+  "%1$@ item(s) ready to %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ პასუხია აქ პასუხია აქ პასუხია აქ პასუხია აქ პასუხია აქ პასუხია აქ პასუხია აქ %2$@"
+  },
+  "%1$@ selected items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@ გამოგზავნილია: 16 May 2017, 14:04"
+  },
+  "%1$@. Sync completion is managed by the provider and is not reported through public file metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "%1$@Sync completion is managed by the provider and is not through public file metadata (სამერიკული ფაილების metadata) (სამერიკული ფაილების ფაილების ფაილების ფაილების ფაილების ფაილების ფაილების ფაილების ფაილების ფაილების ფაილების ფაილების ფაილების ფაილების ფაილების ფაილების ფაილების ფაილების ფაილების ფაილების ფაილების ფაილების ფაილების ფაილების ფაილების ფაილები)."
+  },
+  "A different key is already trusted for this host. Review the changed key with the server administrator before replacing it.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "A different key is already trusted for this host. გამოიყურება ცნობილი Key with the server administrator before replacing it."
+  },
+  "A familiar place for everything.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "საინტერესო ადგილი ყველაფერს."
+  },
+  "A file operation is still running": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "File Operation-ის გამოყენებით რამდენიმე წუთის წინ"
+  },
+  "A folder cannot be copied or moved inside itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასოდეს შეგიძლიათ ჩამოტვირთოთ ან ჩამოტვირთოთ ფაილები საკუთარ თავში."
+  },
+  "A shortcut cannot target itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არავინ გეუბნება რო გიხდება ეს, არავინ გეუბნება რო გიხდება ეს."
+  },
+  "ACL updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ACL Updated წასვლა."
+  },
+  "About": {
+    "origin": "Files:About",
+    "text": "შესახებ"
+  },
+  "About MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "შესახებ MacFiles"
+  },
+  "Accent color (hex)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "შერჩეული შერჩეული შერჩეული შერჩეული შერჩეული შერჩეული შერჩეული შერჩეული შერჩეული შერჩეული შერჩეული შერჩეული შერჩეული შერჩეული"
+  },
+  "Access control list — native macOS syntax": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Access Control List - სახელური macOS Syntax სურათები"
+  },
+  "Access token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Access ტექნოლოგიური"
+  },
+  "Accounts, authentication and sync preferences are managed by each provider’s native app. Removing a saved folder here does not unlink its account or delete files.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Accounts, authentication and sync preferences are managed by each provider's native app. ჩამოტვირთვა ჩამოტვირთული ფორმა აქ არ გაკეთებს მისი ანგარიშის ან ჩამოტვირთვა ფაილები."
+  },
+  "Action unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასოდეს უზრუნველყოფს პრობლემები"
+  },
+  "Actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "პროექტი"
+  },
+  "Adaptive": {
+    "origin": "Files:Adaptive",
+    "text": "Automatically choose the best layout"
+  },
+  "Adaptive layout": {
+    "origin": "Files:Adaptive",
+    "text": "Automatically choose the best layout"
+  },
+  "Add": {
+    "origin": "Files:Add",
+    "text": "დამატება"
+  },
+  "Add cloud folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Add current selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Add files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Add ფაილები..."
+  },
+  "Add folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "მოკლე ფოტოსურათი..."
+  },
+  "Add images…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ფოტოსურათები გაიმართება..."
+  },
+  "Add prefix": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:04 #5246 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Add saved tag": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Add Saved Tag (მდე მისასვლელად)"
+  },
+  "Add selection to shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Add startup folders…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup ფაილები დატვირთვა..."
+  },
+  "Add suffix": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sufix-ის გამოყენებით"
+  },
+  "Add to library": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Add to ფოტოგრაფია"
+  },
+  "Add to shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Shelf-ის გამოყენებით"
+  },
+  "Advanced": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "განცხადება"
+  },
+  "Advanced search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Advanced სურათები"
+  },
+  "Advanced search…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "საინტერესო სურათები..."
+  },
+  "Album": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ალბომის"
+  },
+  "Allocated size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2017, 14:04 #5246 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Already assigned to %1$@. Remove that assignment first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "რამდენიმე წუთის წინ საქართველოს ყოფილი პრემიერ-მინისტრის, ვანო მერაბიშვილის დაკითხვა დასრულდა. მერაბიშვილმა შინაგან საქმეთა სამინისტრო უკვე დატოვა. %1$@ადიიიიიიიიიი რაააააააა"
+  },
+  "Always show operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ადიიიიიიიიიი რაააა"
+  },
+  "Always visible": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ყოველდღიურად გამოიყურება"
+  },
+  "Always-visible items are combined with the current selection context. Cloud items add their own controls.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ადიიიიიიიიიი რაააააააააააააააააააააააააააააააააააააააააააააააააააააააააააააააააააააა"
+  },
+  "Ambiguous archive listing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Ambiguous Archive რეგისტრაციის გარეშე."
+  },
+  "Ambiguous media metadata containers.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Medium metadata containers (გამარჯვებული მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური მობილური"
+  },
+  "Any": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ნებისმიერ"
+  },
+  "App language (restart to apply)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "App language (გამარჯვება გამოიყენება)"
+  },
+  "Appearance": {
+    "origin": "Files:Appearance",
+    "text": "შესახედაობა"
+  },
+  "Application": {
+    "origin": "Files:Application",
+    "text": "აპლიკაცია"
+  },
+  "Application unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასოდეს უზრუნველყოფს პროგრამას"
+  },
+  "Applies owner, group, and other permissions to the selected items only.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517417 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Apply": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოყენება"
+  },
+  "Apply ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოყენება ACL…"
+  },
+  "Apply UID %1$@ and GID %2$@ to this item only.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოყენება UID %1$@ და GID %2$@ მხოლოდ ამ პოსტში."
+  },
+  "Apply attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოყენებით Attributes"
+  },
+  "Apply file permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "File permissions რეგისტრაციის გარეშე"
+  },
+  "Apply owner/group…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 Jul, 2017 · პროფილი · პირადი მიმოწერა · ჩატი · ჩატი · ელფოსტა"
+  },
+  "Approve MacFiles in Login Items in System Settings.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "მიმოხილვა MacFiles In Login Items in System Settings (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) ფეხბურთელები ქართულად)"
+  },
+  "Archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive წერილი"
+  },
+  "Archive attempts to write through a link or file: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive attempts to write through a link or file (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) %1$@"
+  },
+  "Archive contains an unsafe path: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive contains an unsafe path (გამარჯვებული უსაფრთხო სიტყვები): %1$@"
+  },
+  "Archive contains an unsafe symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive contains an unsafe symbolic link (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) ფილმები ქართულად) ფილმები ქართულად ონლაინში ონლაინში ონლაინში ონლაინში ონლაინში"
+  },
+  "Archive editing cannot traverse symbolic links.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive editing cannot cross symbolic links (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) ფილმები ქართულად) (ქართულად) ფილმები ქართულად ონლაინში (ქართულად)"
+  },
+  "Archive link escapes its destination.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive link escapes its destination (ქართულად) (ქართულად) (ქართულად) (ქართულად) ფეხბურთელები ქართულად ონლაინში (ქართულად)"
+  },
+  "Archive link target is too long.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive link target არის ძალიან დიდი."
+  },
+  "Archive operation failed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive მუშაობა არ გაკეთებულა."
+  },
+  "Archive password (if needed)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive Password (გამარჯვებული თუ საჭირო)"
+  },
+  "Archive password (leave blank if unencrypted)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive Password (რუსთავი 2 მილიარდ დოლარი (რუსთავი 2 მილიარდ დოლარი) (რუსთავი 2 მილიარდ დოლარი)"
+  },
+  "Archive passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive passwords cannot contain line breaks (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) NUL ფუნდამენტები ."
+  },
+  "Archive path escapes the destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive Path Escapes the Destination (ქართულად) (ქართულად) (ქართულად) ფეხბურთელები ქართულად ონლაინში (ქართულად) %1$@"
+  },
+  "Archive root": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive წერილი"
+  },
+  "Archive symbolic link escapes the destination.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive symbolic link escapes the destination (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) ფილმები ქართულად) ფილმები ქართულად ონლაინში (ქართულად)"
+  },
+  "Arrange panes side by side": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Arrange panes top and bottom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Artist": {
+    "origin": "Files:Artist",
+    "text": "ხელოვანი"
+  },
+  "Artist / author": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "წერილი / წერილი"
+  },
+  "Ascending": {
+    "origin": "Files:Ascending",
+    "text": "ზრდადობის მიხედვით"
+  },
+  "Attribute name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "სახელწოდება Attribute"
+  },
+  "Attributes": {
+    "origin": "Files:Attributes",
+    "text": "ატრიბუტები:"
+  },
+  "Attributes updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Attributes Updated (მდე მისასვლელად განხორციელებული)"
+  },
+  "Auto-fit columns": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Auto-Fit კორპუსები"
+  },
+  "AutoFitColumns": {
+    "origin": "Files:AutoFitColumns",
+    "text": "Auto-fit columns"
+  },
+  "Available locally": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოყენებით Local"
+  },
+  "Back": {
+    "origin": "Files:Back",
+    "text": "უკან (Alt+Left Arrow)"
+  },
+  "Back · ⌘[": {
+    "origin": "Files:Back",
+    "text": "უკან (Alt+Left Arrow) · ⌘["
+  },
+  "Backdrop material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Backdrop ფუნქცია"
+  },
+  "Backdrop materials use macOS visual effects. Standard system controls and monospaced content retain their system fonts.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Backdrop პროდუქტის გამოყენებით macOS Visual Effects. Standard system controls and monospaced content retain their system fonts (სამერიკული სისტემის ტექნოლოგიები და ერთგვარი ტექნოლოგიური ტექნოლოგიები)"
+  },
+  "Background": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "პასუხი: პასუხი"
+  },
+  "Background color (blank = system)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ფოტოსურათი (რუსთავი = ფუნქციონირება)"
+  },
+  "Background image": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ფოტოსურათი"
+  },
+  "Background image and status": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ფოტოსურათი და ფოტოსურათი"
+  },
+  "Background image opacity": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ფოტოსურათი Opacity"
+  },
+  "Background mode keeps the menu bar icon available so you can reopen MacFiles or quit it.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Background mode keeps the menu bar icon available so you can reopen (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) MacFiles ან გაკეთებ."
+  },
+  "Background preset": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Under მისი სასაქონლო ნიშნის მუშაობა"
+  },
+  "Base": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ბაზარზე"
+  },
+  "Base64": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ბერძნულ-სამერიკული 64"
+  },
+  "Based on the Files Community explorer’s shell, MVVM, command, and storage architecture. Built with Swift, AppKit, and SwiftUI.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "File Community Explorer-ის shell, MVVM, Command და Storage Architecture-ის გამოყენებით. შექმნილი Swift, AppKit და SwiftUI-ის გამოყენებით."
+  },
+  "Binary": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ბეჭდური"
+  },
+  "Blue": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Blue წავიდა"
+  },
+  "Bottom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Under მისი სასაქონლო"
+  },
+  "Browse all tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse ყველა ტექნოლოგიები"
+  },
+  "Browse archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse რეგისტრაცია"
+  },
+  "Browse archive…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse ფაილები..."
+  },
+  "Browse tagged items…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browse tagged პოსტები..."
+  },
+  "Browsing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browsing"
+  },
+  "Browsing interactions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Browsing Interactions რეგისტრაციის გარეშე"
+  },
+  "Bulk rename": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "მედია rename"
+  },
+  "Bulk rename requires items from one folder.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Bulk rename requires items from one folder (გამარჯვებული სახელწოდება მოითხოვს ერთი ფორმაზე."
+  },
+  "Bulk rename…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ბრალდებული სახელწოდება..."
+  },
+  "Bytes": {
+    "origin": "Files:Bytes",
+    "text": "ბაიტი:"
+  },
+  "Cache thumbnails": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cache ტექნოლოგიები"
+  },
+  "Calculate combined size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:04 #5246 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Calculate folder size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2017, 14:04 #5246 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Calculate folder sizes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2017, 14:04 #5246 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Calculate hashes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Calculate total size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:04 #5246 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Calculating hashes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Camouflage": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Camouflage-ის გამოყენებით"
+  },
+  "Cancel": {
+    "origin": "Files:Cancel",
+    "text": "გაუქმება"
+  },
+  "Cancel calculation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cancellation რეგისტრაციის"
+  },
+  "Cancel operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cancellation პროგრამები"
+  },
+  "Cancel queued operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cancellation Queued მუშაობა"
+  },
+  "Cancelled": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ჩრდილოეთ"
+  },
+  "Cancelled before starting.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოქვეყნებული რამდენიმე საათის განმავლობაში."
+  },
+  "Cancelled before starting. No files were changed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517417 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Cancelling the current operation…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Cannot allocate archive entry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასოდეს შეგიძლიათ ჩამოტვირთოთ რეგისტრაციის გარეშე."
+  },
+  "Cannot allocate archive reader.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასოდეს შეგიძლიათ ჩამოტვირთოთ Archive Reader."
+  },
+  "Cannot allocate archive writer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასოდეს შეგიძლიათ ჩამოტვირთოთ რეგისტრაციის წევრები."
+  },
+  "Cannot archive special device: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასოდეს შეგიძლიათ ჩამოტვირთოთ Special Device: %1$@"
+  },
+  "Cannot create archive entry: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასოდეს შეგიძლიათ გააკეთოთ რეგისტრაციის გარეშე: %1$@"
+  },
+  "Cannot create subprocess output file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასოდეს შეგიძლიათ გააკეთოთ subprocess output file."
+  },
+  "Cannot decode image.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასოდეს შეგიძლიათ ჩამოტვირთოთ ფოტოსურათი."
+  },
+  "Cannot prepare SSH authentication.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასოდეს შეგიძლიათ გააკეთოთ SSH დასაწყისში დასაწყისში"
+  },
+  "Cannot prepare command input.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასოდეს შეგიძლიათ გააკეთოთ Command Input."
+  },
+  "Cannot read %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასოდეს შეგიძლიათ გააკეთოთ %1$@"
+  },
+  "Cannot read image metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასოდეს შეგიძლიათ გააკეთოთ ფოტოსურათი metadata."
+  },
+  "Cannot remove the archive root.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასოდეს შეგიძლიათ ჩამოტვირთოთ ფაილები."
+  },
+  "Cannot rename the archive root.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასოდეს შეგიძლიათ ჩამოტვირთოთ ფაილების ფუნქცია."
+  },
+  "Cannot restore archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასოდეს შეგიძლიათ ჩამოტვირთოთ ფაილები hard link."
+  },
+  "Cannot rotate image.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასოდეს შეგიძლიათ ჩამოტვირთოთ ფოტოსურათი."
+  },
+  "Center": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "სატელეფონო სისტემა"
+  },
+  "Change file extension?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "File Extension-ის გამოყენებით რამდენიმე წუთის წინ?"
+  },
+  "Change ownership?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "შეცდომები საფეხბურთო?"
+  },
+  "Change provider app…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 Jul, 2017 · პროფილი · პირადი მიმოწერა · ჩატი · ჩატი · ელფოსტა"
+  },
+  "Change the shortcut target?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "-გამარჯვებული ხარისხის ხარისხის ხარისხის ხარისხის ხარისხის ხარისხის ხარისხის ხარისხის?"
+  },
+  "Changes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ცვლილებები"
+  },
+  "Changing the extension may prevent the file from opening in its usual application.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #524617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Choose IDE…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია IDE..."
+  },
+  "Choose a destination to restore": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Choose a file to calculate hashes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Choose a new destination and a repository URL.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 Jul, 2017 · პროფილი · პირადი მიმოწერა · ჩატი · ჩატი · ელფოსტა"
+  },
+  "Choose a regular cloud file to download.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Choose a single file or folder to customize its icon.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517417 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Choose a supported single-frame image (JPEG, PNG, TIFF or HEIC).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 Jul, 2017 · პროფილი · პირადი მიმოწერა · ჩატი · ჩატი · ელფოსტა"
+  },
+  "Choose a template file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Choose custom icon…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 Jul, 2017 · პროფილი · პირადი მიმოწერა · ჩატი · ჩატი · ელფოსტა"
+  },
+  "Choose folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გთავაზობთ ფაილი..."
+  },
+  "Choose one item to edit ownership or ACLs.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517417 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Choose one item to view extended attributes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517417 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Choose provider app…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია App Providers..."
+  },
+  "Clear": {
+    "origin": "Files:Key.Clear",
+    "text": "გასუფთავება"
+  },
+  "Clear finished": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Clear გაკეთებული"
+  },
+  "Clear selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Clear არჩევნები"
+  },
+  "Clear thumbnail cache": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cache ფუნქციონირება"
+  },
+  "Clone": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Clone წერილი"
+  },
+  "Clone repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Clone რეგისტრაცია"
+  },
+  "Clone…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Clone..."
+  },
+  "Close": {
+    "origin": "Files:Close",
+    "text": "დახურვა"
+  },
+  "Close details": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "რამდენიმე საათის განმავლობაში"
+  },
+  "Close other tabs": {
+    "origin": "Files:CloseOtherTabs",
+    "text": "სხვა ჩანართების დახურვა"
+  },
+  "Close tab": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "TAB მეშვეობით"
+  },
+  "Close tabs to the left": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "შინაგან საქმეთა სამინისტრო - საგარეო საქმეთა სამინისტრო - საგარეო საქმეთა სამინისტრო"
+  },
+  "Close tabs to the right": {
+    "origin": "Files:CloseTabsToTheRight",
+    "text": "მარჯვენა გრაფების დახურვა"
+  },
+  "Close window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ბრალდებული ბრალდებით"
+  },
+  "Cloud": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud კარიერა"
+  },
+  "Cloud accounts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud რეგისტრაცია"
+  },
+  "Cloud accounts and folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud Account და ფაილები"
+  },
+  "Cloud availability and synchronization": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud Availability და Synchronization-ის გამოყენებით"
+  },
+  "Cloud folder name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud სახელწოდება"
+  },
+  "Cloud items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud კლინიკა"
+  },
+  "Cloud provider": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud Providers -მდე მისასვლელად"
+  },
+  "Cloud providers installed on this Mac appear in the sidebar through their native File Provider folders.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud providers installed on this Mac appears in the sidebar through their native (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) File Provider ფაილები"
+  },
+  "Cloud status": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud Status-ის გამოყენებით"
+  },
+  "Cloud status…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud Status-ის გამოყენებით"
+  },
+  "Cloud storage": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud საფეხბურთო"
+  },
+  "Collapse folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ფაილები Collapse"
+  },
+  "Collapsed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ჩრდილოეთ"
+  },
+  "Collect file references from different folders, then copy or move them together.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517417 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Columns": {
+    "origin": "Files:Columns",
+    "text": "სვეტები"
+  },
+  "Columns layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Layout კორპუსები"
+  },
+  "Command": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Command-ის"
+  },
+  "Command output exceeded 16 MiB; no truncated result was accepted.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Command output exceeded 16 MiB; არასოდეს გაკეთებული მოწყობილობები არ ჩაწერილა."
+  },
+  "Command palette": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Command ფაილი"
+  },
+  "Command palette…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "დასახელება: Command Palette"
+  },
+  "Commit created": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Commit შექმნილი"
+  },
+  "Commit message": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Commit წერილი"
+  },
+  "Commit staged": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "მოწყობილობები"
+  },
+  "Compact file rows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Compact ფაილები"
+  },
+  "Compare these SHA-256 fingerprints with your server administrator before trusting %1$@:%2$@.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ამ კითხვებს შეგიძლიათ ითვალისწინოთ SHA-256 Fingerprints with your server administrator before trusting (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) %1$@:%2$@.\n\n"
+  },
+  "Compatibility": {
+    "origin": "Files:Compatibility",
+    "text": "თავსებადობა"
+  },
+  "Completed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "შეეძლოთ"
+  },
+  "Completed with errors": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "შეცდომები გაკეთებული"
+  },
+  "Compress": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "მოკლეა"
+  },
+  "CompressIntoSevenZip": {
+    "origin": "Files:CompressIntoSevenZip",
+    "text": "Create 7z archive"
+  },
+  "CompressIntoZip": {
+    "origin": "Files:CompressIntoZip",
+    "text": "Create zip archive"
+  },
+  "Compressed movie headers require remuxing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Compressed film headers requires remuxing (რუსთავი 2 მილიარდ დოლარი)"
+  },
+  "Compressing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "მოკლეობა"
+  },
+  "Compress…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "მოკლე..."
+  },
+  "Confirm moving files to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Confirmations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "განცხადებები"
+  },
+  "Conflicts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ბრძოლა"
+  },
+  "Connect": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "შეეძლო"
+  },
+  "Connect to server": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "დასახელება: Connect to server"
+  },
+  "Connect to server…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "დასახელება: Connect to server..."
+  },
+  "Connect to the server first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Connected folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mადლობა folder"
+  },
+  "Connected to this Mac": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Contains UTF-8 text": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Contents სავაჭრო UTF-8 Text წერილი"
+  },
+  "Content search includes text, PDF, Office and OpenDocument files. Unsupported, locked and online-only files are counted as skipped.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Content search includes text, PDF, Office and OpenDocument files. არასამთავრობო, საფეხბურთო და მხოლოდ ონლაინ ფაილები ითვალისწინებს როგორც საფეხბურთო."
+  },
+  "Content type": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Content ტექნოლოგიური სისტემა"
+  },
+  "Contents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Contents რეგისტრაცია"
+  },
+  "Context": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "პასუხი: პასუხი"
+  },
+  "Context menu": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Context Menu რეგისტრაცია"
+  },
+  "Copy": {
+    "origin": "Files:Copy",
+    "text": "ასლის შექმნა"
+  },
+  "Copy app version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Copy App რეგისტრაცია"
+  },
+  "Copy hashes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Touching რომანტიკისათვის"
+  },
+  "Copy here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Copy აქ"
+  },
+  "Copy macOS version": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ასლის შექმნა macOS ვერსია"
+  },
+  "Copy path": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Copy გადმოწერა"
+  },
+  "Copy report": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Copy რეგისტრაცია"
+  },
+  "Copy selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Copy არჩევნები"
+  },
+  "CopyItemPathWithQuotes": {
+    "origin": "Files:CopyItemPathWithQuotes",
+    "text": "Copy selected item path with quotes"
+  },
+  "CopyPathDescription": {
+    "origin": "Files:CopyPathDescription",
+    "text": "Copy path of the current directory"
+  },
+  "CopyPathWithQuotes": {
+    "origin": "Files:CopyPathWithQuotes",
+    "text": "Copy path with quotes"
+  },
+  "Copying": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Copying წერილი"
+  },
+  "Copying archive entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Copying Archive რეგისტრაციის გარეშე"
+  },
+  "Copying files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Copying ფაილები"
+  },
+  "Copyright": {
+    "origin": "Files:PropertyCopyright",
+    "text": "საავტორო უფლებები"
+  },
+  "Could not find an available filename.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასოდეს შეგიძლიათ იპოვოთ საჭირო ფაილი."
+  },
+  "Could not prepare archive contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასოდეს შეგიძლიათ გააკეთოთ რეგისტრაციის საფუძველი."
+  },
+  "Could not remove GitHub credentials from Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "შეგიძლიათ არ ჩამოტვირთოთ GitHub რეგისტრაციის გარეშე Keychain."
+  },
+  "Could not save GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არ შეგიძლიათ გამოიყენოთ GitHub რეგისტრაციის გარეშე Keychain."
+  },
+  "Could not save the edited image; the original was kept.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არ შეგიძლიათ გამოიყენოთ რეგისტრებული სურათი; პირველი სურათი გამოიყენა."
+  },
+  "Could not save the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არ შეგიძლიათ ჩამოტვირთოთ password in Keychain (%1$@)."
+  },
+  "Could not update GitHub credentials in Keychain.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არ შეგიძლიათ გააკეთოთ GitHub რეგისტრაციის გარეშე Keychain."
+  },
+  "Could not update the password in Keychain (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასოდეს შეგიძლიათ გააკეთოთ password in Keychain (%1$@)."
+  },
+  "Couldn’t change the folder viewer": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არ შეგიძლიათ გააკეთოთ ფაილი ფაილი"
+  },
+  "Couldn’t eject volume": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არ შეგიძლიათ ჩამოტვირთოთ ტექნოლოგიური ტექნოლოგიები"
+  },
+  "Couldn’t open files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არ შეგიძლიათ ჩამოტვირთოთ ფაილები"
+  },
+  "Couldn’t open folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არ შეგიძლიათ ჩამოტვირთოთ ფაილი"
+  },
+  "Couldn’t open this file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არ შეგიძლიათ გააკეთოთ ეს ფაილი"
+  },
+  "Couldn’t open this location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასოდეს შეგიძლიათ გააკეთოთ ამ ადგილმდებარეობა"
+  },
+  "Couldn’t resolve alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არ შეგიძლიათ გააკეთოთ alias"
+  },
+  "Couldn’t restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არ შეგიძლიათ ჩამოტვირთოთ MacFiles"
+  },
+  "Create": {
+    "origin": "Files:Create",
+    "text": "შექმნა"
+  },
+  "Create a GitHub token": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub ტექნოლოგიური ტექნოლოგიური ტექნოლოგიები"
+  },
+  "Create alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Create ანალიტიკა"
+  },
+  "Create archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive რეგისტრაციის გარეშე"
+  },
+  "Create library…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "სურათები სურათები სურათები სურათები სურათები სურათები სურათები სურათები სურათები სურათები"
+  },
+  "Create shortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "Create shortcut"
+  },
+  "Create zip archive": {
+    "origin": "Files:CompressIntoZip",
+    "text": "Create zip archive"
+  },
+  "CreateFolderWithSelection": {
+    "origin": "Files:CreateFolderWithSelection",
+    "text": "Create folder with selection"
+  },
+  "CreateShortcut": {
+    "origin": "Files:CreateShortcut",
+    "text": "Create shortcut"
+  },
+  "CreateShortcutFromDialogDescription": {
+    "origin": "Files:CreateShortcutFromDialogDescription",
+    "text": "Create new shortcut to any item"
+  },
+  "Created": {
+    "origin": "Files:PropertiesCreated.Text",
+    "text": "შექმნილია:"
+  },
+  "Creating alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Alisa რეგისტრაცია"
+  },
+  "Creating from template": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Template-ის გამოყენებით"
+  },
+  "Custom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Custom საინფორმაციო"
+  },
+  "Custom icon applied.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Custom icon გამოიყენება."
+  },
+  "Custom tag color (hex, optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Custom tag color (hex, optional) (მდე მისასვლელად დატვირთული)"
+  },
+  "Custom theme": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Custom კითხვები"
+  },
+  "Customization": {
+    "origin": "Files:Customization",
+    "text": "მორგება"
+  },
+  "Customize toolbar": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Touching ტექნოლოგიური ტექნოლოგიები"
+  },
+  "Customize toolbar…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Customized ტექნოლოგიური ტექნოლოგიები..."
+  },
+  "Cut": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "CUT"
+  },
+  "Dark": {
+    "origin": "Files:DarkTheme",
+    "text": "ბნელი"
+  },
+  "Date created": {
+    "origin": "Files:DateCreated",
+    "text": "შექმნის თარიღი"
+  },
+  "Date deleted": {
+    "origin": "Files:DateDeleted",
+    "text": "წაშლის თარიღი"
+  },
+  "Date format": {
+    "origin": "Files:DateFormat",
+    "text": "თარიღის ფორმატი"
+  },
+  "Date modified": {
+    "origin": "Files:DateModifiedLowerCase",
+    "text": "შეცვლის თარიღი"
+  },
+  "Day": {
+    "origin": "Files:Day",
+    "text": "Day"
+  },
+  "Decimal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Decimal სავაჭრო"
+  },
+  "Decrease size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Under მისი სასაქონლო ნიშნის მუშაობა"
+  },
+  "Default": {
+    "origin": "Files:Default",
+    "text": "ნაგულისხმევი"
+  },
+  "Default folder layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Default folder layout ფაილები"
+  },
+  "Default grouping": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Default grouping (რუსთავი 2 მილიარდ დოლარი)"
+  },
+  "Default save location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2017, 14:04 #5246 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Default sorting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Default სურათები"
+  },
+  "Delete": {
+    "origin": "Files:Delete",
+    "text": "წაშლა"
+  },
+  "Delete permanently": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Under მისი სასაქონლო ნიშნის მუშაობა"
+  },
+  "Delete saved tag and remove it from indexed files?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517417 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Delete selected permanently…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 Jul, 2017 · პროფილი · პირადი მიმოწერა · ჩატი · ჩატი · ელფოსტა"
+  },
+  "Deleting permanently": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Under მისი სასაქონლო ნიშნის მუშაობა"
+  },
+  "Description": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "აღწერა"
+  },
+  "Desktop": {
+    "origin": "Files:Desktop",
+    "text": "სამუშაო მაგიდა"
+  },
+  "Destination: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "მოწყობილობები : %1$@"
+  },
+  "Detached HEAD": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #5246 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Details": {
+    "origin": "Files:Details",
+    "text": "დეტალები"
+  },
+  "Details layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Layout ფუნქცია"
+  },
+  "Details pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "პასუხია აქ პასუხია აქ პასუხობს"
+  },
+  "Developer tools": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Developer ინსტრუმენტი"
+  },
+  "Development": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "განვითარება"
+  },
+  "Diagnostics": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "განცხადებები"
+  },
+  "Diagnostics opened": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "განცხადება გაიმართა"
+  },
+  "Disconnect": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Disconnect რეგისტრაცია"
+  },
+  "Documents": {
+    "origin": "Files:Documents",
+    "text": "დოკუმენტები"
+  },
+  "Done": {
+    "origin": "Files:Close",
+    "text": "დახურვა"
+  },
+  "Double-click empty space to go up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Double-click ფრანგული ფრანგული ფრანგული ფრანგული ფრანგული ფრანგული"
+  },
+  "Download": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ჩამოტვირთვა"
+  },
+  "Download files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Download ფაილები..."
+  },
+  "Download here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Download აქ"
+  },
+  "Download requested. iCloud may complete it asynchronously.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Download მოთხოვნილი. iCloud შეგიძლიათ გააკეთოთ შემდეგი რამ asynchronously."
+  },
+  "Downloaded": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ჩამოტვირთვა"
+  },
+  "Downloading": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Downloading"
+  },
+  "Downloads": {
+    "origin": "Files:Downloads",
+    "text": "გადმოწერილები"
+  },
+  "Drives": {
+    "origin": "Files:Drives",
+    "text": "დისკები"
+  },
+  "Dual pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "2 თებერვალს"
+  },
+  "Duplicate": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Duplicate რეგისტრაცია"
+  },
+  "Duplicate archive paths cannot be extracted safely.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Duplicate Archive Paths არ შეგიძლიათ უსაფრთხოად ჩამოტვირთოთ."
+  },
+  "Duplicate tab": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "DUPLICAT TAB-ის გამოყენებით"
+  },
+  "Edit": {
+    "origin": "Files:Edit",
+    "text": "რედაქტირება"
+  },
+  "Edit POSIX permissions for selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "რედაქტირება POSIX გამოგზავნილია: 16 May 2017, 14:04 #5246 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Edit address · ⌘L": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "დასახელება: Edit Address ⌘L"
+  },
+  "Edit archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit რეგისტრაცია"
+  },
+  "Edit in TextEdit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit in ტექნოლოგიური"
+  },
+  "Edit media metadata": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Media metadata რეგისტრაციის გარეშე"
+  },
+  "Edit media metadata…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Edit or import the settings document, then Apply to validate and save. Language changes require a restart.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit or import the settings document, then Apply to validate and save. ტექნოლოგიური შეცდომები მოითხოვს გადაწყვეტილება."
+  },
+  "Edit permissions on the link's target instead.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517417 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Edit settings file…": {
+    "origin": "Files:EditSettingsFile",
+    "text": "Edit settings file"
+  },
+  "Edit tags": {
+    "origin": "Files:EditTags",
+    "text": "ფაილის იარლიყების რედაქტირება"
+  },
+  "Edit tags…": {
+    "origin": "Files:EditTags",
+    "text": "ფაილის იარლიყების რედაქტირება"
+  },
+  "Edit the archive target instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517417 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Edit the target's attributes instead of a symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Edit the target's attributes instead of a symbolic link. (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა)"
+  },
+  "Edits apply to this item only. Ownership changes require existing system permission; MacFiles does not elevate itself.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "რეგისტრაციის გამოყენებით მხოლოდ ამ პოსტში. საფეხბურთო საფეხბურთო საფეხბურთო საფეხბურთო საფეხბურთო საფეხბურთო საფეხბურთო საფეხბურთო საფეხბურთო საფეხბურთო საფეხბურთო საფეხბურთო საფეხბურთო საფეხბურთო საფეხბურთო საფეხბურთო საფეხბურთო საფეხბურთო საფეხბურთო საფეხბურთო საფეხბურთო საფეხბურთო საფეხბურთო საფეხბურთო საფეხბურთო MacFiles არ გააკეთებს საკუთარ თავს."
+  },
+  "Eject": {
+    "origin": "Files:Eject",
+    "text": "მოცილება"
+  },
+  "Empty": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ბედნიერება"
+  },
+  "Empty accessible Trash…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 Jul, 2017 · პროფილი · პირადი მიმოწერა · ჩატი · ჩატი · ელფოსტა"
+  },
+  "Empty archive entry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ჩრდილოეთ კვლევითი რეგისტრაციის გარეშე."
+  },
+  "Encoding": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "კოდი"
+  },
+  "Encrypted": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ჩრდილოეთ"
+  },
+  "Enter a GitHub username and a valid access token.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 Jul, 2017 · პროფილი · პირადი მიმოწერა · ჩატი · ჩატი · ელფოსტა"
+  },
+  "Enter a commit message.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "შეეძლოთ შეეძლოთ შეეძლოთ შეეძლოთ შეეძლოთ შეეძლოთ."
+  },
+  "Enter a name without a slash or colon. The name cannot be empty, ‘.’, or ‘..’.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517417 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Enter a size from 1 to 1,048,576 MiB.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "1–1048,576 MiB-ის გათვალისწინებით."
+  },
+  "Enter a valid host, username, and port.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517417 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Enter an SMB, AFP, or WebDAV address.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "1 წუთი SMB, AFPან WebDAV მისამართი"
+  },
+  "Enter an attribute name of 1–127 UTF-8 bytes.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 Jul, 2017 · პროფილი · პირადი მიმოწერა · ჩატი · ჩატი · ელფოსტა UTF-8 ბაიტი:"
+  },
+  "Enter compact overlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "შეერთებული გადაფარვის ჩართვა"
+  },
+  "Enter numeric user and group IDs.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Enter password:": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია password:"
+  },
+  "Enter permissions from 000 to 777.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 Jul, 2017 · პროფილი · პირადი მიმოწერა · ჩატი · ჩატი · ელფოსტა"
+  },
+  "Enter the archive password before editing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Enter three octal digits, for example 644 or 755.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "3 საათის განმავლობაში, 644 ან 755."
+  },
+  "Enter whole numbers for byte limits.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "EnterCompactOverlay": {
+    "origin": "Files:EnterCompactOverlay",
+    "text": "შეერთებული გადაფარვის ჩართვა"
+  },
+  "Executable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "განცხადება"
+  },
+  "Executable format": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Formats რეგისტრაციის"
+  },
+  "Exit compact overlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "შეერთებული გადაფარვის გამორთვა"
+  },
+  "ExitCompactOverlay": {
+    "origin": "Files:ExitCompactOverlay",
+    "text": "შეერთებული გადაფარვის გამორთვა"
+  },
+  "Expand folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ფაილი გაზრდა"
+  },
+  "Expanded": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გაზრდა"
+  },
+  "Export ACL…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "EXPOSIT ACL…"
+  },
+  "Export bytes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Export theme…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "პროექტის გამოცდილება..."
+  },
+  "Export…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Export..."
+  },
+  "Extended attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Extended Attributes (გამარჯვებული ფუნქცია)"
+  },
+  "Extended attributes…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოქვეყნებული ტექნოლოგიური..."
+  },
+  "Extensions are preserved. Conflicts stop the batch before any names change.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Conflicts stop the batch before any names change. (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა)"
+  },
+  "Extensions: txt, swift, pdf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 Jul, 2017 · პროფილი · პირადი მიმოწერა · ჩატი · ჩატი · ელფოსტა"
+  },
+  "Extra large icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Extra დიდი Icon"
+  },
+  "Extract": {
+    "origin": "Files:Extract",
+    "text": "ამოღება"
+  },
+  "Extract all…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ყველა სურათები..."
+  },
+  "Extract here": {
+    "origin": "Files:ExtractHere",
+    "text": "ამოღება აქ"
+  },
+  "Extract here (Smart)": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "Extract here (Smart)"
+  },
+  "Extract selected…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 Jul, 2017 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Extract to child folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ფოტოსურათი ფოტოსურათი ბავშვის ფოტოსურათი"
+  },
+  "Extract to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 Jul, 2017 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "ExtractHere": {
+    "origin": "Files:ExtractHere",
+    "text": "ამოღება აქ"
+  },
+  "ExtractHereSmart": {
+    "origin": "Files:ExtractHereSmart",
+    "text": "Extract here (Smart)"
+  },
+  "Extracted entry size does not match its header.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოქვეყნებული საფეხბურთო ტექნოლოგიური საფეხბურთო ტექნოლოგიური საფეხბურთო ტექნოლოგიური საფეხბურთო ტექნოლოგიური საფეხბურთო ტექნოლოგიური საფეხბურთო ტექნოლოგიური საფეხბურთო ტექნოლოგიური საფეხბურთო ტექნოლოგიური საფეხბურთო ტექნოლოგიური საფეხბურთო ტექნოლოგიური საფეხბურთო ტექნოლოგიური საფეხბურთო ტექნოლოგიური საფეხბურთო"
+  },
+  "Extracting": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ჩრდილოეთ"
+  },
+  "Extracts into a new folder; existing files are kept.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517417 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "FTP over TLS": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "FTP მედია TLS"
+  },
+  "Failed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასამთავრობო"
+  },
+  "Fetch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "FETCH"
+  },
+  "File": {
+    "origin": "Files:File",
+    "text": "ფაილი"
+  },
+  "File actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "File რეგისტრაციის"
+  },
+  "File hashes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ფაილი hashes"
+  },
+  "File information": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "File ინფორმაცია"
+  },
+  "File operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "File რეგისტრაციის"
+  },
+  "File operations in this window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "File Operations ამ ფორმაში"
+  },
+  "File shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ფაილი Shelf"
+  },
+  "File shelf…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ფაილი Shelf..."
+  },
+  "File size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ფაილი დიდი"
+  },
+  "Files": {
+    "origin": "Files:SecurityAdvancedFlagsFilesLabel",
+    "text": "ფაილები"
+  },
+  "Files size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ფაილები"
+  },
+  "Files you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "File you open will appear here (ქართულად) (ქართულად) (ქართულად) ფეხბურთელები, რომლებიც თქვენ გააკეთებთ აქ."
+  },
+  "Fill": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Fill"
+  },
+  "Filter entries": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Filter რეგისტრაცია"
+  },
+  "Find": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "იპოვოს"
+  },
+  "Find and replace": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Finder Get Info unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder არასოდეს არასოდეს არასოდეს არასოდეს იცვლება"
+  },
+  "Finder Get Info…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder გადმოწერე ინფორმაცია..."
+  },
+  "Finder's desktop and other apps' Open/Save dialogs remain managed by macOS.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Finder's desktop and other apps' Open/Save ტექნოლოგიები არასოდეს გაკეთებული macOS."
+  },
+  "First letter": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "პირველი წერილი"
+  },
+  "Fit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ბედნიერება"
+  },
+  "Flatten": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Flat"
+  },
+  "Flatten folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Flat ფაილი"
+  },
+  "Flatten folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Flat ფაილი..."
+  },
+  "Flatten ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "„კამერა“%1$@’?"
+  },
+  "Flattening folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Flattening ფაილი"
+  },
+  "Focus other pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "დასახელება: Other Pan"
+  },
+  "Folder": {
+    "origin": "Files:Folder",
+    "text": "საქაღალდე"
+  },
+  "Folder contents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Folder რეგისტრაცია"
+  },
+  "Folder contents are not included in this total.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Folder Content არ ჩაწერილა ამ ყველაფერს."
+  },
+  "Folder layout saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Folder Layout რეგისტრაციის გარეშე."
+  },
+  "Folder path": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Folder პერსონაჟი"
+  },
+  "Folder presentation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Folder განცხადება"
+  },
+  "Folder sizes are calculated in the background after Refresh. Large or network folders may take longer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ფაილები ფაილები ფაილები ფაილები ფაილები ფაილები ფაილები ფაილები ფაილები ფაილები ფაილები ფაილები ფაილები ფაილები ფაილები ფაილები ფაილები ფაილები ფაილები ფაილები ფაილები ფაილები ფაილები ფაილები ფაილები"
+  },
+  "Folder unavailable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Folders არასოდეს"
+  },
+  "Folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ფაილი"
+  },
+  "Folders you open will appear here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ფოტოსურათები, რომლებიც თქვენ გააკეთებთ, აქ გამოიყურება."
+  },
+  "Font": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "FONT-ის"
+  },
+  "Font and material": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "FONT და ფუნქცია"
+  },
+  "Forget saved": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია"
+  },
+  "Format": {
+    "origin": "Files:FormatDriveText",
+    "text": "ფორმატი"
+  },
+  "Format drive in Disk Utility…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Format drive in Disk Utility (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) ფეხბურთელები ქართულად)"
+  },
+  "Forward": {
+    "origin": "Files:Forward",
+    "text": "წინ (Alt+Right Arrow)"
+  },
+  "Forward · ⌘]": {
+    "origin": "Files:Forward",
+    "text": "წინ (Alt+Right Arrow) · ⌘]"
+  },
+  "Fragmented media metadata cannot be edited without remuxing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Fragmented media metadata cannot be edited without remuxing (რუსთავი 2 მილიარდ დოლარი) (რუსთავი 2 მილიარდ დოლარი)"
+  },
+  "Gallery": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GALERIA"
+  },
+  "Gallery layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gallery რეგისტრაცია"
+  },
+  "General": {
+    "origin": "Files:General",
+    "text": "ზოგადი"
+  },
+  "Git operation in %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git პროექტის გამოყენებით %1$@"
+  },
+  "Git repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git რეგისტრაცია"
+  },
+  "Git repository…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Git რეგისტრაციის..."
+  },
+  "GitHub account": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub რეგისტრაცია"
+  },
+  "GitHub username": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "GitHub რეგისტრაციის სახელი"
+  },
+  "Go to path": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გადმოწერე გზა"
+  },
+  "Go to path…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გადმოწერე გზა..."
+  },
+  "Gray": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Gray სურათები"
+  },
+  "Green": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Green წერილი"
+  },
+  "Group": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "პროექტის წევრები"
+  },
+  "Group GID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "პროექტის წევრები GID"
+  },
+  "Group ascending": {
+    "origin": "Files:GroupAscendingDescription",
+    "text": "Sort groups in ascending order"
+  },
+  "Group by": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "The Group by"
+  },
+  "Group by date unit": {
+    "origin": "Files:GroupByDateUnit",
+    "text": "Group by date unit"
+  },
+  "HTTPS Git operations can use a GitHub access token stored in your macOS Keychain. Choose the repositories and permissions when creating the token. Existing Git authentication remains in use when no MacFiles account is saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "HTTPS Git შეგიძლიათ გამოიყენოთ GitHub Access token, რომელიც შეგიძლიათ გააკეთოთ თქვენი macOS Keychain. გამოიყენეთ რეგისტრაციის და განცხადებები, როდესაც შექმნილია ტექნოლოგიური ტექნოლოგიები. Git ადიიიიიიიიიი რაააააააააააააააააააააააააააააააააააააააააააა MacFiles ანგარიშის განხორციელება."
+  },
+  "Hard Link": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "hard link (გამარჯვებული)"
+  },
+  "Hashes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hash მობილური"
+  },
+  "Hashes are available for a single file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Hashes შეგიძლიათ გამოიყენოთ მხოლოდ ერთი ფაილზე."
+  },
+  "Header": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Header წერილი"
+  },
+  "Help": {
+    "origin": "Files:Help",
+    "text": "Help"
+  },
+  "Hidden": {
+    "origin": "Files:Hidden",
+    "text": "დამალული"
+  },
+  "Hidden files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ფაილები"
+  },
+  "History": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ადიიიიიიიიიი"
+  },
+  "Home": {
+    "origin": "Files:Key.Home",
+    "text": "მთავარი"
+  },
+  "Horizontal alignment": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Horizontal Alignment (რუსთავი 2 ოქტომბერს)"
+  },
+  "IDE opened.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "IDE გაკეთებული."
+  },
+  "Icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Icon-ის გამოყენებით"
+  },
+  "Icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ICO-ის გამოყენებით"
+  },
+  "Icons layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Icon Layout რეგისტრაცია"
+  },
+  "Image alignment": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Image მოწყობილობები"
+  },
+  "Image fit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ფოტოსურათი fit"
+  },
+  "Import theme…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "პროდუქციის საფუძველზე..."
+  },
+  "Imported. Apply to save.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოქვეყნებული. გამოქვეყნებული გამოქვეყნებული გამოქვეყნებული გამოქვეყნებული."
+  },
+  "Import…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "დასახელება..."
+  },
+  "Incomplete archive listing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Incomplete Archive რეგისტრაციის გარეშე."
+  },
+  "Increase size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "მეტი ხარისხის"
+  },
+  "Indexed document, image, audio, video and filesystem metadata supplied by Spotlight. Tags can be edited with the Tags tool.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Indexed document, image, audio, video and file system metadata (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) Spotlight. Tags შეგიძლიათ ჩამოტვირთოთ ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიები."
+  },
+  "Indexed files updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Indexed ფაილები Updated."
+  },
+  "Initialize": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Initial"
+  },
+  "Initialize repository here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Install certificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "Install certificate"
+  },
+  "Install font": {
+    "origin": "Files:InstallFont",
+    "text": "Install font"
+  },
+  "InstallCertificate": {
+    "origin": "Files:InstallCertificate",
+    "text": "Install certificate"
+  },
+  "InstallFont": {
+    "origin": "Files:InstallFont",
+    "text": "Install font"
+  },
+  "Interval in seconds": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "2 საათის განმავლობაში"
+  },
+  "Invalid Base64 data.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid Base64 რეგისტრაციის გარეშე."
+  },
+  "Invalid SSH host or port.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "INVALID SSH დასახელება ან Port."
+  },
+  "Invalid archive hard link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid archive hard link (რუსთავი 2 მილიარდ დოლარი)"
+  },
+  "Invalid archive link target.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid Archive link target (რუსთავი 2 მილიარდ დოლარი)"
+  },
+  "Invalid extended media atom.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid Extended Media Atom-ის გამოყენებით."
+  },
+  "Invalid hard link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid hard link (გამარჯვებული მობილური მობილური)"
+  },
+  "Invalid key for %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid Key (რუსთავი 2 ოქტომბერს) %1$@."
+  },
+  "Invalid macOS ACL text. Preserve the !#acl 1 header and use valid entries.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "INVALID macOS ACL Text. Save the !#acl 1 headline and use valid entries (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად)"
+  },
+  "Invalid media atom header.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid Media Atom Header (რუსთავი 2 მილიარდ დოლარი)"
+  },
+  "Invalid media atom size.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid Media atom size (რუსთავი 2 მილიარდ დოლარი)"
+  },
+  "Invalid media atom.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid მობილური მობილური atom."
+  },
+  "Invalid media file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid Media ფაილები."
+  },
+  "Invalid name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid სახელწოდება"
+  },
+  "Invalid remote URL.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid Remote URL-ის გამოყენებით."
+  },
+  "Invalid settings document.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid Settings რეგისტრაციის გარეშე."
+  },
+  "Invalid tag metadata.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid tag metadata (გამარჯვებული მობილური მობილური)"
+  },
+  "Invalid tag name or color.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid tag სახელი ან ფორმა."
+  },
+  "Invalid theme colors or appearance.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid theme colors or appearance (კონკურსები და სურათები)"
+  },
+  "Invalid volume size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invalid ტექნოლოგიური ტექნოლოგიები"
+  },
+  "Invert selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Invert არჩევნები"
+  },
+  "Item properties": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Property რეგისტრაცია"
+  },
+  "Items move into .MacFiles-Recovery on this server, including folder contents. Use Undo remote to restore them during this session.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "რამდენიმე წუთის წინ საქართველოს ყოფილი პრემიერ-მინისტრის, ვანო მერაბიშვილის დაკითხვა დასრულდა. .MacFiles-Recovery გამოყენებით Undo Remote გამოიყენეთ დაახლოებით ამ სათამაშოში გამოიყენეთ მათ."
+  },
+  "Keep MacFiles open": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გადმოწერე MacFiles გახსნა"
+  },
+  "Keep both": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "2 საათის განმავლობაში"
+  },
+  "Keep both creates numbered names. Replace moves previous versions to Trash and supports Undo. Folders are replaced as a whole.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "2. შეეძლოთ ორივე სახელწოდება გააკეთოს. შეეძლოთ შეეძლოთ გააკეთოთ შემდეგი სურათები და შეეძლოთ შეეძლოთ შეეძლოთ შეეძლოთ შეეძლოთ შეეძლოთ შეეძლოთ შეეძლოთ შეეძლოთ შეეძლოთ შეეძლოთ შეეძლოთ შეეძლოთ შეეძლოთ შეეძლოთ შეეძლოთ შეეძლოთ შეეძლოთ შეეძლოთ შეეძლოთ შეეძლოთ შეეძლოთ შეეძლოთ შეეძლოთ შეეძლოთ შეეძლოთ შეეძლოთ შეეძლოთ შეეძლოთ."
+  },
+  "Keep running after closing windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ადიიიიიიიიიი რაააააააააააააააააააააააააააააააააააააა"
+  },
+  "Keep window on top": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Keyboard shortcuts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Keyboard ფუნქციონირება"
+  },
+  "Keyboard shortcuts…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Keyboard ფაილები..."
+  },
+  "Keywords (comma separated)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Keywords (მაგალითად, როგორც გაკეთებული)"
+  },
+  "Kind": {
+    "origin": "Files:Type",
+    "text": "ნიმუში"
+  },
+  "Label": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Label სურათები"
+  },
+  "Language": {
+    "origin": "Files:PropertyLanguage",
+    "text": "ენა"
+  },
+  "Large icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "დიდი Icon"
+  },
+  "Launch at login": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 Jul, 2017 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Layout რეგისტრაცია"
+  },
+  "Left": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ბერძნულ ბერძნულ"
+  },
+  "Let the current operation finish before quitting.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517417 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Libraries": {
+    "origin": "Files:SidebarLibraries",
+    "text": "ბიბლიოთეკა"
+  },
+  "Library": {
+    "origin": "Files:Library",
+    "text": "ბიბლიოთეკა"
+  },
+  "Library name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "სახელწოდება Library"
+  },
+  "Library properties…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ბრალდებითი ბრალდებითი ბრალდებითი..."
+  },
+  "Library/Application Support/MacFiles/known_hosts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "დასახელება: Library / Application SupportMacFiles/known_გამარჯვებული"
+  },
+  "Library/Mobile Documents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ტელეფონები / მობილური ტელეფონები"
+  },
+  "Library/Mobile Documents/com~apple~CloudDocs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Library/Mobile Documents/com~apple~CloudDocs რეგისტრაციის გარეშე"
+  },
+  "Light": {
+    "origin": "Files:LightTheme",
+    "text": "ნათელი"
+  },
+  "Link target": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "LINK მოწყობილობები"
+  },
+  "List": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "სიახლეები"
+  },
+  "List folders before files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Folders before files (რუსთავი ფაილები შემდეგ ფაილებს)"
+  },
+  "Loading…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ტრანსპორტის..."
+  },
+  "Local": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ადგილმდებარეობა"
+  },
+  "Local download removal requested.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Local file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ფაილები"
+  },
+  "Location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ადგილი"
+  },
+  "Lock screen and wallpaper settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lock screen და wallpaper settings..."
+  },
+  "Locked": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Lock გაქვთ"
+  },
+  "Macintosh HD": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Macintosh HD რეგისტრაცია"
+  },
+  "Make alias": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Alibaba გააკეთე"
+  },
+  "Make alias…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გააკეთე alias..."
+  },
+  "Manage account in provider app": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:04 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Manage cloud accounts…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Cloud Account რეგისტრაციის..."
+  },
+  "Manage tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "TAGS რეგისტრაციის გარეშე"
+  },
+  "Maximum bytes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Max bytes (მდე მისასვლელად)"
+  },
+  "Media export did not complete.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Media Export არ ჩაწერილა."
+  },
+  "Media metadata is too large.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Media metadata არის ძალიან დიდი."
+  },
+  "Medium icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Medium Icon-ის გამოყენებით"
+  },
+  "Minimize": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Minimal ფუნქცია"
+  },
+  "Minimum bytes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Under მისი სასაქონლო ნიშნის მუშაობა"
+  },
+  "Minimum size exceeds maximum size.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Minimum size (გამარჯვებული ხარისხის ხარისხის ხარისხის ხარისხის ხარისხის ხარისხის)"
+  },
+  "Mode": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mode-ის"
+  },
+  "Modified": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ცვლილებები"
+  },
+  "Modified after": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "შეხვედრაზე შემდეგ"
+  },
+  "Month": {
+    "origin": "Files:Month",
+    "text": "Month"
+  },
+  "More actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "მეტი პრობლემები"
+  },
+  "Mount share…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გადმოწერე Mountains..."
+  },
+  "Mounted network locations appear here. Connect to a server to browse another location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517417 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Move %1$@ remote items to recovery?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "მობილური %1$@ გამოგზავნილია: 16 Jul, 2017 · პროფილი · პირადი მიმოწერა · ჩატი · ჩატი · ელფოსტა"
+  },
+  "Move %1$@ to Trash?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "მობილური %1$@ თუ გსურთ?"
+  },
+  "Move here": {
+    "origin": "Files:PinToSidebarByDraggingCaptionText",
+    "text": "აქ გადმოტანა"
+  },
+  "Move nested files to this folder. Existing names and symbolic links are left in place. Empty subfolders go to Trash. You can undo this operation.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Move nested files to this folder. existing names and symbolic links are left in place. ნამდვილად subfolders go to Trash. თქვენ შეგიძლიათ undo ამ პრობლემას."
+  },
+  "Move to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2017, 14:04 #5246 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Move to Trash…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 Jul, 2017 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Move to recovery": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:04 #5246 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Move to recovery folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 Jul, 2017 · პროფილი · პირადი მიმოწერა · ჩატი · ჩატი · ელფოსტა"
+  },
+  "Movies": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "სურათები"
+  },
+  "Moving": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "მობილური"
+  },
+  "Moving files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ფაილები Moving"
+  },
+  "Moving to Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2017, 14:04 #5246 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Multiple items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "რამდენიმე პერსონაჟი"
+  },
+  "Music": {
+    "origin": "Files:Music",
+    "text": "მუსიკა"
+  },
+  "My MacFiles theme": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ჩემი MacFiles Touching რომანტიკის"
+  },
+  "My library": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "მეგობარი ფოტო"
+  },
+  "My search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "My სურათები"
+  },
+  "Name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "სახელი"
+  },
+  "Native macOS extended attributes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "სახელური macOS Extended Attributes (გამარჯვებული სურათები)"
+  },
+  "Natural language search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Nature Language სურათები"
+  },
+  "Navigate": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Navigation წერილი"
+  },
+  "Network": {
+    "origin": "Files:Network",
+    "text": "ქსელი"
+  },
+  "New": {
+    "origin": "Files:BaseLayoutContextFlyoutNew.Label",
+    "text": "ახალი"
+  },
+  "New archive file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "New Archive ფაილი"
+  },
+  "New archive folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "New Archive ფაილები"
+  },
+  "New branch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "New კორპუსი"
+  },
+  "New file from template": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "New File from Template (ქართულად) ახალი ფაილები Template-ზე"
+  },
+  "New folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "New ფაილები"
+  },
+  "New folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ახალი ფაილები..."
+  },
+  "New from template": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "New from Template (მდე მისასვლელად)"
+  },
+  "New from template…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "New from Template (ქართულად) (ქართულად) (ქართულად) (ქართულად) ფილმები ქართულად) ონლაინში ონლაინში ონლაინში"
+  },
+  "New name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ახალი სახელი"
+  },
+  "New remote file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "New Remote ფაილები"
+  },
+  "New remote folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "New Remote ფაილები"
+  },
+  "New tab": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ახალი TAB"
+  },
+  "New tab · ⌘T": {
+    "origin": "Files:NewTab",
+    "text": "New tab · ⌘T"
+  },
+  "New text file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ახალი ტექნოლოგიური ფაილები"
+  },
+  "New text file…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ახალი ტექნოლოგიური ფაილები..."
+  },
+  "New window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ახალი ტურნირები"
+  },
+  "Next layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Next articleრუსთავი"
+  },
+  "Next tab": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Next articleრუსთავი"
+  },
+  "No": {
+    "origin": "Files:No",
+    "text": "არა"
+  },
+  "No IDE selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არავინ გეუბნება"
+  },
+  "No application could open ‘%1$@’.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არავინ გეუბნება არავინ გეუბნება არავინ გეუბნება »%1$@’."
+  },
+  "No archive entry was extracted.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არ ჩაწერილი არჩევნები არ ჩაწერილი არჩევნები."
+  },
+  "No archive is open.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არავინ გეუბნება არავინ გეუბნება."
+  },
+  "No archive was produced.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არ ჩაწერილი არჩევნები არ ჩაწერილა."
+  },
+  "No commits yet": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასოდეს არასოდეს არასოდეს"
+  },
+  "No files were extracted.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არ ჩაწერილა ფაილები."
+  },
+  "No matching items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არავინ გეუბნება"
+  },
+  "No movie header was found.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არავინ გეუბნება film header."
+  },
+  "No operations recorded.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არ ჩაწერილი არჩევნები."
+  },
+  "No readable macOS code signature.\n\n": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არ ჩაწერილი macOS Code რეგისტრაციის გარეშე.\n\n"
+  },
+  "No selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არავინ გეუბნება"
+  },
+  "No settings match your search.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არავინ გეუბნება თქვენი სურათზე."
+  },
+  "No tracked diff. New files appear after staging.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არ ჩაწერილი diff. ახალი ფაილები გამოიყურება შემდეგ ჩაწერილი."
+  },
+  "None": {
+    "origin": "Files:CompressionLevelNone",
+    "text": "არცერთი"
+  },
+  "Not enough free space to finish extraction.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არ არის საკმაოდ უფასო ადგილი, რათა გაკეთება გაკეთება."
+  },
+  "Not managed by a detected cloud provider": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არ გაკეთებული განხორციელებული cloud provider"
+  },
+  "Not used": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არ გამოიყენება"
+  },
+  "Numbered names": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "სახელწოდება"
+  },
+  "OK": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ბედნიერება"
+  },
+  "Older": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "მედია"
+  },
+  "Online only": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Online მხოლოდ"
+  },
+  "Only an uploaded iCloud file without conflicts can have its local download removed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "1 საათის განმავლობაში iCloud File without conflicts can have its local download removed. ფაილები, რომლებიც არ არსებობს ურთიერთობა, შეგიძლიათ ჩამოტვირთოთ."
+  },
+  "Only images can be rotated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "მხოლოდ ფოტოსურათები შეგიძლიათ გააკეთოთ."
+  },
+  "Open": {
+    "origin": "Files:Open",
+    "text": "გახსნა"
+  },
+  "Open / Preview": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 Jul, 2017 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Open Login Items settings": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open Login Items რეგისტრაციის გარეშე"
+  },
+  "Open MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გახსნა MacFiles"
+  },
+  "Open System Settings for iCloud": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open System Settings (მდე მისასვლელად) iCloud"
+  },
+  "Open a repository, initialize this folder, or clone a repository.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open a repository, initialize this folder, or clone a repository. (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა)"
+  },
+  "Open all folders in tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open ყველა ფაილები in tabs"
+  },
+  "Open containing folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open Content ფაილები"
+  },
+  "Open external folders in new windows": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open external folders in new windows (გამარჯვებული ფაილები ახალი ფორმაში)"
+  },
+  "Open file location": {
+    "origin": "Files:OpenFileLocation",
+    "text": "ფაილის ადგილმდებარეობის გახსნა"
+  },
+  "Open folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open ფაილი"
+  },
+  "Open folders in new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open folder in new tabs (გამარჯვებული ფაილები ახალი ფაილებში)"
+  },
+  "Open folder…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open ფაილები..."
+  },
+  "Open in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open in IDE (მდე მისასვლელად)"
+  },
+  "Open in IDE uses the selected application. Open repository in IDE resolves the Git repository root first.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open in IDE გამოიყენება არჩევნები. Open repository in IDE გამოიყენება არჩევნები Git პასუხია აქ პასუხია აქ პასუხია აქ პასუხია აქ პასუხია აქ პასუხია აქ პასუხია აქ"
+  },
+  "Open in Terminal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Terminal-ის გამოყენებით"
+  },
+  "Open in new tab": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open in new tab (მდე მისასვლელად)"
+  },
+  "Open in new window": {
+    "origin": "Files:OpenInNewWindow",
+    "text": "Open in new window"
+  },
+  "Open in other pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open in სხვა კორპუსში"
+  },
+  "Open log file": {
+    "origin": "Files:OpenLogFile",
+    "text": "Open log file"
+  },
+  "Open new tabs with dual panes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open new tabs with dual panes (მდე მისასვლელად დატვირთვა)"
+  },
+  "Open repository in IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open repository in IDE-ის გამოყენებით"
+  },
+  "Open selection": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open არჩევნები"
+  },
+  "Open target folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open Target ფაილები"
+  },
+  "Open with": {
+    "origin": "Files:OpenWith",
+    "text": "გახსნა"
+  },
+  "Open with application": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open with მოთხოვნები"
+  },
+  "Open with application…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open with Application (გამარჯვებული მოწყობილობით)"
+  },
+  "Open with…": {
+    "origin": "Files:OpenWith",
+    "text": "გახსნა"
+  },
+  "Open-ended media atoms require remuxing before editing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Open-end media atoms requires remuxing before editing (გამარჯვებული მობილური მობილური მობილური მობილური მობილური)"
+  },
+  "OpenAllTaggedItems": {
+    "origin": "Files:OpenAllTaggedItems",
+    "text": "Open all"
+  },
+  "OpenLogFile": {
+    "origin": "Files:OpenLogFile",
+    "text": "Open log file"
+  },
+  "Operation completed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "პროექტის გამოცდილება გაკეთებული."
+  },
+  "Operation failed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Operations არასოდეს გაკეთებული"
+  },
+  "Operations": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Operations"
+  },
+  "Operations (%1$@ queued)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "დასახელება (%1$@ კარიერა (ქართულად)"
+  },
+  "Operations…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "მუშაობა..."
+  },
+  "Orange": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ბერძნულ ბერძნულ ბერძნულ ბერძნულ"
+  },
+  "Original location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Original ადგილმდებარეობა"
+  },
+  "Original locations are remembered for items deleted by MacFiles, including across launches.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ადიიიიიიიიიი რაააააააააააააააააააააააააააააააააააააააააააააააააააააააააა MacFilesადიიიიიიიიიი რაააააააააა"
+  },
+  "Original name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Original სახელი"
+  },
+  "Overcast": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "მეშვეობით"
+  },
+  "Owner": {
+    "origin": "Files:PropertyFileOwner",
+    "text": "მფლობელი"
+  },
+  "Owner UID": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "მფლობელი UID"
+  },
+  "Ownership updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "საფეხბურთო სისტემა განხორციელებული."
+  },
+  "POSIX permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "POSIX განცხადებები"
+  },
+  "Password": {
+    "origin": "Files:Password",
+    "text": "პაროლი"
+  },
+  "Password (optional, AES-256)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Password (გამარჯვებული, AES-256)"
+  },
+  "Password / key passphrase (optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Password / Key Password (მდე მისასვლელად)"
+  },
+  "Password protection is supported for ZIP archives.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Password Protection-ის გამოყენებით შეგიძლიათ გააკეთოთ ZIP ფაილები ."
+  },
+  "Paste": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "მოკლე"
+  },
+  "Paste and drop transfers queue behind the current operation. Completed changes remain available through Undo. Copy cancellation stops the staged transfer before publishing it. Undo history is restored across launches.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #524617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Paste files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ფაილები"
+  },
+  "Paste shortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "Paste shortcut"
+  },
+  "Paste the files into a permanent folder before creating aliases to them.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517417 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "PasteItemToSelectionDescription": {
+    "origin": "Files:PasteItemToSelectionDescription",
+    "text": "Paste items to the selected folder"
+  },
+  "PasteShortcut": {
+    "origin": "Files:PasteShortcut",
+    "text": "Paste shortcut"
+  },
+  "Path": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გადმოწერა"
+  },
+  "Pattern": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "მენეჯერი"
+  },
+  "Permanently delete %1$@ items?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "მალე გაკეთება %1$@ ფუნქციონირება ?"
+  },
+  "Permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "განცხადებები"
+  },
+  "Permissions are enforced by the server. FTP servers must support SITE CHMOD; SFTP uses SSH permissions.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა FTP საინფორმაციო სისტემა: საინფორმაციო სისტემა: საინფორმაციო სისტემა: საინფორმაციო სისტემა: საინფორმაციო სისტემა: საინფორმაციო სისტემა: საინფორმაციო სისტემა: საინფორმაციო სისტემა: საინფორმაციო სისტემა: საინფორმაციო სისტემა: საინფორმაციო სისტემა: საინფორმაციო სისტემა: საინფორმაციო სისტემა: საინფორმაციო სისტემა: საინფორმაციო სისტემა: საინფორმაციო სისტემა: საინფორმაციო სისტემა: საინფორმაციო სისტემა: საინფორმაციო სისტემა: SFTP გამოყენებით SSH განცხადებები ."
+  },
+  "Permissions are stored in the archive. Changes rebuild it and support Undo.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517417 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Permissions updated.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "განცხადებები განხორციელებული."
+  },
+  "Permissions…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "განცხადებები..."
+  },
+  "Pick up where you left off": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Pictures": {
+    "origin": "Files:Pictures",
+    "text": "სურათები"
+  },
+  "Pin this folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "PIN ამ ფორმაზე"
+  },
+  "Pin to sidebar": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "PIN-ის გამოყენებით Side Bar"
+  },
+  "Pinned": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ჩრდილოეთ"
+  },
+  "Pinned folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pinned ფაილი"
+  },
+  "Play All": {
+    "origin": "Files:PlayAll",
+    "text": "Play All"
+  },
+  "PlayAll": {
+    "origin": "Files:PlayAll",
+    "text": "Play All"
+  },
+  "Port": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ბერძნულ ბერძნულ ბერძნულ"
+  },
+  "Preparing copy": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Copy შექმნა"
+  },
+  "Preparing move": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2017, 14:04"
+  },
+  "Presentation is saved with this virtual location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Press the shortcut…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Preview": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Preview რეგისტრაცია"
+  },
+  "Previous layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Previous articleრუსთავი"
+  },
+  "Previous tab": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Previous articleრუსთავი"
+  },
+  "Properties": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Property რეგისტრაცია"
+  },
+  "Properties…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "საფეხბურთო..."
+  },
+  "Property": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Property რეგისტრაცია"
+  },
+  "Protocol": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Protocol რეგისტრაცია"
+  },
+  "Provider controls in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Process Monitor-ის გამოყენებით Finder"
+  },
+  "Pull": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Pull კარიერა"
+  },
+  "Purple": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ბერძნულ"
+  },
+  "Push": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "PUSH"
+  },
+  "Queued": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "კითხვები"
+  },
+  "Quick access": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "სწრაფად მიმოხილვა"
+  },
+  "Quit MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია MacFiles"
+  },
+  "Readable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Readable წერილი"
+  },
+  "Recent files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ახალი ფაილები"
+  },
+  "Recent folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ახალი ფაილი"
+  },
+  "Reconnect to the same server and account, then retry Undo. The remote recovery data remains in .MacFiles-Recovery.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517417 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა .MacFiles-Recovery."
+  },
+  "Record shortcut": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "რეგისტრაცია shortcut"
+  },
+  "Red": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "წითელი"
+  },
+  "Redo": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Redo კარიერა"
+  },
+  "Redo file operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Redo ფაილი მუშაობა"
+  },
+  "Redoing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Reduction"
+  },
+  "Refresh": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "REFRESS"
+  },
+  "Refresh · ⌘R": {
+    "origin": "Files:Refresh",
+    "text": "Refresh · ⌘R"
+  },
+  "Regular expression": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ადიიიიიიიიიი"
+  },
+  "Release notes": {
+    "origin": "Files:ReleaseNotes",
+    "text": "Release Notes"
+  },
+  "Reload": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2017, 14:04 #5246 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Remember password in Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა Keychain"
+  },
+  "Remote operation on %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Remote Operation-ის გამოყენებით %1$@"
+  },
+  "Remote path": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Remote გზა"
+  },
+  "Remote paths cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Remote Paths cannot contain line breaks (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) NUL ფუნდამენტები ."
+  },
+  "Remotes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია"
+  },
+  "Remove": {
+    "origin": "Files:Remove",
+    "text": "წაშლა"
+  },
+  "Remove attribute…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია Attribute..."
+  },
+  "Remove background image": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2017, 14:04 #5246 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Remove download": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Download ჩამოტვირთვა"
+  },
+  "Remove entries…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ჩამოტვირთვა ტექნოლოგიური..."
+  },
+  "Remove from archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Remove library": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 Jul, 2017 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Remove local download…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 Jul, 2017 · პროფილი · პირადი მიმოწერა · ჩატი · ჩატი · ელფოსტა"
+  },
+  "Remove references": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2017, 14:04 #5246 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Remove saved credentials": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Remove saved folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Remove saved search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Remove selected entries from the archive?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Remove tags": {
+    "origin": "Files:RemoveTags",
+    "text": "Remove tags"
+  },
+  "Remove the local download?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Remove ‘%1$@’?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ჩამოტვირთვა »%1$@’?"
+  },
+  "RemoveTags": {
+    "origin": "Files:RemoveTags",
+    "text": "Remove tags"
+  },
+  "Removing tags": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tags გაკეთება"
+  },
+  "Rename": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "სახელწოდება"
+  },
+  "Rename %1$@ items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "სახელწოდება %1$@ პოსტები"
+  },
+  "Rename archive entry": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "რეგისტრაციის სახელი"
+  },
+  "Rename entry…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "დასახელება: RENAME ENTER..."
+  },
+  "Rename failed. Your item is preserved at %1$@. %2$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517417 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა %1$@. %2$@"
+  },
+  "Rename remote item": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Remote item (რუსთავი 2 მილიარდ დოლარი)"
+  },
+  "Rename…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "დასახელება..."
+  },
+  "Renaming": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "RENAMIN"
+  },
+  "Renaming items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "RENAMING ტექნოლოგიები"
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Finder uses the macOS palette; custom colors and stable IDs are retained by MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #524617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა Spotlight. Unindexed ან inaccessible files may retain the old tag. (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) Finder გამოყენებით The macOS Palette; custom colors and stable IDs are retained by MacFiles."
+  },
+  "Renaming or deleting a saved tag updates files found by Spotlight. Unindexed or inaccessible files may retain the old tag. Tag colors use the macOS palette.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #524617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა Spotlight. Unindexed ან inaccessible files may retain the old tag. Tag colors use the macOS ფაილი ."
+  },
+  "Reopen closed tab": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Reopen გაკეთებული tab"
+  },
+  "Replace": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "შეფასება"
+  },
+  "Replace this item's ACL?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა ACL?"
+  },
+  "Replace with": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Under მისი სასაქონლო ნიშნის მუშაობა"
+  },
+  "Replace, keeping backup": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Report an issue": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "პასუხია აქ პასუხია აქ პასუხია აქ"
+  },
+  "Repository": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Repository"
+  },
+  "Repository URL": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "URL რეგისტრაციის გარეშე"
+  },
+  "Requesting cloud download": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2017, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Reset": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "პასუხია აქ პასუხია აქ"
+  },
+  "Reset all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ყველა სურათები"
+  },
+  "Reset icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Icon რეგისტრაცია"
+  },
+  "Reset pinned folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "პასუხია აქ პასუხია აქ პასუხია აქ პასუხია აქ"
+  },
+  "Restart MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "პასუხია აქ პასუხია აქ MacFiles"
+  },
+  "Restore all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ყველა სურათები"
+  },
+  "Restore command defaults": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2017, 14:04 #5246 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Restore here": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გადმოწერე აქ"
+  },
+  "Restore original location": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ადიიიიიიიიიი რაააააააააა"
+  },
+  "Restore previous folder viewer": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:04 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Restore tabs at launch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Restore to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 Jul, 2017 · პროფილი · პირადი მიმოწერა"
+  },
+  "Restoring from Trash": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2017, 14:04 #5246 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Results come from the macOS Spotlight index. Unindexed folders are not included.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ადიიიიიიიიიი რაააააააააააააააააააააააააააააააააააააა macOS Spotlight Index. Unindexed ფაილები არ ჩაწერილა."
+  },
+  "Results in this folder and subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Retargeting shortcut": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Retargeting shortcut (რუსთავი 2 ოქტომბერს)"
+  },
+  "Retarget…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "RETARGET..."
+  },
+  "Reveal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "განცხადება"
+  },
+  "Reveal in Finder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2017, 14:54 #5246 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა Finder"
+  },
+  "Reverse tab scroll direction": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "პასუხია აქ პასუხია აქ პასუხია აქ პასუხობს"
+  },
+  "Review server fingerprint…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "დასახელება: server fingerprint..."
+  },
+  "Right": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ბერძნულ ბერძნულ"
+  },
+  "Rotate left": {
+    "origin": "Files:RotateLeft",
+    "text": "შეტრიალება მარცხნივ"
+  },
+  "Rotate right": {
+    "origin": "Files:RotateRight",
+    "text": "შეტრიალება მარჯვნივ"
+  },
+  "Rotating left": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ბერძნულ ბერძნულ"
+  },
+  "Rotating right": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ბერძნულ ბერძნულ"
+  },
+  "Running": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Running წასვლა"
+  },
+  "SFTP (SSH keys)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SFTP (SSH Key (მდე მისასვლელად)"
+  },
+  "SMB, AFP, or WebDAV share": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SMB, AFPან WebDAV გაზიარება"
+  },
+  "SSH known-host verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH იურიდიული-გამარჯვებული განცხადებები"
+  },
+  "SSH passwords cannot contain line breaks or NUL characters.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SSH Passwords არ შეგიძლიათ გააკეთოთ Line Break ან NUL ფუნდამენტები ."
+  },
+  "Save": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Save გადმოწერა"
+  },
+  "Save attribute": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Save the Attribute (მდე მისასვლელად)"
+  },
+  "Save folder layout": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "File Layout რეგისტრაციის გარეშე"
+  },
+  "Save metadata": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Metadata რეგისტრაციის გარეშე"
+  },
+  "Save search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Save სურათები"
+  },
+  "Save search…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გადმოწერე სურათები..."
+  },
+  "Save to Keychain": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Save to მე Keychain"
+  },
+  "Saved connections": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "შეფასება შეფასება შეფასება შეფასება"
+  },
+  "Saved searches": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:04 #5246 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Saved. The token will be used for GitHub HTTPS operations.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #524617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Seafoam": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Seafoam"
+  },
+  "Search": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 Jul, 2017"
+  },
+  "Search %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 Jul, 2017 %1$@"
+  },
+  "Search %1$@ · Return searches subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 Jul, 2017 %1$@ · Return search subfolders (რუსთავი 2 მილიარდ დოლარი)"
+  },
+  "Search available actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Search commands": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Search მოწყობილობები"
+  },
+  "Search folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Search ფაილები"
+  },
+  "Search settings": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Search Settings რეგისტრაციის გარეშე"
+  },
+  "Search stopped.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოცდილება გადაწყვიტეს."
+  },
+  "Search subfolders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Subfolders სურათები"
+  },
+  "Security": {
+    "origin": "Files:Security",
+    "text": "უსაფრთხოება"
+  },
+  "Select": {
+    "origin": "Files:NavToolbarSelectionOptions.Label",
+    "text": "არჩევა"
+  },
+  "Select a file to view its diff.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Select a macOS alias or symbolic link.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არჩევნები A macOS alias ან ტექნოლოგიური ტექნოლოგიური სისტემა."
+  },
+  "Select a regular media file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Select all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ყველა არჩევნები"
+  },
+  "Select an archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2017, 14:04 #5246 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Select an item to see its details.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517417 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Select archive entries to remove.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Select on hover": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Select previous folder when navigating up": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Select uniquely named items to archive.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Selected items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2017, 14:04"
+  },
+  "Selected items have duplicate names. Archive them separately.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517417 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Selection checkboxes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Checkboxes რეგისტრაცია"
+  },
+  "Separate file and folder counts": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ფაილები და ფაილები სხვადასხვა ფაილები და ფაილები"
+  },
+  "Separator": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Separator წერილი"
+  },
+  "Server": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "სერვისი"
+  },
+  "Set as app background": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "Set as app background"
+  },
+  "Set as wallpaper": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Set as Wallpaper (ქართულად) ფოტოსურათები"
+  },
+  "Set default": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "მოკლე აღწერა"
+  },
+  "SetAsAppBackground": {
+    "origin": "Files:SetAsAppBackground",
+    "text": "Set as app background"
+  },
+  "Settings": {
+    "origin": "Files:Settings",
+    "text": "პარამეტრები"
+  },
+  "Settings file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Settings ფაილი"
+  },
+  "Settings saved.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Settings რეგისტრაციის გარეშე."
+  },
+  "Settings…": {
+    "origin": "Files:Settings",
+    "text": "პარამეტრები"
+  },
+  "Share": {
+    "origin": "Files:Share",
+    "text": "გაზიარება"
+  },
+  "Share…": {
+    "origin": "Files:Share",
+    "text": "გაზიარება"
+  },
+  "Shelf": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "SHELF"
+  },
+  "Shortcut": {
+    "origin": "Files:Shortcut",
+    "text": "მალსახმობი"
+  },
+  "Shortcuts apply in the explorer. Text fields keep native editing behavior. Resolve duplicate assignments before applying.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Shortcuts გამოიყენება Explorer-ში. ტექნოლოგიური ფორმაები განახორციელებს ინდუსტრიული რეგისტრაციის მდგომარეობა. გადაწყვეტილებები duplicate გაკეთება, როდესაც გამოიყენება."
+  },
+  "Show dotfiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "DOTFILES რეგისტრაცია"
+  },
+  "Show hidden files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:04 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Show in folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 Jul, 2017 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Show log in folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 Jul, 2017 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Show menu bar icon": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Show package contents": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2017, 14:04 #5246 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Show shelf button": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:04 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Show staged diff": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:04 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Show status bar": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 Jul, 2017 · პროფილი · პირადი მიმოწერა"
+  },
+  "Show tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Show tab რეგისტრაციის გარეშე"
+  },
+  "Show thumbnails": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Touching რომანტიკისათვის"
+  },
+  "ShowFileExtensions": {
+    "origin": "Files:ShowFileExtensions",
+    "text": "File extensions"
+  },
+  "Sidebar": {
+    "origin": "Files:Sidebar",
+    "text": "გვერდითი ზოლი"
+  },
+  "Signature": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "დასახელება"
+  },
+  "Signature integrity verification failed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "შეხვედრაზე განხორციელებული უსაფრთხოების განხორციელება არ გაკეთებულა."
+  },
+  "Signature integrity verified. This does not constitute a notarization or malware assessment.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Signature integrity verified. ეს არ არის notarisation ან malware assessment."
+  },
+  "Signatures": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "განცხადებები"
+  },
+  "Single file": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Single ფაილი"
+  },
+  "Single folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Single ფაილები"
+  },
+  "Single-click columns": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Single-click კორპუსები"
+  },
+  "Single-click files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Single-click ფაილები"
+  },
+  "Single-click folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Single-click ფაილები"
+  },
+  "Size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "მედია"
+  },
+  "Size units": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "1 საათის განმავლობაში"
+  },
+  "Skip": {
+    "origin": "Files:Skip",
+    "text": "გამოტოვება"
+  },
+  "Skip existing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Skyscraper რეგისტრაცია"
+  },
+  "Small icons": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Icon-ის ნაკლებობა"
+  },
+  "Smooth scrolling": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Smooth scrolling (რუსთავი 2 მილიონი დოლარი)"
+  },
+  "Solid": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Solid მობილური"
+  },
+  "Some files could not be updated. The saved tag was retained so you can retry.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "რამდენიმე ფაილები არ შეგიძლიათ გააკეთოთ განხორციელებული. განხორციელებული ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური ტექნოლოგიური"
+  },
+  "Some items could not be read.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "რამდენიმე კვლევა არ შეგიძლიათ გააკეთოთ."
+  },
+  "Some items couldn’t be completed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "რამდენიმე საათის განმავლობაში არასოდეს შეგიძლიათ გააკეთოთ"
+  },
+  "Some items have no recorded original location. Select them and use Restore to…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "რამდენიმე პერსონაჟის არ არსებობს რეგისტრებული პირველი ადგილი. შეგიძლიათ გააკეთოთ მათ და გამოიყენოთ Restore to..."
+  },
+  "Sort": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ბედნიერება"
+  },
+  "Sort by": {
+    "origin": "Files:SortBy",
+    "text": "დახარისხება"
+  },
+  "SortFilesAndFoldersTogether": {
+    "origin": "Files:SortFilesAndFoldersTogether",
+    "text": "Sort files and folders together"
+  },
+  "SortFilesFirst": {
+    "origin": "Files:SortFilesFirst",
+    "text": "Sort files first"
+  },
+  "SortFoldersFirst": {
+    "origin": "Files:SortFoldersFirst",
+    "text": "Sort folders first"
+  },
+  "Source code": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Source კოდი"
+  },
+  "Special device entries cannot be extracted: %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Special Device რეგისტრაციის არ შეგიძლიათ ჩამოტვირთოთ: %1$@"
+  },
+  "Split archives use ZIP or 7z format.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Share Archive რეგისტრაციის გარეშე ZIP ან 7z ფორმატი"
+  },
+  "Split into volumes (MiB, optional)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Stage all": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ყველა დისკუსი"
+  },
+  "Stage selected": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Step არჩევნები"
+  },
+  "Staged all changes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ყველა ცვლილებების განხორციელება"
+  },
+  "Staged selected files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2017, 14:04 #5246 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Start": {
+    "origin": "Files:Start",
+    "text": "Start"
+  },
+  "Start folder": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Start ფაილი"
+  },
+  "Startup": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup რეგისტრაცია"
+  },
+  "Startup and tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup და Tabs"
+  },
+  "Startup folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup ფაილები"
+  },
+  "Startup folders are used when session restoration is disabled. An empty list opens Home.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Startup ფაილები გამოიყენება, როდესაც session restoration is disabled. A empty list opens Home."
+  },
+  "Status": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Status რეგისტრაცია"
+  },
+  "Stop": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "დაახლოებით"
+  },
+  "Stopped before the next item. Completed items were kept.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517417 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Storage settings…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "საფეხბურთო სისტემა..."
+  },
+  "Storm": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ბრალდებულება"
+  },
+  "Stretch": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Stretch"
+  },
+  "Switch to new tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Switch to new tabs (მდე მისასვლელად)"
+  },
+  "Switched to %1$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "შეეძლოთ %1$@"
+  },
+  "Symbolic Link": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Symbolic ტექნოლოგიური"
+  },
+  "Symbolic link": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Symbolic ტექნოლოგიური"
+  },
+  "Sync": {
+    "origin": "Files:GitSync",
+    "text": "Sync"
+  },
+  "Sync conflict": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sync კონკურენტი"
+  },
+  "Sync error": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sync შეცდომები"
+  },
+  "Synced": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Synthetic ფუნქცია"
+  },
+  "Synchronize folder preferences": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Sinkronize folder სურათები"
+  },
+  "System": {
+    "origin": "Files:SystemTimeStyle",
+    "text": "სისტემა"
+  },
+  "TLS certificate verification": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "TLS Certificate განცხადება"
+  },
+  "Tab actions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tab რეგისტრაციის"
+  },
+  "Tabs": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "TABS"
+  },
+  "Tag": {
+    "origin": "Files:Tag",
+    "text": "ფაილის იარლიყი"
+  },
+  "Tag (blank = all tags)": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag (მდე მისასვლელად = ყველა tags)"
+  },
+  "Tag color": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag ფერები"
+  },
+  "Tag name": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "სახელწოდება"
+  },
+  "Tag names must be unique.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag სახელები უნდა იყოს უმრავლესობა."
+  },
+  "Tag update failed and original metadata could not be restored: ": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tag update failed and original metadata could not be restored (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) "
+  },
+  "Tagged items": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tagged კვლევები"
+  },
+  "Tags": {
+    "origin": "Files:FileTags",
+    "text": "ტეგები"
+  },
+  "Tags, separated by commas": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tags, ჩრდილოეთ კატეგორიები Commas"
+  },
+  "Target": {
+    "origin": "Files:PropertyItemTarget",
+    "text": "სამიზნე"
+  },
+  "Terminal": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Terminal სარეცხი"
+  },
+  "Test IDE": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "IDE სურათები"
+  },
+  "The ACL failed validation.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "The წერილი ACL შეცდომის შეცდომები."
+  },
+  "The command failed (%1$@).": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა%1$@)."
+  },
+  "The custom icon and saved layout belong to the selected item.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Custom Icon და Save Layout მოიცავს არჩევნების საფუძველი."
+  },
+  "The destination connection changed. Drop the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517417 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "The destination connection changed. Paste the files again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517417 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "The destination is not an accessible folder.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "The icon could not be changed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Icon არ შეგიძლიათ გააკეთოთ."
+  },
+  "The icon could not be reset.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Icon არ შეგიძლიათ გააკეთოთ."
+  },
+  "The media container did not retain: ": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Media container არ ჩაწერილა: "
+  },
+  "The media tracks cannot be preserved in this container.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Media Track არ შეგიძლიათ გამოიყენოთ ამ კორპუსში."
+  },
+  "The new shortcut target does not exist.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ახალი ფასდაკლების საფუძველი არ არსებობს."
+  },
+  "The old shortcut is in Trash, but macOS did not return its location.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ადიიიიიიიიიი რაააააააააააააააააააააააააააააააააააა macOS არ ჩაწერილა მისი ადგილმდებარეობა."
+  },
+  "The original archive remains recoverable with Undo.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "The original archive remains recoverable with Undo (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად)"
+  },
+  "The server did not return a valid host-key list.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არ ჩაწერილა ბერძნულ ბერძნულ ბერძნულ ბერძნულ ბერძნულ ბინებში."
+  },
+  "The server recovery path is occupied by a file.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "The server recovery path is occupied by a file. (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა)"
+  },
+  "The server returned an unsafe or unsupported filename.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "The server returned an unsafe or unsupported file name (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად) (ქართულად)"
+  },
+  "The server returned an unsupported directory listing. No transfer was started.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "server returned a unsupported directory listing. არასოდეს ჩამოტვირთვა დაიწყო."
+  },
+  "The shortcut will point to %1$@. The target file itself is not modified.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "The Shortcut გამოიყურება %1$@. ტექნოლოგიური ფაილები არ არის შექმნილი."
+  },
+  "The slideshow changes desktop wallpaper while MacFiles is running. It resumes at launch when enabled. macOS controls the lock screen wallpaper separately.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Slideshow changes desktop wallpaper (ქართულად) ფოტოსურათი ფოტოსურათი ფოტოსურათი ფოტოსურათი ფოტოსურათი MacFiles გამოქვეყნებული. ეს გამოქვეყნებული შემდეგ გამოქვეყნებული. macOS გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "The system script could not be compiled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასოდეს შეგიძლიათ გააკეთოთ ტექნოლოგიური სურათები."
+  },
+  "The system script could not be created.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასოდეს შეგიძლიათ გააკეთოთ ტექნოლოგიური სურათი."
+  },
+  "The transfer selection changed. Cut the items again.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517417 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "The uploaded data did not match its source. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "The uploaded data didn't match its source. ფუნქციონირებული ფუნქციონირებული ფუნქციონირებული ფუნქცია."
+  },
+  "The uploaded iCloud copy remains available. macOS will download it again when needed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Updated რეგისტრაციის გარეშე iCloud Copy შეგიძლიათ გააკეთოთ. macOS გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Theme": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "კითხვები"
+  },
+  "These items will be removed from Trash. This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ეს ტექნოლოგიური საფუძვლები გამოიყენება Trash. ეს არ შეგიძლიათ გააკეთოთ."
+  },
+  "Third-party providers do not expose a common public sync-completion API. Available locally describes downloaded bytes, not upload completion. Download requests do not pin files permanently.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Third-party providers do not expose a common public sync-complete API. ითვალისწინებული ადგილმდებარეობაში აღნიშნავს ჩამოტვირთული bytes, არ ჩამოტვირთვა შეფასება. ჩამოტვირთვა მოთხოვნები არ pin ფაილები მალე."
+  },
+  "This FTP server cannot create symbolic links. The source was retained.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ეს FTP server არ შეგიძლიათ გააკეთოთ ტექნოლოგიური ტექნოლოგიური ტექნოლოგიები. source was retained."
+  },
+  "This Mac": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Mac ამ"
+  },
+  "This alias contains a target cycle.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ეს alias მოიცავს საფეხბურთო საფეხბურთო საფეხბურთო საფეხბურთო საფეხბურთო სისტემა."
+  },
+  "This archive format is read-only. Extract it and create a ZIP or 7z archive to edit its contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ამ ფაილების ფაილები მხოლოდ სურათზე. გამოიყენეთ ეს და შექმნათ ZIP ან 7z Archive to edit მისი ტექნოლოგიები."
+  },
+  "This archive or server protocol does not expose macOS extended attributes. Extract or download the item to manage attributes on its local copy.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ეს ფაილები ან სერვისი ტექნოლოგიები არ გამოიყურება macOS Extended attributes. Extract or download the item to manage attributes on its local copy. (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა)"
+  },
+  "This cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ეს არასოდეს შეგიძლიათ გააკეთოთ."
+  },
+  "This changes the registered folder viewer. Finder still manages the desktop and macOS file dialogs. You can restore the previous viewer here.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა Finder გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა macOS File dialogs. თქვენ შეგიძლიათ გამოიყენოთ შემდეგი სურათი აქ."
+  },
+  "This changes which users can access the item. Export the existing ACL first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ეს შეცდომები, რომელთაც შეგიძლიათ გამოიყენოთ ტექნოლოგიას. Export the existing ACL თუ თქვენ უნდა გააკეთოთ backup."
+  },
+  "This folder is empty": {
+    "origin": "Files:EmptyFolder.Text",
+    "text": "ეს საქაღალდე ცარიელია."
+  },
+  "This location is not ready for transfers.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ეს ადგილმდებარეობა არ არის შექმნილი ტრანსპორტისთვის."
+  },
+  "This media format cannot be edited by the native exporter.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ეს მობილური ფორმა არ შეგიძლიათ ჩამოტვირთოთ მობილური მობილური მობილური."
+  },
+  "This metadata container uses indexed keys; edit it with its native media application.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ეს metadata container გამოიყენება indexed key; edit it with its native media application."
+  },
+  "This operation cannot be undone.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ეს პრობლემა არასოდეს შეგიძლიათ გააკეთოთ."
+  },
+  "This removes the attribute from this file. Export its bytes first if you need a backup.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517417 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Thumbnail cache limit": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Tumbnail Cache-ის ფუნქცია"
+  },
+  "Thumbnails": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thumbnails"
+  },
+  "Thumbnails are cached in memory. The limit applies to decoded images.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Thumbnails are cached in memory. The limit applies to decoded images. (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა) (კანადა)"
+  },
+  "Tiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "TITLE-ის"
+  },
+  "Title": {
+    "origin": "Files:PropertyTitle",
+    "text": "სათაური"
+  },
+  "Today": {
+    "origin": "Files:Today",
+    "text": "დღეს"
+  },
+  "Toggle compact overlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "Toggle compact overlay"
+  },
+  "Toggle details pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "პასუხია აქ პასუხია აქ პასუხია აქ პასუხია აქ"
+  },
+  "Toggle dual pane": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "2 საათის განმავლობაში DUPLE PAN"
+  },
+  "Toggle filter header": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "Toggle filter header"
+  },
+  "Toggle full screen": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Full Screen რეგისტრაციის გარეშე"
+  },
+  "Toggle selection": {
+    "origin": "Files:ToggleSelect",
+    "text": "Toggle selection"
+  },
+  "ToggleCompactOverlay": {
+    "origin": "Files:ToggleCompactOverlay",
+    "text": "Toggle compact overlay"
+  },
+  "ToggleFilterHeader": {
+    "origin": "Files:ToggleFilterHeader",
+    "text": "Toggle filter header"
+  },
+  "ToggleSelect": {
+    "origin": "Files:ToggleSelect",
+    "text": "Toggle selection"
+  },
+  "ToggleSidebar": {
+    "origin": "Files:ToggleSidebar",
+    "text": "Toggle the sidebar"
+  },
+  "ToggleToolbar": {
+    "origin": "Files:ToggleToolbar",
+    "text": "Toggle toolbar"
+  },
+  "Too many nested aliases.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ძალიან ბევრი ნარკოტიკული მოწყობილობები."
+  },
+  "Tools": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ტექნოლოგიური"
+  },
+  "Top": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Top"
+  },
+  "Total size": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Total Size (მდე მისასვლელად)"
+  },
+  "Transfer failed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Transfers არასოდეს გაკეთებული"
+  },
+  "Trash": {
+    "origin": "Files:RecycleBin",
+    "text": "Recycle Bin"
+  },
+  "Trash on this Mac and connected volumes": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Trust": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "პასუხია აქ პასუხია აქ"
+  },
+  "Trust this SSH server?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "პასუხია აქ პასუხობს SSH დასახელება server?"
+  },
+  "Trust verified fingerprints": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Try again": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "კიდევ ერთხელ ვიყავი"
+  },
+  "Under window": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Under ბრენდი"
+  },
+  "Undo": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "და"
+  },
+  "Undo file operation": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Under ფაილი მუშაობა"
+  },
+  "Undoing": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "დატვირთვა"
+  },
+  "Unencrypted FTP": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Uncrypted რეგისტრაცია FTP"
+  },
+  "Universal": {
+    "origin": "Files:Universal",
+    "text": "უნივერსალური"
+  },
+  "Unknown": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არ იცოდნენ"
+  },
+  "Unknown shortcut command.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Unknown shortcut Command (რუსთავი 2 ოქტომბერს)"
+  },
+  "Unpin": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Unpin-ის"
+  },
+  "Unsafe archive link target.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "უსაფრთხო ფაილები link target."
+  },
+  "Unstage": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არავინ გვაქვს"
+  },
+  "Unstaged selected files": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Unsupported Git action.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასამთავრობო Git მუშაობა ."
+  },
+  "Unsupported archive entry name or listing.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასოდეს განხორციელებული ანგარიშის სახელწოდება ან რეგისტრაცია."
+  },
+  "Unsupported file type in transfer.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასოდეს გაკეთებული ფაილების ტექნოლოგიური სისტემა."
+  },
+  "Unsupported metadata container version.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასამთავრობო metadata container version."
+  },
+  "Unsupported movie header.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არასოდეს უზრუნველყოფს film header."
+  },
+  "Untagged": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "არ ჩაწერილა"
+  },
+  "Up": {
+    "origin": "Files:Key.Up",
+    "text": "ზემოთ (Alt+Up Arrow)"
+  },
+  "Up one level": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "1 დონეზე"
+  },
+  "Up one level · ⌘↑": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "1 საათის განმავლობაში · ⌘↑"
+  },
+  "Updates native macOS tags for all selected items. Leave empty to remove tags.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Native რეგისტრაცია macOS Tags for all selected items. დაათვალიერეთ ნამდვილად დაათვალიეროთ tags."
+  },
+  "Updating archive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Archive რეგისტრაციის"
+  },
+  "Updating media metadata": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Media Metadata რეგისტრაციის გარეშე"
+  },
+  "Updating permissions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Updated რეგისტრაციის გარეშე"
+  },
+  "Upload": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ჩატი"
+  },
+  "Upload failed. The original remains at %1$@; the pending upload is %2$@. %3$@": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517417 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა %1$@გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა %2$@. %3$@"
+  },
+  "Upload files…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ჩამოტვირთვა ფაილები..."
+  },
+  "Upload regular files or folders; symbolic links are not followed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517417 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Uploading": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ჩამოტვირთვა"
+  },
+  "Upstream Files issues": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Upstream ფაილები პრობლემები"
+  },
+  "Use Copy and Paste or Download to transfer remote items.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოიყენეთ Copy and Paste ან Download, რათა გამოიყენოთ Remote items."
+  },
+  "Use Copy or Extract to transfer archive contents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოიყენეთ Copy or Extract, რათა გამოიყენოთ ფაილები."
+  },
+  "Use MacFiles": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოყენებით MacFiles"
+  },
+  "Use MacFiles for folder URLs?": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოყენებით MacFiles URL ფაილები?"
+  },
+  "Use MacFiles for folder URLs…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოყენებით MacFiles URL ფაილები..."
+  },
+  "User": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოყენებით"
+  },
+  "Username": {
+    "origin": "Files:CredentialDialogUserName.PlaceholderText",
+    "text": "მომხმარებლის სახელი"
+  },
+  "Uses SSH keys or the password above. Host-key verification remains enabled.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოყენება SSH Key or the password above. Host-key verification remains enabled (გამარჯვებული მობილური მობილური მობილური მობილური)"
+  },
+  "Uses the on-device Apple Intelligence model when available. Otherwise searches the words you entered. No file content is sent to a server.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოიყენეთ ტელეფონში Apple Intelligence მობილური, როდესაც გათვალისწინებული. თუ არა, გამოიყურება სიტყვები, რომლებიც თქვენ ჩაწერილა. არ არის ფაილი ტექნოლოგიის საფუძველზე."
+  },
+  "Value": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ღირებულება"
+  },
+  "Verified host keys saved for MacFiles.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა MacFiles."
+  },
+  "Vertical alignment": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vertical Alignment-ის გამოყენებით"
+  },
+  "Vertical split": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Vertical ბრალდებით"
+  },
+  "View": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2017, 14:04"
+  },
+  "Volume": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Volume სავაჭრო"
+  },
+  "Volume available": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Volume-ის გამოყენებით"
+  },
+  "Volume capacity": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Volume შეფასება"
+  },
+  "Volume case sensitive": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Volume Case-ის გამოყენებით"
+  },
+  "Volume read only": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Volume Read only (მდე მისასვლელად მხოლოდ"
+  },
+  "Volumes must be at least 1 KiB.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "1 კმ-ზე უნდა იყოს 1 კმ-ზე."
+  },
+  "Waiting to sync": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "Wallpaper could not be changed": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Wallpaper არასოდეს შეგიძლიათ გააკეთოთ"
+  },
+  "Wallpaper slideshow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Slideshow სურათები"
+  },
+  "Wallpaper slideshow…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Slideshow სურათები..."
+  },
+  "Warn when changing file extensions": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "გამოგზავნილია: 16 May 2018, 14:44 #517617 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "When an item exists": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "როდესაც საფეხბურთო საფეხბურთო საფეხბურთო საფეხბურთო"
+  },
+  "When names conflict, choose Keep both, Replace, or Skip. Replaced versions and deleted items go to the macOS Trash. Undo and redo are retained across launches and shared by open windows.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "როდესაც სახელწოდების ურთიერთობა, შეგიძლიათ გამოიყენოთ Keep both, Replace, or Skip. Replaced versions and deleted items go to the macOS Undo და redo განახორციელდება ნებისმიერ ჩამოტვირთვას და გამოიყენება Open Window-ზე."
+  },
+  "Working…": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "მუშაობა..."
+  },
+  "Writable": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "წერილი"
+  },
+  "Writes embedded metadata. Image files may be re-encoded; the original remains recoverable with Undo. Audio and video edits preserve encoded tracks. Unsupported containers keep the original.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Writes embedded metadata. Image files may be re-encoded; the original remains recoverable with Undo. Audio and video edits preserve encoded tracks. არასამთავრობო მოწყობილობები შეგიძლიათ გააკეთოთ დამოკიდებული მოწყობილობები."
+  },
+  "Year": {
+    "origin": "Files:Year",
+    "text": "წელი"
+  },
+  "Yellow": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "Yellow წავიდა"
+  },
+  "Yes": {
+    "origin": "Files:Yes",
+    "text": "დიახ"
+  },
+  "Yesterday": {
+    "origin": "Files:Yesterday",
+    "text": "გუშინ"
+  },
+  "You can restore these items with Undo or from the Trash.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "You can restore these items with Undo or from the Trash. თქვენ შეგიძლიათ გამოიყენოთ ამ კვლევა დატვირთვა დატვირთვა დატვირთვა."
+  },
+  "Your files, your way.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "თქვენი ფაილები, თქვენი გზა."
+  },
+  "Your pinned folders": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "თქვენი ფაილები"
+  },
+  "Zoom": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "ZOOM"
+  },
+  "macOS aliases and symbolic links refer to a target path. Windows shortcut arguments and Run as administrator flags do not have alias equivalents.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Aliases და Symbolic Links აცხადებს საფეხბურთო გარეშე. Windows ბერძნულ ბერძნულ ბერძნულ-რომაული სტილით მოჭიდავეთა შორის ფინალური ბერძნულ-რომაული სტილით მოჭიდავეთა შორის ფინალური ბერძნულ-რომაული სტილით მოჭიდავეთა შორის ფინალური ბერძნულ-რომაული სტილით მოჭიდავეთა შორის ფინალური ბერძნულ-რომაული სტილით მოჭიდავეთა შორის ფინალური ბერძნულ-რომაული სტილით მოჭიდავეთა შორის ფინალური ბერძნულ-რომაული სტილით."
+  },
+  "macOS integration": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS INGREDIATION"
+  },
+  "macOS moved the previous version to Trash but did not return its location. The new version was not installed.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS გამოგზავნილია: 16 May 2018, 14:44 #517417 · პროფილი · პირადი მიმოწერა · ჩატი · ელფოსტა"
+  },
+  "macOS returned %1$@.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS Returns წავიდა %1$@."
+  },
+  "macOS uses Mach-O architectures and the application's minimum OS version. Windows compatibility modes, DPI overrides and administrator flags cannot be applied to a native Mac app.": {
+    "origin": "M2M100-418M-local",
+    "strategy": 2,
+    "text": "macOS გამოყენებით Mach-O სურათები და პროგრამის minimal OS version. Windows შეგიძლიათ გამოიყენოთ მოწყობილობები, DPI overrides და administrator flags არ შეგიძლიათ გამოიყენოთ მოწყობილობით Mac."
+  }
+}
