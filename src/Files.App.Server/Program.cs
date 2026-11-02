@@ -21,8 +21,15 @@ class Program
 	static Type[] GetActivatableTypes() =>
 	[
 		typeof(AppService),
+		typeof(DriveService),
 		typeof(FileTagsService),
+		typeof(IconService),
+		typeof(JumpListService),
+		typeof(LocationService),
+		typeof(PinnedFoldersService),
+		typeof(RecycleBinService),
 		typeof(SettingsService),
+		typeof(ShellService),
 		typeof(UpdateService),
 	];
 
