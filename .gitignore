@@ -409,3 +409,7 @@ FodyWeavers.xsd
 *.sln.iml
 .idea/
 src/Files.App/Assets/FilesOpenDialog/Files.App.Launcher.exe.sha256
+
+# Native macOS generated distribution and Finder metadata
+/MacFiles.app/
+.DS_Store

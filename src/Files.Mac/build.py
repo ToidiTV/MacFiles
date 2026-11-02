@@ -14,6 +14,14 @@ parser.add_argument("--skip-build", action="store_true")
 parser.add_argument("--bundle-id", default="com.toidi.macfiles", help="Use a separate preference domain for UI test builds")
 parser.add_argument("--universal", action="store_true", help="Build both Apple Silicon and Intel architectures")
 args = parser.parse_args()
+# Secondary worktrees should compile/test without producing duplicate app bundles.
+try:
+    worktrees = subprocess.check_output(["git", "worktree", "list", "--porcelain"], cwd=ROOT, text=True)
+    primary = pathlib.Path(worktrees.splitlines()[0].removeprefix("worktree "))
+    if ROOT.parents[1] != primary and args.output.resolve() == ROOT.parents[1]:
+        parser.error("Use swift build/test in feature worktrees. Package from the primary checkout after merging.")
+except (subprocess.CalledProcessError, FileNotFoundError, IndexError):
+    pass
 architectures = ["--arch", "arm64", "--arch", "x86_64"] if args.universal else []
 clang_architectures = ["-arch", "arm64", "-arch", "x86_64"] if args.universal else []
 subprocess.run(["xcrun", "clang"] + clang_architectures + ["-O2", "-mmacosx-version-min=14.0", str(ROOT / "Tools/macfiles-askpass.c"), "-o", str(ROOT / "Tools/macfiles-askpass")], check=True)

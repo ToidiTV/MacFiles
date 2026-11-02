@@ -63,3 +63,10 @@
 #*.RTF   diff=astextplain
 
 *.h linguist-language=C++
+
+# Keep native source checkouts consistent with AGENTS.md.
+src/Files.Mac/**/*.swift text eol=crlf
+src/Files.Mac/**/*.py text eol=crlf
+src/Files.Mac/*.md text eol=crlf
+scripts/*.py text eol=crlf
+UPSTREAM-WORKFLOW.md text eol=crlf
