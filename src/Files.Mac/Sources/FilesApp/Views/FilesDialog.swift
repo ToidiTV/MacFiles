@@ -9,15 +9,16 @@ extension EnvironmentValues {
 struct FilesDialogOverlay: View {
     @ObservedObject var model: MainPageViewModel
     let request: ToolRequest
-    private var compact: Bool { [.compress, .rename, .tags, .permissions].contains(request.kind) }
+    private var compact: Bool { [.compress, .extract, .rename, .tags, .permissions].contains(request.kind) }
     private var preferredWidth: CGFloat { request.kind == .network ? 600 : compact ? 488 : 850 }
-    private var preferredHeight: CGFloat { request.kind == .compress ? 440 : compact ? 550 : 640 }
+    private var preferredHeight: CGFloat { request.kind == .compress ? 620 : request.kind == .extract ? 440 : compact ? 550 : 640 }
     var body: some View {
         GeometryReader { geometry in
             ZStack {
                 Color.black.opacity(0.28).contentShape(Rectangle())
                 ToolSheet(model: model, request: request)
                     .environment(\.dismissTool, { model.tool = nil })
+                    .tint(Palette.accent)
                     .frame(width: min(preferredWidth, geometry.size.width - 32), height: min(preferredHeight, geometry.size.height - 32))
                     .background(Palette.background, in: RoundedRectangle(cornerRadius: 8))
                     .clipShape(RoundedRectangle(cornerRadius: 8))
@@ -38,6 +39,15 @@ struct FilesDialogButtonStyle: ButtonStyle {
             .opacity(isEnabled ? 1 : 0.45)
     }
 }
+struct FilesPrimaryButtonStyle: ButtonStyle {
+    @Environment(\.isEnabled) private var isEnabled
+    func makeBody(configuration: Configuration) -> some View {
+        configuration.label.font(ExplorerFont.font(size: 13, weight: .semibold))
+            .foregroundStyle(isEnabled ? Color.white : Color.secondary)
+            .padding(.horizontal, 16).frame(minHeight: 32)
+            .background(isEnabled ? Palette.accent.opacity(configuration.isPressed ? 0.8 : 1) : Color.primary.opacity(0.08), in: RoundedRectangle(cornerRadius: 4))
+    }
+}
 struct FilesDialogCard<Content: View>: View {
     @ViewBuilder var content: Content
     var body: some View { content.padding(12).frame(maxWidth: .infinity, alignment: .leading).background(Palette.surface, in: RoundedRectangle(cornerRadius: 4)).overlay(RoundedRectangle(cornerRadius: 4).strokeBorder(Palette.line)) }
@@ -45,6 +55,7 @@ struct FilesDialogCard<Content: View>: View {
 struct PropertiesSidebar: View {
     let pages: [String]
     @Binding var selection: String
+    @State private var history: [String] = []
     private func symbol(_ page: String) -> String {
         switch page {
         case "General": return "info.circle"
@@ -64,6 +75,14 @@ struct PropertiesSidebar: View {
     var body: some View {
         ScrollView {
             VStack(spacing: 4) {
+                HStack {
+                    Button {
+                        guard history.count > 1 else { return }
+                        history.removeLast(); selection = history.last ?? "General"
+                    } label: { Image(systemName: "arrow.left").frame(width: 28, height: 28) }
+                        .buttonStyle(.plain).disabled(history.count < 2).help(L10n.text("Back"))
+                    Spacer()
+                }
                 ForEach(pages, id: \.self) { page in
                     Button { selection = page } label: {
                         HStack(spacing: 12) {
@@ -73,10 +92,12 @@ struct PropertiesSidebar: View {
                         }.padding(.horizontal, 12).frame(height: 36).contentShape(Rectangle())
                             .background(selection == page ? Palette.surface : Color.clear, in: RoundedRectangle(cornerRadius: 4))
                             .overlay(alignment: .leading) { if selection == page { RoundedRectangle(cornerRadius: 2).fill(Palette.accent).frame(width: 3, height: 16) } }
-                    }.buttonStyle(.plain).accessibilityAddTraits(selection == page ? .isSelected : [])
+                    }.buttonStyle(.plain).help(L10n.text(page)).accessibilityAddTraits(selection == page ? .isSelected : [])
                 }
             }.padding(8)
         }.frame(width: 200).background(Palette.background)
+            .onAppear { history = [selection] }
+            .onChange(of: selection) { if history.last != selection { history.append(selection) } }
     }
 }
 struct PropertyRows: View {

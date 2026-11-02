@@ -93,7 +93,7 @@ struct NetworkBrowserView: View {
                 }
                 HStack {
                     Spacer()
-                    Button(L10n.text("Connect")) { connect() }.buttonStyle(.borderedProminent).disabled(busy || connection.host.isEmpty)
+                    Button(L10n.text("Connect")) { connect() }.buttonStyle(FilesPrimaryButtonStyle()).disabled(busy || connection.host.isEmpty)
                 }
                 Divider().padding(.vertical, 8)
                 HStack {

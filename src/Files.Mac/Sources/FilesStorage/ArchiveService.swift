@@ -219,9 +219,9 @@ public actor ArchiveService {
         return entries
     }
 
-    public func compress(_ sources: [URL], to destination: URL, format: ArchiveFormat, password: String = "", volumeBytes: Int64? = nil,
+    public func compress(_ sources: [URL], to destination: URL, format: ArchiveFormat, password: String = "", volumeBytes: Int64? = nil, options: ArchiveCompressionOptions? = nil,
                          progress: @Sendable (String) -> Void = { _ in }) async throws -> OperationReport {
-        if (format == .sevenZip && !password.isEmpty) || volumeBytes != nil { return try await SevenZipService.compress(sources, to: destination, format: format, password: password, volumeBytes: volumeBytes) }
+        if (format == .sevenZip && !password.isEmpty) || volumeBytes != nil || options != nil { return try await SevenZipService.compress(sources, to: destination, format: format, password: password, volumeBytes: volumeBytes, options: options) }
         guard (try? fm.attributesOfItem(atPath: destination.path)) == nil else { throw StorageError.alreadyExists(destination.lastPathComponent) }
         if !password.isEmpty && format != .zip { throw ArchiveFailure("Password protection is supported for ZIP archives.") }
         let entries = try archiveEntries(sources)

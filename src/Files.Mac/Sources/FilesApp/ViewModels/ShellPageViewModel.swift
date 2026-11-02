@@ -128,15 +128,20 @@ import UniformTypeIdentifiers
         if archiveURL != nil {
             guard path.isEmpty || archiveSession.entries.contains(where: { $0.path.hasPrefix(path + "/") || $0.directory && $0.path.trimmingCharacters(in: CharacterSet(charactersIn: "/")) == path }) else { return false }
             archiveSession.prefix = path.isEmpty ? "" : path + "/"; archiveSession.selected = []; archiveSession.search = ""
-        } else { virtualAction?("navigate:/" + path) }
+        } else { guard let virtualAction else { return false }; virtualAction("navigate:/" + path) }
         query = ""; selection = []; columnItems = []; columnDirectory = nil
         return true
     }
-    func back() { if isVirtual { virtualAction?("back"); return }; guard history.canGoBack else { return }; history.back(); library = libraryHistory[history.index]; didNavigate() }
-    func forward() { if isVirtual { virtualAction?("forward"); return }; guard history.canGoForward else { return }; history.forward(); library = libraryHistory[history.index]; didNavigate() }
+    func back() { if archiveURL != nil { stepArchive(-1); return }; if isVirtual { virtualAction?("back"); return }; guard history.canGoBack else { return }; history.back(); library = libraryHistory[history.index]; didNavigate() }
+    func forward() { if archiveURL != nil { stepArchive(1); return }; if isVirtual { virtualAction?("forward"); return }; guard history.canGoForward else { return }; history.forward(); library = libraryHistory[history.index]; didNavigate() }
+    private func stepArchive(_ offset: Int) {
+        guard archiveSession.history.indices.contains(archiveSession.historyIndex + offset) else { return }
+        archiveSession.step(offset); query = ""; selection = []; columnItems = []; columnDirectory = nil
+        restorePresentation()
+    }
     func up() {
         if let archiveURL, archiveSession.prefix.isEmpty { navigate(archiveURL.deletingLastPathComponent()); selectionAfterLoad = archiveURL; return }
-        if archiveURL != nil { let path = archiveSession.prefix.split(separator: "/").dropLast().joined(separator: "/"); archiveSession.prefix = path.isEmpty ? "" : path + "/"; archiveSession.selected = []; return }
+        if archiveURL != nil { let path = archiveSession.prefix.split(separator: "/").dropLast().joined(separator: "/"); navigateVirtualPath("/" + path); return }
         if isVirtual { virtualAction?("up"); return }
         guard let location else { return }
         navigate(location.path == "/" ? nil : location.deletingLastPathComponent())

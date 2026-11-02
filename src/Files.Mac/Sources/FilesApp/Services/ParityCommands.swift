@@ -120,28 +120,9 @@ extension MainPageViewModel {
         run("Compressing") { try await ArchiveWorkflows().compress(urls, in: destination, format: format) }
     }
     func extractSelection(_ placement: ExtractionPlacement, chooseDestination: Bool = false) {
-        guard !busy, !activePane.isVirtual, var destination = activePane.operationDirectory else { return }
+        guard !busy, !activePane.isVirtual, let destination = activePane.operationDirectory else { return }
         let sources = activePane.selectedItems.map(\.url)
         guard !sources.isEmpty, sources.allSatisfy({ ArchiveService.supports($0) }) else { return }
-        if chooseDestination {
-            let panel = NSOpenPanel(); panel.canChooseFiles = false; panel.canChooseDirectories = true
-            guard panel.runModal() == .OK, let url = panel.url else { return }; destination = url
-        }
-        let prompt = NSAlert(); prompt.messageText = L10n.text("Archive password (leave blank if unencrypted)")
-        let field = NSSecureTextField(frame: NSRect(x: 0, y: 0, width: 300, height: 24)); prompt.accessoryView = field
-        prompt.addButton(withTitle: L10n.text("Extract")); prompt.addButton(withTitle: L10n.text("Cancel"))
-        guard prompt.runModal() == .alertFirstButtonReturn else { return }
-        let password = field.stringValue; let target = destination
-        run("Extracting") {
-            var result = OperationReport()
-            for source in sources {
-                if Task.isCancelled { break }
-                do {
-                    let report = try await ArchiveWorkflows().extract(source, in: target, placement: placement, password: password)
-                    result.completed += report.completed; result.undo += report.undo; result.errors += report.errors
-                } catch { result.errors.append(error.localizedDescription) }
-            }
-            return result
-        }
+        tool = ToolRequest(kind: .extract, urls: sources, directory: destination, extractionPlacement: placement, chooseExtractionDestination: chooseDestination)
     }
 }

@@ -10,6 +10,7 @@ enum ToolKind: String {
     case mediaMetadata = "Edit media metadata"
     case shortcuts = "Keyboard shortcuts"
     case operations = "Operations", toolbar = "Customize toolbar", properties = "Properties", cloud = "Cloud status"
+    case extract = "Extract archive"
     case archive = "Archive", compress = "Compress", rename = "Bulk rename", git = "Git repository"
     case trash = "Trash", attributes = "Extended attributes", search = "Advanced search", palette = "Command palette", shelf = "File shelf"
     case tags = "Edit tags", hashes = "File hashes", permissions = "Permissions", network = "Connect to server"
@@ -21,6 +22,10 @@ struct ToolRequest: Identifiable {
     let directory: URL
     var savedSearch: SavedSearch? = nil
     var initialPage = "General"
+    var archiveSelection = Set<String>()
+    var archivePassword = ""
+    var extractionPlacement: ExtractionPlacement? = nil
+    var chooseExtractionDestination = true
 }
 struct ToolSheet: View {
     @ObservedObject var model: MainPageViewModel
@@ -51,6 +56,7 @@ struct ToolSheet: View {
             case .palette: CommandPaletteView(model: model)
             case .shelf: FileShelfView(model: model, destination: request.directory)
             case .archive: ArchiveBrowser(model: model, pane: model.activePane, session: model.activePane.archiveSession, request: request)
+            case .extract: ExtractArchiveView(model: model, request: request)
             case .compress: CompressView(model: model, request: request)
             case .rename: BulkRenameView(model: model, request: request)
             case .git: GitRepositoryView(model: model, folder: request.directory)
@@ -58,7 +64,7 @@ struct ToolSheet: View {
             case .trash: TrashBrowserView(model: model)
             case .network: NetworkBrowserView(model: model, pane: model.activePane, session: model.activePane.networkSession, destination: request.directory)
             }
-            if ![ToolKind.compress, .rename].contains(request.kind) {
+            if ![ToolKind.compress, .rename, .extract].contains(request.kind) {
                 Divider()
                 HStack { Spacer(); Button(L10n.text("Close")) { dismiss() }.frame(minWidth: 96) }.padding(12).background(Palette.background)
             }
@@ -229,16 +235,16 @@ struct ArchiveBrowser: View {
     }
     private func extract(_ selection: Set<String>) {
         guard let url = request.urls.first else { return }
-        let panel = NSOpenPanel(); panel.canChooseDirectories = true; panel.canChooseFiles = false
-        panel.directoryURL = request.directory; panel.prompt = L10n.text("Extract here")
-        guard panel.runModal() == .OK, let destination = panel.url else { return }
-        let password = password
-        model.run("Extracting \(url.lastPathComponent)") { try await archive.extract(url, to: destination, selected: selection, password: password) }
+        model.tool = ToolRequest(kind: .extract, urls: [url], directory: request.directory, archiveSelection: selection, archivePassword: password)
     }
 }
 
 struct CompressView: View {
     @State private var volumeMiB = ""
+    @State private var level = 5
+    @State private var dictionaryKiB = 0
+    @State private var wordSize = 0
+    @State private var threads = min(ProcessInfo.processInfo.activeProcessorCount, 256)
     @ObservedObject var model: MainPageViewModel
     let request: ToolRequest
     @Environment(\.dismissTool) private var dismiss
@@ -249,11 +255,25 @@ struct CompressView: View {
         VStack(spacing: 0) {
             ScrollView {
                 VStack(spacing: 4) {
-                    FilesDialogCard { TextField(L10n.text("Name"), text: $name).textFieldStyle(.roundedBorder) }
+                    FilesDialogCard { HStack { Text(L10n.text("Name")); Spacer(); TextField(L10n.text("Name"), text: $name).textFieldStyle(.roundedBorder).frame(width: 260) } }
                     FilesDialogCard {
                         VStack(alignment: .leading, spacing: 12) {
                             Picker(L10n.text("Format"), selection: $format) { ForEach(ArchiveFormat.allCases, id: \.self) { Text(L10n.text($0.rawValue)).tag($0) } }
                             if format == .zip || format == .sevenZip {
+                                Picker(L10n.text("CompressionLevel"), selection: $level) {
+                                    Text(L10n.text("CompressionLevelUltra")).tag(9); Text(L10n.text("CompressionLevelHigh")).tag(7)
+                                    Text(L10n.text("CompressionLevelNormal")).tag(5); Text(L10n.text("CompressionLevelLow")).tag(3)
+                                    Text(L10n.text("CompressionLevelFast")).tag(1); Text(L10n.text("CompressionLevelNone")).tag(0)
+                                }
+                                Picker(L10n.text("DictionarySize"), selection: $dictionaryKiB) {
+                                    Text(L10n.text("Auto")).tag(0)
+                                    ForEach([64, 256, 1024, 4096, 16384, 32768, 65536], id: \.self) { size in Text(size < 1024 ? "\(size) KiB" : "\(size / 1024) MiB").tag(size) }
+                                }.disabled(format != .sevenZip || level == 0)
+                                Picker(L10n.text("WordSize"), selection: $wordSize) {
+                                    Text(L10n.text("Auto")).tag(0)
+                                    ForEach([8, 16, 32, 64, 128, 256, 273], id: \.self) { Text(String($0)).tag($0) }
+                                }.disabled(format != .sevenZip || level == 0)
+                                Stepper(value: $threads, in: 1...min(ProcessInfo.processInfo.activeProcessorCount, 256)) { Text(L10n.text("CPUThreads") + ": \(threads)") }
                                 SecureField(L10n.text("Password (optional, AES-256)"), text: $password).textFieldStyle(.roundedBorder)
                                 TextField(L10n.text("Split into volumes (MiB, optional)"), text: $volumeMiB).textFieldStyle(.roundedBorder)
                             }
@@ -280,9 +300,10 @@ struct CompressView: View {
                     guard let value = Int64(volumeMiB), (1...1_048_576).contains(value) else { model.alert("Invalid volume size", "Enter a size from 1 to 1,048,576 MiB."); return }
                     volumeBytes = value * 1024 * 1024
                 }
-                model.run("Compressing \(destination.lastPathComponent)") { try await archive.compress(request.urls, to: destination, format: format, password: password, volumeBytes: volumeBytes) }
+                let options: ArchiveCompressionOptions? = format == .zip || format == .sevenZip ? .init(level: level, dictionaryKiB: dictionaryKiB, wordSize: wordSize, threads: threads) : nil
+                model.run("Compressing \(destination.lastPathComponent)") { try await archive.compress(request.urls, to: destination, format: format, password: password, volumeBytes: volumeBytes, options: options) }
                 dismiss()
-            }.buttonStyle(.borderedProminent).disabled(request.urls.isEmpty || model.busy)
+            }.buttonStyle(FilesPrimaryButtonStyle()).disabled(request.urls.isEmpty || model.busy || (try? MacStorageService.validateName(name)) == nil)
                 Button(L10n.text("Cancel")) { dismiss() }.frame(minWidth: 96)
             }.padding(24).background(Palette.background)
         }.onAppear { if request.urls.count == 1 { name = request.urls[0].deletingPathExtension().lastPathComponent } }
@@ -334,7 +355,7 @@ struct BulkRenameView: View {
                     let proposals = proposals
                     model.run("Renaming items") { try await model.storage.bulkRename(proposals) }
                     dismiss()
-                }.buttonStyle(.borderedProminent).disabled(model.busy || proposals.isEmpty)
+                }.buttonStyle(FilesPrimaryButtonStyle()).disabled(model.busy || proposals.isEmpty)
                 Button(L10n.text("Cancel")) { dismiss() }.frame(minWidth: 96)
             }
         }.padding(24)
@@ -388,7 +409,7 @@ struct MetadataToolView: View {
                         } catch { text = error.localizedDescription }
                         busy = false
                     }
-                }.buttonStyle(.borderedProminent).disabled(busy)
+                }.buttonStyle(FilesPrimaryButtonStyle()).disabled(busy)
             }
         }.padding(24).onAppear { initialize() }.onDisappear { task?.cancel() }
     }

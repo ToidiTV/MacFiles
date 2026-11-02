@@ -23,7 +23,7 @@ final class Dialog12Tests: XCTestCase {
         let cases: [(String, ToolKind, CGFloat, CGFloat)] = [
             ("properties", .properties, 1100, 760), ("properties-small", .properties, 860, 560),
             ("network", .network, 1100, 760), ("network-small", .network, 860, 560),
-            ("compress", .compress, 1100, 760), ("rename", .rename, 1100, 760),
+            ("extract", .extract, 1100, 760), ("extract-small", .extract, 860, 560), ("compress", .compress, 1100, 760), ("compress-small", .compress, 860, 560), ("rename", .rename, 1100, 760),
             ("toolbar", .toolbar, 1100, 760)]
         for (name, kind, width, height) in cases {
             model.tool = ToolRequest(kind: kind, urls: [file], directory: folder)

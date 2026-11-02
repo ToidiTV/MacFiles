@@ -96,13 +96,14 @@ public enum SevenZipService {
         try fm.moveItem(at: work, to: target)
         var report = OperationReport(); report.completed = [target]; report.undo = [.trash(target, identity: FileIdentity(target))]; return report
     }
-    public static func compress(_ sources: [URL], to destination: URL, format: ArchiveFormat, password: String, volumeBytes: Int64?) async throws -> OperationReport {
+    public static func compress(_ sources: [URL], to destination: URL, format: ArchiveFormat, password: String, volumeBytes: Int64?, options: ArchiveCompressionOptions? = nil) async throws -> OperationReport {
         guard Set(sources.map(\.lastPathComponent)).count == sources.count else { throw ArchiveFailure("Select uniquely named items to archive.") }
         guard format == .zip || format == .sevenZip else { throw ArchiveFailure("Split archives use ZIP or 7z format.") }
         let fm = FileManager.default; let work = destination.deletingLastPathComponent().appendingPathComponent(".MacFiles-archive-\(UUID().uuidString)")
         try fm.createDirectory(at: work, withIntermediateDirectories: false, attributes: [.posixPermissions: 0o700]); defer { try? fm.removeItem(at: work) }
         let target = work.appendingPathComponent(destination.lastPathComponent)
         var args = ["a", format == .zip ? "-tzip" : "-t7z", "-bd", "-bsp0", "-snl"]
+        if let options { args += try options.arguments(for: format) }
         if !password.isEmpty { args += ["-p", format == .sevenZip ? "-mhe=on" : "-mem=AES256"] }
         if let volumeBytes { guard volumeBytes >= 1024 else { throw ArchiveFailure("Volumes must be at least 1 KiB.") }; args += ["-v\(volumeBytes)b"] }
         if sources.isEmpty {

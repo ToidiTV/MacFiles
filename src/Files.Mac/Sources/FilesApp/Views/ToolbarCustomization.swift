@@ -207,7 +207,7 @@ struct ToolbarCustomizationView: View {
             HStack {
                 Button(L10n.text("Reset all")) { draft = .standard }
                 Button(L10n.text("Import…")) { importFile() }; Button(L10n.text("Export…")) { exportFile() }
-                Spacer(); Button(L10n.text("Apply")) { do { settings.toolbar = try draft.validated(); dismiss() } catch { message = error.localizedDescription } }.buttonStyle(.borderedProminent)
+                Spacer(); Button(L10n.text("Apply")) { do { settings.toolbar = try draft.validated(); dismiss() } catch { message = error.localizedDescription } }.buttonStyle(FilesPrimaryButtonStyle())
             }
         }.padding(20)
     }

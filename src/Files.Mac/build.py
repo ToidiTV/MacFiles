@@ -52,7 +52,7 @@ for localization in (ROOT / "Sources" / "FilesApp" / "Resources").glob("*.lproj"
 info = {
     "CFBundleName": "MacFiles", "CFBundleDisplayName": "MacFiles", "CFBundleExecutable": "MacFiles",
     "CFBundleIdentifier": args.bundle_id, "CFBundlePackageType": "APPL",
-    "CFBundleShortVersionString": "0.7.2", "CFBundleVersion": "12", "CFBundleIconFile": "MacFiles",
+    "CFBundleShortVersionString": "0.7.4", "CFBundleVersion": "14", "CFBundleIconFile": "MacFiles",
     "CFBundleDevelopmentRegion": "en",
     "LSMinimumSystemVersion": "14.0", "NSHighResolutionCapable": True,
     "NSPrincipalClass": "NSApplication", "NSSupportsAutomaticTermination": False,

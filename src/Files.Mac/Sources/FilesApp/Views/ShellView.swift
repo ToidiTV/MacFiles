@@ -270,7 +270,9 @@ struct NavigationBar: View {
         .onChange(of: model.focusAddress) { if model.activePane.id == pane.id { beginEditing() } }
         .onChange(of: model.focusSearch) { if model.activePane.id == pane.id { beginSearch() } }
         .onChange(of: addressFocused) { if !addressFocused { editing = false } }
-        .onChange(of: pane.location) { editing = false }
+        .onChange(of: pane.location) { editing = false; searching = false }
+        .onChange(of: pane.navigationPath) { editing = false; searching = false }
+        .onChange(of: pane.isVirtual) { editing = false; searching = false }
     }
     private func beginSearch() {
         searching = true; editing = false

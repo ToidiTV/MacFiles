@@ -277,3 +277,21 @@ Added per-breadcrumb folder menus for local, archive and connected remote locati
 Rendered the actual SwiftUI dialog views for Properties, connection, compression, bulk rename and toolbar customization; Properties and connection were also checked at the 860 × 560 minimum window size. These are app-hosted render checks, not automated external mouse/keyboard tests. Home launch was checked in the packaged debug app. The earlier desktop-control tool was unavailable; macOS denied the fallback harness assistive/event-posting access. Full live click-through and exact Windows pixel parity remain unverified.
 
 Distribution now keeps one runnable MacFiles.app at the repository root. Generated development/test app bundles and redundant development archives are removed after validating the root app. Build defaults target that same root path to avoid accumulating Spotlight results. Source, reports and one portable ZIP remain available.
+
+## Build 13 secondary dialogs and virtual history
+
+Compared DecompressArchiveDialog.xaml and MainPropertiesPage.xaml with the native views. Added the centered extraction dialog with destination/Browse, password, default Extract action, Cancel, and open-destination-on-completion. Local archive commands and archive entry extraction share it; local here/smart/child-folder placement and multi-archive reporting retain their existing backend. The destination chooser remains a macOS picker. Upstream encoding selection and extraction-location suggestions are not implemented in this dialog.
+
+Added page-back history to the shared local/virtual Properties navigation and full-label help for truncated page names. Primary actions in extraction, compression, bulk rename, network connection, and toolbar customization now use the configured accent color.
+
+Archive Back/Forward works without a mounted browser callback and clears stale search/selection/column state. Up within an archive uses the same validated navigation path. Disconnected remote paths report failure instead of pretending to navigate; address/search editing state resets on virtual navigation. Two new regression tests cover archive history/state and disconnected remote navigation.
+
+114 tests pass, with the loopback SFTP fixture and no skips. Actual SwiftUI dialog renders cover normal/minimum sizes, including the new extraction dialog. This is render/source/model verification; external mouse/keyboard click-through and running-Windows pixel comparison are still unavailable. Full 1:1 UI parity is not certified. Only the existing root MacFiles.app is replaced; no additional app bundles are produced.
+
+## Build 14 archive dialog controls
+
+Compared CreateArchiveDialog.xaml with CompressView. Added compression levels (None/Fast/Low/Normal/High/Ultra), 7z dictionary and word size, and bounded CPU-thread controls. ZIP/7z options are passed to the bundled 7-Zip backend and validated before execution. Dictionary/word controls disable for ZIP and stored mode. Archive creation disables for invalid names. Increased preferred dialog height while retaining scrolling and a fixed action footer at minimum window size.
+
+Extraction now offers the ten most recent successful destinations. All newly used dialog label keys exist in all 49 locale resources. Existing machine-translation quality limitations remain.
+
+116 tests pass without skips. Added ZIP/7z byte-for-byte round trips with explicit advanced settings, compression-versus-stored size comparison, invalid-option rejection, and existing-archive preservation. Rendered the actual dialog at 1100 × 760 and 860 × 560. No external click-through or Windows pixel-diff certification is claimed. Builds continue to replace the sole repository-root app.
